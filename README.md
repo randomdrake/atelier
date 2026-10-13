@@ -20,6 +20,8 @@ Coordinates and pressure are normalized from 0 to 1; size is in surface pixels. 
 
 The prompt button selects handcrafted coastal, floral, or abstract studies by keywords. It does not call an AI model. Creative agent compositions can supply arbitrary scores. This separation lets the agent inspect screenshots, choose its next marks, and work in small batches.
 
+`examples/quiet-coast.json` contains the first 75-stroke browser-painted study: 57 initial watercolor/pencil strokes followed by 18 screenshot-guided marks that strengthen the boat, birds, and shoreline. Import it through the agent panel to watch the painting replay.
+
 ## Verification
 
 The 14 automated tests cover distinct media deposition, conservative wet transport, pigment settling, anchored dry marks, slow oil versus faster acrylic drying, boundary drying, state restoration, wet brush pickup, frame-independent stroke contacts, and score validation. Browser checks exercised all six media, custom score playback, pause/resume, stop, undo, rejected input, and a complete coastal painting. Export and replay are intended for iterative painting sessions; refreshing the page clears the live canvas, so download a session before leaving.
