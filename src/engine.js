@@ -20,6 +20,23 @@ export function validateStroke(stroke) {
   return stroke;
 }
 const clamp = (x,a=0,b=1)=>Math.max(a,Math.min(b,x));
+export class BrushReservoir {
+  constructor(brush){this.color=rgb(brush.color);this.load=1;this.medium=brush.medium;}
+  contact(surface,nx,ny,brush,angle){
+    const m=MEDIA[this.medium],w=surface.width,h=surface.height;
+    // Sample the contact patch across the brush, carrying picked-up wet color forward.
+    if(m.drag>0)for(const offset of [-.3,0,.3]){
+      const x=clamp(Math.floor(nx*w-Math.sin(angle)*brush.size*offset),0,w-1);
+      const y=clamp(Math.floor(ny*h+Math.cos(angle)*brush.size*offset),0,h-1),i=y*w+x;
+      const mass=surface.mass[i];
+      if(mass>.0001){const pickup=m.drag*surface.wet[i]*(1-Math.exp(-mass*3))*.1;
+        for(let c=0;c<3;c++)this.color[c]=this.color[c]*(1-pickup)+surface.pigment[i*3+c]/mass*pickup;
+      }
+    }
+    this.load=Math.max(.25,this.load-(this.medium==='oil'?.0015:this.medium==='acrylic'?.001:.0004));
+    return this.color;
+  }
+}
 // Fixed paper tooth: identical strokes produce identical pigment deposition.
 function tooth(x,y) { const v = Math.sin(x*127.1+y*311.7)*43758.5453; return v-Math.floor(v); }
 export class PaintSurface {
@@ -35,8 +52,8 @@ export class PaintSurface {
   clear() { this.pigment.fill(0); for (const key of ['mass','water','heightMap','wet','drying','mobile']) this[key].fill(0); }
   snapshot() { return Object.fromEntries(['pigment','mass','water','heightMap','wet','drying','mobile'].map(k=>[k,this[k].slice()])); }
   restore(state) { for (const k of Object.keys(state)) this[k].set(state[k]); }
-  dab(nx,ny,pressure,brush,angle=0) {
-    const m=MEDIA[brush.medium], color=rgb(brush.color), w=this.width, h=this.height;
+  dab(nx,ny,pressure,brush,angle=0,reservoir=null) {
+    const m=MEDIA[brush.medium], color=reservoir?reservoir.contact(this,nx,ny,brush,angle):rgb(brush.color), w=this.width, h=this.height;
     const cx=nx*w, cy=ny*h, radius=brush.size/2*clamp(pressure,.08,1), aspect=brush.tip==='flat'?.42:1;
     const co=Math.cos(angle), si=Math.sin(angle);
     const x0=Math.max(0,Math.floor(cx-radius)), x1=Math.min(w-1,Math.ceil(cx+radius));
@@ -48,7 +65,7 @@ export class PaintSurface {
       if (grain < m.grain*(1-pressure*.65)) continue;
       const edge=Math.pow(1-r,brush.medium==='watercolor'?.4:.8);
       const bristle=brush.medium==='oil'||brush.medium==='acrylic' ? .55+.45*Math.pow(Math.sin(v*37+grain*.8),2) : 1;
-      let amount=m.opacity*edge*pressure*bristle*(brush.flow ?? 1)*.22;
+      let amount=m.opacity*edge*pressure*bristle*(brush.flow ?? 1)*(reservoir?.load??1)*.22;
       if(brush.medium==='pencil') amount*=.35+.65*Math.abs(Math.sin(angle+1));
       // Lift mobile pigment into loaded paint; dry marks remain anchored in the tooth.
       const drag=m.drag*this.wet[i]*.08;
@@ -64,10 +81,10 @@ export class PaintSurface {
       this.heightMap[i]=clamp(this.heightMap[i]+amount*m.relief,0,3);
     }
   }
-  segment(a,b,brush) {
+  segment(a,b,brush,reservoir=null) {
     const dx=(b[0]-a[0])*this.width,dy=(b[1]-a[1])*this.height;
     const distance=Math.hypot(dx,dy), steps=Math.max(1,Math.ceil(distance/Math.max(.6,brush.size*.07)));
-    for(let j=1;j<=steps;j++) { const t=j/steps; this.dab(a[0]+(b[0]-a[0])*t,a[1]+(b[1]-a[1])*t,(a[2]??.7)+((b[2]??.7)-(a[2]??.7))*t,brush,Math.atan2(dy,dx)); }
+    for(let j=1;j<=steps;j++) { const t=j/steps; this.dab(a[0]+(b[0]-a[0])*t,a[1]+(b[1]-a[1])*t,(a[2]??.7)+((b[2]??.7)-(a[2]??.7))*t,brush,Math.atan2(dy,dx),reservoir); }
   }
   step(dt=1/30) {
     const w=this.width,h=this.height;

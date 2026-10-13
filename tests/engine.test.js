@@ -1,6 +1,6 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {PaintSurface,MEDIA,validateStroke} from '../src/engine.js';
+import {PaintSurface,BrushReservoir,MEDIA,validateStroke} from '../src/engine.js';
 import {compose} from '../src/compositions.js';
 const brush={medium:'watercolor',color:'#315b70',size:20,flow:.8};
 const sum=a=>a.reduce((x,y)=>x+y,0);
@@ -16,4 +16,5 @@ test('every built-in study contains valid strokes and visible marks',()=>{for(co
 test('off-canvas brush footprints never create invalid state',()=>{const s=new PaintSurface(20,20);for(const p of [[0,0],[1,1],[0,1],[1,0]])s.dab(...p,1,{...brush,size:160});s.step();assert(s.pigment.every(Number.isFinite));assert(s.mass.every(x=>x>=0));});
 test('water transports mobile pigment without moving anchored dry marks',()=>{const s=new PaintSurface(64,48);s.dab(.5,.5,.8,{...brush,medium:'pencil'});s.water.fill(.6);const mass=s.mass.slice(),pigment=s.pigment.slice();for(let i=0;i<20;i++)s.step(.1);assert.deepEqual(s.mass,mass);assert.deepEqual(s.pigment,pigment);});
 test('watercolor mobility falls as pigment settles without losing paint',()=>{const s=new PaintSurface(64,48);s.dab(.5,.5,.8,brush);const mobile=sum(s.mobile),mass=sum(s.mass);for(let i=0;i<60;i++)s.step(.1);assert(sum(s.mobile)<mobile);assert(Math.abs(sum(s.mass)-mass)<.001);assert(s.mobile.every((v,i)=>v>=0&&v<=s.mass[i]+.00001));});
-test('water and paint at canvas borders dry too',()=>{const s=new PaintSurface(20,20);s.dab(0,0,1,{...brush,medium:'acrylic'});const water=s.water[0],wet=s.wet[0];s.step(.1);assert(s.water[0]<water);assert(s.wet[0]<wet);});
+test('water and paint at canvas borders dry too',()=>{const s=new PaintSurface(20,20);s.water.fill(.6);s.wet.fill(.4);s.drying.fill(.018);const water=s.water[0],wet=s.wet[0];s.step(.1);assert(s.water[0]<water);assert(s.wet[0]<wet);});
+test('oil brushes carry wet pigment and gradually spend their paint load',()=>{const s=new PaintSurface(64,48),blue={...brush,medium:'oil'},red={...blue,color:'#cc4422'};for(let i=0;i<30;i++)s.dab(.5,.5,.9,blue);const reservoir=new BrushReservoir(red),initial=reservoir.color.slice();for(let i=0;i<20;i++)reservoir.contact(s,.5,.5,red,0);assert(reservoir.color[2]>initial[2]);assert(reservoir.color[0]<initial[0]);assert(reservoir.load<1);const pencil=new BrushReservoir({...red,medium:'pencil'}),before=pencil.color.slice();pencil.contact(s,.5,.5,{...red,medium:'pencil'},0);assert.deepEqual(pencil.color,before);});
