@@ -1,5 +1,6 @@
 import {MEDIA,PaintSurface,validateStroke} from './engine.js';
 import {compose} from './compositions.js';
+import {StrokePlayback} from './playback.js';
 const $=id=>document.getElementById(id), canvas=$('canvas'),ctx=canvas.getContext('2d',{alpha:false});
 const surface=new PaintSurface(canvas.width,canvas.height), pixels=ctx.createImageData(canvas.width,canvas.height);
 const brush={medium:'watercolor',color:'#315b70',size:28,flow:.75,tip:'round'};
@@ -26,7 +27,7 @@ canvas.onpointermove=e=>{const r=canvas.getBoundingClientRect(),cursor=$('brush-
 function endPointer(){if(pointer){session.push(pointer);pointer=null;updateButtons();status('A mark, a memory.');}}
 canvas.onpointerup=endPointer;canvas.onpointercancel=endPointer;canvas.onlostpointercapture=endPointer;canvas.onpointerleave=()=>{$('brush-cursor').style.display='none';};
 function stop(){queue=[];if(active){session.push({...active.stroke,points:active.drawn});active=null;}paused=false;completion.splice(0).forEach(resolve=>resolve({cancelled:true}));updateButtons();status('Playback stopped.');}
-function reset(){stop();surface.clear();session=[];history=[];dirty=true;$('painting-title').textContent='An open possibility';updateButtons();status('Fresh paper. Start anywhere.');}
+function reset(){stop();pointer=null;surface.clear();session=[];history=[];dirty=true;$('painting-title').textContent='An open possibility';updateButtons();status('Fresh paper. Start anywhere.');}
 function enqueue(strokes){if(busy()||pointer)throw new Error('Finish or stop the current painting first');if(!Array.isArray(strokes)||strokes.length>2000)throw new Error('Provide an array of at most 2000 strokes');const validated=strokes.map(s=>{validateStroke(s);if(s.flow!==undefined&&(!Number.isFinite(s.flow)||s.flow<0||s.flow>1))throw new Error('Flow must be 0–1');if(s.tip!==undefined&&!['round','flat'].includes(s.tip))throw new Error('Tip must be round or flat');return structuredClone(s);});queue.push(...validated);paused=false;updateButtons();return new Promise(resolve=>{if(!queue.length)resolve({cancelled:false});else completion.push(resolve);});}
 $('stop').onclick=stop;$('pause').onclick=()=>{paused=!paused;updateButtons();};
 $('clear').onclick=reset;
@@ -38,13 +39,10 @@ $('export').onclick=()=>canvas.toBlob(b=>download(b,'atelier-painting.png'));
 $('save-score').onclick=()=>download(new Blob([JSON.stringify({version:1,width:canvas.width,height:canvas.height,title:$('painting-title').textContent,strokes:session},null,2)],{type:'application/json'}),'atelier-session.json');
 $('import').onchange=async e=>{try{const file=e.target.files[0];if(!file)return;const data=JSON.parse(await file.text());if(data.version!==1||!Array.isArray(data.strokes))throw new Error('Unsupported session');data.strokes.forEach(validateStroke);if(busy())throw new Error('Stop playback before importing');reset();$('painting-title').textContent=data.title||'Imported study';await enqueue(data.strokes);}catch(err){status(err.message);}finally{e.target.value='';}};
 function frame(now){const dt=Math.min(.05,(now-last)/1000||.016);last=now;
-  if(!paused&&queue.length&&!active){const stroke=queue.shift();checkpoint();active={stroke,time:0,index:0,drawn:[stroke.points[0]]};surface.dab(stroke.points[0][0],stroke.points[0][1],stroke.points[0][2]??.7,stroke);dirty=true;selectMedium(stroke.medium);selectColor(stroke.color);status(`Painting ${MEDIA[stroke.medium].label.toLowerCase()} · ${queue.length+1} strokes remaining`);}
-  if(active&&!paused){const a=active,s=a.stroke;a.time+=dt*1000;const progress=Math.min(1,a.time/Math.max(1,s.duration??600)),t=progress*(s.points.length-1),end=Math.floor(t);
-    for(let i=a.index+1;i<=end;i++){surface.segment(a.drawn.at(-1),s.points[i],s);a.drawn.push(s.points[i]);}
-    a.index=end;
-    if(end<s.points.length-1){const p=s.points[end],q=s.points[end+1],f=t-end;const partial=[p[0]+(q[0]-p[0])*f,p[1]+(q[1]-p[1])*f,(p[2]??.7)+((q[2]??.7)-(p[2]??.7))*f];surface.segment(a.drawn.at(-1),partial,s);a.drawn.push(partial);}
+  if(!paused&&queue.length&&!active){const stroke=queue.shift();checkpoint();active=new StrokePlayback(stroke,canvas.width,canvas.height);dirty=true;selectMedium(stroke.medium);selectColor(stroke.color);status(`Painting ${MEDIA[stroke.medium].label.toLowerCase()} · ${queue.length+1} strokes remaining`);}
+  if(active&&!paused){const a=active,s=a.stroke;a.advance(dt*1000,(point,angle)=>surface.dab(...point,s,angle));
     dirty=true;
-    if(progress===1){session.push(s);active=null;updateButtons();if(!queue.length){status('Study complete. Add your own marks.');completion.splice(0).forEach(resolve=>resolve({cancelled:false}));}}
+    if(a.done){session.push(s);active=null;updateButtons();if(!queue.length){status('Study complete. Add your own marks.');completion.splice(0).forEach(resolve=>resolve({cancelled:false}));}}
   }
   // The whole simulation pauses with playback, preserving a paused study exactly.
   physics+=dt;if(!paused&&physics>.09){surface.step(physics);physics=0;dirty=true;}else if(paused)physics=0;

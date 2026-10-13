@@ -27,4 +27,4 @@ The prompt button selects handcrafted coastal, floral, or abstract studies by ke
 - Brush reservoir, bristle contact and directional wet paint pickup.
 - GPU simulation, high-resolution tiled surfaces, and exact physical-session snapshots.
 
-The engine's `spread` preset is reserved for future per-medium diffusion calibration. Current transport depends on surface water. Oil mixing approximates local wet mixing; it does not yet move pigment along individual bristles.
+Each medium's `spread` controls its mobile pigment fraction. Water carries this fraction between neighboring cells; pigment settles more quickly at drier wash edges. Dry media and cured paint do not diffuse with water. Color transport still approximates the local pigment mixture rather than separating individual pigment species. Oil mixing approximates local wet mixing; it does not yet move pigment along individual bristles. Animated brush contacts use arc-length spacing so deposition is independent of frame rate; drying still depends on elapsed simulation time.
