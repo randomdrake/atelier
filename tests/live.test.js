@@ -1,6 +1,7 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {handleLiveRequest,publicLiveState,LIVE_TIMEOUT} from '../src/live-service.js';
+import {handleLiveRequest,publicLiveState,LIVE_TIMEOUT,VIEWER_TIMEOUT} from '../src/live-service.js';
+import {livePresentation,thoughtChange} from '../src/live-status.js';
 import {LocalBroadcastRelay} from '../src/local-broadcast.js';
 import {LiveBroadcast} from '../src/live-broadcast.js';
 
@@ -15,10 +16,16 @@ function bucket(){
   const data=new Map();let revision=0;
   return {
     async get(key){const item=data.get(key);return item?{etag:item.etag,json:async()=>JSON.parse(item.value)}:null;},
-    async put(key,value,{onlyIf}={}){
+    async put(key,value,{onlyIf,customMetadata}={}){
       const old=data.get(key);
       if(onlyIf?.etagMatches&&old?.etag!==onlyIf.etagMatches||onlyIf?.etagDoesNotMatch==='*'&&old)return null;
-      const etag=String(++revision);data.set(key,{value,etag});return {etag};
+      const etag=String(++revision);data.set(key,{value,etag,customMetadata});return {etag};
+    },
+    async delete(keys){for(const key of Array.isArray(keys)?keys:[keys])data.delete(key);},
+    async list({prefix,cursor,limit}){
+      const keys=[...data.keys()].filter(key=>key.startsWith(prefix)).sort();
+      const start=Number(cursor||0),end=Math.min(keys.length,start+Math.min(limit,2));
+      return {objects:keys.slice(start,end).map(key=>({key,customMetadata:data.get(key).customMetadata})),truncated:end<keys.length,cursor:String(end)};
     }
   };
 }
@@ -115,4 +122,64 @@ test('the browser sends changed boundaries, retries a failed update and ends eve
     broadcaster.snapshot=()=>{throw new Error('No rendered canvas');};
     await broadcaster.end();assert.equal(broadcaster.active,false);assert.equal(last.at(-1),'stop');
   }finally{broadcaster.dispose();}
+});
+
+test('ending with a vanished laptop server stops heartbeats instead of reconnecting forever',async()=>{
+  let calls=0,status;
+  const broadcaster=new LiveBroadcast({interval:100000,snapshot:()=>({...payload,signature:'1'}),
+    onStatus:value=>status=value,fetcher:async()=>{calls++;throw new Error('Server stopped');}});
+  try{
+    broadcaster.active=true;
+    await broadcaster.end();
+    assert.equal(broadcaster.active,false);assert.equal(status,'ended-offline');
+    await broadcaster.tick();assert.equal(calls,1,'An ended broadcast must not keep sending');
+  }finally{broadcaster.dispose();}
+});
+
+const presence=(viewerId,active=true,headers={})=>new Request('https://atelier.test/api/live/viewers',{
+  method:'POST',headers:{'Content-Type':'application/json',...headers},body:JSON.stringify({viewerId,active})});
+test('viewer heartbeats count distinct recent tabs, page through storage, and expire missing viewers',async()=>{
+  const e=env(),third='c1111111-1111-4111-8111-111111111111';
+  const count=async(who,time,active=true)=>(await (await handleLiveRequest(presence(who,active),e,time)).json()).viewers;
+  assert.equal(await count(id,1000),1);
+  assert.equal(await count(id,2000),1,'A heartbeat must not count a tab twice');
+  assert.equal(await count(client,2000),2);
+  assert.equal(await count(third,2000),3,'Counts must include every storage page');
+  assert.equal(await count(third,2001,false),2);
+  assert.equal(await count(client,2000+VIEWER_TIMEOUT),1,'A lost viewer expires without a leave request');
+  const page=await e.BUCKET.list({prefix:'atelier/viewers/',limit:1000});assert.equal(page.objects.length,1);
+});
+
+test('presence stores no submitted identity fields and rejects invalid or cross-origin requests',async()=>{
+  const e=env();
+  assert.equal((await handleLiveRequest(presence('invalid'),e)).status,400);
+  assert.equal((await handleLiveRequest(presence(id,true,{Origin:'https://elsewhere.test'}),e)).status,403);
+  assert.equal((await handleLiveRequest(new Request('https://atelier.test/api/live/viewers'),e)).status,405);
+  const request=new Request('https://atelier.test/api/live/viewers',{method:'POST',body:JSON.stringify({viewerId:id,active:true,email:'private@example.test'})});
+  const response=await handleLiveRequest(request,e,1000);assert.deepEqual(await response.json(),{viewers:1});
+  const stored=await e.BUCKET.list({prefix:'atelier/viewers/',limit:1000});
+  assert.deepEqual(stored.objects[0].customMetadata,{seenAt:'1000'});
+  assert.equal((await e.BUCKET.get('atelier/viewers/'+id)).json instanceof Function,true);
+  const oversized=new Request('https://atelier.test/api/live/viewers',{method:'POST',body:' '.repeat(300)});
+  assert.equal((await handleLiveRequest(oversized,e)).status,400);
+});
+
+test('the live lamp goes off for expired or ended canvases and recovers for a fresh session',()=>{
+  const state={...payload,receivedAt:1000};
+  assert.equal(livePresentation(state,1001).live,true);
+  for(const offline of [{...state,activity:'ended'},{...state,status:'disconnected'}]){
+    const view=livePresentation(offline,1001);assert.equal(view.live,false);assert.equal(view.badge,'STUDIO OFFLINE');
+  }
+  assert.equal(livePresentation(state,1000+LIVE_TIMEOUT).live,false);
+  assert.equal(livePresentation({...state,receivedAt:60000},60001).live,true);
+  assert.equal(livePresentation(null).status,'offline');
+});
+
+test('only arriving thoughts animate; repeated heartbeats preserve the existing conversation',()=>{
+  const first=thoughtChange(null,id,document.events);assert.equal(first.animate,false);
+  const repeated=thoughtChange(first,id,document.events);assert.equal(repeated.changed,false);assert.equal(repeated.animate,false);
+  const second={afterStroke:2,text:'The new mark softened.'};
+  const added=thoughtChange(first,id,[...document.events,second]);
+  assert.equal(added.animate,true);assert.equal(added.append,true);assert.deepEqual(added.added,[second]);
+  const reset=thoughtChange(added,client,document.events);assert.equal(reset.append,false);assert.equal(reset.animate,true);
 });

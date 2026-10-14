@@ -47,9 +47,12 @@ export class LiveBroadcast {
   }
   async end(){
     if(!this.active||this.sending)return;
+    // Ending always stops local heartbeats, including when the server vanished.
+    // A failed final acknowledgement expires on the public easel after 45 seconds.
+    this.active=false;
     this.sending=true;this.onStatus('ending');
-    try{await this.request('stop',null);this.active=false;this.onStatus('ready');}
-    catch(error){this.onStatus('reconnecting',error.message);}
+    try{await this.request('stop',null);this.onStatus('ready');}
+    catch{this.onStatus('ended-offline');}
     finally{this.sending=false;}
   }
   dispose(){clearInterval(this.timer);}

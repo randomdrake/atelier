@@ -2,16 +2,17 @@ import {validateDocument} from './tour.js';
 
 export const LIVE_TIMEOUT=45000;
 export const MAX_LIVE_BYTES=1500000;
+export const VIEWER_TIMEOUT=45000;
 const headers={'Content-Type':'application/json','Cache-Control':'no-store'};
 export function liveJSON(value,status=200){return new Response(JSON.stringify(value),{status,headers});}
 
-export async function readLiveBody(request){
-  if(Number(request.headers.get('Content-Length'))>MAX_LIVE_BYTES)throw new Error('Broadcast is too large');
+export async function readLiveBody(request,maxBytes=MAX_LIVE_BYTES){
+  if(Number(request.headers.get('Content-Length'))>maxBytes)throw new Error('Broadcast is too large');
   const reader=request.body?.getReader();if(!reader)throw new Error('Missing broadcast');
   const chunks=[];let size=0;
   while(true){
     const {done,value}=await reader.read();if(done)break;
-    size+=value.byteLength;if(size>MAX_LIVE_BYTES){await reader.cancel();throw new Error('Broadcast is too large');}
+    size+=value.byteLength;if(size>maxBytes){await reader.cancel();throw new Error('Broadcast is too large');}
     chunks.push(value);
   }
   const bytes=new Uint8Array(size);let offset=0;
@@ -42,6 +43,7 @@ export function publicLiveState(snapshot,now=Date.now()){
 
 export async function handleLiveRequest(request,env,now=Date.now()){
   const url=new URL(request.url);
+  if(url.pathname==='/api/live/viewers')return handleViewerRequest(request,env,now);
   if(url.pathname!=='/api/live')return null;
   if(!env.BUCKET)return liveJSON({error:'Live storage is unavailable'},503);
   const authorized=!!env.ATELIER_BROADCAST_TOKEN&&request.headers.get('Authorization')==='Bearer '+env.ATELIER_BROADCAST_TOKEN;
@@ -75,4 +77,33 @@ export async function handleLiveRequest(request,env,now=Date.now()){
   });
   if(!saved)return liveJSON({error:'Broadcast changed; retry this update'},409);
   return liveJSON({accepted:true,sequence:next.sequence,receivedAt:now});
+}
+
+async function handleViewerRequest(request,env,now){
+  if(!env.BUCKET)return liveJSON({error:'Live storage is unavailable'},503);
+  if(request.method!=='POST')return liveJSON({error:'Method not allowed'},405);
+  const origin=request.headers.get('Origin');
+  if(origin&&origin!==new URL(request.url).origin)return liveJSON({error:'Use the gallery to join'},403);
+  let input;
+  try{
+    input=await readLiveBody(request,256);
+    if(!/^[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}$/.test(input.viewerId)||typeof input.active!=='boolean')throw new Error('Invalid viewer presence');
+  }catch{return liveJSON({error:'Invalid viewer presence'},400);}
+  // Ephemeral random tab IDs only: no IP, account, or browsing history is stored.
+  const prefix='atelier/viewers/',key=prefix+input.viewerId;
+  if(input.active)await env.BUCKET.put(key,'',{customMetadata:{seenAt:String(now)}});
+  else await env.BUCKET.delete(key);
+  let cursor,viewers=0;
+  const expired=[];
+  do{
+    const page=await env.BUCKET.list({prefix,include:['customMetadata'],limit:1000,...(cursor?{cursor}:{})});
+    for(const object of page.objects){
+      const seenAt=Number(object.customMetadata?.seenAt);
+      if(Number.isFinite(seenAt)&&now-seenAt<VIEWER_TIMEOUT)viewers++;
+      else if(expired.length<20)expired.push(object.key);
+    }
+    cursor=page.truncated?page.cursor:undefined;
+  }while(cursor);
+  if(expired.length)await env.BUCKET.delete(expired);
+  return liveJSON({viewers});
 }

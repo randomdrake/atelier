@@ -1,53 +1,67 @@
 import {renderThought} from '/thought-links.js';
+import {livePresentation,thoughtChange} from '/live-status.js';
 
 const panel=document.getElementById('live-easel');
 const image=document.getElementById('live-image');
-const badge=document.getElementById('live-badge');
+const badge=document.getElementById('live-badge-label');
 const title=document.getElementById('live-title');
 const activity=document.getElementById('live-activity');
+const dots=document.getElementById('live-ellipsis');
 const updated=document.getElementById('live-updated');
 const thought=document.getElementById('live-thought');
+const bubble=document.getElementById('live-thought-bubble');
 const marks=document.getElementById('live-marks');
 const notebook=document.getElementById('live-notes');
 const download=document.getElementById('live-session-download');
 const indicator=document.getElementById('live-nav');
-let current=null,downloadURL=null,fetching=false,lastNoteKey='',lastSnapshotKey='';
+const navLabel=document.getElementById('live-nav-label');
+const viewers=document.getElementById('live-viewers');
+const reducedMotion=matchMedia('(prefers-reduced-motion: reduce)');
+let current=null,downloadURL=null,fetching=false,noteHistory=null,lastSnapshotKey='';
+const setText=(element,text)=>{if(element.textContent!==text)element.textContent=text;};
+function arrive(element){
+  if(reducedMotion.matches)return;
+  // Restart only for a new message, never for a heartbeat or a clock update.
+  element.classList.remove('thought-arriving');
+  void element.offsetWidth;
+  element.classList.add('thought-arriving');
+}
 
 export function renderLive(state,now=Date.now()){
+  const presentation=livePresentation(state,now);
+  current=state;
+  panel.hidden=false;indicator.hidden=false;
+  panel.dataset.status=presentation.status;indicator.dataset.status=presentation.status;
+  setText(badge,presentation.badge);
+  setText(navLabel,presentation.live?'AI painting live':'Studio offline');
+  setText(activity,presentation.activity);dots.hidden=!presentation.live;
   if(!state?.document){
-    panel.hidden=false;panel.dataset.status='offline';indicator.hidden=true;current=null;
-    badge.textContent='STUDIO OFFLINE';title.textContent='The easel is quiet';
-    activity.textContent='The AI painter is not broadcasting right now. The next canvas will appear here when a session begins on randomdrake’s computer.';
+    setText(title,'The easel is quiet');
     panel.querySelector('.live-layout').hidden=true;panel.querySelector('details').hidden=true;download.hidden=true;
+    noteHistory=null;lastSnapshotKey='';
     return;
   }
   panel.querySelector('.live-layout').hidden=false;panel.querySelector('details').hidden=false;download.hidden=false;
-  current=state;panel.hidden=false;indicator.hidden=false;
-  const elapsed=Math.max(0,now-state.receivedAt);
-  const live=state.activity!=='ended'&&elapsed<45000&&state.status!=='disconnected';
-  const status=state.activity==='ended'?'ended':live?'live':'disconnected';
-  panel.dataset.status=status;indicator.dataset.status=status;
-  badge.textContent=live?'● LIVE AI PAINTING':status==='ended'?'LAST LIVE SESSION':'CONNECTION LOST';
-  indicator.textContent=live?'● AI painting live':'Last live session';
-  title.textContent=state.document.title||'A painting is taking shape';
-  const descriptions={painting:'AI painter · painting now on randomdrake’s laptop',looking:'AI painter · looking and choosing the next marks',
-    replaying:'AI painting replay · hosted on randomdrake’s laptop',ended:'Broadcast ended · this is the last shared canvas'};
-  activity.textContent=status==='disconnected'?'The laptop stopped sending. This is the last shared canvas.':descriptions[state.activity];
+  setText(title,state.document.title||'A painting is taking shape');
+  const elapsed=presentation.elapsed;
   const age=elapsed<5000?'just now':elapsed<60000?Math.floor(elapsed/1000)+' seconds ago':elapsed<3600000?Math.floor(elapsed/60000)+' minutes ago':Math.floor(elapsed/3600000)+' hours ago';
-  updated.textContent='Last received '+age;
+  setText(updated,'Last received '+age);
   if(image.src!==state.preview)image.src=state.preview;
   image.alt='Canvas painted by AI on hardware hosted by randomdrake';
-  marks.textContent=state.document.strokes.length+' completed marks';
+  setText(marks,state.document.strokes.length+' completed marks');
   const notes=state.document.events.filter(event=>event.text);
-  const noteKey=JSON.stringify(notes);
-  if(noteKey!==lastNoteKey){
-    lastNoteKey=noteKey;
+  const change=thoughtChange(noteHistory,state.sessionId,notes);
+  if(change.changed){
     renderThought(thought,notes.at(-1)?.text||'The brush is about to meet the canvas.');
-    notebook.replaceChildren(...notes.map(event=>{
+    if(!change.append)notebook.replaceChildren();
+    for(const event of change.added){
       const item=document.createElement('li'),boundary=document.createElement('span'),text=document.createElement('p');
       boundary.textContent=event.afterStroke?'After '+event.afterStroke+' marks':'Before the first mark';
-      renderThought(text,event.text);item.append(boundary,text);return item;
-    }));
+      renderThought(text,event.text);item.append(boundary,text);notebook.append(item);
+      if(change.animate)arrive(item);
+    }
+    if(change.animate)arrive(bubble);
+    noteHistory=change;
   }
   const snapshotKey=state.sessionId+':'+state.sequence;
   if(snapshotKey!==lastSnapshotKey){
@@ -60,14 +74,36 @@ export function renderLive(state,now=Date.now()){
 async function poll(){
   if(fetching||document.hidden)return;
   fetching=true;
+  const abort=new AbortController(),timeout=setTimeout(()=>abort.abort(),8000);
   try{
-    const response=await fetch('/api/live',{cache:'no-store'});
+    const response=await fetch('/api/live',{cache:'no-store',signal:abort.signal});
     if(!response.ok)throw new Error();
     renderLive(await response.json());
   }catch{
-    if(current){renderLive({...current,status:'disconnected'});updated.textContent='Live connection unavailable. Last received canvas shown.';}
-  }finally{fetching=false;}
+    renderLive(current?{...current,status:'disconnected'}:null);
+    setText(updated,'Feed unavailable · last shared canvas shown');
+  }finally{clearTimeout(timeout);fetching=false;}
 }
-setInterval(()=>{if(current)renderLive(current);poll();},2500);
-document.addEventListener('visibilitychange',()=>{if(!document.hidden)poll();});
-poll();
+
+// Random, page-lifetime IDs count concurrent visible tabs without identifying people.
+const viewerId=crypto.randomUUID();
+let presencePending=false;
+async function presence(active=!document.hidden){
+  if(active&&presencePending)return;
+  if(active)presencePending=true;
+  const abort=new AbortController(),timeout=setTimeout(()=>abort.abort(),8000);
+  try{
+    const response=await fetch('/api/live/viewers',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({viewerId,active}),cache:'no-store',keepalive:!active,signal:abort.signal});
+    if(!response.ok)throw new Error();
+    const state=await response.json();
+    if(active)setText(viewers,state.viewers+' '+(state.viewers===1?'viewer':'viewers'));
+  }catch{if(active)setText(viewers,'— viewers');}
+  finally{clearTimeout(timeout);if(active)presencePending=false;}
+}
+setInterval(()=>{if(current&&!document.hidden)renderLive(current);poll();},2500);
+setInterval(()=>{if(!document.hidden)presence();},15000);
+document.addEventListener('visibilitychange',()=>{presence(!document.hidden);if(!document.hidden)poll();});
+window.addEventListener('pagehide',()=>presence(false));
+window.addEventListener('pageshow',()=>{if(!document.hidden){presence();poll();}});
+poll();presence();

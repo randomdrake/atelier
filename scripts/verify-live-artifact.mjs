@@ -9,7 +9,7 @@ const config=JSON.parse(await readFile(join(output,'.openai/hosting.json'),'utf8
 assert.equal(config.project_id,'appgprj_6acef2a547908191b9a135eb3eab25da');
 assert.equal(config.r2,'BUCKET');assert.equal(config.static,undefined);
 await readFile(join(output,'server/index.js'));
-for(const file of ['viewer.js','live.js','thought-links.js','catalog.json','gallery.css','source.zip'])await readFile(join(output,'client',file));
+for(const file of ['viewer.js','live.js','live-status.js','thought-links.js','catalog.json','gallery.css','source.zip'])await readFile(join(output,'client',file));
 const catalog=JSON.parse(await readFile(join(output,'client/catalog.json'),'utf8'));
 for(const entry of catalog){
   await readFile(join(output,'client',entry.image));
