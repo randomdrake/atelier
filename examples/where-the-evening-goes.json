@@ -1,0 +1,1242 @@
+{
+  "version": 2,
+  "width": 900,
+  "height": 620,
+  "title": "Where the evening goes",
+  "strokes": [
+    {
+      "medium": "watercolor",
+      "color": "#516b98",
+      "size": 155,
+      "flow": 0.35,
+      "water": 0.88,
+      "duration": 1100,
+      "points": [
+        [
+          0.08,
+          0.15,
+          0.3
+        ],
+        [
+          0.4,
+          0.13,
+          0.9
+        ],
+        [
+          0.88,
+          0.18,
+          0.4
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#aa8cac",
+      "size": 145,
+      "flow": 0.25,
+      "water": 0.88,
+      "duration": 1100,
+      "points": [
+        [
+          0.08,
+          0.3,
+          0.3
+        ],
+        [
+          0.5,
+          0.29,
+          0.8
+        ],
+        [
+          0.9,
+          0.32,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#edb078",
+      "size": 150,
+      "flow": 0.3,
+      "water": 0.88,
+      "duration": 1100,
+      "points": [
+        [
+          0.08,
+          0.45,
+          0.4
+        ],
+        [
+          0.5,
+          0.44,
+          0.8
+        ],
+        [
+          0.9,
+          0.46,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#cf9b9b",
+      "size": 140,
+      "flow": 0.18,
+      "water": 0.88,
+      "duration": 1100,
+      "points": [
+        [
+          0.06,
+          0.36,
+          0.25
+        ],
+        [
+          0.45,
+          0.38,
+          0.65
+        ],
+        [
+          0.91,
+          0.39,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#557d94",
+      "size": 155,
+      "flow": 0.35,
+      "water": 0.88,
+      "duration": 1100,
+      "points": [
+        [
+          0.06,
+          0.66,
+          0.3
+        ],
+        [
+          0.46,
+          0.65,
+          0.85
+        ],
+        [
+          0.93,
+          0.69,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#647ea1",
+      "size": 150,
+      "flow": 0.38,
+      "water": 0.88,
+      "duration": 1100,
+      "points": [
+        [
+          0.06,
+          0.86,
+          0.3
+        ],
+        [
+          0.47,
+          0.84,
+          0.85
+        ],
+        [
+          0.92,
+          0.87,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#7293a3",
+      "size": 160,
+      "flow": 0.24,
+      "water": 0.88,
+      "duration": 1100,
+      "points": [
+        [
+          0.1,
+          0.75,
+          0.4
+        ],
+        [
+          0.47,
+          0.76,
+          0.8
+        ],
+        [
+          0.91,
+          0.77,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#43556b",
+      "size": 35,
+      "flow": 0.6,
+      "water": 0.88,
+      "duration": 1100,
+      "points": [
+        [
+          0.07,
+          0.54,
+          0.2
+        ],
+        [
+          0.14,
+          0.5,
+          0.6
+        ],
+        [
+          0.23,
+          0.52,
+          0.7
+        ],
+        [
+          0.32,
+          0.5,
+          0.5
+        ],
+        [
+          0.43,
+          0.55,
+          0.15
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#4e5d68",
+      "size": 28,
+      "flow": 0.6,
+      "water": 0.88,
+      "duration": 1100,
+      "points": [
+        [
+          0.67,
+          0.55,
+          0.1
+        ],
+        [
+          0.76,
+          0.5,
+          0.6
+        ],
+        [
+          0.85,
+          0.52,
+          0.5
+        ],
+        [
+          0.93,
+          0.54,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#354853",
+      "size": 19,
+      "points": [
+        [
+          0.48,
+          0.65,
+          0.15
+        ],
+        [
+          0.52,
+          0.68,
+          0.8
+        ],
+        [
+          0.59,
+          0.685,
+          0.9
+        ],
+        [
+          0.65,
+          0.65,
+          0.1
+        ]
+      ],
+      "body": 0.35,
+      "flow": 0.75,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#a77654",
+      "size": 10,
+      "points": [
+        [
+          0.49,
+          0.651,
+          0.2
+        ],
+        [
+          0.56,
+          0.662,
+          0.8
+        ],
+        [
+          0.64,
+          0.65,
+          0.2
+        ]
+      ],
+      "body": 0.2,
+      "flow": 0.75,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#243d4b",
+      "size": 12,
+      "points": [
+        [
+          0.5,
+          0.685,
+          0.2
+        ],
+        [
+          0.57,
+          0.7,
+          0.6
+        ],
+        [
+          0.64,
+          0.675,
+          0.1
+        ]
+      ],
+      "body": 0.25,
+      "flow": 0.5,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#655951",
+      "size": 4,
+      "points": [
+        [
+          0.565,
+          0.66,
+          0.6
+        ],
+        [
+          0.565,
+          0.37,
+          0.35
+        ]
+      ],
+      "body": 0.18,
+      "flow": 0.75,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#eee4cc",
+      "size": 28,
+      "points": [
+        [
+          0.558,
+          0.385,
+          0.1
+        ],
+        [
+          0.535,
+          0.47,
+          0.4
+        ],
+        [
+          0.515,
+          0.55,
+          0.7
+        ],
+        [
+          0.501,
+          0.625,
+          0.8
+        ],
+        [
+          0.558,
+          0.625,
+          0.8
+        ]
+      ],
+      "body": 0.2,
+      "flow": 0.8,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#e1cfaf",
+      "size": 20,
+      "points": [
+        [
+          0.576,
+          0.43,
+          0.1
+        ],
+        [
+          0.595,
+          0.51,
+          0.4
+        ],
+        [
+          0.622,
+          0.625,
+          0.8
+        ],
+        [
+          0.579,
+          0.625,
+          0.6
+        ]
+      ],
+      "body": 0.2,
+      "flow": 0.8,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#eee3c9",
+      "size": 32,
+      "points": [
+        [
+          0.548,
+          0.45,
+          0.15
+        ],
+        [
+          0.545,
+          0.52,
+          0.5
+        ],
+        [
+          0.539,
+          0.603,
+          0.95
+        ]
+      ],
+      "body": 0.15,
+      "flow": 0.85,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#e1d3b5",
+      "size": 29,
+      "points": [
+        [
+          0.584,
+          0.49,
+          0.1
+        ],
+        [
+          0.59,
+          0.55,
+          0.5
+        ],
+        [
+          0.599,
+          0.608,
+          0.9
+        ]
+      ],
+      "body": 0.15,
+      "flow": 0.8,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#b8b9ae",
+      "size": 6,
+      "points": [
+        [
+          0.548,
+          0.48,
+          0.2
+        ],
+        [
+          0.539,
+          0.56,
+          0.5
+        ],
+        [
+          0.533,
+          0.611,
+          0.2
+        ]
+      ],
+      "body": 0.12,
+      "flow": 0.3,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#eee1c2",
+      "size": 33,
+      "points": [
+        [
+          0.559,
+          0.44,
+          0.1
+        ],
+        [
+          0.557,
+          0.51,
+          0.45
+        ],
+        [
+          0.555,
+          0.605,
+          1
+        ]
+      ],
+      "body": 0.12,
+      "flow": 0.9,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#b7684a",
+      "size": 9,
+      "points": [
+        [
+          0.566,
+          0.379,
+          0.5
+        ],
+        [
+          0.601,
+          0.383,
+          0.1
+        ]
+      ],
+      "body": 0.4,
+      "flow": 0.8,
+      "duration": 1200
+    },
+    {
+      "medium": "watercolor",
+      "color": "#324c61",
+      "size": 13,
+      "flow": 0.5,
+      "water": 0.88,
+      "duration": 1100,
+      "points": [
+        [
+          0.51,
+          0.724,
+          0.2
+        ],
+        [
+          0.56,
+          0.734,
+          0.55
+        ],
+        [
+          0.62,
+          0.726,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#414f50",
+      "size": 50,
+      "flow": 0.6,
+      "water": 0.88,
+      "duration": 1100,
+      "points": [
+        [
+          0.06,
+          0.9,
+          0.25
+        ],
+        [
+          0.13,
+          0.86,
+          0.65
+        ],
+        [
+          0.2,
+          0.89,
+          0.7
+        ],
+        [
+          0.29,
+          0.92,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#3a5050",
+      "size": 5,
+      "points": [
+        [
+          0.13,
+          0.89,
+          0.8
+        ],
+        [
+          0.12,
+          0.78,
+          0.5
+        ],
+        [
+          0.105,
+          0.72,
+          0.1
+        ]
+      ],
+      "body": 0.25,
+      "flow": 0.6,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#47584f",
+      "size": 6,
+      "points": [
+        [
+          0.18,
+          0.9,
+          0.8
+        ],
+        [
+          0.185,
+          0.81,
+          0.5
+        ],
+        [
+          0.205,
+          0.76,
+          0.1
+        ]
+      ],
+      "body": 0.3,
+      "flow": 0.6,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#3e554e",
+      "size": 7,
+      "points": [
+        [
+          0.145,
+          0.9,
+          0.7
+        ],
+        [
+          0.154,
+          0.81,
+          0.5
+        ],
+        [
+          0.145,
+          0.755,
+          0.1
+        ]
+      ],
+      "body": 0.2,
+      "flow": 0.6,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#55644c",
+      "size": 9,
+      "points": [
+        [
+          0.15,
+          0.856,
+          0.5
+        ],
+        [
+          0.18,
+          0.831,
+          0.65
+        ],
+        [
+          0.218,
+          0.824,
+          0.05
+        ]
+      ],
+      "body": 0.25,
+      "flow": 0.65,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#827452",
+      "size": 9,
+      "points": [
+        [
+          0.12,
+          0.785,
+          0.3
+        ],
+        [
+          0.113,
+          0.755,
+          0.7
+        ],
+        [
+          0.108,
+          0.738,
+          0.1
+        ]
+      ],
+      "body": 0.5,
+      "flow": 0.65,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#f0c68b",
+      "size": 33,
+      "points": [
+        [
+          0.31,
+          0.405,
+          0.85
+        ],
+        [
+          0.312,
+          0.405,
+          0.85
+        ]
+      ],
+      "body": 0.12,
+      "flow": 0.85,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#e5cfa4",
+      "size": 5,
+      "points": [
+        [
+          0.285,
+          0.588,
+          0.1
+        ],
+        [
+          0.318,
+          0.588,
+          0.5
+        ],
+        [
+          0.352,
+          0.588,
+          0.1
+        ]
+      ],
+      "body": 0.3,
+      "flow": 0.5,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#d6c7a4",
+      "size": 6,
+      "points": [
+        [
+          0.275,
+          0.623,
+          0.1
+        ],
+        [
+          0.311,
+          0.624,
+          0.55
+        ],
+        [
+          0.338,
+          0.623,
+          0.1
+        ]
+      ],
+      "body": 0.25,
+      "flow": 0.45,
+      "duration": 1200
+    },
+    {
+      "medium": "oil",
+      "color": "#fff0d2",
+      "size": 3,
+      "points": [
+        [
+          0.5,
+          0.625,
+          0.2
+        ],
+        [
+          0.533,
+          0.63,
+          0.65
+        ],
+        [
+          0.559,
+          0.627,
+          0.2
+        ]
+      ],
+      "body": 0.12,
+      "flow": 0.6,
+      "duration": 1200
+    },
+    {
+      "medium": "pencil",
+      "color": "#69717b",
+      "size": 3,
+      "flow": 0.55,
+      "duration": 1000,
+      "points": [
+        [
+          0.713,
+          0.325,
+          0.1
+        ],
+        [
+          0.727,
+          0.331,
+          0.65
+        ],
+        [
+          0.743,
+          0.322,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "pencil",
+      "color": "#69717b",
+      "size": 2,
+      "flow": 0.45,
+      "duration": 1000,
+      "points": [
+        [
+          0.768,
+          0.356,
+          0.1
+        ],
+        [
+          0.779,
+          0.359,
+          0.5
+        ],
+        [
+          0.792,
+          0.351,
+          0.1
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "text": "Let’s give the evening somewhere to land. Three loose washes first: cool above, warm below. Leave some paper breathing between them; we can decide what lives here after we see the edges.",
+      "kind": "try",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8320,
+      "afterStroke": 0
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 3
+    },
+    {
+      "text": "Up close, the blue has a lovely dusty grain; from back here the three bands feel a little separate. Let’s bridge them with a pale rose wash, then give that warm strip a cool reflection. It’s beginning to suggest water at dusk.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.25
+      },
+      "duration": 10920,
+      "afterStroke": 3
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "text": "The whole view still has white channels between washes. Up close they are soft, not hard gaps. I’ll use one watery sweep to join the lower bands, and two uneven dark shapes for faraway banks. Small irregularities will make the horizon less like a ruler.",
+      "kind": "try",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 11700,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 9
+    },
+    {
+      "text": "Those banks fade into the water nicely, but everything is equally soft. A little boat could be our anchor. I’ll put it just right of center, with a dark curved hull and a warm inner edge. Crisp oil against misty watercolor gives our eye somewhere to rest.",
+      "kind": "learn",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 12220,
+      "afterStroke": 9
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "text": "The hull reads as a little crescent, and up close the oil has fine wooden-looking ridges. Let’s make it a sailboat: a slender mast and a pale triangular sail. I’ll build the sail in two tapered passes so it stays light rather than becoming a heavy white slab.",
+      "kind": "try",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 12480,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 15
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 15
+    },
+    {
+      "text": "The sail is an outline so far—our brush followed the edges and left a window in the middle. A useful reminder: outlining a shape doesn’t fill it. Let’s lay two broader strokes inside, then give the cloth one cool fold.",
+      "kind": "learn",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10400,
+      "afterStroke": 15
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 18
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 18
+    },
+    {
+      "text": "Better, but there’s still a sliver of blue showing through the large sail. I’ll close it with a fuller pass near the mast. Then a tiny warm pennant and a broken dark reflection will give this very quiet boat a little character.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10920,
+      "afterStroke": 18
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 21
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 21
+    },
+    {
+      "text": "That tiny rust-colored flag is enough to wake up the pale sail. The reflection is almost lost in the wash, which suits the still water. The left side now wants a little weight: a low shoreline and two reeds, kept dark and loose so they frame the boat.",
+      "kind": "try",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.75
+      },
+      "duration": 12480,
+      "afterStroke": 21
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 24
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 24
+    },
+    {
+      "text": "The two reeds are very spare, and the shoreline is a soft little island. I’ll keep that lightness but add a bending leaf and one seed head. Repeating every stalk would make a fence; different angles suggest a living clump.",
+      "kind": "learn",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.75
+      },
+      "duration": 10400,
+      "afterStroke": 24
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 27
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 27
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.25,
+        "y": 0.7534013605442177
+      },
+      "duration": 1200,
+      "afterStroke": 27
+    },
+    {
+      "text": "The bent leaf gives the foreground a nice sideways gesture. The open sky now feels a touch empty above the left bank. Let’s try a small warm sun, then two short gleams below it. Keep the reflection broken—water doesn’t need a solid orange ladder.",
+      "kind": "try",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.25
+      },
+      "duration": 11440,
+      "afterStroke": 27
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 30
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 30
+    },
+    {
+      "text": "The sun balances the sail without shouting, and the gleams are barely there. Up close, the sail’s ridges are quite strong, so I’ll add one thin bright hem rather than more thick paint. Two tiny pencil birds will bring scale to that generous sky. Then we’ll step back and decide whether to stop.",
+      "kind": "try",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 13780,
+      "afterStroke": 30
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 33
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 33
+    },
+    {
+      "text": "Let’s keep this one quiet. The birds are just whispers, the reeds ground the foreground, and the little flag leads us back to the boat. We found the subject by looking after each three marks. I’m calling it “Where the evening goes.” Leaving some paper untouched is part of the painting, too.",
+      "kind": "keep",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 13520,
+      "afterStroke": 33
+    }
+  ],
+  "creation": {
+    "method": "Live browser painting from blank paper; each next three-stroke batch was selected only after whole-view and close-up screenshots.",
+    "reviewedAfterStroke": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      21,
+      24,
+      27,
+      30,
+      33
+    ],
+    "annotationOrigin": "All 12 public observations and teaching notes were posted live through the studio note editor during creation. The 23 camera-only moments were recorded by live whole/close-view controls and panning.",
+    "media": [
+      "watercolor",
+      "oil",
+      "pencil"
+    ]
+  }
+}
