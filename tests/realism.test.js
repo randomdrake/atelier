@@ -105,3 +105,13 @@ test('invalid score cannot replace a valid painting or start a partial queue',()
   assert.throws(()=>session.play([score[0],{...score[1],water:2}]));
   assert.deepEqual(surface.snapshot(),before);assert(!session.busy);assert.equal(session.strokes.length,3);
 });
+
+test('review rhythm stops precisely at a small batch and freezes both paint and fluid',async()=>{
+  const surface=new PaintSurface(64,48),session=new PaintingSession(surface);session.reviewEvery=2;
+  const done=session.play(score);session.advance(10);
+  assert.equal(session.strokes.length,2);assert(session.paused);assert.equal(session.pauseReason,'review');assert(session.busy);
+  const snapshot=surface.snapshot();session.advance(100);assert.deepEqual(surface.snapshot(),snapshot);
+  session.paused=false;while(session.busy)session.advance(.1);
+  assert.deepEqual(await done,{cancelled:false});
+  assert.deepEqual(surface.snapshot(),renderScore(.03).surface.snapshot());
+});

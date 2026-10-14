@@ -10,7 +10,7 @@ const notes={watercolor:'Water carries suspended pigment across uneven paper. Th
 let history=[],pointer=null,manualReservoir=null,dirty=true,last=0,lastMetrics=0,pointerStarted=0;
 const player=new PaintingSession(surface,{
   beforeStroke(stroke){checkpoint();selectMedium(stroke.medium);selectColor(stroke.color);showBrush(stroke);status(`Painting ${MEDIA[stroke.medium].label.toLowerCase()} · ${player.queue.length+1} strokes remaining`);},
-  changed(){updateButtons();}
+  changed(){updateButtons();if(player.pauseReason==='review')status(`Review pause after ${player.strokes.length} marks. Look closely, then resume.`);}
 });
 function status(text){$('status').textContent=text;}
 function checkpoint(){
@@ -59,7 +59,7 @@ function updateButtons(){
   for(const id of ['pause','stop'])$(id).disabled=!busy;
   for(const id of ['demo','run-score','undo'])$(id).disabled=busy||!!pointer;
   $('replay').disabled=busy||!!pointer||!player.strokes.length;
-  $('pause').textContent=player.paused?'Resume':'Pause';
+  $('pause').textContent=player.paused?(player.pauseReason==='review'?'Continue painting':'Resume'):'Pause';
   $('stroke-count').textContent=`${player.strokes.length} strokes`;
   $('live').textContent=busy?'● PAINTING IN PROGRESS':'● STUDIO READY';
 }
@@ -100,7 +100,18 @@ function replay(){
   const score=validateScore(player.strokes);history=[];player.clear();dirty=true;
   return enqueue(score);
 }
+const wrap=canvas.parentElement;
+function setView(close){
+  wrap.classList.toggle('close-view',close);
+  wrap.style.height=close?`${wrap.clientWidth*canvas.height/canvas.width}px`:'';
+  $('whole-view').setAttribute('aria-pressed',String(!close));$('close-view').setAttribute('aria-pressed',String(close));
+  if(close){wrap.scrollLeft=wrap.clientWidth*.4;wrap.scrollTop=wrap.clientHeight*.5;}
+  else{wrap.scrollLeft=0;wrap.scrollTop=0;}
+}
+$('whole-view').onclick=()=>setView(false);$('close-view').onclick=()=>setView(true);
+window.addEventListener('resize',()=>{if(wrap.classList.contains('close-view'))wrap.style.height=`${wrap.clientWidth*canvas.height/canvas.width}px`;});
 $('stop').onclick=stop;
+$('review').onchange=e=>{player.reviewEvery=Number(e.target.value);};
 $('pause').onclick=()=>{player.paused=!player.paused;updateButtons();};
 $('clear').onclick=reset;$('replay').onclick=()=>replay();
 $('undo').onclick=()=>{

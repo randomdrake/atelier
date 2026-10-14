@@ -7,12 +7,13 @@ export class PaintingSession {
     this.surface=surface;this.beforeStroke=beforeStroke;this.changed=changed;
     this.strokes=[];this.queue=[];this.active=null;this.paused=false;
     this.accumulator=0;this.physicsTicks=0;this.listeners=[];
+    this.reviewEvery=0;this.sinceReview=0;this.pauseReason='';
   }
   get busy(){return !!this.active||this.queue.length>0;}
   play(score) {
     if(this.busy)throw new Error('Finish or stop the current painting first');
     const validated=validateScore(score); // Reject the whole score before changing the canvas.
-    this.queue.push(...validated);this.paused=false;
+    this.queue.push(...validated);this.paused=false;this.pauseReason='';this.sinceReview=0;
     this.changed();
     return new Promise(resolve=>{if(!this.busy)resolve({cancelled:false});else this.listeners.push(resolve);});
   }
@@ -29,11 +30,12 @@ export class PaintingSession {
       const {stroke,playback}=this.active;
       this.strokes.push({...stroke,wait:0,duration:playback.elapsed,points:structuredClone(playback.drawn)});
     }
-    this.active=null;this.queue=[];this.paused=false;this.accumulator=0;
+    this.active=null;this.queue=[];this.paused=false;this.pauseReason='';this.sinceReview=0;this.accumulator=0;
     this.listeners.splice(0).forEach(resolve=>resolve({cancelled:true}));this.changed();
   }
   advance(seconds) {
     if(this.paused)return false;
+    this.pauseReason='';
     this.accumulator+=seconds;
     let modified=false;
     const tick=1/30;
@@ -51,11 +53,14 @@ export class PaintingSession {
         else {
           active.playback.advance(tick*1000,(point,angle)=>this.surface.dab(...point,active.stroke,angle,active.brush));
           modified=true;
-          if(active.playback.done){this.strokes.push(active.stroke);this.active=null;completed=true;this.changed();}
+          if(active.playback.done){this.strokes.push(active.stroke);this.active=null;completed=true;this.sinceReview++;this.changed();}
         }
       }
       this.physicsTicks++;
       if(this.physicsTicks===3){this.surface.step(.1);this.physicsTicks=0;modified=true;}
+      if(completed&&this.busy&&this.reviewEvery>0&&this.sinceReview>=this.reviewEvery){
+        this.paused=true;this.pauseReason='review';this.sinceReview=0;this.accumulator=0;this.changed();break;
+      }
       if(completed&&!this.busy) {
         this.accumulator=0;
         this.listeners.splice(0).forEach(resolve=>resolve({cancelled:false}));
