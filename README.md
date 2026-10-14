@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Two wings before the wind
+
+[![Two copper-colored maple seeds with unequal wings on a quiet cool ground](public-gallery/paintings/two-wings-before-the-wind/finished.png)](https://atelier.randomdrake.com/#painting/two-wings-before-the-wind)
+
+A pair of imagined maple seeds in **33 marks**, developed through **13 whole-and-close inspection boundaries**. Broad seed midtones filled hollow crescents; an oil rib remained visible where fine acrylic was lost. Short edge lights and a small seed glint finish the study. Regular ridges and a slightly hard base remain. The live feed ended with all 33 marks confirmed.
+
+[Watch the wings take shape →](https://atelier.randomdrake.com/#painting/two-wings-before-the-wind)
+
+
 ### A small sea of green
 
 [![A green anemone with unequal curling tentacles in a quiet blue tide pool](public-gallery/paintings/a-small-sea-of-green/finished.png)](https://atelier.randomdrake.com/#painting/a-small-sea-of-green)

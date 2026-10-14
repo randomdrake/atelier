@@ -1,0 +1,1516 @@
+{
+  "version": 2,
+  "width": 900,
+  "height": 620,
+  "title": "Two wings before the wind",
+  "strokes": [
+    {
+      "medium": "watercolor",
+      "color": "#849c9b",
+      "size": 155,
+      "flow": 0.32,
+      "water": 0.85,
+      "duration": 1300,
+      "points": [
+        [
+          0.2,
+          0.4,
+          0.3
+        ],
+        [
+          0.35,
+          0.4,
+          0.7
+        ],
+        [
+          0.55,
+          0.43,
+          0.7
+        ],
+        [
+          0.8,
+          0.46,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#a3aaa0",
+      "size": 145,
+      "flow": 0.28,
+      "water": 0.8,
+      "duration": 1400,
+      "points": [
+        [
+          0.22,
+          0.62,
+          0.2
+        ],
+        [
+          0.4,
+          0.64,
+          0.65
+        ],
+        [
+          0.65,
+          0.63,
+          0.6
+        ],
+        [
+          0.81,
+          0.59,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#4b666b",
+      "size": 62,
+      "flow": 0.35,
+      "water": 0.7,
+      "duration": 1100,
+      "points": [
+        [
+          0.31,
+          0.62,
+          0.1
+        ],
+        [
+          0.49,
+          0.66,
+          0.5
+        ],
+        [
+          0.67,
+          0.66,
+          0.4
+        ],
+        [
+          0.76,
+          0.63,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#9d603a",
+      "size": 76,
+      "flow": 0.9,
+      "duration": 1400,
+      "points": [
+        [
+          0.49,
+          0.62,
+          0.6
+        ],
+        [
+          0.45,
+          0.56,
+          0.85
+        ],
+        [
+          0.39,
+          0.47,
+          1
+        ],
+        [
+          0.32,
+          0.39,
+          0.8
+        ],
+        [
+          0.25,
+          0.35,
+          0.3
+        ],
+        [
+          0.22,
+          0.36,
+          0.05
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#bd8050",
+      "size": 73,
+      "flow": 0.9,
+      "duration": 1400,
+      "points": [
+        [
+          0.52,
+          0.62,
+          0.6
+        ],
+        [
+          0.56,
+          0.53,
+          0.85
+        ],
+        [
+          0.63,
+          0.43,
+          1
+        ],
+        [
+          0.7,
+          0.34,
+          0.75
+        ],
+        [
+          0.75,
+          0.29,
+          0.2
+        ],
+        [
+          0.77,
+          0.3,
+          0.05
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#795039",
+      "size": 42,
+      "flow": 0.9,
+      "duration": 1000,
+      "points": [
+        [
+          0.49,
+          0.61,
+          0.7
+        ],
+        [
+          0.48,
+          0.65,
+          1
+        ],
+        [
+          0.49,
+          0.68,
+          0.7
+        ],
+        [
+          0.51,
+          0.67,
+          0.4
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#855137",
+      "size": 49,
+      "flow": 0.95,
+      "duration": 1100,
+      "points": [
+        [
+          0.526,
+          0.61,
+          0.6
+        ],
+        [
+          0.535,
+          0.645,
+          1
+        ],
+        [
+          0.532,
+          0.679,
+          0.85
+        ],
+        [
+          0.516,
+          0.69,
+          0.45
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#4e4c41",
+      "size": 18,
+      "flow": 0.7,
+      "duration": 1000,
+      "points": [
+        [
+          0.469,
+          0.694,
+          0.1
+        ],
+        [
+          0.49,
+          0.706,
+          0.7
+        ],
+        [
+          0.529,
+          0.708,
+          0.7
+        ],
+        [
+          0.553,
+          0.697,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#745c40",
+      "size": 9,
+      "flow": 0.9,
+      "duration": 1000,
+      "points": [
+        [
+          0.507,
+          0.629,
+          0.9
+        ],
+        [
+          0.508,
+          0.6,
+          0.7
+        ],
+        [
+          0.519,
+          0.575,
+          0.5
+        ],
+        [
+          0.538,
+          0.562,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#c18a4e",
+      "size": 35,
+      "flow": 0.9,
+      "body": 0.03,
+      "duration": 1400,
+      "points": [
+        [
+          0.265,
+          0.365,
+          0.1
+        ],
+        [
+          0.305,
+          0.382,
+          0.4
+        ],
+        [
+          0.35,
+          0.419,
+          0.7
+        ],
+        [
+          0.397,
+          0.478,
+          0.75
+        ],
+        [
+          0.446,
+          0.551,
+          0.4
+        ],
+        [
+          0.468,
+          0.59,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#d19c5b",
+      "size": 35,
+      "flow": 0.9,
+      "body": 0.12,
+      "duration": 1400,
+      "points": [
+        [
+          0.544,
+          0.582,
+          0.1
+        ],
+        [
+          0.574,
+          0.527,
+          0.4
+        ],
+        [
+          0.624,
+          0.45,
+          0.7
+        ],
+        [
+          0.681,
+          0.378,
+          0.75
+        ],
+        [
+          0.731,
+          0.318,
+          0.4
+        ],
+        [
+          0.755,
+          0.3,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#95633f",
+      "size": 29,
+      "flow": 0.9,
+      "duration": 1000,
+      "points": [
+        [
+          0.485,
+          0.662,
+          0.7
+        ],
+        [
+          0.503,
+          0.682,
+          0.8
+        ],
+        [
+          0.528,
+          0.682,
+          0.5
+        ],
+        [
+          0.54,
+          0.665,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#ae7748",
+      "size": 52,
+      "flow": 0.7,
+      "duration": 1400,
+      "points": [
+        [
+          0.28,
+          0.373,
+          0.1
+        ],
+        [
+          0.32,
+          0.403,
+          0.5
+        ],
+        [
+          0.37,
+          0.455,
+          0.8
+        ],
+        [
+          0.418,
+          0.516,
+          0.6
+        ],
+        [
+          0.461,
+          0.58,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#ba8a56",
+      "size": 21,
+      "flow": 0.9,
+      "body": 0.06,
+      "duration": 1000,
+      "points": [
+        [
+          0.478,
+          0.629,
+          0.2
+        ],
+        [
+          0.471,
+          0.648,
+          0.7
+        ],
+        [
+          0.478,
+          0.669,
+          0.5
+        ],
+        [
+          0.49,
+          0.679,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#c79960",
+      "size": 23,
+      "flow": 0.9,
+      "body": 0.06,
+      "duration": 1000,
+      "points": [
+        [
+          0.527,
+          0.628,
+          0.2
+        ],
+        [
+          0.536,
+          0.647,
+          0.8
+        ],
+        [
+          0.532,
+          0.671,
+          0.5
+        ],
+        [
+          0.52,
+          0.679,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#704a32",
+      "size": 6,
+      "flow": 0.85,
+      "duration": 1300,
+      "points": [
+        [
+          0.247,
+          0.357,
+          0.1
+        ],
+        [
+          0.299,
+          0.382,
+          0.4
+        ],
+        [
+          0.35,
+          0.429,
+          0.65
+        ],
+        [
+          0.399,
+          0.493,
+          0.7
+        ],
+        [
+          0.444,
+          0.561,
+          0.6
+        ],
+        [
+          0.478,
+          0.622,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#95633c",
+      "size": 6,
+      "flow": 0.85,
+      "duration": 1300,
+      "points": [
+        [
+          0.535,
+          0.623,
+          0.2
+        ],
+        [
+          0.568,
+          0.549,
+          0.5
+        ],
+        [
+          0.615,
+          0.471,
+          0.7
+        ],
+        [
+          0.668,
+          0.397,
+          0.6
+        ],
+        [
+          0.724,
+          0.332,
+          0.35
+        ],
+        [
+          0.762,
+          0.299,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#614432",
+      "size": 7,
+      "flow": 0.85,
+      "duration": 950,
+      "points": [
+        [
+          0.505,
+          0.632,
+          0.2
+        ],
+        [
+          0.501,
+          0.653,
+          0.65
+        ],
+        [
+          0.505,
+          0.681,
+          0.6
+        ],
+        [
+          0.511,
+          0.69,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#68482f",
+      "size": 8,
+      "flow": 0.95,
+      "body": 0.03,
+      "duration": 1400,
+      "points": [
+        [
+          0.258,
+          0.357,
+          0.1
+        ],
+        [
+          0.294,
+          0.376,
+          0.4
+        ],
+        [
+          0.336,
+          0.412,
+          0.65
+        ],
+        [
+          0.38,
+          0.464,
+          0.65
+        ],
+        [
+          0.423,
+          0.527,
+          0.5
+        ],
+        [
+          0.461,
+          0.591,
+          0.25
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#94633a",
+      "size": 7,
+      "flow": 0.9,
+      "body": 0.03,
+      "duration": 1400,
+      "points": [
+        [
+          0.541,
+          0.604,
+          0.2
+        ],
+        [
+          0.573,
+          0.54,
+          0.45
+        ],
+        [
+          0.618,
+          0.47,
+          0.6
+        ],
+        [
+          0.666,
+          0.405,
+          0.55
+        ],
+        [
+          0.714,
+          0.347,
+          0.35
+        ],
+        [
+          0.75,
+          0.309,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#ba8950",
+      "size": 5,
+      "flow": 0.85,
+      "body": 0.03,
+      "duration": 1000,
+      "points": [
+        [
+          0.393,
+          0.49,
+          0.6
+        ],
+        [
+          0.375,
+          0.493,
+          0.5
+        ],
+        [
+          0.353,
+          0.483,
+          0.35
+        ],
+        [
+          0.334,
+          0.468,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#d0a16a",
+      "size": 5,
+      "flow": 0.85,
+      "body": 0.03,
+      "duration": 1000,
+      "points": [
+        [
+          0.615,
+          0.478,
+          0.5
+        ],
+        [
+          0.638,
+          0.482,
+          0.4
+        ],
+        [
+          0.659,
+          0.468,
+          0.25
+        ],
+        [
+          0.681,
+          0.446,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#9d744d",
+      "size": 28,
+      "flow": 0.95,
+      "body": 0.03,
+      "duration": 1100,
+      "points": [
+        [
+          0.482,
+          0.63,
+          0.4
+        ],
+        [
+          0.484,
+          0.646,
+          0.85
+        ],
+        [
+          0.49,
+          0.667,
+          0.7
+        ],
+        [
+          0.496,
+          0.678,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#b48654",
+      "size": 29,
+      "flow": 0.95,
+      "body": 0.03,
+      "duration": 1100,
+      "points": [
+        [
+          0.524,
+          0.631,
+          0.4
+        ],
+        [
+          0.522,
+          0.649,
+          0.85
+        ],
+        [
+          0.517,
+          0.669,
+          0.65
+        ],
+        [
+          0.512,
+          0.678,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#6e4e35",
+      "size": 13,
+      "flow": 0.9,
+      "body": 0.03,
+      "duration": 1000,
+      "points": [
+        [
+          0.507,
+          0.628,
+          0.1
+        ],
+        [
+          0.503,
+          0.649,
+          0.65
+        ],
+        [
+          0.505,
+          0.67,
+          0.7
+        ],
+        [
+          0.509,
+          0.689,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#a3a593",
+      "size": 17,
+      "flow": 0.85,
+      "body": 0.03,
+      "duration": 1100,
+      "points": [
+        [
+          0.468,
+          0.707,
+          0.1
+        ],
+        [
+          0.485,
+          0.717,
+          0.5
+        ],
+        [
+          0.507,
+          0.721,
+          0.6
+        ],
+        [
+          0.536,
+          0.715,
+          0.35
+        ],
+        [
+          0.551,
+          0.702,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#6e5636",
+      "size": 8,
+      "flow": 0.95,
+      "body": 0.03,
+      "duration": 1200,
+      "points": [
+        [
+          0.507,
+          0.633,
+          0.7
+        ],
+        [
+          0.507,
+          0.61,
+          0.7
+        ],
+        [
+          0.514,
+          0.586,
+          0.6
+        ],
+        [
+          0.528,
+          0.568,
+          0.4
+        ],
+        [
+          0.548,
+          0.559,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#b1955f",
+      "size": 4,
+      "flow": 0.9,
+      "body": 0.03,
+      "duration": 1000,
+      "points": [
+        [
+          0.507,
+          0.607,
+          0.2
+        ],
+        [
+          0.513,
+          0.587,
+          0.6
+        ],
+        [
+          0.526,
+          0.572,
+          0.4
+        ],
+        [
+          0.54,
+          0.564,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#d6b579",
+      "size": 8,
+      "flow": 0.9,
+      "body": 0.03,
+      "duration": 1100,
+      "points": [
+        [
+          0.284,
+          0.354,
+          0.1
+        ],
+        [
+          0.311,
+          0.367,
+          0.5
+        ],
+        [
+          0.339,
+          0.39,
+          0.65
+        ],
+        [
+          0.36,
+          0.414,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#e0c28a",
+      "size": 7,
+      "flow": 0.9,
+      "body": 0.03,
+      "duration": 1100,
+      "points": [
+        [
+          0.692,
+          0.352,
+          0.1
+        ],
+        [
+          0.714,
+          0.326,
+          0.5
+        ],
+        [
+          0.736,
+          0.307,
+          0.6
+        ],
+        [
+          0.754,
+          0.296,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#ad8255",
+      "size": 19,
+      "flow": 0.8,
+      "body": 0.03,
+      "duration": 1050,
+      "points": [
+        [
+          0.535,
+          0.62,
+          0.1
+        ],
+        [
+          0.546,
+          0.641,
+          0.6
+        ],
+        [
+          0.542,
+          0.67,
+          0.6
+        ],
+        [
+          0.53,
+          0.687,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#e0c28d",
+      "size": 9,
+      "flow": 0.95,
+      "body": 0.05,
+      "duration": 1000,
+      "points": [
+        [
+          0.527,
+          0.637,
+          0.2
+        ],
+        [
+          0.532,
+          0.643,
+          0.8
+        ],
+        [
+          0.533,
+          0.651,
+          0.25
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#e9ce98",
+      "size": 14,
+      "flow": 1,
+      "body": 0.14,
+      "duration": 1000,
+      "points": [
+        [
+          0.525,
+          0.633,
+          0.25
+        ],
+        [
+          0.532,
+          0.641,
+          0.85
+        ],
+        [
+          0.534,
+          0.653,
+          0.4
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "text": "Two wings before the wind \u2014 an AI-painted maple-seed study. Inspired by the NPS bigleaf maple description: https://www.nps.gov/articles/000/bigleaf-maple.htm . Goal: filled curved silhouettes, a quiet cool ground, and selective copper lights. I will compare thin oil handling as the paired wings develop.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10920,
+      "afterStroke": 0
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 3
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 3
+    },
+    {
+      "text": "The washes leave a quiet middle gap and a low shadow. I will bridge that space with two unequal wings, keeping their tips tapered.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6240,
+      "afterStroke": 3
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "text": "The wings are filled, but only the left seed body is present. A second rounded body and a short shared stem will make the pair convincing; the shadow should stay smaller than the wings.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8840,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 9
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 9
+    },
+    {
+      "text": "The paired bodies are visible, but a pale slit separates them and the underside shadow is too linear. I will round the lower join and lay thin warm light inside each wing, leaving the darker edges exposed.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9620,
+      "afterStroke": 9
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "text": "The 3% body oil reads as a broad stepped patch; the 12% pass shows stronger parallel ridges. This is an informal comparison because the paths and colors differ. I will integrate the left patch with a wider acrylic midtone and give each seed a small rounded light.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 12220,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 15
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 15
+    },
+    {
+      "text": "The acrylic glaze barely subdued the stepped oil stripe. The seed lights are clear but too crescent-like. Before further lights, I will establish two thin structural ribs and a darker central seam to separate the bodies.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9360,
+      "afterStroke": 15
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 18
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 18
+    },
+    {
+      "text": "Fine acrylic ribs are nearly invisible over oil. I will test one darker oil rib alone along the left wing, just inside its leading edge.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6500,
+      "afterStroke": 18
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 19
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 19
+    },
+    {
+      "text": "The single oil rib is visible and follows the left wing without outlining its entire edge. I will echo it more lightly on the right and add two unequal branching veins; repeated spacing would look mechanical.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9360,
+      "afterStroke": 19
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 22
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 22
+    },
+    {
+      "text": "The long ribs now read; tiny branches are subdued. The seed bodies still resemble hollow crescents, so I will fill their lit planes with broader midtones and replace the pale central slit with a warm dark join.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9620,
+      "afterStroke": 22
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 25
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 25
+    },
+    {
+      "text": "The broad seed planes close the hollow effect and the dark seam removes the bright slit. The base still rests on a straight dark bar. I will break that bar with a cool ground touch and clarify the curved stalk rising between the wings.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 11440,
+      "afterStroke": 25
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 28
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 28
+    },
+    {
+      "text": "The curved stalk is now legible. The ground touch softened the dark bar only slightly; more covering may enlarge the base. I will keep its small contact role and place two short lights on the upper wing edges, with a softer warm transition on the right seed.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 12220,
+      "afterStroke": 28
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 31
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 31
+    },
+    {
+      "text": "The upper lights remain short and the two wings stay unequal. The right seed needs one small focal accent rather than a brighter whole face. I will test a tiny warm glint on its upper shoulder alone.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9620,
+      "afterStroke": 31
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 32
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 32
+    },
+    {
+      "text": "The tiny seed glint disappears at whole view and barely separates in close view. I will enlarge only that short accent, keeping its length modest so the wing lights stay secondary.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8060,
+      "afterStroke": 32
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 33
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 33
+    },
+    {
+      "text": "Finished: Two wings before the wind. The enlarged seed glint is now visible, the filled wings remain unequal, and the curved stalk connects the pair. Broad seed midtones solved the hollow crescents; fine acrylic ribs did not show over oil, while oil ribs did. Regular ridges and a slightly hard contact base remain. I will stop here because more lights would compete with the small seed focus. Next experiment: matched curved oil paths at 3%, 12%, and 30% body on the same ground.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 15000,
+      "afterStroke": 33
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 33
+    }
+  ],
+  "creation": {
+    "method": "AI agent painted in the Atelier browser simulator, selecting each next 1\u20133 marks after actual whole and settled 2\u00d7 screenshots.",
+    "inspectionBoundaries": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      19,
+      22,
+      25,
+      28,
+      31,
+      32,
+      33
+    ],
+    "notes": "Easel notes and camera moves recorded live; title and creation metadata added after browser export.",
+    "broadcast": "Live from this laptop confirmed; public easel verified broadcast ended with all 33 completed marks and final note.",
+    "engineRevision": "e351be144331880c4b716dc30b4df21568754d05",
+    "engineChanges": false,
+    "painter": "AI agent",
+    "hardwareHost": "randomdrake",
+    "inspiration": {
+      "description": "NPS bigleaf maple description of double-winged seeds; original imagined still life.",
+      "url": "https://www.nps.gov/articles/000/bigleaf-maple.htm"
+    }
+  }
+}

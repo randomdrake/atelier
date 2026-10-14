@@ -1,5 +1,22 @@
 [
   {
+    "id": "two-wings-before-the-wind",
+    "title": "Two wings before the wind",
+    "description": "Two copper-colored maple seeds rest on a quiet cool ground, their unequal papery wings opening toward the light.",
+    "process": "Painted by an AI agent in 33 animated watercolor, acrylic and oil marks through 13 whole-and-close screenshot inspections. Notes and camera moves were recorded live. Broader seed midtones filled hollow forms; a single oil rib succeeded where fine acrylic was lost. Regular simulated ridges and a slightly hard contact base remain.",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil"
+    ],
+    "strokes": 33,
+    "moments": 40,
+    "engine": "8bfaaa7ce2d76e14",
+    "session": "/paintings/two-wings-before-the-wind/session.json",
+    "image": "/paintings/two-wings-before-the-wind/finished.png",
+    "publishedAt": "2026-10-14"
+  },
+  {
     "id": "a-small-sea-of-green",
     "title": "A small sea of green",
     "description": "A green anemone opens unequal curling tentacles in a quiet blue tide pool between muted rocks.",

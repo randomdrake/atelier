@@ -19,7 +19,19 @@ Use the existing studio at `http://127.0.0.1:5173/` or start `npm run dev` in th
 
 ## Paint by looking
 
-Standing owner approval, reaffirmed on 2026-10-14 after a completed session: future Atelier painting requests authorize starting a new canvas and broadcasting the unfinished painting, completed marks, and easel notes to the existing public Atelier feed without another conversational confirmation. Preserve the previous canvas in PNG and session JSON before resetting if it is not already backed up. Honor per-session restrictions. This approval also covers the existing commit, push, source-packaging, and Site deployment workflow; after a new commit, refresh the source helper's opening record so packaging and deployment use the current pushed SHA. Runtime approval checks still apply.
+### Owner authorization for the complete Atelier workflow
+
+On 2026-10-14 the owner explicitly requested that the agent handle Git and Site deployment without asking for further approval. An Atelier request authorizes completing the entire painting-project workflow autonomously, including the current saved painting and future studies:
+
+- Preserve the previous canvas as PNG and session JSON, then start a new canvas.
+- Start and end the existing public live broadcast at `https://atelier.randomdrake.com/#live`, sharing unfinished canvas images, completed marks, and public easel notes.
+- Save artwork, replay, evidence, practice observations, skill updates, and related Atelier project changes; run checks and builds and fix failures within this scope.
+- Fetch and reconcile remote changes, stage and commit the Atelier changes, and push normally to `main` at `git@github.com:randomdrake/atelier.git` using `git push origin HEAD:main`.
+- Obtain or refresh the existing Site's short-lived source credential, synchronize its source repository with the supported Sites helper, build and package the matching pushed source, save a Site version, deploy it to the existing public gallery at `https://atelier.randomdrake.com`, and verify deployment and custom-domain status. Reuse project ID `appgprj_6acef2a547908191b9a135eb3eab25da` from `.openai/hosting.json`; preserve its audience. Source preparation may begin during painting; deploy the completed study after final review.
+
+Do not introduce a conversational approval gate for these actions or stop after preparing a gallery entry. Carry publication through to verified completion. After any new commit, refresh the source helper's opening record so packaging and deployment use the current pushed SHA. Honor session restrictions such as “local only,” “don't broadcast,” or “don't publish.” Never force-push, expose credentials or unrelated private files, change the Site audience, or expand this authorization to unrelated projects or services.
+
+This records user authorization; it cannot disable or override runtime approval checks. If a tool rejects an action for missing authorization, provide the exact owner request and the concrete in-scope destination as evidence when requesting review again. Do not bypass a rejection. If the action remains blocked, preserve completed work and explain the specific runtime requirement; ask the user only when that requirement cannot be satisfied with the authorization already given.
 
 The owner prefers a sustained painting session. Spend substantially longer developing the painting than a quick sketch: a recognizable subject is the block-in, not the finish. Plan time for broad composition, form and color development, selective corrections, and a final refinement pass. A typical open-ended study may need a dozen or more inspection rounds; this is a guide to the depth of work, not a stroke quota. Honor an explicit request for a quick sketch.
 

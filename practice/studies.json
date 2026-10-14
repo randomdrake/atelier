@@ -310,5 +310,66 @@
       "humanRating": null,
       "improvementClaim": "Corrections joined roots, filled the observed slit and clarified the focal light within this study. Thin oil still showed regular ridges. No controlled comparison or independent rating."
     }
+  },
+  {
+    "id": "two-wings-before-the-wind",
+    "title": "Two wings before the wind",
+    "date": "2026-10-14",
+    "session": "examples/two-wings-before-the-wind.json",
+    "finishedImage": "examples/previews/two-wings-before-the-wind.png",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil"
+    ],
+    "goal": "Filled curved silhouettes and restrained highlights; informal observation of thin oil ridge handling.",
+    "inspiration": {
+      "description": "NPS bigleaf maple description of double-winged seeds; original imagined still life.",
+      "url": "https://www.nps.gov/articles/000/bigleaf-maple.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 6,
+        "text": "Filled acrylic sweeps established two unequal wings."
+      },
+      {
+        "afterStroke": 12,
+        "text": "Oil at 3% body formed a stepped patch; 12% produced stronger parallel ridges. Different paths and colors prevent a controlled comparison."
+      },
+      {
+        "afterStroke": 18,
+        "text": "Fine acrylic ribs were nearly invisible over oil; broad acrylic did little to cover the oil light."
+      },
+      {
+        "afterStroke": 19,
+        "text": "A single dark oil rib remained visible and followed the left wing."
+      },
+      {
+        "afterStroke": 25,
+        "text": "Broader seed midtones filled the hollow crescent effect; a dark seam removed the pale central slit."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Curved oil stalk became legible; cool ground touch softened the straight contact base only slightly."
+      },
+      {
+        "afterStroke": 33,
+        "text": "Enlarged short seed glint became visible. Unequal filled wings and quiet ground hold together; regular ridges and slightly hard base remain. Stop to avoid competing lights."
+      }
+    ],
+    "evidence": [
+      "artifacts/two-wings-before-the-wind-whole.png",
+      "artifacts/two-wings-before-the-wind-close.png",
+      "examples/previews/two-wings-before-the-wind.png"
+    ],
+    "inspectionEvidence": "Actual whole and settled 2\u00d7 screenshots at 13 boundaries, retained in conversation; final screenshots saved. Camera moments retained in replay.",
+    "engineRevision": "e351be144331880c4b716dc30b4df21568754d05",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Compare identical curved oil paths at bodies 0.03, 0.12 and 0.30, fixed color, load, size, point density and ground.",
+    "assessment": {
+      "source": "Live browser whole/close observations; journal and provenance added after export.",
+      "humanRating": null,
+      "improvementClaim": "Filled seed planes and visible oil ribs solved observed problems within this study; regular ridges persisted. No controlled comparison or independent rating."
+    }
   }
 ]
