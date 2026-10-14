@@ -11,7 +11,7 @@ const notes={watercolor:'Water carries suspended pigment across uneven paper. Th
 const stageLabels={notice:'A CLOSER LOOK',try:'LET’S TRY A LITTLE SOMETHING',learn:'A SMALL STUDIO DISCOVERY',keep:'KNOWING WHAT TO KEEP',look:'STEPPING BACK · LEANING IN'};
 const headings={notice:'What’s the paint telling us?',try:'A small experiment.',learn:'The paint has a lesson for us.',keep:'Let’s leave a little breathing room.',look:'Let’s change our point of view.'};
 let history=[],events=[],pointer=null,manualReservoir=null,dirty=true,last=0,lastMetrics=0,pointerStarted=0;
-let currentPlayback=null,programmaticCameraUntil=0,scrollTimer=null,speechActive=false,speechEpoch=0,speechDeadline=0,speechPauseStarted=0;
+let currentPlayback=null,programmaticCameraUntil=0,scrollTimer=null,speechActive=false,speechEpoch=0,speechDeadline=0,speechPauseStarted=0,manualCamera=false;
 const camera=new StudioCamera();
 const tour=new StudioTour({cue:event=>showMoment(event,true),finished:()=>{updateButtons();finishPlayback();}});
 const player=new PaintingSession(surface,{
@@ -70,7 +70,7 @@ function updateButtons(){
   for(const id of ['demo','run-score','undo','load-lesson','post-note'])$(id).disabled=working||!!pointer;
   $('replay').disabled=working||!!pointer||!player.strokes.length;$('replay-top').disabled=$('replay').disabled;
   $('pause').textContent=player.paused?(player.pauseReason==='review'?'Continue painting':'Resume'):'Pause';
-  $('pause-top').textContent=player.paused?'▶ Continue':'Ⅱ Pause';$('pause-top').setAttribute('aria-label',player.paused?'Continue studio session':'Pause studio session');document.querySelector('.studio-voice').classList.toggle('is-paused',player.paused);
+  $('pause-top').textContent=player.paused?'▶ Continue':'Ⅱ Pause';$('pause-top').setAttribute('aria-label',player.paused?'Continue studio session':'Pause studio session');document.querySelector('.studio-voice').classList.toggle('is-paused',player.paused);if(player.paused)document.querySelector('.studio-voice').classList.remove('new-note');
   $('stroke-count').textContent=`${player.strokes.length} marks`;
   $('live').textContent=player.paused?'● A LITTLE LOOKING TIME':tour.active?'● AT THE EASEL':working?'● MAKING A MARK':'● ROOM FOR POSSIBILITY';
 }
@@ -107,7 +107,7 @@ function showMoment(event,recorded=false){
     }
   }
   $('moment-count').textContent=recorded?`RECORDED MOMENT ${tour.index+1} / ${tour.events.length}`:'LIVE STUDIO NOTE';
-  if(event.camera)camera.move(event.camera,window.matchMedia('(prefers-reduced-motion: reduce)').matches?.01:.9);
+  if(event.camera){camera.move(event.camera,window.matchMedia('(prefers-reduced-motion: reduce)').matches?.01:.9);manualCamera=!recorded;}
   status(kind==='look'||kind==='notice'?'Let’s take a look together.':'A little thought at the easel.');updateButtons();
 }
 function recordMoment(event){
@@ -127,18 +127,18 @@ function applyCamera(){
 function setView(close){
   const target=close?{zoom:2,x:.5,y:.5}:{zoom:1,x:.5,y:.5};
   if(camera.elapsed>=camera.duration&&Math.abs(camera.value.zoom-target.zoom)<.005&&Math.abs(camera.value.x-target.x)<.002&&Math.abs(camera.value.y-target.y)<.002)return;
-  camera.move(target,.8);
+  camera.move(target,.8);manualCamera=true;
   if(!busy())recordMoment({kind:'look',camera:target,duration:1200});
 }
 $('whole-view').onclick=()=>setView(false);$('close-view').onclick=()=>setView(true);
 wrap.addEventListener('scroll',()=>{
-  if(busy()||performance.now()<programmaticCameraUntil)return;
+  if(performance.now()<programmaticCameraUntil)return;
   clearTimeout(scrollTimer);scrollTimer=setTimeout(()=>{
-    if(busy()||performance.now()<programmaticCameraUntil)return;
+    if(performance.now()<programmaticCameraUntil)return;
     const zoom=camera.value.zoom,w=wrap.clientWidth,h=wrap.clientHeight;
     const target={zoom,x:Math.max(0,Math.min(1,(wrap.scrollLeft+w/2)/(w*zoom))),y:Math.max(0,Math.min(1,(wrap.scrollTop+h/2)/(h*zoom)))};
-    camera.value={...target};camera.target={...target};
-    recordMoment({kind:'look',camera:target,duration:1200});
+    camera.value={...target};camera.target={...target};camera.elapsed=camera.duration;manualCamera=false;
+    if(!busy())recordMoment({kind:'look',camera:target,duration:1200});
   },250);
 });
 window.addEventListener('resize',applyCamera);
@@ -257,8 +257,8 @@ function frame(now){
     const spokenHold=speechActive&&tour.active&&tour.elapsed+seconds*1000>=tour.active.duration;
     holding=tour.advance(spokenHold?0:seconds,player.strokes.length);
     if(!holding&&player.advance(seconds,tour.running))dirty=true;
-    if(camera.advance(seconds))applyCamera();
   }
+  if(!player.paused||manualCamera){if(camera.advance(seconds))applyCamera();if(camera.elapsed>=camera.duration)manualCamera=false;}
   if(dirty){surface.render(pixels.data);ctx.putImageData(pixels,0,0);dirty=false;}
   const mark=player.active?.playback.drawn.at(-1),cursor=$('brush-cursor');
   if(mark&&!holding){
