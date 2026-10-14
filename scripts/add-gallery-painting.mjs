@@ -15,8 +15,9 @@ export async function addPainting({id,session,image,description,process,output=j
   const folder=join(output,'paintings',id),engineFolder=join(output,'replay-engine',engine);await mkdir(folder,{recursive:true});await mkdir(engineFolder,{recursive:true});
   for(let i=0;i<modules.length;i++)await writeFile(join(engineFolder,modules[i]),sources[i]);
   await writeFile(join(folder,'session.json'),JSON.stringify({...input,...doc},null,2)+'\n');await copyFile(resolve(image),join(folder,'finished.png'));
-  const entry={id,title:doc.title||'Untitled painting',description,process,media:[...new Set(doc.strokes.map(s=>s.medium))],strokes:doc.strokes.length,moments:doc.events.length,engine,session:`/paintings/${id}/session.json`,image:`/paintings/${id}/finished.png`,publishedAt:new Intl.DateTimeFormat('en-CA',{timeZone:'America/Los_Angeles',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date())};
   let catalog=[];try{catalog=JSON.parse(await readFile(join(output,'catalog.json'),'utf8'));}catch(e){if(e.code!=='ENOENT')throw e;}
+  const previous=catalog.find(entry=>entry.id===id),now=new Date();
+  const entry={id,title:doc.title||'Untitled painting',description,process,media:[...new Set(doc.strokes.map(s=>s.medium))],strokes:doc.strokes.length,moments:doc.events.length,engine,session:`/paintings/${id}/session.json`,image:`/paintings/${id}/finished.png`,addedAt:previous?.addedAt||(previous?undefined:now.toISOString()),addedAtSource:previous?.addedAtSource||(previous?undefined:'gallery-export'),publishedAt:previous?.publishedAt||new Intl.DateTimeFormat('en-CA',{timeZone:'America/Los_Angeles',year:'numeric',month:'2-digit',day:'2-digit'}).format(now)};
   await writeFile(join(output,'catalog.json'),JSON.stringify([entry,...catalog.filter(e=>e.id!==id)],null,2)+'\n');return entry;
 }
 if(process.argv[1]===fileURLToPath(import.meta.url)){

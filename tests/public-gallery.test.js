@@ -9,9 +9,11 @@ test('publishing a painting retains its notes and pins a working replay engine',
   try{
     const entry=await addPainting({id:'oil-study',session:join(root,'examples/copper-and-pears.json'),image:join(root,'examples/previews/copper-and-pears.png'),description:'Copper and fruit',process:'Inspected live',output});
     assert.equal(entry.strokes,57);assert.equal(entry.moments,46);
+    assert.ok(Number.isFinite(Date.parse(entry.addedAt)));assert.equal(entry.addedAtSource,'gallery-export');
     const {validateDocument}=await import(`file://${join(output,'replay-engine',entry.engine,'tour.js')}`);
     const doc=validateDocument(JSON.parse(await readFile(join(output,'paintings/oil-study/session.json'),'utf8')));assert.equal(doc.events.length,46);
-    await addPainting({id:'oil-study',session:join(root,'examples/copper-and-pears.json'),image:join(root,'examples/previews/copper-and-pears.png'),description:'Updated description',process:'Inspected live',output});
+    const updated=await addPainting({id:'oil-study',session:join(root,'examples/copper-and-pears.json'),image:join(root,'examples/previews/copper-and-pears.png'),description:'Updated description',process:'Inspected live',output});
+    assert.equal(updated.addedAt,entry.addedAt);assert.equal(updated.publishedAt,entry.publishedAt);
     assert.equal(JSON.parse(await readFile(join(output,'catalog.json'))).length,1);
     await assert.rejects(addPainting({id:'../escape',session:'missing',image:'missing',description:'x',process:'x',output}));
   }finally{await rm(output,{recursive:true,force:true});}

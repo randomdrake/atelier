@@ -14,7 +14,9 @@
     "engine": "8bfaaa7ce2d76e14",
     "session": "/paintings/lanterns-on-the-fallen-log/session.json",
     "image": "/paintings/lanterns-on-the-fallen-log/finished.png",
-    "publishedAt": "2026-10-14"
+    "publishedAt": "2026-10-14",
+    "addedAt": "2026-10-14T15:34:19-07:00",
+    "addedAtSource": "first-gallery-commit"
   },
   {
     "id": "two-wings-before-the-wind",
@@ -31,7 +33,9 @@
     "engine": "8bfaaa7ce2d76e14",
     "session": "/paintings/two-wings-before-the-wind/session.json",
     "image": "/paintings/two-wings-before-the-wind/finished.png",
-    "publishedAt": "2026-10-14"
+    "publishedAt": "2026-10-14",
+    "addedAt": "2026-10-14T15:15:05-07:00",
+    "addedAtSource": "first-gallery-commit"
   },
   {
     "id": "a-small-sea-of-green",
@@ -48,7 +52,9 @@
     "engine": "8bfaaa7ce2d76e14",
     "session": "/paintings/a-small-sea-of-green/session.json",
     "image": "/paintings/a-small-sea-of-green/finished.png",
-    "publishedAt": "2026-10-14"
+    "publishedAt": "2026-10-14",
+    "addedAt": "2026-10-14T10:05:44-07:00",
+    "addedAtSource": "first-gallery-commit"
   },
   {
     "id": "small-visitor-quiet-morning",
@@ -66,7 +72,9 @@
     "engine": "8bfaaa7ce2d76e14",
     "session": "/paintings/small-visitor-quiet-morning/session.json",
     "image": "/paintings/small-visitor-quiet-morning/finished.png",
-    "publishedAt": "2026-10-14"
+    "publishedAt": "2026-10-14",
+    "addedAt": "2026-10-14T08:07:06-07:00",
+    "addedAtSource": "first-gallery-commit"
   },
   {
     "id": "golden-fans-blue-glass",
@@ -83,7 +91,9 @@
     "engine": "8bfaaa7ce2d76e14",
     "session": "/paintings/golden-fans-blue-glass/session.json",
     "image": "/paintings/golden-fans-blue-glass/finished.png",
-    "publishedAt": "2026-10-14"
+    "publishedAt": "2026-10-14",
+    "addedAt": "2026-10-14T06:15:10-07:00",
+    "addedAtSource": "first-gallery-commit"
   },
   {
     "id": "lemon-at-the-blue-hour",
@@ -101,7 +111,9 @@
     "engine": "1b51d6ef05a1f55b",
     "session": "/paintings/lemon-at-the-blue-hour/session.json",
     "image": "/paintings/lemon-at-the-blue-hour/finished.png",
-    "publishedAt": "2026-10-13"
+    "publishedAt": "2026-10-13",
+    "addedAt": "2026-10-13T21:14:21-07:00",
+    "addedAtSource": "first-gallery-commit"
   },
   {
     "id": "copper-and-pears",
@@ -116,7 +128,9 @@
     "engine": "ea2ea027dedf27c2",
     "session": "/paintings/copper-and-pears/session.json",
     "image": "/paintings/copper-and-pears/finished.png",
-    "publishedAt": "2026-10-13"
+    "publishedAt": "2026-10-13",
+    "addedAt": "2026-10-13T20:24:59-07:00",
+    "addedAtSource": "first-gallery-commit"
   },
   {
     "id": "where-the-evening-goes",
@@ -133,7 +147,9 @@
     "engine": "ea2ea027dedf27c2",
     "session": "/paintings/where-the-evening-goes/session.json",
     "image": "/paintings/where-the-evening-goes/finished.png",
-    "publishedAt": "2026-10-13"
+    "publishedAt": "2026-10-13",
+    "addedAt": "2026-10-13T20:24:59-07:00",
+    "addedAtSource": "first-gallery-commit"
   },
   {
     "id": "afternoon-flowers",
@@ -151,7 +167,9 @@
     "engine": "ea2ea027dedf27c2",
     "session": "/paintings/afternoon-flowers/session.json",
     "image": "/paintings/afternoon-flowers/finished.png",
-    "publishedAt": "2026-10-13"
+    "publishedAt": "2026-10-13",
+    "addedAt": "2026-10-13T20:24:59-07:00",
+    "addedAtSource": "first-gallery-commit"
   },
   {
     "id": "harbor-study",
@@ -168,7 +186,9 @@
     "engine": "ea2ea027dedf27c2",
     "session": "/paintings/harbor-study/session.json",
     "image": "/paintings/harbor-study/finished.png",
-    "publishedAt": "2026-10-13"
+    "publishedAt": "2026-10-13",
+    "addedAt": "2026-10-13T20:24:59-07:00",
+    "addedAtSource": "first-gallery-commit"
   },
   {
     "id": "quiet-coast",
@@ -184,6 +204,8 @@
     "engine": "ea2ea027dedf27c2",
     "session": "/paintings/quiet-coast/session.json",
     "image": "/paintings/quiet-coast/finished.png",
-    "publishedAt": "2026-10-13"
+    "publishedAt": "2026-10-13",
+    "addedAt": "2026-10-13T20:24:59-07:00",
+    "addedAtSource": "first-gallery-commit"
   }
 ]
