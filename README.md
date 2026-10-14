@@ -1,93 +1,115 @@
-# Atelier
+# Atelier 🎨
 
-Use **Browse paintings** in the header to explore the studio collection. Select a thumbnail or **View finished** for a large finished view; **Replay** opens that painting with its saved strokes, notes, and camera moves. You can switch paintings during playback without shortening their stored replay histories. The five existing studies are included; future paintings are saved automatically in this browser as marks and notes are completed. JSON downloads remain the portable backup. The gallery reports when browser storage is unavailable or full.
+**A little paint. A little looking. Another possibility.**
 
-The working surface is warm primed linen with crossing woven threads and a subtle stretched-canvas edge. Unpainted and thinly painted areas show the weave; opaque paint covers it. The material texture is rendered into PNG exports. Historical finished previews retain their original paint and are presented on a linen surface in the gallery.
+Atelier is a playful, open-source experiment: give an AI a brush, let it look at the canvas, and see what happens next. A human brings the curiosity. The agent makes a few marks, takes screenshots, steps closer, steps back, and decides where to go from there.
 
-A local, agent-driven paint studio. Run `npm run dev`, open http://127.0.0.1:5173, and draw with a mouse, touch, or pressure-sensitive pen. No package installation required. Run `npm test` and `npm run check` for validation.
+You can watch it paint, read its notes from the easel, and replay the whole journey. Or pick up the brush yourself.
 
-Six media share a CPU surface simulation with separate suspended watercolor and wet oil fields. Watercolor advects with capillary water flow over uneven paper, absorbs into the sheet, and settles with granulation, and can be reactivated by clean water. Oil is displaced in the direction of the brush, mixes through a three-band Kubelka–Munk approximation, and builds bristle ridges shaded by surface normals and wet highlights. Acrylic covers and dries quickly; pastel, chalk, and pencil deposit pressure-dependent dry marks. These remain experimental approximations, not validated fluid dynamics or full spectral paint chemistry. The paper type is currently fixed. The engine runs at 900 × 620 and may be slow on older devices.
+**[Visit the gallery →](https://atelier.randomdrake.com)** · [Try the studio](#your-turn) · [How it works](#a-painting-one-look-at-a-time) · [Help it grow](#come-make-a-mess)
 
-## The studio companion
+## Fresh from the easel
 
-The on-screen companion shares short observations, experiments, lessons, and decisions to keep a mark. The current pigment, brush size, paint load, animated brush contact, and camera view remain visible beside the commentary. Replay/pause/stop/speed controls are also available beside the companion while the larger controls remain below the canvas.
+### Copper & pears
 
-**Guided flower session** opens the first narrated replay: 34 marks and 24 studio moments. Its teaching notes were adapted from the public commentary during the original live flower painting, and its camera focuses recreate the inspected areas. This existing session was annotated afterward. New live notes and meaningful whole/close/pan changes are recorded as they happen and survive export and refresh.
+[![Oil painting of a copper pitcher and two pears on a linen-covered table](public-gallery/paintings/copper-and-pears/finished.png)](https://atelier.randomdrake.com/#painting/copper-and-pears)
 
-Use **Leave a thought at the easel** to publish a note with its purpose and camera focus. The **studio notebook** keeps the moments. **Include studio notes & camera moments** selects guided or brush-only replay. Optional **Read notes aloud** uses the browser/device’s normal voice when available; it is off by default.
+Warm copper, cool shadows, and thick oil paint. **57 strokes**, chosen in small batches after close-up and whole-view screenshots, with **17 live notes** and **29 camera moments**. This painting even helped us find and fix a paint-mixing bug along the way.
 
-Version 2 JSON sessions add `events` to the existing stroke history. Each event has `afterStroke`, optional `text`/`title`/`kind`, `duration` in milliseconds, and an optional `camera: {zoom, x, y}`. `kind` is `notice`, `try`, `learn`, `keep`, or `look`. Camera zoom is 1–3; focus coordinates are normalized. Events at the same boundary retain their order. Inspection time holds fluid and drying, and the camera moves smoothly to its focus; replay speed changes viewing time without changing the physical painting result. Pause freezes guided commentary and automatic camera movement as well as paint. Manual whole/close views and panning remain available for inspection while paused; stop cancels remaining moments.
+[Watch it painted →](https://atelier.randomdrake.com/#painting/copper-and-pears)
 
-For future live agent sessions, put the public observation in the browser before choosing the next batch:
+### Where the evening goes
 
-```js
-window.atelier.comment({
-  kind: 'notice',
-  text: 'The wash softened the left edge. Let’s keep it and sharpen the next one.',
-  camera: {zoom: 2, x: .4, y: .5}
-});
-await window.atelier.paint(nextFewStrokes);
+[![A small sailboat on soft blue water beneath a pale evening sky](public-gallery/paintings/where-the-evening-goes/finished.png)](https://atelier.randomdrake.com/#painting/where-the-evening-goes)
+
+A small boat in the last light of the day. **33 strokes**, watercolor, oil, and pencil; the next three marks were chosen after each visual inspection. The replay carries **12 live teaching notes** and **23 camera moments**.
+
+[Spend a quiet moment on the water →](https://atelier.randomdrake.com/#painting/where-the-evening-goes)
+
+### Afternoon flowers
+
+[![Orange, yellow, and pink flowers in a blue vase](public-gallery/paintings/afternoon-flowers/finished.png)](https://atelier.randomdrake.com/#painting/afternoon-flowers)
+
+A blue vase, a few bright flowers, and room to change our minds. **34 strokes** across watercolor, oil, chalk, and pencil. The marks were chosen after screenshots; this tour’s teaching notes were adapted afterward from the original commentary.
+
+[Visit the flowers →](https://atelier.randomdrake.com/#painting/afternoon-flowers)
+
+The gallery also has our earlier [harbor](https://atelier.randomdrake.com/#painting/harbor-study) and [quiet coast](https://atelier.randomdrake.com/#painting/quiet-coast) studies. Those began with scripted foundations, then received refinements after screenshots. Each painting tells you how it was made.
+
+## A painting, one look at a time
+
+1. **Find a spark.** A prompt, an ordinary object, a bit of weather, something worth looking at.
+2. **Make a few marks.** Usually one to four animated strokes.
+3. **Look again.** The agent inspects real browser screenshots, both close-up texture and the whole composition.
+4. **Leave a note.** What softened? What needs another try? What should we leave alone?
+5. **Keep going.** Choose the next marks from the picture in front of us, then save the finished work and its replay.
+
+The recent paintings develop through this loop, without a complete stroke script prepared in advance. The notes are explanations shared with viewers as the work develops. Camera moves and observations travel with the painting, so replay can bring you back to the easel. A live brush tray shows the medium, pigment, brush size, paint load, and water or oil thickness for each mark.
+
+## Six ways to leave a mark
+
+| Material | What you can play with |
+| --- | --- |
+| Watercolor | Wet washes, spreading color, grain, and clean water that wakes pigment up again. |
+| Oil | Thick paint, brush ridges, wet color mixing, and highlights across the texture. |
+| Acrylic | Bold coverage and quick drying. |
+| Pastel | Soft, grainy color that catches the surface. |
+| Chalk | Dusty marks and gentle highlights. |
+| Pencil | Pressure-sensitive lines for sketches and little details. |
+
+The studio has a woven canvas-like surface, animated brush contact, undo, zoom, and PNG and replay downloads. These materials are experimental simulations. Some marks are still too regular; discovering those quirks is part of the fun and part of the work.
+
+## Your turn
+
+**Just looking?** Open the [public gallery](https://atelier.randomdrake.com). Choose a painting, watch it come together, pause to look closer, or hit play again. No setup needed.
+
+**Want to paint?** With [Node.js](https://nodejs.org/) 20 or newer installed:
+
+```sh
+git clone https://github.com/randomdrake/atelier.git
+cd atelier
+npm run dev
 ```
 
-`comment` anchors a moment at the currently completed mark count. A `paint` call can also accept a complete version 2 session; event boundaries are relative to that incoming batch. The visible score editor accepts the same object or a legacy stroke array. `getDocument()` and JSON downloads include strokes and studio moments. During playback, saving retains the complete source so a refresh can restart an interrupted replay. Legacy version 1 sessions and old stroke arrays still open.
+Open **http://127.0.0.1:5173/**. There are no packages to install. Paint with a mouse, touch, or a pressure-sensitive pen. Use **Browse paintings** for the studio collection and **Replay painting** to watch again. Download the PNG and session JSON to keep your work outside browser storage.
 
-## Agent painting
+**Want an AI painting companion?** This repository includes an [Atelier skill](skills/atelier/SKILL.md) for Codex. It is already installed on the project owner’s machine. To add it on your own machine, run these commands from this checkout:
 
-Use the visible **Agent controls & stroke score** panel to submit JSON and watch it animate. Browser agents can fill the editor, click **Play stroke score**, and take screenshots to evaluate the result. Alternatively, a browser integration with script execution can call:
-
-```js
-await window.atelier.paint([
-  {medium:'watercolor',color:'#315b70',size:30,flow:.7,tip:'round',duration:1800,
-   points:[[.1,.5,.3],[.4,.3,.8],[.8,.5,.2]]}
-]);
-window.atelier.getState();
+```sh
+mkdir -p ~/.agents/skills
+ln -s "$(pwd)/skills/atelier" ~/.agents/skills/atelier
 ```
 
-Coordinates and pressure are normalized from 0 to 1; size is in surface pixels. Optional `water` and `body` (0–1) control watercolor moisture and oil thickness. `flow: 0` with `water: 1` makes a clean-water watercolor stroke. `wait` delays a stroke in milliseconds, letting previous washes settle. Strokes execute sequentially. `paint` returns a promise that resolves on completion or cancellation. Also available: `replay`, `clear`, `stop`, `pause`, `resume`, and `getSession`. Pause freezes both playback and physics. Stop keeps the partially painted stroke. New canvas cancels playback. Undo restores physical fields within a 128 MiB memory budget (two checkpoints at the current resolution).
+Then start a chat with `$atelier a rainy street at night`, or just `$atelier` and let it find inspiration. It needs browser-control tools to look at the actual canvas. The skill reads the saved practice journal, so a new chat can pick up the lessons. `/atelier …` is also described as an instruction alias; `$atelier` is the explicit skill invocation.
 
-**Whole painting** and **Close view** switch between composition and zoomed surface inspection; the close view can be scrolled. **Review rhythm** optionally pauses after 3, 5, or 10 completed marks. Both physics and playback freeze at a review pause, and **Continue painting** advances the next batch. This supports frequent visual feedback while an agent paints.
+For the project owner, completed paintings are saved to GitHub and published to this gallery by default. Say **“local only”** to keep a session unpublished. Other contributors should configure their own publishing destination; see the [publishing guide](PUBLISHING.md).
 
-**Replay painting** clears the canvas and replays all recorded strokes. Replay starts at 1.5×; choose 0.5×, 1×, 1.5×, 2×, or 4× to change viewing speed. Recorded note durations are preserved in exports, but replay uses brief 1.2–2.4 second comment dwells and 0.65 second camera dwells (before speed scaling). Shorter recorded timings remain short. Comments stay visible during the next strokes and remain in the notebook. Camera transitions take 0.5 seconds before speed scaling. Read notes aloud allows spoken comments to finish before advancing. A fixed 30 Hz timeline interleaves deposition and 10 Hz fluid evolution, so a score reconstructs the same physical fields at completion across frame rates and viewing speeds. The simulation continues drying after completion. Replay excludes unrecorded thinking time between separate batches and reconstructs manual marks from recorded path samples. PNG export captures the current view; JSON export saves the score, not an exact physical snapshot. Browser storage retains the last completed score; after refresh, press Replay painting to reconstruct it. Downloads still work when browser storage is unavailable.
+## Does it get better?
 
-The prompt button selects handcrafted harbor, coastal, floral, or abstract studies by keywords. It does not call an AI model. Creative agent compositions can supply arbitrary scores. This separation lets the agent inspect screenshots, choose its next marks, and work in small batches. The harbor study contains 341 animated strokes and takes about two minutes at normal speed, with waterfront architecture, a lighthouse, a sailboat, reflections, a timber pier, and foreground flowers.
+That’s something we want to measure, not simply declare. The [practice journal](practice/LEARNING.md) saves goals, visible results, corrections, and the next thing to try. New chats read it before painting. It is shared memory, not model retraining.
 
-`examples/quiet-coast.json` contains the first 75-stroke browser-painted study: 57 initial watercolor/pencil strokes followed by 18 screenshot-guided marks that strengthen the boat, birds, and shoreline. Import it through the agent panel to watch the painting replay.
+Repeated studies and human feedback can help us see whether the paintings improve. Changes to the simulator can also change the results, so we record those too. Honest awkward pears are welcome here.
 
-`examples/harbor-study.json` contains the detailed 348-stroke harbor session: the 341-stroke foundation followed by seven refinements made with close and whole-view inspection between small batches. Choose Continuous for an uninterrupted replay, or a review rhythm to examine each batch.
+## Come make a mess
 
-`examples/afternoon-flowers.json` records a new still life painted from blank paper in 34 strokes. Its next 1–3 marks were selected after whole-view and close-up screenshots, across 12 review rounds. The finished history was exported afterward for replay; there was no complete score prepared in advance. Watercolor washes and foliage, oil petals and a glaze highlight, chalk, and a pencil vein were combined as the painting developed.
+Atelier is **[MIT licensed](LICENSE)**: the studio, paint simulation, gallery, and recorded sessions are open source. Contributions could be a better watercolor edge, a less mechanical oil brush, a kinder interface, a bug report, or a thoughtful comparison between studies.
 
-`examples/where-the-evening-goes.json` records an original dusk sailboat study made in eleven three-stroke batches. Each next batch followed whole-view and close-up screenshot inspection. Its 12 teaching notes were posted live in the browser, and its 23 camera moments include whole views, close views, and a foreground pan. Import this session with **Include studio notes & camera moments** enabled to watch the decisions and inspections unfold with the painting.
+Try a painting, share what you notice, or [open an issue](https://github.com/randomdrake/atelier/issues). If you change the simulation, include a small example that shows what improved.
 
-`examples/copper-and-pears.json` records a 57-stroke oil still life, with 17 live teaching notes and 29 camera moments. Batches of 3–4 strokes were selected after close and whole-view screenshots. The study exposed excessive mixing through buried paint: the oil model was corrected after stroke 18, then those existing marks were rebuilt before painting continued. Replay uses the corrected model throughout; the early notes describe the original experiment, and the notes at stroke 18 explain the rebuild. Creation metadata records both Git revisions.
+For contributors who want to get under the paint:
 
-Oil now tracks an optical surface color separately from conserved pigment through depth. Fresh opaque paint can cover buried pigment, while thin strokes and wet brush pickup still mix exposed colors. Thick, loaded brushes retain more fresh color than thin brushes. This is an approximation, and bristle texture remains more regular than real paint.
+- [Studio guide](docs/studio-guide.md): brush controls, agent strokes, replay formats, and simulation details.
+- [Publishing guide](PUBLISHING.md): how a finished study reaches the separate viewing site.
+- [Practice journal](practice/LEARNING.md): how we carry lessons between chats.
+- [Recorded paintings](examples/): portable sessions you can import and replay.
 
-## Verification
+```sh
+npm test                 # Check paint behavior and replay
+npm run check            # Check JavaScript syntax
+npm run gallery:build    # Build the separate viewing gallery
+npm run gallery:preview  # View it locally on port 5174
+```
 
-The 37 automated tests cover distinct media deposition, capillary transport beyond the initial brush footprint, conservation of pigment and oil relief, separation of suspended and anchored colors, absorption and settling, clean-water strokes and rewetting, brush-driven oil displacement, subtractive mixing, body-dependent ridges, drying, state restoration, score validation, cancellation, and exact physical replay across frame rates. Browser checks exercised custom watercolor/oil scores, cross-stroke mixing, replay, pause/resume, changed viewing speed, saved-score recovery after refresh, automatic three-mark review pauses with whole/close inspection, narrated replay with camera choreography, live note publication with camera focus, and export of those moments, in addition to the earlier six-media, undo, stop, validation, and export checks.
+The studio and viewing gallery are separate: one is for making a mess, the other is for spending a little time with what came out of it.
 
-The narration tests also cover legacy import compatibility, note and camera validation, boundary ordering, exact camera focus, cancellation, and all 24 flower-session moments. The narrated and brush-only replays produce identical physical fields at completion in the test simulation.
-
-## Next realism milestones
-
-- Full pigment-specific spectral absorption and scattering, and distinct cured oil layers.
-- Calibrated paper fibers, capillary backruns, and evaporation-driven edge rings.
-- Individual bristle dynamics, calibrated viscosity, and conservative brush-reservoir exchange.
-- GPU simulation, high-resolution tiled surfaces, and exact physical-session snapshots.
-
-Each medium's `spread` controls its mobile pigment fraction. Suspended pigment has its own color field so water transport never borrows color from underlying dry marks or oil. Oil surface displacement conserves its mass, absorption, color, and relief. Each stroke also has a brush reservoir that gradually depletes and picks up wet color across its contact patch. Reservoir pickup still approximates color exchange without removing pigment from the surface. The oil optical model uses three RGB bands, not measured spectra, and aggregates the oil layer rather than resolving every cured coat. Surface fluid flow is a bounded pairwise approximation, not a Navier–Stokes solver.
-
-## Painting from a new chat
-
-The reusable `skills/atelier` skill is installed as a personal skill on this machine through `~/.agents/skills/atelier`. Use `$atelier a rainy street at night`, or `$atelier` to let the agent find inspiration and choose a subject. `/atelier …` is an instruction alias, not a guaranteed built-in slash command. Codex discovers local skill changes automatically; restart if it does not appear. The skill locates this checkout, reads the practice journal, paints in small screenshot-guided batches, and records observations and camera moves.
-
-The owner's standing preference is to publish completed Atelier paintings to GitHub and the public gallery, unless a session says local only or not to publish. See `PUBLISHING.md`. A publication is reported separately for GitHub, Sites, and custom DNS.
-
-## Public viewing site
-
-`public-gallery/` is a separate, read-only gallery: finished images, recorded replay, a project explainer, and a practice journal. `npm run gallery:build` creates `dist/` and a downloadable MIT source archive, excluding studio controls from the deployed UI. Each published work snapshots its replay engine so later physics edits cannot silently rewrite its process. The existing Sites project is identified in `.openai/hosting.json`; reuse it for all future releases.
-
-## Evidence of practice
-
-`practice/studies.json` holds concrete observations, evidence paths, renderer context, next experiments, and human ratings when supplied. `practice/LEARNING.md` defines comparisons and repeatable calibration studies. This is external memory and practice, not model retraining. Initial entries are explicitly retrospective baselines.
+Made with 🧡 in Tigard, OR by [randomdrake](https://randomdrake.com).

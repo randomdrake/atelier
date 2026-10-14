@@ -21,7 +21,7 @@ Start a new canvas. Publish a short opening note through **Leave a thought at th
 
 Put observations, teaching, and the next experiment into the browser notebook as the work develops. Describe visible evidence, intent, and practical lessons; do not expose private reasoning or claim the notes are a transcript of it. Use whole/close camera buttons and pans after playback is idle so those movements record. Let animations settle before judging an edge. Repeat until the composition is resolved; do not equate a larger stroke count with better work.
 
-The canvas is 900×620. Stroke points are normalized `[x,y,pressure]`; colors use six-digit hex. Sizes are 1–160 px. Oil `body` and `flow` range 0–1; `tip` is `round` or `flat`. Watercolor uses `water`. Typical stroke durations are 800–1500 ms. Read `README.md` for current schemas and physics. Preserve animation and record every used medium; do not substitute image generation for painting with the simulator unless the user requests it.
+The canvas is 900×620. Stroke points are normalized `[x,y,pressure]`; colors use six-digit hex. Sizes are 1–160 px. Oil `body` and `flow` range 0–1; `tip` is `round` or `flat`. Watercolor uses `water`. Typical stroke durations are 800–1500 ms. Read `docs/studio-guide.md` for current schemas and physics. Preserve animation and record every used medium; do not substitute image generation for painting with the simulator unless the user requests it.
 
 If an experiment exposes a simulator issue, say so candidly. Capture the session before modifying physics, make a focused fix with meaningful regression tests, and record the engine change and any rebuild in the creation metadata. Re-rendered earlier marks may differ from their original screenshots; document that distinction.
 
