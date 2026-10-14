@@ -65,3 +65,16 @@ test('the full flower lesson plays all 24 moments without changing the completed
   const plain=new PaintSurface(72,50),comparison=new PaintingSession(plain);comparison.play(doc.strokes);while(comparison.busy)comparison.advance(.04);
   assert.deepEqual(surface.snapshot(),plain.snapshot());
 });
+
+test('the full copper oil session replays every live note and camera cue without changing paint',async()=>{
+  const {readFile}=await import('node:fs/promises');
+  const doc=validateDocument(JSON.parse(await readFile(new URL('../examples/copper-and-pears.json',import.meta.url),'utf8')));
+  assert.equal(doc.strokes.length,57);assert.equal(doc.events.length,46);
+  assert(doc.strokes.every(s=>s.medium==='oil'));
+  const surface=new PaintSurface(72,50),player=new PaintingSession(surface),heard=[];
+  const tour=new StudioTour({cue:e=>heard.push(e)});player.play(doc.strokes);tour.start(doc.events,doc.strokes.length);
+  let frames=0;while(player.busy||tour.running){if(!tour.advance(.2,player.strokes.length)&&player.busy)player.advance(.2,true);assert(frames++<20000);}
+  assert.deepEqual(heard,doc.events);
+  const plain=new PaintSurface(72,50),comparison=new PaintingSession(plain);comparison.play(doc.strokes);while(comparison.busy)comparison.advance(.04);
+  assert.deepEqual(surface.snapshot(),plain.snapshot());
+});
