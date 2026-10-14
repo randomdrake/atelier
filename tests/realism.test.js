@@ -26,6 +26,14 @@ test('a clean-water brush adds moisture without adding paint',()=>{
   const s=new PaintSurface(48,36);s.dab(.5,.5,1,{...watercolor,flow:0});
   assert(sum(s.water)>0);assert.equal(sum(s.mass),0);assert.equal(sum(s.mobilePigment),0);
 });
+test('clean water redissolves settled watercolor without creating new pigment',()=>{
+  const s=new PaintSurface(48,36);s.dab(.5,.5,1,watercolor);
+  for(let i=0;i<200;i++)s.step(.1);
+  const mobile=sum(s.mobile),mass=sum(s.mass),color=totalRGB(s);
+  s.dab(.5,.5,1,{...watercolor,flow:0});
+  assert(sum(s.mobile)>mobile);close(sum(s.mass),mass,.001);
+  totalRGB(s).forEach((v,c)=>close(v,color[c],.001));
+});
 test('oil displacement conserves color, absorption, mass, and relief',()=>{
   const s=new PaintSurface(48,36);s.dab(.5,.5,1,oil);
   const totals=['mass','pigment','oilMass','oilPigment','oilColor','heightMap','oilHeight'].map(k=>sum(s[k]));

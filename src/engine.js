@@ -40,7 +40,7 @@ export function validateScore(strokes) {
   return structuredClone(strokes);
 }
 function tooth(x,y) { const v=Math.sin(x*127.1+y*311.7)*43758.5453; return v-Math.floor(v); }
-const FIELDS = ['pigment','mass','water','absorbed','heightMap','mobile','mobilePigment','wet','drying','oilMass','oilPigment','oilColor','oilWet','oilHeight'];
+const FIELDS = ['pigment','mass','water','absorbed','heightMap','mobile','mobilePigment','washMass','washPigment','wet','drying','oilMass','oilPigment','oilColor','oilWet','oilHeight'];
 export class BrushReservoir {
   constructor(brush) { this.color=rgb(brush.color); this.load=1; this.medium=brush.medium; }
   contact(surface,nx,ny,brush,angle) {
@@ -64,7 +64,7 @@ export class BrushReservoir {
 export class PaintSurface {
   constructor(width=720,height=500) {
     this.width=width; this.height=height; this.length=width*height;
-    for (const key of FIELDS) this[key]=new Float32Array(this.length*(['pigment','mobilePigment','oilPigment','oilColor'].includes(key)?3:1));
+    for (const key of FIELDS) this[key]=new Float32Array(this.length*(['pigment','mobilePigment','washPigment','oilPigment','oilColor'].includes(key)?3:1));
     this.tooth=Float32Array.from({length:this.length},(_,i)=>tooth(i%width,Math.floor(i/width)));
     this.clear();
   }
@@ -80,10 +80,23 @@ export class PaintSurface {
     for (let c=0;c<3;c++) {
       const moved=this.mobilePigment[source*3+c]*fraction;
       this.mobilePigment[source*3+c]-=moved; this.mobilePigment[target*3+c]+=moved;
+      this.washPigment[source*3+c]-=moved; this.washPigment[target*3+c]+=moved;
       this.pigment[source*3+c]-=moved; this.pigment[target*3+c]+=moved;
     }
     this.mass[source]-=amount; this.mass[target]+=amount;
     this.mobile[source]-=amount; this.mobile[target]+=amount;
+    this.washMass[source]-=amount; this.washMass[target]+=amount;
+  }
+  rewet(index,fraction) {
+    // Only previously settled wash pigment can redissolve; graphite and oil remain anchored.
+    const settled=Math.max(0,this.washMass[index]-this.mobile[index]);
+    if(settled<1e-8)return;
+    fraction=clamp(fraction,0,.15);
+    this.mobile[index]+=settled*fraction;
+    for(let c=0;c<3;c++) {
+      const offset=index*3+c;
+      this.mobilePigment[offset]+=Math.max(0,this.washPigment[offset]-this.mobilePigment[offset])*fraction;
+    }
   }
   // Conservative, brush-driven displacement of the wet oil surface layer.
   moveOil(source,target,amount) {
@@ -129,16 +142,20 @@ export class PaintSurface {
         this.moveOil(source,i,displacement);
         for(let c=0;c<3;c++) { this.oilPigment[i*3+c]+=amount*ks[c]; this.oilColor[i*3+c]+=amount*color[c]; }
         this.oilMass[i]+=amount; this.oilWet[i]=clamp(this.oilWet[i]+amount*3);
-        const relief=amount*m.relief*(.25+body*1.8)*(.35+ridge*1.65);
+        const relief=amount*m.relief*(.08+body*body*2.5)*(.35+ridge*1.65);
         this.oilHeight[i]+=relief; this.heightMap[i]+=relief;
       } else this.heightMap[i]+=amount*m.relief;
       for(let c=0;c<3;c++) {
         this.pigment[i*3+c]+=amount*color[c];
         this.mobilePigment[i*3+c]+=amount*m.spread*color[c];
+        this.washPigment[i*3+c]+=amount*m.spread*color[c];
       }
       this.mass[i]+=amount; this.mobile[i]+=amount*m.spread;
+      this.washMass[i]+=amount*m.spread;
       const water=brush.medium==='watercolor'?(brush.water??m.water):m.water;
-      this.water[i]=clamp(this.water[i]+water*edge*pressure*.24);
+      const addedWater=water*edge*pressure*.24;
+      this.water[i]=clamp(this.water[i]+addedWater);
+      if(brush.medium==='watercolor')this.rewet(i,addedWater*.16);
       this.wet[i]=clamp(this.wet[i]+(m.drying<1?amount*2:0));
       this.drying[i]=m.drying;
     }
@@ -187,6 +204,7 @@ export class PaintSurface {
       this.absorbed[i]+=soak;this.water[i]-=soak;
       this.water[i]=Math.max(0,this.water[i]-dt*.016*(1.5-this.absorbed[i]));
       this.absorbed[i]=Math.max(0,this.absorbed[i]-dt*.007);
+      if(this.water[i]>.18)this.rewet(i,dt*this.water[i]*.02);
       // Settlement anchors suspended pigment, with stronger granulation in paper valleys.
       const settle=1-Math.exp(-dt*(.03+this.tooth[i]*.06)/(this.water[i]+.045));
       this.mobile[i]*=1-settle;
