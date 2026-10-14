@@ -2,7 +2,7 @@ const $=id=>document.getElementById(id),dialog=$('viewer'),wrap=$('surface'),can
 let catalog=[],selected=null,player=null,tour=null,camera=null,surface=null,pixels=null,paused=false,running=false,last=0,epoch=0;
 const headings={notice:'A closer look',try:'Let’s try a little something',learn:'A studio discovery',keep:'Knowing what to keep'};
 function stop(){epoch++;running=false;paused=false;player?.stop();tour?.stop();$('contact').hidden=true;}
-function finishedView(){stop();$('finished').hidden=false;canvas.hidden=true;wrap.style.height='';wrap.scrollLeft=wrap.scrollTop=0;$('pause').hidden=true;$('show-finished').hidden=true;$('caption').hidden=true;$('play').textContent='Watch it painted';$('play').disabled=false;$('progress').textContent='Finished view';}
+function finishedView(){stop();dialog.classList.remove("replaying");$('finished').hidden=false;canvas.hidden=true;wrap.style.height='';wrap.scrollLeft=wrap.scrollTop=0;$('pause').hidden=true;$('show-finished').hidden=true;$('caption').hidden=true;$('play').textContent='Watch it painted';$('play').disabled=false;$('progress').textContent='Finished view';}
 function openWork(entry,watch=false){
   stop();selected=entry;$('work-title').textContent=entry.title;$('work-meta').textContent=`${entry.media.join(' / ')} · ${entry.strokes} marks${entry.moments?` · ${entry.moments} studio moments`:''}`;
   $('finished').src=entry.image;$('finished').alt=entry.title;$('work-description').textContent=entry.description;$('work-process').textContent=entry.process;
@@ -21,7 +21,7 @@ async function replay(){
     player=new PaintingSession(surface,{beforeStroke:s=>{$('progress').textContent=`Mark ${player.strokes.length+1} of ${doc.strokes.length} · ${MEDIA[s.medium].label}`;}});
     tour=new StudioTour({cue:e=>{if(e.text){$('caption').hidden=false;$('caption-kind').textContent=e.kind||'Observation';$('caption-title').textContent=e.title||headings[e.kind]||'A thought at the easel';$('caption-text').textContent=e.text;}if(e.camera)camera.move(e.camera,.5);}});
     $('public-notes').replaceChildren();for(const e of doc.events.filter(e=>e.text)){const li=document.createElement('li');li.textContent=`After ${e.afterStroke} marks — ${e.text}`;$('public-notes').append(li);}$('notebook').hidden=!$('public-notes').children.length;
-    $('finished').hidden=true;canvas.hidden=false;canvas.style.width='100%';wrap.style.height=`${wrap.clientWidth*620/900}px`;
+    dialog.classList.add('replaying');$('finished').hidden=true;canvas.hidden=false;canvas.style.width='100%';wrap.style.height=`${wrap.clientWidth*620/900}px`;
     $('progress').textContent=`0 of ${doc.strokes.length} marks`;player.play(doc.strokes);tour.start(doc.events,doc.strokes.length);running=true;paused=false;last=performance.now();$('pause').hidden=false;$('pause').textContent='Pause';$('show-finished').hidden=false;$('play').textContent='Replay from the beginning';$('play').disabled=false;surface.render(pixels.data);ctx.putImageData(pixels,0,0);requestAnimationFrame(now=>frame(now,token));
   }catch(error){if(token===epoch){$('viewer-error').textContent=error.message;$('play').disabled=false;$('progress').textContent='';}}
 }
