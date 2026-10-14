@@ -15,14 +15,19 @@ test('notes get reading time proportional to their words, even with short saved 
   assert.equal(replayMomentDuration({text:'  ',duration:500}),500);
   const recorded=[{afterStroke:0,...long},{afterStroke:1,camera:{zoom:2,x:.5,y:.5},duration:1200}];
   const original=structuredClone(recorded),tour=new StudioTour();tour.start(recorded,1);
-  tour.advance(.01,0);assert(tour.advance(19,0));assert(!tour.advance(1,0));
+  tour.advance(.01,0);assert(tour.advance(3,0));assert(!tour.advance(1,0));
   tour.advance(.01,1);assert(tour.advance(.5,1));assert(!tour.advance(.15,1));
   assert.deepEqual(recorded,original);assert.deepEqual(tour.events,original);
 });
 test('every copper thought gets enough reading time while camera-only transitions stay short',async()=>{
   const {readFile}=await import('node:fs/promises');const doc=validateDocument(JSON.parse(await readFile(new URL('../examples/copper-and-pears.json',import.meta.url),'utf8')));
-  for(const e of doc.events){const duration=replayMomentDuration(e);if(e.text){const words=[e.title,e.text].filter(Boolean).join(' ').trim().split(/\s+/).length;assert(duration>=2000+words*300);}else assert(duration<=650);}
+  for(const e of doc.events){const duration=replayMomentDuration(e);if(e.text){const words=[e.title,e.text].filter(Boolean).join(' ').trim().split(/\s+/).length;assert(duration>=(e.afterStroke===0?4000:2000+words*300));}else assert(duration<=650);}
   assert.equal(doc.events.length,46);
+});
+test('opening thoughts start the brush within four seconds; later notes retain full reading time',()=>{
+  const text=Array(60).fill('paint').join(' ');
+  assert.equal(replayMomentDuration({afterStroke:0,text,duration:30000}),4000);
+  assert.equal(replayMomentDuration({afterStroke:4,text,duration:500}),20000);
 });
 test('legacy scores and sessions remain compatible with narrated documents',()=>{
   assert.equal(validateDocument([stroke]).events.length,0);

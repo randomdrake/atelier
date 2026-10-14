@@ -4,5 +4,7 @@ export function replayMomentDuration(event){
   const text=event.text?.trim();
   if(!text)return Math.min(event.duration??1200,650);
   const words=[event.title,text].filter(Boolean).join(' ').trim().split(/\s+/).length;
-  return Math.max(4000,2000+words*300);
+  const readingTime=Math.max(4000,2000+words*300);
+  // The introduction stays beside the first strokes; avoid a long blank easel.
+  return event.afterStroke===0?4000:readingTime;
 }
