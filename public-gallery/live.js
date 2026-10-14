@@ -1,8 +1,27 @@
 import {renderThought} from '/thought-links.js';
 import {livePresentation,thoughtChange} from '/live-status.js';
+import {cameraTransform} from '/camera.js';
+import {LiveCamera} from '/live-camera.js';
 
 const panel=document.getElementById('live-easel');
 const image=document.getElementById('live-image');
+const viewLabel=document.getElementById('live-view');
+const camera=new LiveCamera();
+let cameraFrame=0,cameraTime=0;
+function drawCamera(){
+  image.style.transform=cameraTransform(camera.value);
+  setText(viewLabel,camera.value.zoom>1.005?`Looking closer · ${camera.value.zoom.toFixed(1)}×`:'Whole painting');
+}
+function animateCamera(time){
+  camera.advance(Math.min(.1,Math.max(0,(time-cameraTime)/1000)));cameraTime=time;
+  drawCamera();
+  cameraFrame=camera.moving?requestAnimationFrame(animateCamera):0;
+}
+function followCamera(state,presentation){
+  camera.update(state,{ended:presentation.status==='ended',reducedMotion:reducedMotion.matches});
+  drawCamera();
+  if(camera.moving&&!cameraFrame){cameraTime=performance.now();cameraFrame=requestAnimationFrame(animateCamera);}
+}
 const badge=document.getElementById('live-badge-label');
 const title=document.getElementById('live-title');
 const activity=document.getElementById('live-activity');
@@ -29,6 +48,7 @@ function arrive(element){
 
 export function renderLive(state,now=Date.now()){
   const presentation=livePresentation(state,now);
+  followCamera(state,presentation);
   current=state;
   panel.hidden=false;indicator.hidden=false;
   panel.dataset.status=presentation.status;indicator.dataset.status=presentation.status;

@@ -1,5 +1,6 @@
 import {validateScore} from './engine.js';
 import {replayMomentDuration} from './pacing.js';
+import {validateCamera} from './camera.js';
 export {replayMomentDuration} from './pacing.js';
 
 export function validateEvents(events,strokeCount) {
@@ -13,8 +14,7 @@ export function validateEvents(events,strokeCount) {
     const duration=event.duration??(event.text?6500:1200);
     if(!Number.isFinite(duration)||duration<500||duration>30000)throw new Error('Studio moments last 500–30000 milliseconds');
     if(event.camera){
-      const {zoom,x,y}=event.camera;
-      if(!Number.isFinite(zoom)||zoom<1||zoom>3||![x,y].every(v=>Number.isFinite(v)&&v>=0&&v<=1))throw new Error('Camera views need zoom 1–3 and normalized x/y coordinates');
+      validateCamera(event.camera);
     }
     return {...structuredClone(event),duration};
   }).sort((a,b)=>a.afterStroke-b.afterStroke);
@@ -47,14 +47,4 @@ export class StudioTour {
     return true;
   }
 }
-export class StudioCamera {
-  constructor(){this.value={zoom:1,x:.5,y:.5};this.from={...this.value};this.target={...this.value};this.elapsed=1;this.duration=.8;}
-  move(target,seconds=.8){this.from={...this.value};this.target={...target};this.duration=seconds;this.elapsed=0;}
-  advance(seconds){
-    if(this.elapsed>=this.duration)return false;
-    this.elapsed=Math.min(this.duration,this.elapsed+seconds);
-    const t=this.duration?this.elapsed/this.duration:1,ease=t*t*(3-2*t);
-    for(const key of ['zoom','x','y'])this.value[key]=this.from[key]+(this.target[key]-this.from[key])*ease;
-    return true;
-  }
-}
+export {StudioCamera} from './camera.js';

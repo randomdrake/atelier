@@ -26,3 +26,8 @@
 .work-date sup{font-size:.6em;vertical-align:super;line-height:0;margin-left:1px}
 .work-date .date-clock{display:block;font-family:'DM Sans',sans-serif;font-size:11px;line-height:1.6;color:#76816c;margin-top:3px}
 #work-date{font-size:16px;margin:10px 0 0}.viewer-heading{align-items:flex-start}
+
+/* The frame stays still while the same eased camera as replay inspects it. */
+.live-viewport{position:relative;overflow:hidden;aspect-ratio:900/620;box-shadow:2px 4px 0 #b8ad90;background:#eee9db}
+.live-viewport #live-image{box-shadow:none;transform-origin:0 0;will-change:transform}
+.live-view{position:absolute;right:12px;bottom:12px;padding:6px 10px;border:1px solid #d8c6a4;border-radius:20px;background:#fff9eddd;color:#65715e;font-size:10px;pointer-events:none}

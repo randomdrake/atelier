@@ -54,6 +54,17 @@ test('duplicates and older updates cannot roll back the live painting',async()=>
   assert.equal((await handleLiveRequest(post({...payload,sessionId:client,sequence:1}),e,1004)).status,409);
 });
 
+test('camera-only updates survive the laptop relay, storage and public read without adding marks',async()=>{
+  const e=env();
+  const relay=new LocalBroadcastRelay({endpoint:'https://atelier.test/api/live',token,
+    fetcher:(url,options)=>handleLiveRequest(new Request(url,options),e,1000)});
+  await relay.publish({action:'start',payload:{...payload,camera:{zoom:1,x:.5,y:.5}},clientId:client});
+  const camera={zoom:2,x:.7,y:.3};
+  await relay.publish({action:'update',payload:{...payload,camera},clientId:client});
+  const state=await (await handleLiveRequest(new Request('https://atelier.test/api/live'),e,1001)).json();
+  assert.deepEqual(state.camera,camera);assert.equal(state.document.strokes.length,0);assert.equal(state.sequence,2);
+});
+
 test('an ended broadcast and missing heartbeats never claim someone is painting now',async()=>{
   const snapshot={...payload,receivedAt:1000};
   assert.equal(publicLiveState(snapshot,1000+LIVE_TIMEOUT-1).live,true);

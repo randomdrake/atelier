@@ -10,7 +10,7 @@ export async function addPainting({id,session,image,description,process,output=j
   if(!doc.strokes.length)throw new Error('A published painting needs completed strokes.');
   const bytes=await readFile(resolve(image));if(bytes.subarray(1,4).toString()!=='PNG')throw new Error('Provide the exported PNG painting.');
   if(!description?.trim()||!process?.trim())throw new Error('Describe the painting and how it was made.');
-  const modules=['engine.js','playback.js','session.js','tour.js','pacing.js'],sources=await Promise.all(modules.map(f=>readFile(join(root,'src',f))));
+  const modules=['engine.js','playback.js','session.js','tour.js','pacing.js','camera.js'],sources=await Promise.all(modules.map(f=>readFile(join(root,'src',f))));
   const engine=createHash('sha256').update(Buffer.concat(sources)).digest('hex').slice(0,16);
   const folder=join(output,'paintings',id),engineFolder=join(output,'replay-engine',engine);await mkdir(folder,{recursive:true});await mkdir(engineFolder,{recursive:true});
   for(let i=0;i<modules.length;i++)await writeFile(join(engineFolder,modules[i]),sources[i]);

@@ -4,7 +4,7 @@ import {execFileSync} from 'node:child_process';
 import {root} from './add-gallery-painting.mjs';
 const output=join(root,'dist');await rm(output,{recursive:true,force:true});await mkdir(output,{recursive:true});await cp(join(root,'public-gallery'),output,{recursive:true});await cp(join(root,'LICENSE'),join(output,'LICENSE.txt'));await cp(join(root,'src/pacing.js'),join(output,'pacing.js'));
 await cp(join(root,'src/thought-links.js'),join(output,'thought-links.js'));
-await cp(join(root,'src/live-status.js'),join(output,'live-status.js'));
+for(const file of ['live-status.js','camera.js','live-camera.js'])await cp(join(root,'src',file),join(output,file));
 const catalog=JSON.parse(await readFile(join(output,'catalog.json'),'utf8'));
 await cp(join(root,'practice'),join(output,'practice'),{recursive:true});
 execFileSync('zip',['-qr',join(output,'source.zip'),'src','scripts','hosting/app','hosting/build','hosting/lib','hosting/scripts','hosting/package.json','hosting/package-lock.json','hosting/vite.config.ts','hosting/tsconfig.json','hosting/cloudflare-env.d.ts','hosting/next-env.d.ts','skills','practice','public-gallery','examples','tests','docs','README.md','PUBLISHING.md','LICENSE','index.html','.env.example','package.json','server.mjs'],{cwd:root});

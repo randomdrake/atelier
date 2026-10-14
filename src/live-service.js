@@ -1,4 +1,5 @@
 import {validateDocument} from './tour.js';
+import {validateCamera,WHOLE_VIEW} from './camera.js';
 
 export const LIVE_TIMEOUT=45000;
 export const MAX_LIVE_BYTES=1500000;
@@ -31,7 +32,7 @@ export function validateLiveSnapshot(input){
       ...(event.camera?{camera:pick(event.camera,['zoom','x','y'])}:{})}))};
   if(typeof input.preview!=='string'||!/^data:image\/jpeg;base64,[A-Za-z0-9+/=]+$/.test(input.preview)||input.preview.length>700000)throw new Error('Invalid canvas preview');
   // Reconstruct a bounded public payload; never forward arbitrary local fields.
-  return {activity:input.activity,document,preview:input.preview};
+  return {activity:input.activity,document,preview:input.preview,camera:validateCamera(input.camera??WHOLE_VIEW)};
 }
 
 export function publicLiveState(snapshot,now=Date.now()){

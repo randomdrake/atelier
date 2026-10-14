@@ -319,8 +319,8 @@ const broadcast=new LiveBroadcast({
     const doc=documentState();
     const activity=replaySource?'replaying':busy()&&!player.paused?'painting':'looking';
     const signature=JSON.stringify([broadcastGeneration,doc.title,doc.strokes.length,doc.events.length,activity,
-      Math.round(camera.value.zoom*10),Math.round(camera.value.x*100),Math.round(camera.value.y*100)]);
-    return {activity,document:doc,preview:canvas.toDataURL('image/jpeg',.78),signature};
+      camera.target.zoom,camera.target.x,camera.target.y]);
+    return {activity,document:doc,camera:{...camera.target},preview:canvas.toDataURL('image/jpeg',.78),signature};
   },
   onStatus:(state,message)=>{
     const toggle=$('broadcast-toggle'),label=$('broadcast-status');
