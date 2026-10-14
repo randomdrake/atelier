@@ -70,7 +70,7 @@ function updateButtons(){
   for(const id of ['demo','run-score','undo','load-lesson','post-note'])$(id).disabled=working||!!pointer;
   $('replay').disabled=working||!!pointer||!player.strokes.length;$('replay-top').disabled=$('replay').disabled;
   $('pause').textContent=player.paused?(player.pauseReason==='review'?'Continue painting':'Resume'):'Pause';
-  $('pause-top').textContent=player.paused?'▶ Continue':'Ⅱ Pause';
+  $('pause-top').textContent=player.paused?'▶ Continue':'Ⅱ Pause';$('pause-top').setAttribute('aria-label',player.paused?'Continue studio session':'Pause studio session');document.querySelector('.studio-voice').classList.toggle('is-paused',player.paused);
   $('stroke-count').textContent=`${player.strokes.length} marks`;
   $('live').textContent=player.paused?'● A LITTLE LOOKING TIME':tour.active?'● AT THE EASEL':working?'● MAKING A MARK':'● ROOM FOR POSSIBILITY';
 }
