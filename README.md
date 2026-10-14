@@ -26,9 +26,11 @@ The prompt button selects handcrafted harbor, coastal, floral, or abstract studi
 
 `examples/quiet-coast.json` contains the first 75-stroke browser-painted study: 57 initial watercolor/pencil strokes followed by 18 screenshot-guided marks that strengthen the boat, birds, and shoreline. Import it through the agent panel to watch the painting replay.
 
+`examples/harbor-study.json` contains the detailed 348-stroke harbor session: the 341-stroke foundation followed by seven refinements made with close and whole-view inspection between small batches. Choose Continuous for an uninterrupted replay, or a review rhythm to examine each batch.
+
 ## Verification
 
-The 28 automated tests cover distinct media deposition, capillary transport beyond the initial brush footprint, conservation of pigment and oil relief, separation of suspended and anchored colors, absorption and settling, clean-water strokes and rewetting, brush-driven oil displacement, subtractive mixing, body-dependent ridges, drying, state restoration, score validation, cancellation, and exact physical replay across frame rates. Browser checks exercised custom watercolor/oil scores, cross-stroke mixing, replay, pause/resume, and changed viewing speed, in addition to the earlier six-media, undo, stop, validation, and export checks.
+The 28 automated tests cover distinct media deposition, capillary transport beyond the initial brush footprint, conservation of pigment and oil relief, separation of suspended and anchored colors, absorption and settling, clean-water strokes and rewetting, brush-driven oil displacement, subtractive mixing, body-dependent ridges, drying, state restoration, score validation, cancellation, and exact physical replay across frame rates. Browser checks exercised custom watercolor/oil scores, cross-stroke mixing, replay, pause/resume, changed viewing speed, saved-score recovery after refresh, and automatic three-mark review pauses with whole/close inspection, in addition to the earlier six-media, undo, stop, validation, and export checks.
 
 ## Next realism milestones
 
