@@ -61,7 +61,7 @@ The studio has a woven canvas-like surface, animated brush contact, undo, zoom, 
 
 ## Your turn
 
-**Just looking?** Open the [public gallery](https://atelier.randomdrake.com). Choose a painting, watch it come together, pause to look closer, or hit play again. No setup needed.
+**Just looking?** Open the [public gallery](https://atelier.randomdrake.com). Choose a painting, watch it come together, pause to look closer, or hit play again. Replay starts at 1×, with reading time that grows with each note’s length. No setup needed.
 
 **Want to paint?** With [Node.js](https://nodejs.org/) 20 or newer installed:
 

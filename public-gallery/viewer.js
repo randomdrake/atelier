@@ -1,3 +1,4 @@
+import {replayMomentDuration} from '/pacing.js';
 const $=id=>document.getElementById(id),dialog=$('viewer'),wrap=$('surface'),canvas=$('replay-canvas'),ctx=canvas.getContext('2d',{alpha:false});
 let catalog=[],selected=null,player=null,tour=null,camera=null,surface=null,pixels=null,paused=false,running=false,last=0,epoch=0;
 let currentEvents=[];
@@ -36,7 +37,8 @@ async function replay(){
     surface=new PaintSurface(900,620);pixels=ctx.createImageData(900,620);camera=new StudioCamera();
     player=new PaintingSession(surface,{beforeStroke:s=>{showBrush(s,MEDIA,player.strokes.length+1,doc.strokes.length);$('progress').textContent=`Mark ${player.strokes.length+1} of ${doc.strokes.length} · ${MEDIA[s.medium].label}`;}});
     $('caption').hidden=true;
-    tour=new StudioTour({cue:e=>{if(e.text)showThought(e);if(e.camera){camera.move(e.camera,.5);$('caption-camera').hidden=false;$('caption-camera').textContent=e.camera.zoom>1?`Leaning closer · ${e.camera.zoom.toFixed(1)}×`:'Stepping back · the whole painting';}}});
+    const ReadableTour=class extends StudioTour{get activeDuration(){return this.active?replayMomentDuration(this.active):0;}};
+    tour=new ReadableTour({cue:e=>{if(e.text)showThought(e);if(e.camera){camera.move(e.camera,.5);$('caption-camera').hidden=false;$('caption-camera').textContent=e.camera.zoom>1?`Leaning closer · ${e.camera.zoom.toFixed(1)}×`:'Stepping back · the whole painting';}}});
     fillNotebook(doc.events);
     dialog.classList.add('replaying');$('finished').hidden=true;canvas.hidden=false;canvas.style.width='100%';wrap.style.height=`${wrap.clientWidth*620/900}px`;
     $('progress').textContent=`0 of ${doc.strokes.length} marks`;if(doc.strokes.length)showBrush(doc.strokes[0],MEDIA,1,doc.strokes.length);player.play(doc.strokes);tour.start(doc.events,doc.strokes.length);running=true;paused=false;last=performance.now();$('pause').hidden=false;$('pause').textContent='Pause';$('show-finished').hidden=false;$('play').textContent='Replay from the beginning';$('play').disabled=false;surface.render(pixels.data);ctx.putImageData(pixels,0,0);requestAnimationFrame(now=>frame(now,token));

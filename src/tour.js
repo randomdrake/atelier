@@ -1,4 +1,6 @@
 import {validateScore} from './engine.js';
+import {replayMomentDuration} from './pacing.js';
+export {replayMomentDuration} from './pacing.js';
 
 export function validateEvents(events,strokeCount) {
   if(!Array.isArray(events)||events.length>1000)throw new Error('Provide at most 1000 studio moments');
@@ -23,14 +25,6 @@ export function validateDocument(data) {
   if(data.title!==undefined&&data.title!==null&&(typeof data.title!=='string'||data.title.length>200))throw new Error('Invalid painting title');
   const strokes=validateScore(data.strokes);
   return {version:2,title:data.title??null,strokes,events:validateEvents(data.events??[],strokes.length)};
-}
-
-// Display pacing is independent of recorded durations, so old sessions benefit
-// without changing their notes, order, or exported history. Text stays visible
-// during the following strokes; the notebook allows a longer read at any time.
-export function replayMomentDuration(event){
-  const text=event.text?.trim(),words=text?text.split(/\s+/).length:0;
-  return Math.min(event.duration??6500,words?Math.min(2400,1200+words*16):650);
 }
 
 // Review time holds the physical simulation. Narration never alters pigment or drying.
