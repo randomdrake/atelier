@@ -1,5 +1,4 @@
 import {MEDIA,PaintSurface,BrushReservoir} from './engine.js';
-import {compose} from './compositions.js';
 import {PaintingSession} from './session.js';
 import {StudioTour,StudioCamera,validateDocument,validateEvents} from './tour.js';
 import {PaintingLibrary} from './library.js';
@@ -80,7 +79,7 @@ function point(e){
 function updateButtons(){
   const working=busy();
   for(const id of ['pause','stop','pause-top','stop-top'])$(id).disabled=!working;
-  for(const id of ['demo','run-score','undo','load-lesson','post-note'])$(id).disabled=working||!!pointer;
+  for(const id of ['run-score','undo','load-lesson','post-note'])$(id).disabled=working||!!pointer;
   $('replay').disabled=working||!!pointer||!player.strokes.length;$('replay-top').disabled=$('replay').disabled;
   $('pause').textContent=player.paused?(player.pauseReason==='review'?'Continue painting':'Resume'):'Pause';
   $('pause-top').textContent=player.paused?'▶ Continue':'Ⅱ Pause';$('pause-top').setAttribute('aria-label',player.paused?'Continue studio session':'Pause studio session');document.querySelector('.studio-voice').classList.toggle('is-paused',player.paused);if(player.paused)document.querySelector('.studio-voice').classList.remove('new-note');
@@ -253,7 +252,6 @@ $('undo').onclick=()=>{
   surface.restore(prev.state);player.strokes.length=prev.count;events=events.filter(e=>e.afterStroke<=prev.count);
   dirty=true;updateButtons();renderNotebook();saveSession();status('Lifted that last gesture. There’s room to try again.');
 };
-$('demo').onclick=()=>{reset();const composition=compose($('prompt').value);$('painting-title').textContent=composition.title;enqueue(composition.strokes);};
 $('run-score').onclick=()=>{try{enqueue(JSON.parse($('score').value));}catch(err){status(err.message);}};
 $('post-note').onclick=()=>{
   try{

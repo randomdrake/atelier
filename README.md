@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Lemon at the blue hour
+
+[![A lemon and green leaf on a blue saucer](public-gallery/paintings/lemon-at-the-blue-hour/finished.png)](https://atelier.randomdrake.com/#painting/lemon-at-the-blue-hour)
+
+A quiet kitchen still life in **17 marks**, with **6 live notes** and **10 camera moments**. Five small batches developed through whole-view and close-up inspection. The highlight stays subdued; the angular saucer and regular oil ridges remain useful questions for the next study.
+
+[Watch the lemon take shape →](https://atelier.randomdrake.com/#painting/lemon-at-the-blue-hour)
+
 ### Copper & pears
 
 [![Oil painting of a copper pitcher and two pears on a linen-covered table](public-gallery/paintings/copper-and-pears/finished.png)](https://atelier.randomdrake.com/#painting/copper-and-pears)

@@ -25,6 +25,6 @@ test('corrupt entries and storage failures leave valid paintings available',()=>
   const blocked=new PaintingLibrary({getItem(){throw new Error();},setItem(){throw new Error();}});blocked.save('one',doc,'preview');assert.equal(blocked.entries.length,1);assert.match(blocked.error,/storage/);
 });
 test('every gallery painting has a valid replay and a real finished preview',async()=>{
-  const catalog=JSON.parse(await readFile(new URL('../examples/gallery.json',import.meta.url),'utf8'));assert.equal(catalog.length,5);assert.equal(new Set(catalog.map(e=>e.id)).size,5);
+  const catalog=JSON.parse(await readFile(new URL('../examples/gallery.json',import.meta.url),'utf8'));assert.ok(catalog.length>=5);assert.equal(new Set(catalog.map(e=>e.id)).size,catalog.length);
   for(const entry of catalog){const painting=validateDocument(JSON.parse(await readFile(new URL(`..${entry.source}`,import.meta.url),'utf8')));assert.equal(painting.strokes.length,entry.strokes);assert.equal(painting.events.length,entry.moments);const preview=await readFile(new URL(`..${entry.preview}`,import.meta.url));assert.equal(preview.subarray(1,4).toString(),'PNG');}
 });

@@ -1,0 +1,769 @@
+{
+  "version": 2,
+  "width": 900,
+  "height": 620,
+  "title": "Lemon at the blue hour",
+  "strokes": [
+    {
+      "medium": "watercolor",
+      "color": "#82948d",
+      "size": 160,
+      "flow": 0.24,
+      "water": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.13,
+          0.69,
+          0.4
+        ],
+        [
+          0.4,
+          0.72,
+          0.65
+        ],
+        [
+          0.72,
+          0.72,
+          0.65
+        ],
+        [
+          0.87,
+          0.68,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#596d78",
+      "size": 95,
+      "flow": 0.35,
+      "water": 0.75,
+      "duration": 1000,
+      "points": [
+        [
+          0.29,
+          0.67,
+          0.3
+        ],
+        [
+          0.52,
+          0.69,
+          0.7
+        ],
+        [
+          0.75,
+          0.7,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#355d76",
+      "size": 88,
+      "flow": 0.85,
+      "body": 0.45,
+      "tip": "flat",
+      "duration": 1400,
+      "points": [
+        [
+          0.28,
+          0.63,
+          0.25
+        ],
+        [
+          0.35,
+          0.57,
+          0.7
+        ],
+        [
+          0.52,
+          0.56,
+          0.8
+        ],
+        [
+          0.69,
+          0.61,
+          0.65
+        ],
+        [
+          0.73,
+          0.66,
+          0.35
+        ],
+        [
+          0.65,
+          0.72,
+          0.7
+        ],
+        [
+          0.44,
+          0.73,
+          0.75
+        ],
+        [
+          0.3,
+          0.68,
+          0.4
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#638b9a",
+      "size": 160,
+      "flow": 0.9,
+      "body": 0.3,
+      "tip": "round",
+      "duration": 1300,
+      "points": [
+        [
+          0.34,
+          0.645,
+          0.7
+        ],
+        [
+          0.43,
+          0.65,
+          0.9
+        ],
+        [
+          0.56,
+          0.65,
+          0.9
+        ],
+        [
+          0.67,
+          0.65,
+          0.55
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#a78328",
+      "size": 148,
+      "flow": 0.95,
+      "body": 0.45,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.405,
+          0.55,
+          0.4
+        ],
+        [
+          0.43,
+          0.48,
+          0.8
+        ],
+        [
+          0.49,
+          0.44,
+          1
+        ],
+        [
+          0.56,
+          0.45,
+          1
+        ],
+        [
+          0.61,
+          0.51,
+          0.9
+        ],
+        [
+          0.62,
+          0.56,
+          0.6
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#d5b633",
+      "size": 150,
+      "flow": 1,
+      "body": 0.5,
+      "tip": "round",
+      "duration": 1400,
+      "points": [
+        [
+          0.395,
+          0.515,
+          0.5
+        ],
+        [
+          0.44,
+          0.455,
+          0.85
+        ],
+        [
+          0.51,
+          0.425,
+          1
+        ],
+        [
+          0.575,
+          0.47,
+          0.9
+        ],
+        [
+          0.62,
+          0.52,
+          0.5
+        ],
+        [
+          0.55,
+          0.55,
+          0.9
+        ],
+        [
+          0.46,
+          0.545,
+          0.9
+        ],
+        [
+          0.405,
+          0.515,
+          0.55
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#efcf45",
+      "size": 115,
+      "flow": 1,
+      "body": 0.85,
+      "tip": "round",
+      "duration": 1300,
+      "points": [
+        [
+          0.414,
+          0.475,
+          0.6
+        ],
+        [
+          0.444,
+          0.435,
+          0.85
+        ],
+        [
+          0.49,
+          0.413,
+          0.9
+        ],
+        [
+          0.535,
+          0.43,
+          0.7
+        ],
+        [
+          0.55,
+          0.465,
+          0.6
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#d5b333",
+      "size": 64,
+      "flow": 1,
+      "body": 0.7,
+      "tip": "round",
+      "duration": 900,
+      "points": [
+        [
+          0.405,
+          0.49,
+          0.6
+        ],
+        [
+          0.374,
+          0.505,
+          0.6
+        ],
+        [
+          0.394,
+          0.525,
+          0.45
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#8b762d",
+      "size": 65,
+      "flow": 0.6,
+      "body": 0.25,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.46,
+          0.585,
+          0.3
+        ],
+        [
+          0.52,
+          0.595,
+          0.6
+        ],
+        [
+          0.58,
+          0.573,
+          0.65
+        ],
+        [
+          0.617,
+          0.537,
+          0.25
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#9eb8bc",
+      "size": 36,
+      "flow": 0.8,
+      "body": 0.4,
+      "tip": "round",
+      "duration": 1300,
+      "points": [
+        [
+          0.32,
+          0.675,
+          0.25
+        ],
+        [
+          0.39,
+          0.704,
+          0.5
+        ],
+        [
+          0.49,
+          0.718,
+          0.6
+        ],
+        [
+          0.59,
+          0.711,
+          0.4
+        ],
+        [
+          0.66,
+          0.685,
+          0.15
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#e2c33e",
+      "size": 104,
+      "flow": 0.82,
+      "tip": "round",
+      "duration": 1300,
+      "points": [
+        [
+          0.417,
+          0.47,
+          0.35
+        ],
+        [
+          0.452,
+          0.44,
+          0.65
+        ],
+        [
+          0.49,
+          0.425,
+          0.7
+        ],
+        [
+          0.525,
+          0.438,
+          0.45
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#3c5b47",
+      "size": 60,
+      "flow": 0.95,
+      "body": 0.6,
+      "tip": "round",
+      "duration": 1300,
+      "points": [
+        [
+          0.566,
+          0.386,
+          0.1
+        ],
+        [
+          0.608,
+          0.343,
+          0.55
+        ],
+        [
+          0.663,
+          0.333,
+          0.8
+        ],
+        [
+          0.699,
+          0.347,
+          0.1
+        ],
+        [
+          0.651,
+          0.373,
+          0.7
+        ],
+        [
+          0.598,
+          0.382,
+          0.45
+        ],
+        [
+          0.566,
+          0.386,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#7e9458",
+      "size": 29,
+      "flow": 0.85,
+      "body": 0.7,
+      "tip": "flat",
+      "duration": 1200,
+      "points": [
+        [
+          0.588,
+          0.373,
+          0.1
+        ],
+        [
+          0.627,
+          0.352,
+          0.6
+        ],
+        [
+          0.666,
+          0.347,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "pencil",
+      "color": "#4d5739",
+      "size": 5,
+      "flow": 0.75,
+      "duration": 900,
+      "points": [
+        [
+          0.554,
+          0.418,
+          0.3
+        ],
+        [
+          0.572,
+          0.383,
+          0.6
+        ],
+        [
+          0.62,
+          0.364,
+          0.4
+        ],
+        [
+          0.68,
+          0.345,
+          0.15
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#3b514b",
+      "size": 21,
+      "flow": 0.72,
+      "body": 0.25,
+      "tip": "round",
+      "duration": 1000,
+      "points": [
+        [
+          0.44,
+          0.639,
+          0.1
+        ],
+        [
+          0.49,
+          0.65,
+          0.45
+        ],
+        [
+          0.55,
+          0.646,
+          0.45
+        ],
+        [
+          0.59,
+          0.626,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#f8e6a0",
+      "size": 27,
+      "flow": 0.9,
+      "tip": "round",
+      "duration": 1000,
+      "points": [
+        [
+          0.435,
+          0.439,
+          0.2
+        ],
+        [
+          0.452,
+          0.423,
+          0.5
+        ],
+        [
+          0.47,
+          0.419,
+          0.25
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#b3c9c8",
+      "size": 16,
+      "flow": 0.85,
+      "body": 0.55,
+      "tip": "round",
+      "duration": 900,
+      "points": [
+        [
+          0.35,
+          0.696,
+          0.1
+        ],
+        [
+          0.39,
+          0.711,
+          0.35
+        ],
+        [
+          0.425,
+          0.715,
+          0.1
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "text": "Lemon at the blue hour. An ordinary kitchen still life: yellow fruit, a blue saucer, evening light. Today I am practicing restrained highlights and a firm lit edge against a softer shadow edge. I will build broad shapes before details.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10400,
+      "afterStroke": 0
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 3
+    },
+    {
+      "text": "After 3 marks: the saucer is an angular open rim, and the wash beneath it stays soft. I will fill the blue center with a broad pass before placing the lemon. The straight bristle segments are visible, so the fruit will use a round brush and shorter curves.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 12480,
+      "afterStroke": 3
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "text": "After 6 marks: the lemon reads as a solid rounded form; wet mixing has turned the yellow olive. The saucer center is filled, but its rim is angular. I will warm the upper-left plane and add the lemon tip; the brightest accent can wait.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 11440,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 10
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 10
+    },
+    {
+      "text": "After 10 marks: the warmer oil pass is visible but subdued by wet mixing, and the lower edge remains soft. The round brush still leaves regular ridges. I will try one small acrylic light plane for cleaner yellow, with a green leaf to balance the saucer. This is a material comparison, not an engine change.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 14300,
+      "afterStroke": 10
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 14
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 14
+    },
+    {
+      "text": "After 14 marks: the leaf balances the blue saucer and the upper-left plane is lighter, although regular oil ridges remain conspicuous. A short contact shadow will seat the fruit. I will limit the final pale accent to one small mark so the highlight does not become a stripe.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 12480,
+      "afterStroke": 14
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 17
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 17
+    },
+    {
+      "text": "Lemon at the blue hour \u2014 finished at 17 marks. The lemon, green leaf, and blue saucer read together with ample linen around them. The lower fruit edge is softer than the shoulder; the final highlight remains very quiet. The regular ridges and angular saucer are unresolved limitations. Next time: compare adjacent small oil and acrylic highlight swatches before committing them to a fruit.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 15000,
+      "afterStroke": 17
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 17
+    }
+  ],
+  "creation": {
+    "method": "Painted live from a blank canvas through the visible Agent controls in batches of 3, 3, 4, 4, and 3 strokes. Each next batch followed settled whole-view and close-view browser screenshots.",
+    "reviewedAfterStroke": [
+      3,
+      6,
+      10,
+      14,
+      17
+    ],
+    "annotationOrigin": "All six teaching notes were posted live through Leave a thought at the easel. Title and this provenance were added to the browser-exported session afterward.",
+    "inspiration": {
+      "description": "An ordinary kitchen still life: a lemon catching evening light on a blue saucer. Original imagined composition, no external reference image.",
+      "url": null
+    },
+    "goal": "Restrained highlights and varied edges: firmer lit shoulder, softer shadow side.",
+    "engineRevision": "b05b9e71488aac49a46c2fea1f1801eb49638070",
+    "engineChanges": null,
+    "model": "GPT-6 (specific model variant unavailable)",
+    "export": "Actual browser PNG and version-2 JSON downloads; no reconstruction or image generation.",
+    "publicationEngineRevision": "f06b606c3999905bc4176e11d1f0e3638e749f84",
+    "publicationContext": "Sites source synchronization brought in the existing replay note pacing update after live painting. Paint physics were not changed or rebuilt during the session; the public engine snapshot includes that pacing update."
+  }
+}

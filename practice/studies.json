@@ -1,4 +1,132 @@
 [
- {"id":"where-the-evening-goes","title":"Where the evening goes","date":"2026-10-13","session":"examples/where-the-evening-goes.json","finishedImage":"examples/previews/where-the-evening-goes.png","media":["watercolor","oil","pencil"],"goal":"Retrospective baseline: create a coherent subject through small inspected batches.","inspiration":{"description":"Evening sky chosen during the session","url":null},"observations":[{"afterStroke":15,"text":"The sail was an outline with an unfilled center; broader passes were added after close inspection."},{"afterStroke":33,"text":"A sailboat, banks, foreground reeds, and sunset formed a readable small composition; reflections remained subtle."}],"evidence":["artifacts/where-the-evening-goes-studio.jpg","examples/previews/where-the-evening-goes.png"],"engineRevision":"8c5b0cb","model":"unknown","nextExperiment":"Repeat a sailboat study with a filled sail built from broad masses first; compare shape readability.","assessment":{"source":"Retrospective summary of recorded live notes","humanRating":null,"improvementClaim":"No controlled comparison yet."}},
- {"id":"copper-and-pears","title":"Copper & pears — an oil study","date":"2026-10-13","session":"examples/copper-and-pears.json","finishedImage":"examples/previews/copper-and-pears.png","media":["oil"],"goal":"Retrospective baseline: explore oil mixing and texture in a still life.","inspiration":{"description":"Copper pot and pears chosen for contrasting material and color","url":null},"observations":[{"afterStroke":18,"text":"Loaded pale dabs were swallowed by deep dark paint. The oil model was corrected to separate optical surface color from buried pigment."},{"afterStroke":57,"text":"Copper held its color after the correction; the repeated bristle texture remained stronger and more regular than desired."}],"evidence":["artifacts/copper-pears-close.jpg","artifacts/copper-pears-studio.jpg","examples/previews/copper-and-pears.png"],"engineRevision":"3c5b975","model":"unknown","nextExperiment":"Use a small copper-and-pear calibration to reduce repeated bristle bands while keeping varied edges and restrained highlights.","assessment":{"source":"Retrospective summary of recorded live notes","humanRating":null,"improvementClaim":"An overpainting regression test improved simulator behavior. Artistic improvement has not been independently rated."}}
+  {
+    "id": "where-the-evening-goes",
+    "title": "Where the evening goes",
+    "date": "2026-10-13",
+    "session": "examples/where-the-evening-goes.json",
+    "finishedImage": "examples/previews/where-the-evening-goes.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "pencil"
+    ],
+    "goal": "Retrospective baseline: create a coherent subject through small inspected batches.",
+    "inspiration": {
+      "description": "Evening sky chosen during the session",
+      "url": null
+    },
+    "observations": [
+      {
+        "afterStroke": 15,
+        "text": "The sail was an outline with an unfilled center; broader passes were added after close inspection."
+      },
+      {
+        "afterStroke": 33,
+        "text": "A sailboat, banks, foreground reeds, and sunset formed a readable small composition; reflections remained subtle."
+      }
+    ],
+    "evidence": [
+      "artifacts/where-the-evening-goes-studio.jpg",
+      "examples/previews/where-the-evening-goes.png"
+    ],
+    "engineRevision": "8c5b0cb",
+    "model": "unknown",
+    "nextExperiment": "Repeat a sailboat study with a filled sail built from broad masses first; compare shape readability.",
+    "assessment": {
+      "source": "Retrospective summary of recorded live notes",
+      "humanRating": null,
+      "improvementClaim": "No controlled comparison yet."
+    }
+  },
+  {
+    "id": "copper-and-pears",
+    "title": "Copper & pears \u2014 an oil study",
+    "date": "2026-10-13",
+    "session": "examples/copper-and-pears.json",
+    "finishedImage": "examples/previews/copper-and-pears.png",
+    "media": [
+      "oil"
+    ],
+    "goal": "Retrospective baseline: explore oil mixing and texture in a still life.",
+    "inspiration": {
+      "description": "Copper pot and pears chosen for contrasting material and color",
+      "url": null
+    },
+    "observations": [
+      {
+        "afterStroke": 18,
+        "text": "Loaded pale dabs were swallowed by deep dark paint. The oil model was corrected to separate optical surface color from buried pigment."
+      },
+      {
+        "afterStroke": 57,
+        "text": "Copper held its color after the correction; the repeated bristle texture remained stronger and more regular than desired."
+      }
+    ],
+    "evidence": [
+      "artifacts/copper-pears-close.jpg",
+      "artifacts/copper-pears-studio.jpg",
+      "examples/previews/copper-and-pears.png"
+    ],
+    "engineRevision": "3c5b975",
+    "model": "unknown",
+    "nextExperiment": "Use a small copper-and-pear calibration to reduce repeated bristle bands while keeping varied edges and restrained highlights.",
+    "assessment": {
+      "source": "Retrospective summary of recorded live notes",
+      "humanRating": null,
+      "improvementClaim": "An overpainting regression test improved simulator behavior. Artistic improvement has not been independently rated."
+    }
+  },
+  {
+    "id": "lemon-at-the-blue-hour",
+    "title": "Lemon at the blue hour",
+    "date": "2026-10-13",
+    "session": "examples/lemon-at-the-blue-hour.json",
+    "finishedImage": "examples/previews/lemon-at-the-blue-hour.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic",
+      "pencil"
+    ],
+    "goal": "Restrained highlights and varied edges: firmer lit shoulder, softer shadow side.",
+    "inspiration": {
+      "description": "An ordinary kitchen still life: a lemon catching evening light on a blue saucer. Original imagined composition, no external reference image.",
+      "url": null
+    },
+    "observations": [
+      {
+        "afterStroke": 3,
+        "text": "The soft table wash supported an angular open saucer outline. A broad center pass was needed."
+      },
+      {
+        "afterStroke": 6,
+        "text": "Filled broad masses made the fruit and saucer readable. Yellow oil mixed toward olive."
+      },
+      {
+        "afterStroke": 10,
+        "text": "Warm loaded oil remained subdued; the lower fruit edge stayed softer than the shoulder. Regular oil ridges remained conspicuous."
+      },
+      {
+        "afterStroke": 14,
+        "text": "An acrylic light plane was also subtle; the green leaf balanced the blue saucer."
+      },
+      {
+        "afterStroke": 17,
+        "text": "The final highlight remained very quiet. Lemon, leaf and saucer read together with ample bare linen, but the saucer stayed angular and repeated ridges remained unresolved."
+      }
+    ],
+    "evidence": [
+      "artifacts/lemon-at-the-blue-hour-whole.png",
+      "artifacts/lemon-at-the-blue-hour-close.png",
+      "examples/previews/lemon-at-the-blue-hour.png"
+    ],
+    "engineRevision": "b05b9e71488aac49a46c2fea1f1801eb49638070",
+    "model": "GPT-6 (specific model variant unavailable)",
+    "nextExperiment": "Paint adjacent small oil and acrylic highlight swatches on the same yellow ground before placing a fruit highlight; compare visibility and edge softness with the same renderer.",
+    "assessment": {
+      "source": "Live browser observations with final whole and close screenshot inspection. Provenance and journal written after export.",
+      "humanRating": null,
+      "improvementClaim": "No controlled comparison or independent rating. The quiet highlight goal was met visually, but the mark is arguably too subdued; ridge regularity remains."
+    }
+  }
 ]

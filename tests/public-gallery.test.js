@@ -17,6 +17,8 @@ test('publishing a painting retains its notes and pins a working replay engine',
   }finally{await rm(output,{recursive:true,force:true});}
 });
 test('published collection includes every finished picture and replay snapshot',async()=>{
-  const catalog=JSON.parse(await readFile(join(root,'public-gallery/catalog.json'),'utf8'));assert.equal(catalog.length,5);
+  const catalog=JSON.parse(await readFile(join(root,'public-gallery/catalog.json'),'utf8'));const ids=new Set(catalog.map(entry=>entry.id));
+  assert.equal(ids.size,catalog.length,'Published painting IDs must be unique');
+  for(const id of ['copper-and-pears','where-the-evening-goes','afternoon-flowers','harbor-study','quiet-coast','lemon-at-the-blue-hour'])assert.ok(ids.has(id),`Missing finished painting: ${id}`);
   for(const entry of catalog){const doc=JSON.parse(await readFile(join(root,'public-gallery',entry.session),'utf8'));assert.equal(doc.strokes.length,entry.strokes);await readFile(join(root,'public-gallery',entry.image));await readFile(join(root,'public-gallery/replay-engine',entry.engine,'engine.js'));}
 });

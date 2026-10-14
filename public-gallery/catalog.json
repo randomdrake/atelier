@@ -1,5 +1,23 @@
 [
   {
+    "id": "lemon-at-the-blue-hour",
+    "title": "Lemon at the blue hour",
+    "description": "A lemon and green leaf rest on a blue saucer, surrounded by quiet linen and a soft evening shadow.",
+    "process": "Painted live from a blank canvas in five batches of 3–4 animated marks, with settled whole and close screenshots between batches. Six notes were posted live; title and provenance were added after browser export. Watercolor, oil, acrylic and pencil; no engine changes.",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic",
+      "pencil"
+    ],
+    "strokes": 17,
+    "moments": 16,
+    "engine": "1b51d6ef05a1f55b",
+    "session": "/paintings/lemon-at-the-blue-hour/session.json",
+    "image": "/paintings/lemon-at-the-blue-hour/finished.png",
+    "publishedAt": "2026-10-13"
+  },
+  {
     "id": "copper-and-pears",
     "title": "Copper & pears — an oil study",
     "description": "Copper, fruit, and linen. Warm light meeting cool reflections.",
