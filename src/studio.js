@@ -4,6 +4,7 @@ import {StudioTour,StudioCamera,validateDocument,validateEvents} from './tour.js
 import {PaintingLibrary} from './library.js';
 import {PaintingGallery} from './gallery.js';
 import {renderThought} from './thought-links.js';
+import {LiveBroadcast} from './live-broadcast.js';
 const $=id=>document.getElementById(id);
 const canvas=$('canvas'),wrap=canvas.parentElement,ctx=canvas.getContext('2d',{alpha:false});
 const surface=new PaintSurface(canvas.width,canvas.height),pixels=ctx.createImageData(canvas.width,canvas.height);
@@ -207,6 +208,7 @@ function stop(){
   events=events.filter(e=>e.afterStroke<=player.strokes.length);renderNotebook();dirty=true;saveSession();updateButtons();status('Brush down. We can pick this up again.');
 }
 function reset(){
+  broadcastGeneration++;
   rememberPainting();const suppress=openingPainting;openingPainting=true;stop();openingPainting=suppress;
   pointer=null;player.clear();events=[];history=[];paintingId=null;replaySource=null;surfaceReady=true;dirty=true;camera.move({zoom:1,x:.5,y:.5},.6);
   $('painting-title').textContent='An open possibility';renderNotebook();saveSession();updateButtons();
@@ -310,6 +312,29 @@ function frame(now){
   requestAnimationFrame(frame);
 }
 window.atelier={version:3,paint:enqueue,comment:recordMoment,replay,clear:reset,stop,pause:()=>pausePlayback(true),resume:()=>pausePlayback(false),getState:()=>({busy:busy(),paused:player.paused,queued:player.queue.length,strokes:player.strokes.length,moments:events.length,medium:brush.medium,width:canvas.width,height:canvas.height}),getSession:()=>structuredClone(player.strokes),getDocument:()=>structuredClone(documentState(true)),surface};
+let broadcastGeneration=0;
+const broadcast=new LiveBroadcast({
+  snapshot:()=>{
+    if(!surfaceReady)throw new Error('Start a new canvas before going live, or replay the saved painting.');
+    const doc=documentState();
+    const activity=replaySource?'replaying':busy()&&!player.paused?'painting':'looking';
+    const signature=JSON.stringify([broadcastGeneration,doc.title,doc.strokes.length,doc.events.length,activity,
+      Math.round(camera.value.zoom*10),Math.round(camera.value.x*100),Math.round(camera.value.y*100)]);
+    return {activity,document:doc,preview:canvas.toDataURL('image/jpeg',.78),signature};
+  },
+  onStatus:(state,message)=>{
+    const toggle=$('broadcast-toggle'),label=$('broadcast-status');
+    toggle.disabled=['unconfigured','occupied','connecting','ending','updating'].includes(state);
+    toggle.textContent=broadcast.active?'End broadcast':'Go live';
+    toggle.setAttribute('aria-pressed',String(broadcast.active));
+    const labels={occupied:'Another studio tab is broadcasting',ready:'Share this canvas and easel thoughts',unconfigured:'Live setup needed on this laptop',
+      connecting:'Connecting to the public gallery…',live:'Live from this laptop',updating:'Live from this laptop',
+      ending:'Ending the broadcast…',reconnecting:'Reconnecting — gallery may show disconnected',error:'Broadcast could not start'};
+    label.textContent=message||labels[state];label.dataset.state=state;
+  }
+});
+$('broadcast-toggle').onclick=()=>broadcast.active?broadcast.end():broadcast.start();
+broadcast.configure();
 selectMedium('watercolor');selectColor(brush.color);
 try{
   const saved=JSON.parse(localStorage.getItem('atelier-score-v2'));

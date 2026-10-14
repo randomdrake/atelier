@@ -100,6 +100,14 @@ Then start a chat with `$atelier a rainy street at night`, or just `$atelier` an
 
 For the project owner, completed paintings are saved to GitHub and published to this gallery by default. Say **“local only”** to keep a session unpublished. Other contributors should configure their own publishing destination; see the [publishing guide](PUBLISHING.md).
 
+## Paint live from the laptop
+
+The studio’s **Go live** button sends the current canvas, completed strokes, and easel thoughts to the [public live easel](https://atelier.randomdrake.com/#live). New boundaries arrive within a few seconds. A server-only publisher credential identifies randomdrake’s studio; visitors can watch and download the current stroke session.
+
+The public easel distinguishes painting, looking, replaying, ended, and disconnected states. Ten-second heartbeats expire after 45 seconds without contact. **End broadcast** leaves the last shared canvas visible, clearly labeled as ended. Finished paintings still use the normal reviewed export and gallery-publication workflow.
+
+Setup and architecture: [Live broadcasting](docs/live-broadcast.md). The hosted gallery uses the Sites runtime in hosting/; the local paint simulator remains dependency-free and runs with npm run dev.
+
 ## Does it get better?
 
 That’s something we want to measure, not simply declare. The [practice journal](practice/LEARNING.md) saves goals, visible results, corrections, and the next thing to try. New chats read it before painting. It is shared memory, not model retraining.

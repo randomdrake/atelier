@@ -4,3 +4,14 @@ artifacts/
 dist-gallery/
 .vercel/
 dist/
+
+.env*
+!.env.example
+.sites-runtime/
+.wrangler/
+.vinext/
+hosting/public/
+
+.dev.vars*
+
+.next/

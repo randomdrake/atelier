@@ -6,6 +6,6 @@ const output=join(root,'dist');await rm(output,{recursive:true,force:true});awai
 await cp(join(root,'src/thought-links.js'),join(output,'thought-links.js'));
 const catalog=JSON.parse(await readFile(join(output,'catalog.json'),'utf8'));
 await cp(join(root,'practice'),join(output,'practice'),{recursive:true});
-execFileSync('zip',['-qr',join(output,'source.zip'),'src','scripts','skills','practice','public-gallery','examples','tests','docs','README.md','PUBLISHING.md','LICENSE','index.html','package.json','server.mjs'],{cwd:root});
+execFileSync('zip',['-qr',join(output,'source.zip'),'src','scripts','hosting/app','hosting/build','hosting/lib','hosting/scripts','hosting/package.json','hosting/package-lock.json','hosting/vite.config.ts','hosting/tsconfig.json','hosting/cloudflare-env.d.ts','hosting/next-env.d.ts','skills','practice','public-gallery','examples','tests','docs','README.md','PUBLISHING.md','LICENSE','index.html','.env.example','package.json','server.mjs'],{cwd:root});
 await writeFile(join(output,'sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://atelier.randomdrake.com/</loc></url></urlset>`);
 console.log(`Viewing gallery built: ${catalog.length} paintings. Studio editor excluded.`);

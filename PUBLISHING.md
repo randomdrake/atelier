@@ -2,7 +2,7 @@
 
 The owner has requested automatic publication of completed Atelier paintings to GitHub and this Site. Apply that default to Atelier painting requests, unless the user says local only or not to publish. Commit and push only the painting-project changes; verify the GitHub remote and push result. The repository is `git@github.com:randomdrake/atelier.git`, public at https://github.com/randomdrake/atelier. Publish the completed source to `main` with a normal fast-forward push (`git push origin HEAD:main`); if the remote has advanced, reconcile without force-pushing. Then deploy the matching Site version. Report either destination if it fails.
 
-The studio remains at port 5173. The separate viewing site is built from `public-gallery/`; it contains finished work, read-only replay, and a project explainer. The deployed assets never include the editor UI. A downloadable MIT source archive includes the project code and recorded sessions.
+The studio remains at port 5173. The separate viewing site is built from public-gallery/ through the Sites runtime in hosting/; it contains finished work, read-only replay, and a project explainer. The deployed assets never include the editor UI. A downloadable MIT source archive includes the project code and recorded sessions.
 
 1. Finish and visually review the study in the browser. Export its actual PNG and complete version-2 session JSON. Store them in `examples/previews/<id>.png` and `examples/<id>.json`. Add the practice entry and truthful creation provenance.
 2. Prepare the publication:
@@ -10,7 +10,7 @@ The studio remains at port 5173. The separate viewing site is built from `public
    `npm run gallery:add -- --id <id> --session examples/<id>.json --image examples/previews/<id>.png --description "A short description of the painting" --process "How it was made, including inspections and live or retrospective notes"`
 
    This copies the artwork and session, snapshots the replay-engine modules by content hash, and updates the catalog. Existing published engine snapshots are retained, so future physics changes do not change earlier published replays.
-3. Run `npm test`, `npm run check`, and `npm run gallery:build`. Use `npm run gallery:preview` for port 5174. Check finished view, replay, notes, pause, return to finished view, and small-screen layout.
+3. Run `npm test`, `npm run check`, and `npm run build`. Use npm run gallery:preview on port 5174; it chooses the complete Worker after a hosted build and the static server after a gallery-only build. Check finished view, replay, notes, pause, return to finished view, and small-screen layout.
 4. Use the Sites skill and native tools. Read `.openai/hosting.json` and reuse its exact `project_id`; never create another Site for this gallery. Obtain a fresh source write credential, run the Sites source helper from the repository with the credential on hidden stdin, and package `dist` into an absolute archive path. Save the returned pushed commit/archive as a Site version, then deploy that exact version with the operation appropriate to its current audience. Confirm a successful deployment before calling it published.
 5. `atelier.randomdrake.com` is the intended custom hostname. Use Sites custom-domain tools to read its current verification state. DNS must contain the exact CNAME and validation records returned by Sites. A working generated Sites URL does not prove that the custom domain is active.
 
