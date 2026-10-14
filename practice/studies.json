@@ -520,5 +520,87 @@
       "humanRating": null,
       "improvementClaim": "The broad pass avoided a hollow contour and widening the quill made its light visible within this study. Fringe corrections remained partly unsuccessful. No controlled comparison or independent rating."
     }
+  },
+  {
+    "id": "copper-at-the-window",
+    "title": "Copper at the window",
+    "date": "2026-10-14",
+    "session": "examples/copper-at-the-window.json",
+    "finishedImage": "examples/previews/copper-at-the-window.png",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Build a filled curved copper body with overlapping broad passes and one restrained window reflection.",
+    "inspiration": {
+      "description": "An ordinary kitchen kettle sparked this imagined copper vessel in cool window light; no reference composition copied."
+    },
+    "observations": [
+      {
+        "afterStroke": 3,
+        "text": "Separated washes left pale bands."
+      },
+      {
+        "afterStroke": 6,
+        "text": "Bridging wash joined the cool field; low contact shadow established placement."
+      },
+      {
+        "afterStroke": 9,
+        "text": "Overlapping broad oil passes filled the copper body without a hollow center; regular ridges remained."
+      },
+      {
+        "afterStroke": 12,
+        "text": "Spout and open handle made the kettle readable; handle remained polygonal."
+      },
+      {
+        "afterStroke": 15,
+        "text": "Lid separated from body and lower-right shadow turned beneath the form."
+      },
+      {
+        "afterStroke": 18,
+        "text": "Denser points softened the handle inner turn; broad warm face visible; knob looked hollow."
+      },
+      {
+        "afterStroke": 19,
+        "text": "First reflection was visible but blended warmly into copper."
+      },
+      {
+        "afterStroke": 22,
+        "text": "Dark spout mouth read as an opening; small lid light was almost lost."
+      },
+      {
+        "afterStroke": 25,
+        "text": "Shorter fuller reflection survived at whole view; fine handle and lower accents stayed subdued."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Outside watercolor bridges reduced long pale ground seams."
+      },
+      {
+        "afterStroke": 31,
+        "text": "Short base contact anchored the kettle and copper collars attached handle feet."
+      },
+      {
+        "afterStroke": 33,
+        "text": "Strengthened lid edge caught a quiet light; spout light stayed subtle."
+      },
+      {
+        "afterStroke": 34,
+        "text": "Solid knob, filled body, attached handle and single dominant reflection held together. Regular ridges and faceted edges remained. Stop to preserve quiet light hierarchy."
+      }
+    ],
+    "evidence": [
+      "examples/previews/copper-at-the-window.png",
+      "examples/copper-at-the-window.json"
+    ],
+    "inspectionEvidence": "Actual whole and settled 2\u00d7 browser screenshots at 13 boundaries retained in task conversation; camera moments preserved in replay.",
+    "engineRevision": "bd7ea6910a947cc8482f738feab3e247229cb8b9",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Compare two identical short oil reflections on the same copper ground: size 18/body 0.03/load 0.8 versus size 26/body 0.08/load 1.0. Hold path and palette fixed to separate visibility from surrounding shape changes.",
+    "assessment": {
+      "source": "Live browser observations and final whole/close review, followed by actual browser exports.",
+      "humanRating": null,
+      "improvementClaim": "Broad overlapping passes filled the body and a fuller short reflection solved an observed visibility problem within this study. Regular ridges and faceted edges persisted; no controlled comparison or independent rating."
+    }
   }
 ]

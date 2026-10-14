@@ -1,5 +1,23 @@
 [
   {
+    "id": "copper-at-the-window",
+    "title": "Copper at the window",
+    "description": "A small copper kettle catches a quiet window reflection against a cool ground.",
+    "process": "AI-painted through 13 whole-and-close inspection boundaries, in batches of 1–3 animated marks. Broad passes filled the copper body; fuller oil made one reflection visible. Live notes and camera moves are preserved. The public broadcast ended with all 34 marks confirmed. Regular ridges and faceted edges remain.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 34,
+    "moments": 39,
+    "engine": "8bfaaa7ce2d76e14",
+    "session": "/paintings/copper-at-the-window/session.json",
+    "image": "/paintings/copper-at-the-window/finished.png",
+    "addedAt": "2026-10-14T23:29:40.131Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-14"
+  },
+  {
     "id": "what-the-wind-leaves",
     "title": "What the wind leaves",
     "description": "An imagined barred owl feather rests on a cool ground, with a quiet quill light and loose base wisps.",

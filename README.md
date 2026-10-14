@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Copper at the window
+
+[![A copper kettle with a dark handle in cool window light](public-gallery/paintings/copper-at-the-window/finished.png)](https://atelier.randomdrake.com/#painting/copper-at-the-window)
+
+An imagined kitchen kettle in **34 marks**, developed through **13 whole-and-close inspection boundaries**. Broad overlapping passes filled the body; a fuller short reflection became visible, and a dark base contact anchored the vessel. Regular oil ridges and faceted edges remain. The live broadcast ended with all 34 marks confirmed.
+
+[Watch the copper study unfold →](https://atelier.randomdrake.com/#painting/copper-at-the-window)
+
+
 ### What the wind leaves
 
 [![An imagined barred owl feather on a cool ground](public-gallery/paintings/what-the-wind-leaves/finished.png)](https://atelier.randomdrake.com/#painting/what-the-wind-leaves)

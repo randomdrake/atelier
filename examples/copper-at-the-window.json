@@ -1,0 +1,1421 @@
+{
+  "version": 2,
+  "width": 900,
+  "height": 620,
+  "title": "Copper at the window",
+  "strokes": [
+    {
+      "medium": "watercolor",
+      "color": "#7c9b9b",
+      "size": 160,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.12,
+          0.3,
+          0.5
+        ],
+        [
+          0.45,
+          0.28,
+          0.7
+        ],
+        [
+          0.84,
+          0.31,
+          0.4
+        ]
+      ],
+      "water": 0.8
+    },
+    {
+      "medium": "watercolor",
+      "color": "#6d858f",
+      "size": 160,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.12,
+          0.46,
+          0.4
+        ],
+        [
+          0.47,
+          0.44,
+          0.6
+        ],
+        [
+          0.86,
+          0.47,
+          0.4
+        ]
+      ],
+      "water": 0.8
+    },
+    {
+      "medium": "watercolor",
+      "color": "#9a8e7d",
+      "size": 160,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.12,
+          0.72,
+          0.5
+        ],
+        [
+          0.48,
+          0.73,
+          0.7
+        ],
+        [
+          0.87,
+          0.75,
+          0.4
+        ]
+      ],
+      "water": 0.6
+    },
+    {
+      "medium": "watercolor",
+      "color": "#869b9b",
+      "size": 160,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.12,
+          0.38,
+          0.6
+        ],
+        [
+          0.48,
+          0.37,
+          0.8
+        ],
+        [
+          0.84,
+          0.4,
+          0.5
+        ]
+      ],
+      "water": 0.7
+    },
+    {
+      "medium": "watercolor",
+      "color": "#929384",
+      "size": 160,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.14,
+          0.6,
+          0.5
+        ],
+        [
+          0.5,
+          0.6,
+          0.7
+        ],
+        [
+          0.85,
+          0.62,
+          0.5
+        ]
+      ],
+      "water": 0.6
+    },
+    {
+      "medium": "oil",
+      "color": "#445451",
+      "size": 72,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.31,
+          0.76,
+          0.2
+        ],
+        [
+          0.48,
+          0.77,
+          0.65
+        ],
+        [
+          0.72,
+          0.78,
+          0.1
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#8a4931",
+      "size": 145,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.44,
+          0.48,
+          0.4
+        ],
+        [
+          0.43,
+          0.58,
+          0.9
+        ],
+        [
+          0.47,
+          0.67,
+          0.9
+        ],
+        [
+          0.58,
+          0.69,
+          0.7
+        ],
+        [
+          0.63,
+          0.62,
+          0.7
+        ],
+        [
+          0.61,
+          0.51,
+          0.4
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#ac6240",
+      "size": 145,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.46,
+          0.49,
+          0.6
+        ],
+        [
+          0.46,
+          0.57,
+          1
+        ],
+        [
+          0.53,
+          0.63,
+          1
+        ],
+        [
+          0.59,
+          0.59,
+          0.8
+        ],
+        [
+          0.59,
+          0.52,
+          0.4
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#b97448",
+      "size": 100,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.46,
+          0.5,
+          0.6
+        ],
+        [
+          0.51,
+          0.48,
+          0.85
+        ],
+        [
+          0.57,
+          0.5,
+          0.7
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#874329",
+      "size": 64,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.4,
+          0.59,
+          0.85
+        ],
+        [
+          0.34,
+          0.53,
+          0.7
+        ],
+        [
+          0.3,
+          0.42,
+          0.5
+        ],
+        [
+          0.26,
+          0.4,
+          0.35
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#c18a53",
+      "size": 39,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.4,
+          0.57,
+          0.8
+        ],
+        [
+          0.35,
+          0.51,
+          0.6
+        ],
+        [
+          0.31,
+          0.4,
+          0.4
+        ],
+        [
+          0.27,
+          0.39,
+          0.3
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#344442",
+      "size": 27,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.6,
+          0.47,
+          0.7
+        ],
+        [
+          0.63,
+          0.35,
+          0.8
+        ],
+        [
+          0.58,
+          0.25,
+          0.8
+        ],
+        [
+          0.47,
+          0.22,
+          0.7
+        ],
+        [
+          0.4,
+          0.29,
+          0.7
+        ],
+        [
+          0.41,
+          0.46,
+          0.6
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#633e2c",
+      "size": 42,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.41,
+          0.48,
+          0.3
+        ],
+        [
+          0.45,
+          0.45,
+          0.65
+        ],
+        [
+          0.51,
+          0.44,
+          0.8
+        ],
+        [
+          0.58,
+          0.46,
+          0.65
+        ],
+        [
+          0.61,
+          0.49,
+          0.25
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#ca8753",
+      "size": 34,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.43,
+          0.46,
+          0.2
+        ],
+        [
+          0.48,
+          0.44,
+          0.6
+        ],
+        [
+          0.54,
+          0.44,
+          0.7
+        ],
+        [
+          0.59,
+          0.47,
+          0.2
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#683a2b",
+      "size": 67,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.64,
+          0.57,
+          0.2
+        ],
+        [
+          0.65,
+          0.64,
+          0.55
+        ],
+        [
+          0.61,
+          0.7,
+          0.8
+        ],
+        [
+          0.53,
+          0.72,
+          0.5
+        ],
+        [
+          0.46,
+          0.7,
+          0.1
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#c67c49",
+      "size": 90,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.44,
+          0.54,
+          0.35
+        ],
+        [
+          0.46,
+          0.56,
+          0.7
+        ],
+        [
+          0.49,
+          0.6,
+          0.9
+        ],
+        [
+          0.53,
+          0.62,
+          0.6
+        ],
+        [
+          0.57,
+          0.62,
+          0.2
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#344442",
+      "size": 29,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.406,
+          0.37,
+          0.5
+        ],
+        [
+          0.405,
+          0.31,
+          0.6
+        ],
+        [
+          0.417,
+          0.276,
+          0.7
+        ],
+        [
+          0.445,
+          0.244,
+          0.7
+        ],
+        [
+          0.476,
+          0.231,
+          0.7
+        ],
+        [
+          0.52,
+          0.237,
+          0.7
+        ],
+        [
+          0.565,
+          0.25,
+          0.7
+        ],
+        [
+          0.592,
+          0.278,
+          0.7
+        ],
+        [
+          0.616,
+          0.317,
+          0.65
+        ],
+        [
+          0.624,
+          0.348,
+          0.5
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#34413b",
+      "size": 24,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.505,
+          0.433,
+          0.5
+        ],
+        [
+          0.503,
+          0.408,
+          0.8
+        ],
+        [
+          0.525,
+          0.405,
+          0.8
+        ],
+        [
+          0.53,
+          0.43,
+          0.4
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#d6c6a4",
+      "size": 34,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.437,
+          0.53,
+          0.25
+        ],
+        [
+          0.441,
+          0.56,
+          0.65
+        ],
+        [
+          0.451,
+          0.59,
+          0.75
+        ],
+        [
+          0.465,
+          0.615,
+          0.4
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#dfdec5",
+      "size": 18,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.437,
+          0.535,
+          0.3
+        ],
+        [
+          0.44,
+          0.557,
+          0.7
+        ],
+        [
+          0.447,
+          0.578,
+          0.25
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#39423a",
+      "size": 18,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.255,
+          0.393,
+          0.25
+        ],
+        [
+          0.274,
+          0.397,
+          0.75
+        ],
+        [
+          0.291,
+          0.405,
+          0.3
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#d7aa6c",
+      "size": 15,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.445,
+          0.452,
+          0.2
+        ],
+        [
+          0.468,
+          0.447,
+          0.65
+        ],
+        [
+          0.493,
+          0.447,
+          0.2
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#f4e8cc",
+      "size": 26,
+      "flow": 1,
+      "duration": 1200,
+      "points": [
+        [
+          0.438,
+          0.537,
+          0.4
+        ],
+        [
+          0.441,
+          0.552,
+          0.9
+        ],
+        [
+          0.445,
+          0.564,
+          0.3
+        ]
+      ],
+      "body": 0.08
+    },
+    {
+      "medium": "oil",
+      "color": "#879c95",
+      "size": 12,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.415,
+          0.3,
+          0.2
+        ],
+        [
+          0.435,
+          0.267,
+          0.7
+        ],
+        [
+          0.468,
+          0.241,
+          0.4
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#b98b60",
+      "size": 24,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.56,
+          0.709,
+          0.15
+        ],
+        [
+          0.59,
+          0.703,
+          0.5
+        ],
+        [
+          0.614,
+          0.688,
+          0.2
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "watercolor",
+      "color": "#919d95",
+      "size": 120,
+      "flow": 0.7,
+      "duration": 1200,
+      "points": [
+        [
+          0.12,
+          0.53,
+          0.5
+        ],
+        [
+          0.22,
+          0.53,
+          0.7
+        ],
+        [
+          0.29,
+          0.54,
+          0.2
+        ]
+      ],
+      "water": 0.65
+    },
+    {
+      "medium": "watercolor",
+      "color": "#8e9a94",
+      "size": 130,
+      "flow": 0.7,
+      "duration": 1200,
+      "points": [
+        [
+          0.73,
+          0.52,
+          0.3
+        ],
+        [
+          0.79,
+          0.54,
+          0.7
+        ],
+        [
+          0.87,
+          0.55,
+          0.4
+        ]
+      ],
+      "water": 0.65
+    },
+    {
+      "medium": "watercolor",
+      "color": "#a49c86",
+      "size": 120,
+      "flow": 0.7,
+      "duration": 1200,
+      "points": [
+        [
+          0.72,
+          0.68,
+          0.2
+        ],
+        [
+          0.79,
+          0.68,
+          0.7
+        ],
+        [
+          0.87,
+          0.69,
+          0.4
+        ]
+      ],
+      "water": 0.55
+    },
+    {
+      "medium": "oil",
+      "color": "#453b2c",
+      "size": 26,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.46,
+          0.738,
+          0.2
+        ],
+        [
+          0.5,
+          0.744,
+          0.65
+        ],
+        [
+          0.55,
+          0.744,
+          0.7
+        ],
+        [
+          0.59,
+          0.733,
+          0.15
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#633a27",
+      "size": 24,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.405,
+          0.461,
+          0.3
+        ],
+        [
+          0.415,
+          0.477,
+          0.7
+        ],
+        [
+          0.426,
+          0.481,
+          0.25
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#633a27",
+      "size": 23,
+      "flow": 0.8,
+      "duration": 1200,
+      "points": [
+        [
+          0.598,
+          0.475,
+          0.25
+        ],
+        [
+          0.603,
+          0.489,
+          0.75
+        ],
+        [
+          0.618,
+          0.494,
+          0.2
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#e0ba7d",
+      "size": 24,
+      "flow": 1,
+      "duration": 1200,
+      "points": [
+        [
+          0.451,
+          0.449,
+          0.25
+        ],
+        [
+          0.471,
+          0.445,
+          0.75
+        ],
+        [
+          0.49,
+          0.446,
+          0.2
+        ]
+      ],
+      "body": 0.06
+    },
+    {
+      "medium": "oil",
+      "color": "#d2a66d",
+      "size": 20,
+      "flow": 0.9,
+      "duration": 1200,
+      "points": [
+        [
+          0.294,
+          0.422,
+          0.2
+        ],
+        [
+          0.304,
+          0.446,
+          0.65
+        ],
+        [
+          0.317,
+          0.471,
+          0.2
+        ]
+      ],
+      "body": 0.04
+    },
+    {
+      "medium": "oil",
+      "color": "#3a443b",
+      "size": 25,
+      "flow": 1,
+      "duration": 1200,
+      "points": [
+        [
+          0.511,
+          0.416,
+          0.8
+        ],
+        [
+          0.521,
+          0.416,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    }
+  ],
+  "events": [
+    {
+      "text": "Copper at the window. I am painting a small copper kettle against a cool ground. Today\u2019s goal: build filled curved forms with overlapping broad passes, then reserve one short reflected light. An ordinary kitchen kettle is the spark; this composition is imagined.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10920,
+      "afterStroke": 0
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 3
+    },
+    {
+      "text": "The washes are three separate bands. I will bridge the cool field and lay a low contact shadow before placing the copper body.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6000,
+      "afterStroke": 3
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "text": "The contact shadow is narrow and low. The background seams stay quiet for now; broad copper passes will establish the filled body before any outline.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6500,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 9
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 9
+    },
+    {
+      "text": "The body is fully filled and slightly angular at the bottom, with regular oil ridges. I will add an upward spout and a dark open handle to make the kettle silhouette clear.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8320,
+      "afterStroke": 9
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "text": "The kettle reads, but the handle is polygonal and the body has no lid or light structure yet. I will seat a shallow lid and put the darkest copper along the lower right.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8580,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 15
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 15
+    },
+    {
+      "text": "The lid separates from the body, but its upper arc and handle corners are hard. Smaller point intervals should soften turns. A broad warm plane will make room for a narrow cool reflection later.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8840,
+      "afterStroke": 15
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 18
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 18
+    },
+    {
+      "text": "The handle\u2019s inner turn softened, although its outside remains faceted. The broad warm face is visible. I will test one cool vertical reflection on the upper left belly before adding any other lights.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8580,
+      "afterStroke": 18
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 19
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 19
+    },
+    {
+      "text": "The reflection is visible but blends warmly into copper. Keep its soft lower end; a shorter cooler center can suggest the window. The spout needs a dark mouth and the lid needs a small edge light.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9360,
+      "afterStroke": 19
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 22
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 22
+    },
+    {
+      "text": "The small mouth reads as an opening; the lid light is almost lost in ridges. The window reflection still needs a clearer center. I will use a shorter, fuller light and a quiet cool edge on the handle.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9880,
+      "afterStroke": 22
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 25
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 25
+    },
+    {
+      "text": "The fuller short reflection now survives at whole view. Fine handle and lower accents remain subdued. Pale ground seams compete with the kettle; bridge them outside the silhouette without outlining it.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8060,
+      "afterStroke": 25
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 28
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 28
+    },
+    {
+      "text": "The outside washes reduced the longest pale bands. The body still sits a little lightly over the shadow. Darken a short base contact and attach the two handle feet with small copper collars.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8580,
+      "afterStroke": 28
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 31
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 31
+    },
+    {
+      "text": "The short base contact anchors the vessel and the collars attach the handle. For refinement, strengthen only a short lid edge and a small upper spout edge; keep both quieter than the belly reflection.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8840,
+      "afterStroke": 31
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 33
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 33
+    },
+    {
+      "text": "The lid edge now catches a small light without competing with the belly. The knob still looks like an inverted U in close view. One short dark fill should make it solid; then I will review the entire study.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10140,
+      "afterStroke": 33
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 34
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 34
+    },
+    {
+      "text": "Copper at the window \u2014 final review. The filled body, attached handle, solid knob and short base contact hold together. One upper-left reflection stays dominant; the lid edge remains quiet. Regular oil ridges, a faceted handle and traces of pale ground seams remain. Stop here because more light accents would compete with the focal reflection.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 14300,
+      "afterStroke": 34
+    }
+  ],
+  "creation": {
+    "method": "AI agent painted in the Atelier browser simulator, choosing each next 1\u20133 animated marks after actual whole and settled 2\u00d7 close screenshots. Initial ground screenshots were followed by settled camera checks; subsequent paired inspections polled displayed zoom before capture.",
+    "inspectionBoundaries": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      19,
+      22,
+      25,
+      28,
+      31,
+      33,
+      34
+    ],
+    "notes": "Easel observations and camera moves recorded live; title, creation metadata and practice entry added after actual browser PNG and JSON exports.",
+    "broadcast": "Direct user approval at startup. Live from this laptop confirmed; public easel verified broadcast ended with all 34 completed marks and final review note.",
+    "engineRevision": "bd7ea6910a947cc8482f738feab3e247229cb8b9",
+    "engineChanges": false,
+    "painter": "AI agent",
+    "hardwareHost": "randomdrake",
+    "inspiration": {
+      "description": "An ordinary kitchen kettle sparked this imagined copper vessel in cool window light; no reference composition copied."
+    }
+  }
+}
