@@ -4,6 +4,23 @@ import {PaintSurface,BrushReservoir,MEDIA,validateStroke} from '../src/engine.js
 import {compose} from '../src/compositions.js';
 const brush={medium:'watercolor',color:'#315b70',size:20,flow:.8};
 const sum=a=>a.reduce((x,y)=>x+y,0);
+test('opaque oil highlights cover a deep dark ground without erasing its pigment',()=>{
+  const s=new PaintSurface(40,40),dark={medium:'oil',color:'#252a24',size:16,body:.1,flow:1};
+  for(let n=0;n<80;n++)s.dab(.5,.5,1,dark);
+  const i=20*40+20,before=s.render(new Uint8ClampedArray(s.length*4))[i*4],mass=sum(s.oilMass),pigment=sum(s.oilPigment);
+  const light={...dark,color:'#ffe8b9',body:1},r=new BrushReservoir(light);
+  for(let n=0;n<35;n++)s.dab(.5,.5,1,light,0,r);
+  const after=s.render(new Uint8ClampedArray(s.length*4))[i*4];
+  assert(after>before+70,`highlight must remain visible: ${before} → ${after}`);
+  assert(sum(s.oilMass)>mass);assert(sum(s.oilPigment)>=pigment);
+});
+test('loaded thick oil retains more fresh color than a thin mixing brush',()=>{
+  const s=new PaintSurface(40,40),dark={medium:'oil',color:'#252a24',size:16,flow:1};
+  for(let n=0;n<40;n++)s.dab(.5,.5,1,dark);
+  const paint={...dark,color:'#ffe8b9'},thick=new BrushReservoir(paint),thin=new BrushReservoir(paint);
+  for(let n=0;n<200;n++){thick.contact(s,.5,.5,{...paint,body:1},0);thin.contact(s,.5,.5,{...paint,body:0},0);}
+  assert(thick.color[0]>thin.color[0]+.1);assert(thick.color[0]<1);
+});
 test('all six media deposit finite pigment with distinct water and relief',()=>{
   const results={};for(const medium of Object.keys(MEDIA)){const s=new PaintSurface(64,48);s.dab(.5,.5,.8,{...brush,medium});assert(sum(s.mass)>0);assert(s.render(new Uint8ClampedArray(s.length*4)).every(Number.isFinite));results[medium]={water:sum(s.water),relief:sum(s.heightMap)};}
   assert(results.watercolor.water>results.acrylic.water);assert.equal(results.pencil.water,0);assert(results.oil.relief>results.acrylic.relief);assert(results.acrylic.relief>results.chalk.relief);

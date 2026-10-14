@@ -40,18 +40,21 @@ export function validateScore(strokes) {
   return structuredClone(strokes);
 }
 function tooth(x,y) { const v=Math.sin(x*127.1+y*311.7)*43758.5453; return v-Math.floor(v); }
-const FIELDS = ['pigment','mass','water','absorbed','heightMap','mobile','mobilePigment','washMass','washPigment','wet','drying','oilMass','oilPigment','oilColor','oilWet','oilHeight'];
+const FIELDS = ['pigment','mass','water','absorbed','heightMap','mobile','mobilePigment','washMass','washPigment','wet','drying','oilMass','oilPigment','oilColor','oilWet','oilHeight','oilSurfaceKs'];
 export class BrushReservoir {
-  constructor(brush) { this.color=rgb(brush.color); this.load=1; this.medium=brush.medium; }
+  constructor(brush) { this.color=rgb(brush.color); this.fresh=this.color.slice(); this.pickup=0; this.load=1; this.medium=brush.medium; }
   contact(surface,nx,ny,brush,angle) {
     const m=MEDIA[this.medium], w=surface.width, h=surface.height;
     if (m.drag>0) for (const offset of [-.3,0,.3]) {
       const x=clamp(Math.floor(nx*w-Math.sin(angle)*brush.size*offset),0,w-1);
       const y=clamp(Math.floor(ny*h+Math.cos(angle)*brush.size*offset),0,h-1), i=y*w+x;
       if (this.medium==='oil' && surface.oilMass[i]>.0001) {
-        const amount=m.drag*surface.oilWet[i]*(1-Math.exp(-surface.oilMass[i]*3))*.12;
-        const old=this.color.map((_,c)=>reflectance(surface.oilPigment[i*3+c]/surface.oilMass[i]));
-        this.color=mixPigments(this.color,old,amount);
+        // A loaded brush retains fresh pigment; sampling more dabs must not
+        // eventually turn every stroke into the underlying ground color.
+        const capacity=.12+.4*(1-(brush.body??.75))+.15*(1-(brush.flow??1));
+        const amount=Math.min(Math.max(0,capacity-this.pickup),m.drag*surface.oilWet[i]*(1-Math.exp(-surface.oilMass[i]*3))*.025);
+        const old=this.color.map((_,c)=>reflectance(surface.oilSurfaceKs[i*3+c]));
+        this.color=mixPigments(this.color,old,amount);this.pickup+=amount;
       } else if (this.medium!=='oil' && surface.mass[i]>.0001) {
         const amount=m.drag*surface.wet[i]*(1-Math.exp(-surface.mass[i]*3))*.1;
         this.color=this.color.map((value,c)=>value*(1-amount)+surface.pigment[i*3+c]/surface.mass[i]*amount);
@@ -64,7 +67,7 @@ export class BrushReservoir {
 export class PaintSurface {
   constructor(width=720,height=500) {
     this.width=width; this.height=height; this.length=width*height;
-    for (const key of FIELDS) this[key]=new Float32Array(this.length*(['pigment','mobilePigment','washPigment','oilPigment','oilColor'].includes(key)?3:1));
+    for (const key of FIELDS) this[key]=new Float32Array(this.length*(['pigment','mobilePigment','washPigment','oilPigment','oilColor','oilSurfaceKs'].includes(key)?3:1));
     this.tooth=Float32Array.from({length:this.length},(_,i)=>tooth(i%width,Math.floor(i/width)));
     this.clear();
   }
@@ -103,6 +106,9 @@ export class PaintSurface {
     amount=Math.min(amount,this.oilMass[source]);
     if (amount<=0 || source===target || this.oilMass[source]<1e-8) return;
     const fraction=amount/this.oilMass[source];
+    // Optical surface color is distinct from conserved pigment through depth.
+    const skinMix=1-Math.exp(-amount*5);
+    for(let c=0;c<3;c++)this.oilSurfaceKs[target*3+c]=this.oilMass[target]<1e-8?this.oilSurfaceKs[source*3+c]:this.oilSurfaceKs[target*3+c]*(1-skinMix)+this.oilSurfaceKs[source*3+c]*skinMix;
     for (let c=0;c<3;c++) {
       const ks=this.oilPigment[source*3+c]*fraction, color=this.oilColor[source*3+c]*fraction;
       this.oilPigment[source*3+c]-=ks; this.oilPigment[target*3+c]+=ks;
@@ -140,6 +146,10 @@ export class PaintSurface {
         const sx=clamp(x-Math.round(co*2),0,w-1),sy=clamp(y-Math.round(si*2),0,h-1),source=sy*w+sx;
         const displacement=this.oilMass[source]*this.oilWet[source]*edge*pressure*(.018+.045*(1-body));
         this.moveOil(source,i,displacement);
+        // Finite optical depth: fresh opaque paint masks buried pigment while
+        // thin strokes blend more of the exposed wet layer. Bulk mass stays conserved.
+        const cover=1-Math.exp(-amount*(4+body*8));
+        for(let c=0;c<3;c++)this.oilSurfaceKs[i*3+c]=this.oilMass[i]<1e-8?ks[c]:this.oilSurfaceKs[i*3+c]*(1-cover)+ks[c]*cover;
         for(let c=0;c<3;c++) { this.oilPigment[i*3+c]+=amount*ks[c]; this.oilColor[i*3+c]+=amount*color[c]; }
         this.oilMass[i]+=amount; this.oilWet[i]=clamp(this.oilWet[i]+amount*3);
         const relief=amount*m.relief*(.08+body*body*2.5)*(.35+ridge*1.65);
@@ -228,7 +238,7 @@ export class PaintSurface {
       for(let c=0;c<3;c++) {
         const baseColor=baseMass>.00001?clamp((this.pigment[i*3+c]-this.oilColor[i*3+c])/baseMass,.025):paper;
         const base=paper*Math.exp(Math.log(Math.max(.025,baseColor/paper))*coverage);
-        const oilColor=oilMass>.00001?reflectance(this.oilPigment[i*3+c]/oilMass):base;
+        const oilColor=oilMass>.00001?reflectance(this.oilSurfaceKs[i*3+c]):base;
         data[i*4+c]=clamp(base*(1-oilCoverage)+oilColor*shade*oilCoverage+specular)*255;
       }
       data[i*4+3]=255;
