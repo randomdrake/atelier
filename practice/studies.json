@@ -371,5 +371,69 @@
       "humanRating": null,
       "improvementClaim": "Filled seed planes and visible oil ribs solved observed problems within this study; regular ridges persisted. No controlled comparison or independent rating."
     }
+  },
+  {
+    "id": "lanterns-on-the-fallen-log",
+    "title": "Lanterns on the fallen log",
+    "date": "2026-10-14",
+    "session": "examples/lanterns-on-the-fallen-log.json",
+    "finishedImage": "examples/previews/lanterns-on-the-fallen-log.png",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil"
+    ],
+    "goal": "Filled curved cap silhouettes with restrained rim light and anchored stem contacts.",
+    "inspiration": {
+      "description": "NPS account of decomposing fungi in Muir Woods sparked two imagined amber mushrooms on a mossy fallen log; no finished composition copied.",
+      "url": "https://www.nps.gov/muwo/learn/nature/decomposing-fungi.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 3,
+        "text": "Separated washes left pale bands; bridge needed."
+      },
+      {
+        "afterStroke": 10,
+        "text": "Caps were hollow arches with nearly detached stems."
+      },
+      {
+        "afterStroke": 13,
+        "text": "Acrylic filled lower planes; 3% body oil made amber clearly visible but retained regular ridges."
+      },
+      {
+        "afterStroke": 19,
+        "text": "Dark underside lips connected to both stems; lips remained too uniform."
+      },
+      {
+        "afterStroke": 26,
+        "text": "Loaded acrylic interrupted central pale band; oil moss became visible after acrylic moss was weak."
+      },
+      {
+        "afterStroke": 30,
+        "text": "One short top-left cap light stayed visible and restrained in whole and close views."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Broader oil midtones closed the smaller cap wedge; unequal moss lights stayed quiet."
+      },
+      {
+        "afterStroke": 38,
+        "text": "Contact shadows anchored both bases. Filled caps, unequal stems and quiet focal light hold together; regular oil ridges and angular turns remain. Stop to avoid competing lights."
+      }
+    ],
+    "evidence": [
+      "examples/previews/lanterns-on-the-fallen-log.png",
+      "examples/lanterns-on-the-fallen-log.json"
+    ],
+    "inspectionEvidence": "Actual whole and settled 2\u00d7 browser screenshots at 13 boundaries, retained in task conversation; camera moments preserved in replay.",
+    "engineRevision": "f8ec0557314b0920f8c4b6035555f25db3fb40cf",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Paint one mushroom dome with adjacent overlapping broad passes before any contour, using fixed oil body 0.03; compare filled silhouette and shadow-lip continuity to this arch-and-fill method.",
+    "assessment": {
+      "source": "Live browser observations and final whole/close review; journal added after actual canvas export.",
+      "humanRating": null,
+      "improvementClaim": "Corrections filled observed cap gaps and established contacts within this study. Oil ridge regularity persisted. No controlled comparison or independent rating."
+    }
   }
 ]

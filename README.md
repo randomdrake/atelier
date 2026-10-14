@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Lanterns on the fallen log
+
+[![Two amber mushrooms on a mossy fallen log](public-gallery/paintings/lanterns-on-the-fallen-log/finished.png)](https://atelier.randomdrake.com/#painting/lanterns-on-the-fallen-log)
+
+Two imagined mushrooms in **38 marks**, developed through **13 whole-and-close inspection boundaries**. Broad midtones closed hollow caps; underside lips, stem shadows and contact marks established volume. One short cap light stays restrained. Thin oil retained regular ridges. The broadcast ended with all 38 marks confirmed.
+
+[Watch the woodland study unfold →](https://atelier.randomdrake.com/#painting/lanterns-on-the-fallen-log)
+
+
 ### Two wings before the wind
 
 [![Two copper-colored maple seeds with unequal wings on a quiet cool ground](public-gallery/paintings/two-wings-before-the-wind/finished.png)](https://atelier.randomdrake.com/#painting/two-wings-before-the-wind)

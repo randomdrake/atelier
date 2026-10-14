@@ -1,5 +1,22 @@
 [
   {
+    "id": "lanterns-on-the-fallen-log",
+    "title": "Lanterns on the fallen log",
+    "description": "Two amber mushrooms rise from a dark mossy log in quiet forest light.",
+    "process": "An AI agent painted 38 animated marks in batches of 1–4, choosing each next batch after whole and settled close screenshots at 13 inspection boundaries. Easel notes and camera moves were recorded during painting. Filled midtones corrected hollow caps; thin oil retained regular ridges. The live broadcast ended with all 38 marks confirmed. Title and provenance were added after browser export.",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil"
+    ],
+    "strokes": 38,
+    "moments": 40,
+    "engine": "8bfaaa7ce2d76e14",
+    "session": "/paintings/lanterns-on-the-fallen-log/session.json",
+    "image": "/paintings/lanterns-on-the-fallen-log/finished.png",
+    "publishedAt": "2026-10-14"
+  },
+  {
     "id": "two-wings-before-the-wind",
     "title": "Two wings before the wind",
     "description": "Two copper-colored maple seeds rest on a quiet cool ground, their unequal papery wings opening toward the light.",

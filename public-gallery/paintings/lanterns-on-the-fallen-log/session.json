@@ -1,0 +1,1575 @@
+{
+  "version": 2,
+  "width": 900,
+  "height": 620,
+  "title": "Lanterns on the fallen log",
+  "strokes": [
+    {
+      "medium": "watercolor",
+      "color": "#62766a",
+      "size": 155,
+      "flow": 0.55,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.2,
+          0.26,
+          0.8
+        ],
+        [
+          0.38,
+          0.22,
+          0.8
+        ],
+        [
+          0.61,
+          0.24,
+          0.8
+        ],
+        [
+          0.8,
+          0.32,
+          0.8
+        ]
+      ],
+      "water": 0.65
+    },
+    {
+      "medium": "watercolor",
+      "color": "#495e58",
+      "size": 155,
+      "flow": 0.7,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.16,
+          0.48,
+          0.8
+        ],
+        [
+          0.4,
+          0.45,
+          0.8
+        ],
+        [
+          0.66,
+          0.46,
+          0.8
+        ],
+        [
+          0.84,
+          0.53,
+          0.8
+        ]
+      ],
+      "water": 0.55
+    },
+    {
+      "medium": "watercolor",
+      "color": "#77764f",
+      "size": 150,
+      "flow": 0.65,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.18,
+          0.75,
+          0.8
+        ],
+        [
+          0.4,
+          0.69,
+          0.8
+        ],
+        [
+          0.67,
+          0.7,
+          0.8
+        ],
+        [
+          0.8,
+          0.78,
+          0.8
+        ]
+      ],
+      "water": 0.55
+    },
+    {
+      "medium": "watercolor",
+      "color": "#586c60",
+      "size": 130,
+      "flow": 0.65,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.23,
+          0.37,
+          0.8
+        ],
+        [
+          0.46,
+          0.36,
+          0.8
+        ],
+        [
+          0.72,
+          0.4,
+          0.8
+        ]
+      ],
+      "water": 0.5
+    },
+    {
+      "medium": "acrylic",
+      "color": "#393e35",
+      "size": 125,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.2,
+          0.78,
+          0.8
+        ],
+        [
+          0.4,
+          0.75,
+          0.8
+        ],
+        [
+          0.62,
+          0.78,
+          0.8
+        ],
+        [
+          0.79,
+          0.83,
+          0.8
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#68634a",
+      "size": 62,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.24,
+          0.71,
+          0.8
+        ],
+        [
+          0.43,
+          0.7,
+          0.8
+        ],
+        [
+          0.64,
+          0.74,
+          0.8
+        ],
+        [
+          0.77,
+          0.78,
+          0.8
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#c4b58a",
+      "size": 42,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.44,
+          0.7,
+          0.8
+        ],
+        [
+          0.445,
+          0.61,
+          0.8
+        ],
+        [
+          0.43,
+          0.51,
+          0.8
+        ],
+        [
+          0.43,
+          0.46,
+          0.8
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#a89d79",
+      "size": 29,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.64,
+          0.73,
+          0.8
+        ],
+        [
+          0.65,
+          0.65,
+          0.8
+        ],
+        [
+          0.66,
+          0.59,
+          0.8
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#a5683c",
+      "size": 115,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.31,
+          0.4,
+          0.8
+        ],
+        [
+          0.36,
+          0.345,
+          0.8
+        ],
+        [
+          0.43,
+          0.325,
+          0.8
+        ],
+        [
+          0.51,
+          0.355,
+          0.8
+        ],
+        [
+          0.56,
+          0.41,
+          0.8
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#9b7046",
+      "size": 78,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.58,
+          0.53,
+          0.8
+        ],
+        [
+          0.62,
+          0.48,
+          0.8
+        ],
+        [
+          0.67,
+          0.47,
+          0.8
+        ],
+        [
+          0.73,
+          0.52,
+          0.8
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#9b6039",
+      "size": 100,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.34,
+          0.405,
+          0.8
+        ],
+        [
+          0.42,
+          0.39,
+          0.8
+        ],
+        [
+          0.51,
+          0.415,
+          0.8
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#90643d",
+      "size": 65,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.605,
+          0.54,
+          0.8
+        ],
+        [
+          0.655,
+          0.53,
+          0.8
+        ],
+        [
+          0.705,
+          0.54,
+          0.8
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#c78a48",
+      "size": 78,
+      "flow": 0.9,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.32,
+          0.36,
+          0.8
+        ],
+        [
+          0.37,
+          0.305,
+          0.8
+        ],
+        [
+          0.43,
+          0.29,
+          0.8
+        ],
+        [
+          0.49,
+          0.32,
+          0.8
+        ],
+        [
+          0.54,
+          0.375,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#b97c42",
+      "size": 77,
+      "flow": 0.9,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.36,
+          0.365,
+          0.8
+        ],
+        [
+          0.415,
+          0.345,
+          0.8
+        ],
+        [
+          0.47,
+          0.365,
+          0.8
+        ],
+        [
+          0.515,
+          0.4,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#b6854c",
+      "size": 56,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.6,
+          0.515,
+          0.8
+        ],
+        [
+          0.63,
+          0.475,
+          0.8
+        ],
+        [
+          0.67,
+          0.47,
+          0.8
+        ],
+        [
+          0.71,
+          0.51,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#c4b58c",
+      "size": 24,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.435,
+          0.475,
+          0.8
+        ],
+        [
+          0.435,
+          0.55,
+          0.8
+        ],
+        [
+          0.448,
+          0.63,
+          0.8
+        ],
+        [
+          0.44,
+          0.695,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#6c4935",
+      "size": 27,
+      "flow": 0.8,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.31,
+          0.445,
+          0.8
+        ],
+        [
+          0.365,
+          0.457,
+          0.8
+        ],
+        [
+          0.43,
+          0.46,
+          0.8
+        ],
+        [
+          0.495,
+          0.462,
+          0.8
+        ],
+        [
+          0.555,
+          0.447,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#70533a",
+      "size": 18,
+      "flow": 0.8,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.588,
+          0.561,
+          0.8
+        ],
+        [
+          0.63,
+          0.575,
+          0.8
+        ],
+        [
+          0.675,
+          0.575,
+          0.8
+        ],
+        [
+          0.721,
+          0.56,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#b6aa82",
+      "size": 18,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.66,
+          0.573,
+          0.8
+        ],
+        [
+          0.656,
+          0.622,
+          0.8
+        ],
+        [
+          0.645,
+          0.683,
+          0.8
+        ],
+        [
+          0.64,
+          0.728,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "watercolor",
+      "color": "#596d58",
+      "size": 125,
+      "flow": 0.8,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.22,
+          0.57,
+          0.8
+        ],
+        [
+          0.29,
+          0.6,
+          0.8
+        ],
+        [
+          0.35,
+          0.61,
+          0.8
+        ]
+      ],
+      "water": 0.5
+    },
+    {
+      "medium": "watercolor",
+      "color": "#596c57",
+      "size": 110,
+      "flow": 0.8,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.72,
+          0.65,
+          0.8
+        ],
+        [
+          0.79,
+          0.65,
+          0.8
+        ],
+        [
+          0.82,
+          0.64,
+          0.8
+        ]
+      ],
+      "water": 0.5
+    },
+    {
+      "medium": "oil",
+      "color": "#66614a",
+      "size": 35,
+      "flow": 0.7,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.25,
+          0.757,
+          0.8
+        ],
+        [
+          0.36,
+          0.734,
+          0.8
+        ],
+        [
+          0.49,
+          0.75,
+          0.8
+        ],
+        [
+          0.57,
+          0.78,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "acrylic",
+      "color": "#6f774a",
+      "size": 37,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.31,
+          0.703,
+          0.8
+        ],
+        [
+          0.35,
+          0.684,
+          0.8
+        ],
+        [
+          0.4,
+          0.704,
+          0.8
+        ],
+        [
+          0.46,
+          0.725,
+          0.8
+        ],
+        [
+          0.52,
+          0.711,
+          0.8
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#677663",
+      "size": 108,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.505,
+          0.608,
+          0.8
+        ],
+        [
+          0.55,
+          0.612,
+          0.8
+        ],
+        [
+          0.58,
+          0.616,
+          0.8
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#7b8151",
+      "size": 29,
+      "flow": 0.8,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.28,
+          0.725,
+          0.8
+        ],
+        [
+          0.31,
+          0.704,
+          0.8
+        ],
+        [
+          0.35,
+          0.708,
+          0.8
+        ],
+        [
+          0.375,
+          0.698,
+          0.8
+        ],
+        [
+          0.398,
+          0.716,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#717849",
+      "size": 24,
+      "flow": 0.75,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.54,
+          0.75,
+          0.8
+        ],
+        [
+          0.57,
+          0.731,
+          0.8
+        ],
+        [
+          0.606,
+          0.747,
+          0.8
+        ],
+        [
+          0.63,
+          0.739,
+          0.8
+        ],
+        [
+          0.68,
+          0.77,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#867653",
+      "size": 10,
+      "flow": 0.75,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.449,
+          0.487,
+          0.8
+        ],
+        [
+          0.451,
+          0.56,
+          0.8
+        ],
+        [
+          0.464,
+          0.62,
+          0.8
+        ],
+        [
+          0.454,
+          0.687,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#756b50",
+      "size": 8,
+      "flow": 0.7,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.669,
+          0.592,
+          0.8
+        ],
+        [
+          0.663,
+          0.65,
+          0.8
+        ],
+        [
+          0.651,
+          0.712,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#a7875b",
+      "size": 12,
+      "flow": 0.75,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.345,
+          0.443,
+          0.8
+        ],
+        [
+          0.381,
+          0.451,
+          0.8
+        ],
+        [
+          0.421,
+          0.454,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#ddb16d",
+      "size": 17,
+      "flow": 0.8,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.328,
+          0.332,
+          0.8
+        ],
+        [
+          0.352,
+          0.302,
+          0.8
+        ],
+        [
+          0.383,
+          0.283,
+          0.8
+        ],
+        [
+          0.411,
+          0.281,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#9e6c42",
+      "size": 43,
+      "flow": 0.75,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.35,
+          0.413,
+          0.8
+        ],
+        [
+          0.393,
+          0.421,
+          0.8
+        ],
+        [
+          0.443,
+          0.428,
+          0.8
+        ],
+        [
+          0.498,
+          0.428,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#9b7348",
+      "size": 31,
+      "flow": 0.75,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.611,
+          0.539,
+          0.8
+        ],
+        [
+          0.65,
+          0.55,
+          0.8
+        ],
+        [
+          0.689,
+          0.544,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#323b31",
+      "size": 13,
+      "flow": 0.75,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.265,
+          0.81,
+          0.8
+        ],
+        [
+          0.36,
+          0.787,
+          0.8
+        ],
+        [
+          0.426,
+          0.808,
+          0.8
+        ],
+        [
+          0.53,
+          0.806,
+          0.8
+        ],
+        [
+          0.61,
+          0.834,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#a77b49",
+      "size": 39,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.641,
+          0.521,
+          0.8
+        ],
+        [
+          0.66,
+          0.526,
+          0.8
+        ],
+        [
+          0.68,
+          0.533,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#989560",
+      "size": 10,
+      "flow": 0.7,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.299,
+          0.708,
+          0.35
+        ],
+        [
+          0.321,
+          0.697,
+          0.7
+        ],
+        [
+          0.339,
+          0.704,
+          0.2
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#8c8d59",
+      "size": 9,
+      "flow": 0.7,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.565,
+          0.737,
+          0.7
+        ],
+        [
+          0.587,
+          0.743,
+          0.25
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#414634",
+      "size": 15,
+      "flow": 0.7,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.423,
+          0.711,
+          0.8
+        ],
+        [
+          0.445,
+          0.716,
+          0.8
+        ],
+        [
+          0.464,
+          0.713,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#414735",
+      "size": 12,
+      "flow": 0.7,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.623,
+          0.742,
+          0.8
+        ],
+        [
+          0.642,
+          0.749,
+          0.8
+        ],
+        [
+          0.659,
+          0.746,
+          0.8
+        ]
+      ],
+      "body": 0.03
+    }
+  ],
+  "events": [
+    {
+      "text": "I am painting two imagined amber mushrooms on a mossy log, sparked by the NPS account of fungi in Muir Woods. Today I will practice filled curved caps and restrained rim lights, using watercolor, acrylic and selective oil.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9880,
+      "afterStroke": 0
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 3
+    },
+    {
+      "text": "The three washes are separated by pale bands. I will bridge the middle gap, then place a broad dark log and its warmer top plane.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6500,
+      "afterStroke": 3
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "text": "The log is established, though its top is subtle. Two unequal stems will rise from it; the larger amber cap needs a broad filled sweep rather than an outline.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7540,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 10
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 10
+    },
+    {
+      "text": "The caps remain hollow arches and the stems nearly detach. I will fill the lower cap planes and use thin oil to establish a warmer solid dome, before any rim light.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8060,
+      "afterStroke": 10
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 13
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 13
+    },
+    {
+      "text": "The filled brown planes close the arches. Thin oil is much more visible, but its ridge bands persist even at 3% body. I will connect the amber dome through its center, warm the smaller cap, and clarify the main stem.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10400,
+      "afterStroke": 13
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 16
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 16
+    },
+    {
+      "text": "The main dome is connected and its stem has a clear light side. The smaller stem still lacks contact. I will place dark underside lips on both caps and carry the small stem into that shadow.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9360,
+      "afterStroke": 16
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 19
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 19
+    },
+    {
+      "text": "Both underside lips now connect to their stems, although the lips are too uniformly dark. The pale ground stripe distracts from those contacts. I will soften its exposed sides and break the log into warmer bark and green moss.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10140,
+      "afterStroke": 19
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 23
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 23
+    },
+    {
+      "text": "The side washes softened the stripe, but its center still shines behind the stems. Acrylic moss was weak. I will close the central gap with a loaded cool stroke, then add two unequal oil moss patches on the log.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10140,
+      "afterStroke": 23
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 26
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 26
+    },
+    {
+      "text": "The central band is broken into two small light openings, which can remain as dappled forest light. Moss is visible now. I will turn the stems with narrow shadow sides and soften part of the main dark lip with a reflected warm tone.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 11180,
+      "afterStroke": 26
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 29
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 29
+    },
+    {
+      "text": "The stems now have light and shadow sides. A short reflected mark interrupts the main dark lip. I will test one restrained top-left cap light alone, keeping the right dome quieter.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8060,
+      "afterStroke": 29
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 30
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 30
+    },
+    {
+      "text": "The top-left light is visible and restrained; I will keep it. The lower cap still has an abrupt triangular brown patch. Broader warm midtones will join that patch to the dome, while a dark bark seam will break the log’s uniform strip.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10920,
+      "afterStroke": 30
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 33
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 33
+    },
+    {
+      "text": "The main lower plane now joins the dome. A little dark wedge remains in the small cap, so I will fill that center and add two short moss lights with unequal lengths.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8320,
+      "afterStroke": 33
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 36
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 36
+    },
+    {
+      "text": "Both caps are filled, and the small moss lights stay quiet. The stem bases still rest lightly on the log. Two short contact shadows will anchor them; after that I will review the whole painting and stop if no further mark has a clear purpose.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 11700,
+      "afterStroke": 36
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 38
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 38
+    },
+    {
+      "text": "Finished: Lanterns on the fallen log. The filled caps, unequal stems and contact shadows hold together. The short cap light stays quiet, and moss interrupts the log edge. Regular oil ridges and some angular turns remain. I will stop here because more highlights would compete with the larger mushroom.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 12740,
+      "afterStroke": 38
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 38
+    }
+  ],
+  "creation": {
+    "method": "AI agent painted in the Atelier browser simulator, choosing each next 1–4 animated strokes after actual whole and settled 2× screenshots.",
+    "inspectionBoundaries": [
+      3,
+      6,
+      10,
+      13,
+      16,
+      19,
+      23,
+      26,
+      29,
+      30,
+      33,
+      36,
+      38
+    ],
+    "notes": "Easel notes and camera moves recorded during painting; title and creation metadata added after actual browser export. Screenshots inspected in conversation.",
+    "broadcast": "Live from this laptop confirmed after direct user approval; public easel verified broadcast ended with all 38 completed marks and final note. Live title remained An open possibility.",
+    "engineRevision": "f8ec0557314b0920f8c4b6035555f25db3fb40cf",
+    "engineChanges": false,
+    "painter": "AI agent",
+    "hardwareHost": "randomdrake",
+    "inspiration": {
+      "description": "NPS account of decomposing fungi in Muir Woods sparked two imagined amber mushrooms on a mossy fallen log; no finished composition copied.",
+      "url": "https://www.nps.gov/muwo/learn/nature/decomposing-fungi.htm"
+    }
+  }
+}
