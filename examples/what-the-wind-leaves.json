@@ -1,0 +1,1533 @@
+{
+  "version": 2,
+  "width": 900,
+  "height": 620,
+  "title": "What the wind leaves",
+  "strokes": [
+    {
+      "medium": "watercolor",
+      "color": "#536f79",
+      "size": 160,
+      "flow": 0.45,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.12,
+          0.25,
+          0.5
+        ],
+        [
+          0.4,
+          0.2,
+          0.7
+        ],
+        [
+          0.75,
+          0.26,
+          0.6
+        ],
+        [
+          0.89,
+          0.32,
+          0.3
+        ]
+      ],
+      "water": 0.75
+    },
+    {
+      "medium": "watercolor",
+      "color": "#657f87",
+      "size": 160,
+      "flow": 0.45,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.12,
+          0.48,
+          0.6
+        ],
+        [
+          0.4,
+          0.45,
+          0.7
+        ],
+        [
+          0.75,
+          0.49,
+          0.7
+        ],
+        [
+          0.87,
+          0.52,
+          0.3
+        ]
+      ],
+      "water": 0.65
+    },
+    {
+      "medium": "watercolor",
+      "color": "#7b9195",
+      "size": 160,
+      "flow": 0.35,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.16,
+          0.72,
+          0.4
+        ],
+        [
+          0.45,
+          0.7,
+          0.7
+        ],
+        [
+          0.78,
+          0.7,
+          0.6
+        ]
+      ],
+      "water": 0.6
+    },
+    {
+      "medium": "watercolor",
+      "color": "#667d84",
+      "size": 160,
+      "flow": 0.35,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.12,
+          0.36,
+          0.4
+        ],
+        [
+          0.43,
+          0.34,
+          0.7
+        ],
+        [
+          0.8,
+          0.38,
+          0.5
+        ]
+      ],
+      "water": 0.65
+    },
+    {
+      "medium": "watercolor",
+      "color": "#71868a",
+      "size": 150,
+      "flow": 0.35,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.18,
+          0.6,
+          0.4
+        ],
+        [
+          0.48,
+          0.58,
+          0.7
+        ],
+        [
+          0.83,
+          0.61,
+          0.4
+        ]
+      ],
+      "water": 0.6
+    },
+    {
+      "medium": "oil",
+      "color": "#665747",
+      "size": 125,
+      "flow": 0.9,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.38,
+          0.69,
+          0.45
+        ],
+        [
+          0.46,
+          0.53,
+          1
+        ],
+        [
+          0.56,
+          0.37,
+          0.85
+        ],
+        [
+          0.65,
+          0.26,
+          0.1
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#a38b6b",
+      "size": 75,
+      "flow": 0.95,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.395,
+          0.65,
+          0.35
+        ],
+        [
+          0.435,
+          0.54,
+          0.95
+        ],
+        [
+          0.505,
+          0.42,
+          0.9
+        ],
+        [
+          0.59,
+          0.31,
+          0.15
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#80664e",
+      "size": 70,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.42,
+          0.68,
+          0.4
+        ],
+        [
+          0.5,
+          0.56,
+          0.85
+        ],
+        [
+          0.58,
+          0.41,
+          0.6
+        ],
+        [
+          0.645,
+          0.28,
+          0.08
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#655443",
+      "size": 8,
+      "flow": 0.95,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.32,
+          0.84,
+          0.6
+        ],
+        [
+          0.38,
+          0.7,
+          0.8
+        ],
+        [
+          0.47,
+          0.54,
+          0.8
+        ],
+        [
+          0.57,
+          0.37,
+          0.6
+        ],
+        [
+          0.65,
+          0.26,
+          0.15
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#403a32",
+      "size": 26,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.432,
+          0.475,
+          0.12
+        ],
+        [
+          0.463,
+          0.493,
+          0.8
+        ],
+        [
+          0.514,
+          0.526,
+          0.7
+        ],
+        [
+          0.548,
+          0.536,
+          0.1
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#514235",
+      "size": 23,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.495,
+          0.375,
+          0.15
+        ],
+        [
+          0.527,
+          0.395,
+          0.8
+        ],
+        [
+          0.568,
+          0.425,
+          0.65
+        ],
+        [
+          0.596,
+          0.433,
+          0.1
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#493d32",
+      "size": 22,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.384,
+          0.584,
+          0.1
+        ],
+        [
+          0.419,
+          0.602,
+          0.75
+        ],
+        [
+          0.46,
+          0.628,
+          0.6
+        ],
+        [
+          0.48,
+          0.633,
+          0.05
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#d4bf93",
+      "size": 5,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.345,
+          0.785,
+          0.35
+        ],
+        [
+          0.397,
+          0.677,
+          0.6
+        ],
+        [
+          0.47,
+          0.546,
+          0.65
+        ],
+        [
+          0.544,
+          0.414,
+          0.45
+        ],
+        [
+          0.605,
+          0.318,
+          0.1
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#d3bd90",
+      "size": 13,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.355,
+          0.77,
+          0.3
+        ],
+        [
+          0.413,
+          0.65,
+          0.7
+        ],
+        [
+          0.484,
+          0.52,
+          0.8
+        ],
+        [
+          0.555,
+          0.394,
+          0.6
+        ],
+        [
+          0.605,
+          0.318,
+          0.1
+        ]
+      ],
+      "body": 0.06
+    },
+    {
+      "medium": "oil",
+      "color": "#b69b74",
+      "size": 37,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.425,
+          0.556,
+          0.3
+        ],
+        [
+          0.446,
+          0.506,
+          0.9
+        ],
+        [
+          0.475,
+          0.46,
+          0.55
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#af9775",
+      "size": 42,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.5,
+          0.408,
+          0.2
+        ],
+        [
+          0.542,
+          0.355,
+          0.75
+        ],
+        [
+          0.592,
+          0.3,
+          0.1
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#b9a27f",
+      "size": 11,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.463,
+          0.55,
+          0.65
+        ],
+        [
+          0.42,
+          0.515,
+          0.55
+        ],
+        [
+          0.4,
+          0.492,
+          0.1
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#c0ab89",
+      "size": 10,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.505,
+          0.478,
+          0.6
+        ],
+        [
+          0.466,
+          0.437,
+          0.5
+        ],
+        [
+          0.447,
+          0.413,
+          0.08
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#9d8668",
+      "size": 12,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.417,
+          0.638,
+          0.6
+        ],
+        [
+          0.381,
+          0.601,
+          0.5
+        ],
+        [
+          0.365,
+          0.591,
+          0.08
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#77644e",
+      "size": 10,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.49,
+          0.54,
+          0.7
+        ],
+        [
+          0.546,
+          0.568,
+          0.5
+        ],
+        [
+          0.563,
+          0.574,
+          0.06
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#8e7759",
+      "size": 9,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.537,
+          0.457,
+          0.7
+        ],
+        [
+          0.587,
+          0.48,
+          0.45
+        ],
+        [
+          0.604,
+          0.48,
+          0.05
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#a38c6c",
+      "size": 8,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.438,
+          0.64,
+          0.6
+        ],
+        [
+          0.484,
+          0.664,
+          0.4
+        ],
+        [
+          0.501,
+          0.66,
+          0.05
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#998265",
+      "size": 24,
+      "flow": 0.9,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.533,
+          0.53,
+          0.5
+        ],
+        [
+          0.544,
+          0.552,
+          0.7
+        ],
+        [
+          0.558,
+          0.567,
+          0.05
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#a58e70",
+      "size": 22,
+      "flow": 0.9,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.574,
+          0.435,
+          0.5
+        ],
+        [
+          0.585,
+          0.46,
+          0.7
+        ],
+        [
+          0.601,
+          0.477,
+          0.05
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "chalk",
+      "color": "#baa887",
+      "size": 28,
+      "flow": 0.9,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.375,
+          0.716,
+          0.15
+        ],
+        [
+          0.358,
+          0.702,
+          0.55
+        ],
+        [
+          0.373,
+          0.678,
+          0.7
+        ],
+        [
+          0.388,
+          0.684,
+          0.25
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#4f666d",
+      "size": 28,
+      "flow": 0.55,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.402,
+          0.722,
+          0.1
+        ],
+        [
+          0.49,
+          0.576,
+          0.5
+        ],
+        [
+          0.588,
+          0.416,
+          0.45
+        ],
+        [
+          0.65,
+          0.31,
+          0.05
+        ]
+      ],
+      "water": 0.35
+    },
+    {
+      "medium": "oil",
+      "color": "#c3ae8a",
+      "size": 12,
+      "flow": 0.9,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.389,
+          0.682,
+          0.45
+        ],
+        [
+          0.363,
+          0.706,
+          0.5
+        ],
+        [
+          0.338,
+          0.704,
+          0.05
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#ad9470",
+      "size": 11,
+      "flow": 0.9,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.397,
+          0.686,
+          0.45
+        ],
+        [
+          0.411,
+          0.711,
+          0.5
+        ],
+        [
+          0.405,
+          0.734,
+          0.05
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "watercolor",
+      "color": "#71878d",
+      "size": 155,
+      "flow": 0.4,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.24,
+          0.25,
+          0.2
+        ],
+        [
+          0.235,
+          0.4,
+          0.6
+        ],
+        [
+          0.26,
+          0.58,
+          0.6
+        ],
+        [
+          0.29,
+          0.72,
+          0.1
+        ]
+      ],
+      "water": 0.7
+    },
+    {
+      "medium": "watercolor",
+      "color": "#778c91",
+      "size": 155,
+      "flow": 0.4,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.79,
+          0.31,
+          0.15
+        ],
+        [
+          0.78,
+          0.46,
+          0.55
+        ],
+        [
+          0.76,
+          0.63,
+          0.5
+        ],
+        [
+          0.71,
+          0.72,
+          0.08
+        ]
+      ],
+      "water": 0.7
+    },
+    {
+      "medium": "oil",
+      "color": "#d0ba91",
+      "size": 8,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.365,
+          0.744,
+          0.15
+        ],
+        [
+          0.394,
+          0.685,
+          0.7
+        ],
+        [
+          0.417,
+          0.644,
+          0.1
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#91a1a3",
+      "size": 17,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.59,
+          0.463,
+          0.2
+        ],
+        [
+          0.602,
+          0.471,
+          0.75
+        ],
+        [
+          0.61,
+          0.477,
+          0.1
+        ]
+      ],
+      "body": 0.01
+    },
+    {
+      "medium": "oil",
+      "color": "#91a1a3",
+      "size": 17,
+      "flow": 0.85,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.549,
+          0.557,
+          0.2
+        ],
+        [
+          0.56,
+          0.567,
+          0.75
+        ],
+        [
+          0.57,
+          0.574,
+          0.1
+        ]
+      ],
+      "body": 0.01
+    },
+    {
+      "medium": "oil",
+      "color": "#b6a17e",
+      "size": 15,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.593,
+          0.32,
+          0.1
+        ],
+        [
+          0.611,
+          0.299,
+          0.65
+        ],
+        [
+          0.626,
+          0.28,
+          0.1
+        ]
+      ],
+      "body": 0.03
+    },
+    {
+      "medium": "acrylic",
+      "color": "#9dafb1",
+      "size": 25,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.6,
+          0.465,
+          0.7
+        ],
+        [
+          0.608,
+          0.475,
+          1
+        ],
+        [
+          0.617,
+          0.48,
+          0.7
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#a4b4b4",
+      "size": 25,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.557,
+          0.56,
+          0.7
+        ],
+        [
+          0.568,
+          0.569,
+          1
+        ],
+        [
+          0.578,
+          0.575,
+          0.7
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#c1ac85",
+      "size": 16,
+      "flow": 1,
+      "tip": "round",
+      "duration": 1200,
+      "points": [
+        [
+          0.463,
+          0.427,
+          0.1
+        ],
+        [
+          0.479,
+          0.405,
+          0.75
+        ],
+        [
+          0.489,
+          0.391,
+          0.1
+        ]
+      ],
+      "body": 0.03
+    }
+  ],
+  "events": [
+    {
+      "text": "I am painting an imagined owl feather on a cool ground, inspired by the NPS account of silent flight. Today\u2019s practice: fill the taper with overlapping broad passes before details, soften selected fringe edges, and keep one quiet quill light. The AI agent is the painter.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 11960,
+      "afterStroke": 0
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 3
+    },
+    {
+      "text": "The washes left pale horizontal gaps. Bridge them gently, then use overlapping broad brown passes for the feather rather than drawing a hollow outline.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6240,
+      "afterStroke": 3
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "text": "The broad pass filled the taper without a hollow center. It still reads as a leaf-like spindle; a wider warm vane and an extended quill will give it feather structure. Regular oil ridges remain visible.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9100,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 9
+    },
+    {
+      "text": "The quill connects cleanly, but the vane remains uniform. Unequal transverse bars will describe the feather; keep their ends broken and avoid a repeated ladder.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6500,
+      "afterStroke": 9
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "text": "Three bars are visible, but the middle one is too solid. First test a narrow warm quill light alone; its visibility will determine the next correction.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6760,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 13
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 13
+    },
+    {
+      "text": "The 5 px quill light is almost lost in the ridges. Increase its width modestly, and interrupt the middle bar with a warm vane pass rather than adding more dark paint.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8060,
+      "afterStroke": 13
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 16
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 16
+    },
+    {
+      "text": "The wider quill is visible, and the middle bar now breaks across it. The silhouette is still smooth. Try three unequal outward barbs on the left edge, with tapered pressure at their ends.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8580,
+      "afterStroke": 16
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 19
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 19
+    },
+    {
+      "text": "The lower left barb projects beyond the silhouette; the upper ones mostly describe the interior. Add a few darker right-side barbs with unequal lengths, leaving the tip quiet.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7280,
+      "afterStroke": 19
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 22
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 22
+    },
+    {
+      "text": "The projecting right barbs look spiky. Broaden their roots and taper them into the vane; add a soft downy base rather than repeating more pointed marks.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6760,
+      "afterStroke": 22
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 25
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 25
+    },
+    {
+      "text": "The broader roots became angular splits, so stop expanding them. The base down is too faint. Two short oil wisps and a narrow cool contact shadow will test softness and placement without another contour.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8840,
+      "afterStroke": 25
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 28
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 28
+    },
+    {
+      "text": "The base wisps now show, and the shadow stays quiet. The background still has separate stripes. Two soft vertical bridges outside the feather can join the ground while preserving the clear taper.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8320,
+      "afterStroke": 28
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 31
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 31
+    },
+    {
+      "text": "The outer bridges join the washes, though pale bands remain. Trim the two angular split tips with cool ground color, and place one short warm accent near the upper taper. Keep the quill as the main light.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9620,
+      "afterStroke": 31
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 34
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 34
+    },
+    {
+      "text": "The cool oil trim mixed into the wet brown and enlarged the tips instead of cutting them back. Switch to loaded acrylic for two small cover corrections, then inspect before deciding to stop.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8580,
+      "afterStroke": 34
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 36
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 36
+    },
+    {
+      "text": "The acrylic cooled the surrounding ground but did not fully cover the wet oil tips; small angular splits remain. Keep that evidence. One short shoulder light will balance the quill, then make a final whole-and-close review.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9360,
+      "afterStroke": 36
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 37
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 37
+    },
+    {
+      "text": "Final review: the filled taper, broken brown bars, extended quill and loose base form a quiet feather study. The short shoulder accent remains subordinate. Regular ridges, pale ground bands and angular splits persist after correction attempts. Stop here: further cover marks are enlarging the edges rather than improving them. Next experiment: compare a dry acrylic feather with thin oil using the same silhouette and palette.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 15000,
+      "afterStroke": 37
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 37
+    }
+  ],
+  "creation": {
+    "method": "AI agent painted in the Atelier browser simulator, choosing each next 1\u20133 animated marks after actual whole and settled 2\u00d7 close screenshots.",
+    "inspectionBoundaries": [
+      3,
+      6,
+      9,
+      12,
+      13,
+      16,
+      19,
+      22,
+      25,
+      28,
+      31,
+      34,
+      36,
+      37
+    ],
+    "notes": "Easel observations and camera moves recorded live; creation metadata and practice entry added after actual PNG and JSON browser export.",
+    "broadcast": "Direct user approval at startup. Live from this laptop confirmed; public easel verified broadcast ended with all 37 completed marks and final review note.",
+    "engineRevision": "2bba6886101d1f528388164ce04cfa610795cd9c",
+    "engineChanges": false,
+    "painter": "AI agent",
+    "hardwareHost": "randomdrake",
+    "inspiration": {
+      "description": "The National Park Service account of owl feathers and silent flight sparked an imagined barred feather on a cool ground; no finished composition copied.",
+      "url": "https://www.nps.gov/articles/000/california-spotted-owl.htm"
+    }
+  }
+}

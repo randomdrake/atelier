@@ -1,5 +1,25 @@
 [
   {
+    "id": "what-the-wind-leaves",
+    "title": "What the wind leaves",
+    "description": "An imagined barred owl feather rests on a cool ground, with a quiet quill light and loose base wisps.",
+    "process": "Painted by an AI agent in 37 animated marks across 14 whole-and-close inspection boundaries. Broad oil filled the taper; a widened quill light broke the barring. Edge-cover corrections remained partly unsuccessful, leaving angular splits and regular ridges. Easel notes and camera moves were recorded live. Public broadcast ended with all 37 marks confirmed.",
+    "media": [
+      "watercolor",
+      "oil",
+      "chalk",
+      "acrylic"
+    ],
+    "strokes": 37,
+    "moments": 43,
+    "engine": "8bfaaa7ce2d76e14",
+    "session": "/paintings/what-the-wind-leaves/session.json",
+    "image": "/paintings/what-the-wind-leaves/finished.png",
+    "addedAt": "2026-10-14T23:04:32.000Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-14"
+  },
+  {
     "id": "lanterns-on-the-fallen-log",
     "title": "Lanterns on the fallen log",
     "description": "Two amber mushrooms rise from a dark mossy log in quiet forest light.",

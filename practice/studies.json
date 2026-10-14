@@ -435,5 +435,90 @@
       "humanRating": null,
       "improvementClaim": "Corrections filled observed cap gaps and established contacts within this study. Oil ridge regularity persisted. No controlled comparison or independent rating."
     }
+  },
+  {
+    "id": "what-the-wind-leaves",
+    "title": "What the wind leaves",
+    "date": "2026-10-14",
+    "session": "examples/what-the-wind-leaves.json",
+    "finishedImage": "examples/previews/what-the-wind-leaves.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "chalk",
+      "acrylic"
+    ],
+    "goal": "Build a filled tapered feather with overlapping broad passes, soft fringe edges and one restrained quill light.",
+    "inspiration": {
+      "description": "The National Park Service account of owl feathers and silent flight sparked an imagined barred feather on a cool ground; no finished composition copied.",
+      "url": "https://www.nps.gov/articles/000/california-spotted-owl.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 3,
+        "text": "Three separate wash bands left pale gaps."
+      },
+      {
+        "afterStroke": 6,
+        "text": "Broad oil pass filled the taper without a hollow center; regular ridges visible."
+      },
+      {
+        "afterStroke": 9,
+        "text": "Extended quill connected to the spindle-like vane."
+      },
+      {
+        "afterStroke": 12,
+        "text": "Three unequal brown bars visible; middle bar too solid."
+      },
+      {
+        "afterStroke": 13,
+        "text": "5 px quill light almost lost in ridges."
+      },
+      {
+        "afterStroke": 16,
+        "text": "13 px quill light visible; warm vane pass interrupted solid middle bar."
+      },
+      {
+        "afterStroke": 22,
+        "text": "Projecting right barbs looked spiky."
+      },
+      {
+        "afterStroke": 25,
+        "text": "Broadened roots became angular splits; chalk down remained faint."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Oil base wisps visible; contact shadow stayed quiet."
+      },
+      {
+        "afterStroke": 31,
+        "text": "Outer bridges joined background washes, though pale bands remained."
+      },
+      {
+        "afterStroke": 34,
+        "text": "Cool oil trim mixed into brown and enlarged tips rather than cutting them back."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Acrylic cooled the surrounding ground but did not fully cover oil tips."
+      },
+      {
+        "afterStroke": 37,
+        "text": "Filled taper, broken bars, extended quill and loose base held together. Short shoulder accent stayed subordinate. Regular ridges, pale ground bands and angular splits remained. Stop because further cover attempts enlarged edges."
+      }
+    ],
+    "evidence": [
+      "examples/previews/what-the-wind-leaves.png",
+      "examples/what-the-wind-leaves.json"
+    ],
+    "inspectionEvidence": "Actual whole and settled 2\u00d7 browser screenshots at 14 boundaries retained in task conversation; camera moments preserved in replay.",
+    "engineRevision": "2bba6886101d1f528388164ce04cfa610795cd9c",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Compare a dry acrylic feather with thin oil using the same filled silhouette, palette, brush sizes and renderer. Test edge-cover behavior before adding barbs.",
+    "assessment": {
+      "source": "Live browser observations and final whole/close review, followed by actual browser exports.",
+      "humanRating": null,
+      "improvementClaim": "The broad pass avoided a hollow contour and widening the quill made its light visible within this study. Fringe corrections remained partly unsuccessful. No controlled comparison or independent rating."
+    }
   }
 ]

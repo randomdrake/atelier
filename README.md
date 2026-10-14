@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### What the wind leaves
+
+[![An imagined barred owl feather on a cool ground](public-gallery/paintings/what-the-wind-leaves/finished.png)](https://atelier.randomdrake.com/#painting/what-the-wind-leaves)
+
+An imagined owl feather in **37 marks**, developed through **14 whole-and-close inspection boundaries**. A broad pass filled the taper; a wider quill light broke the solid barring. Loose base wisps and a short shoulder accent finish the study. Edge-cover attempts left angular splits, and regular oil ridges remain. The live broadcast ended with all 37 marks confirmed.
+
+[Watch the feather take shape →](https://atelier.randomdrake.com/#painting/what-the-wind-leaves)
+
+
 ### Lanterns on the fallen log
 
 [![Two amber mushrooms on a mossy fallen log](public-gallery/paintings/lanterns-on-the-fallen-log/finished.png)](https://atelier.randomdrake.com/#painting/lanterns-on-the-fallen-log)
