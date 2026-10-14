@@ -1,5 +1,23 @@
 [
   {
+    "id": "small-visitor-quiet-morning",
+    "title": "Small visitor, quiet morning",
+    "description": "A chickadee grips a bare autumn twig, with a dark cap, pale cheek, warm breast and quiet morning air.",
+    "process": "Painted by an AI agent in animated batches of 1–3 strokes chosen after 13 whole and close inspections. Notes and camera moves were recorded during painting. The public feed reached 34 marks before a local server interruption; all 37 marks and the actual finished export are preserved. Oil light accents became clearer than acrylic, but breast ridges remain regular. No engine changes.",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil",
+      "chalk"
+    ],
+    "strokes": 37,
+    "moments": 41,
+    "engine": "8bfaaa7ce2d76e14",
+    "session": "/paintings/small-visitor-quiet-morning/session.json",
+    "image": "/paintings/small-visitor-quiet-morning/finished.png",
+    "publishedAt": "2026-10-14"
+  },
+  {
     "id": "golden-fans-blue-glass",
     "title": "Golden fans, blue glass",
     "description": "Three golden ginkgo fans rise from a small blue glass bottle on quiet linen.",

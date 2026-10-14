@@ -1,0 +1,1410 @@
+{
+  "version": 2,
+  "width": 900,
+  "height": 620,
+  "title": "Small visitor, quiet morning",
+  "strokes": [
+    {
+      "medium": "watercolor",
+      "color": "#94ada6",
+      "size": 160,
+      "water": 0.85,
+      "flow": 0.35,
+      "duration": 1200,
+      "points": [
+        [
+          0.19,
+          0.28,
+          0.35
+        ],
+        [
+          0.38,
+          0.24,
+          0.7
+        ],
+        [
+          0.65,
+          0.28,
+          0.7
+        ],
+        [
+          0.81,
+          0.37,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#bac1a2",
+      "size": 150,
+      "water": 0.8,
+      "flow": 0.28,
+      "duration": 1200,
+      "points": [
+        [
+          0.25,
+          0.6,
+          0.3
+        ],
+        [
+          0.48,
+          0.64,
+          0.7
+        ],
+        [
+          0.74,
+          0.61,
+          0.5
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#665747",
+      "size": 18,
+      "flow": 0.85,
+      "duration": 1200,
+      "points": [
+        [
+          0.17,
+          0.78,
+          0.5
+        ],
+        [
+          0.39,
+          0.71,
+          0.8
+        ],
+        [
+          0.61,
+          0.7,
+          0.7
+        ],
+        [
+          0.83,
+          0.64,
+          0.35
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#626b6b",
+      "size": 88,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.39,
+          0.48,
+          0.3
+        ],
+        [
+          0.46,
+          0.45,
+          0.8
+        ],
+        [
+          0.55,
+          0.5,
+          0.9
+        ],
+        [
+          0.59,
+          0.59,
+          0.55
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#c4b69a",
+      "size": 112,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.57,
+          0.48,
+          0.45
+        ],
+        [
+          0.6,
+          0.55,
+          0.9
+        ],
+        [
+          0.56,
+          0.62,
+          0.95
+        ],
+        [
+          0.49,
+          0.62,
+          0.65
+        ],
+        [
+          0.46,
+          0.57,
+          0.25
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#394951",
+      "size": 38,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.43,
+          0.57,
+          0.7
+        ],
+        [
+          0.38,
+          0.66,
+          0.85
+        ],
+        [
+          0.32,
+          0.76,
+          0.55
+        ],
+        [
+          0.29,
+          0.8,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#9c9c8b",
+      "size": 105,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.45,
+          0.51,
+          0.6
+        ],
+        [
+          0.5,
+          0.54,
+          1
+        ],
+        [
+          0.55,
+          0.57,
+          0.8
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#e1d4b6",
+      "size": 87,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.56,
+          0.52,
+          0.55
+        ],
+        [
+          0.58,
+          0.58,
+          0.8
+        ],
+        [
+          0.55,
+          0.63,
+          0.45
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#303b3f",
+      "size": 85,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.56,
+          0.36,
+          0.4
+        ],
+        [
+          0.6,
+          0.34,
+          0.8
+        ],
+        [
+          0.64,
+          0.37,
+          0.8
+        ],
+        [
+          0.64,
+          0.41,
+          0.45
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#dedbc7",
+      "size": 76,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.58,
+          0.4,
+          0.55
+        ],
+        [
+          0.63,
+          0.42,
+          0.95
+        ],
+        [
+          0.62,
+          0.48,
+          0.9
+        ],
+        [
+          0.6,
+          0.51,
+          0.45
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#30393b",
+      "size": 47,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.63,
+          0.47,
+          0.65
+        ],
+        [
+          0.61,
+          0.51,
+          0.85
+        ],
+        [
+          0.59,
+          0.52,
+          0.35
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#707b7b",
+      "size": 65,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.46,
+          0.49,
+          0.5
+        ],
+        [
+          0.5,
+          0.53,
+          0.9
+        ],
+        [
+          0.48,
+          0.6,
+          0.8
+        ],
+        [
+          0.42,
+          0.64,
+          0.4
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#647171",
+      "size": 44,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.565,
+          0.4,
+          0.4
+        ],
+        [
+          0.548,
+          0.45,
+          0.75
+        ],
+        [
+          0.52,
+          0.48,
+          0.4
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#26363c",
+      "size": 15,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.65,
+          0.405,
+          0.75
+        ],
+        [
+          0.682,
+          0.414,
+          0.5
+        ],
+        [
+          0.704,
+          0.417,
+          0.06
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#18262b",
+      "size": 13,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.631,
+          0.392,
+          0.85
+        ],
+        [
+          0.633,
+          0.392,
+          0.85
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#f4ead4",
+      "size": 5,
+      "flow": 1,
+      "duration": 1100,
+      "points": [
+        [
+          0.63,
+          0.386,
+          0.85
+        ],
+        [
+          0.631,
+          0.386,
+          0.85
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#16272e",
+      "size": 21,
+      "flow": 1,
+      "duration": 1100,
+      "points": [
+        [
+          0.642,
+          0.413,
+          0.8
+        ],
+        [
+          0.646,
+          0.414,
+          0.8
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#fff1cd",
+      "size": 11,
+      "flow": 1,
+      "duration": 1100,
+      "points": [
+        [
+          0.64,
+          0.406,
+          0.9
+        ],
+        [
+          0.645,
+          0.406,
+          0.9
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#2e3a40",
+      "size": 37,
+      "flow": 1,
+      "duration": 1100,
+      "points": [
+        [
+          0.635,
+          0.471,
+          0.7
+        ],
+        [
+          0.616,
+          0.495,
+          0.85
+        ],
+        [
+          0.597,
+          0.51,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#40565f",
+      "size": 49,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.466,
+          0.511,
+          0.7
+        ],
+        [
+          0.483,
+          0.552,
+          0.9
+        ],
+        [
+          0.447,
+          0.612,
+          0.6
+        ],
+        [
+          0.405,
+          0.654,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#b5bcb1",
+      "size": 13,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.447,
+          0.504,
+          0.3
+        ],
+        [
+          0.468,
+          0.542,
+          0.8
+        ],
+        [
+          0.438,
+          0.602,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#bfc2ad",
+      "size": 10,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.487,
+          0.552,
+          0.3
+        ],
+        [
+          0.456,
+          0.61,
+          0.65
+        ],
+        [
+          0.418,
+          0.65,
+          0.12
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#615a4d",
+      "size": 8,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.528,
+          0.654,
+          0.25
+        ],
+        [
+          0.522,
+          0.679,
+          0.8
+        ],
+        [
+          0.532,
+          0.704,
+          0.7
+        ],
+        [
+          0.552,
+          0.706,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#5d594e",
+      "size": 8,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.567,
+          0.651,
+          0.25
+        ],
+        [
+          0.559,
+          0.679,
+          0.7
+        ],
+        [
+          0.572,
+          0.703,
+          0.7
+        ],
+        [
+          0.588,
+          0.696,
+          0.15
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#514d44",
+      "size": 6,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.537,
+          0.697,
+          0.2
+        ],
+        [
+          0.544,
+          0.71,
+          0.8
+        ],
+        [
+          0.538,
+          0.721,
+          0.55
+        ],
+        [
+          0.529,
+          0.715,
+          0.15
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#776b52",
+      "size": 9,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.715,
+          0.67,
+          0.75
+        ],
+        [
+          0.745,
+          0.607,
+          0.5
+        ],
+        [
+          0.76,
+          0.55,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#7e735b",
+      "size": 7,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.278,
+          0.747,
+          0.6
+        ],
+        [
+          0.257,
+          0.689,
+          0.4
+        ],
+        [
+          0.22,
+          0.655,
+          0.08
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#b2a381",
+      "size": 7,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.338,
+          0.729,
+          0.2
+        ],
+        [
+          0.398,
+          0.713,
+          0.7
+        ],
+        [
+          0.47,
+          0.711,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#f3dfb4",
+      "size": 58,
+      "flow": 1,
+      "duration": 1100,
+      "points": [
+        [
+          0.585,
+          0.536,
+          0.3
+        ],
+        [
+          0.601,
+          0.567,
+          0.8
+        ],
+        [
+          0.58,
+          0.615,
+          0.55
+        ]
+      ],
+      "body": 0.85
+    },
+    {
+      "medium": "acrylic",
+      "color": "#4c6267",
+      "size": 32,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.43,
+          0.592,
+          0.45
+        ],
+        [
+          0.401,
+          0.635,
+          0.85
+        ],
+        [
+          0.377,
+          0.671,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "chalk",
+      "color": "#d6d7c5",
+      "size": 12,
+      "flow": 0.85,
+      "duration": 1100,
+      "points": [
+        [
+          0.463,
+          0.534,
+          0.3
+        ],
+        [
+          0.465,
+          0.559,
+          0.8
+        ],
+        [
+          0.443,
+          0.599,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#cfbea0",
+      "size": 76,
+      "flow": 0.8,
+      "duration": 1100,
+      "points": [
+        [
+          0.581,
+          0.527,
+          0.25
+        ],
+        [
+          0.602,
+          0.561,
+          0.65
+        ],
+        [
+          0.581,
+          0.613,
+          0.35
+        ]
+      ]
+    },
+    {
+      "medium": "acrylic",
+      "color": "#687676",
+      "size": 55,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.552,
+          0.405,
+          0.4
+        ],
+        [
+          0.553,
+          0.444,
+          0.7
+        ],
+        [
+          0.531,
+          0.47,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#ede6cc",
+      "size": 28,
+      "flow": 0.95,
+      "duration": 1100,
+      "points": [
+        [
+          0.607,
+          0.422,
+          0.25
+        ],
+        [
+          0.62,
+          0.443,
+          0.7
+        ],
+        [
+          0.607,
+          0.463,
+          0.3
+        ]
+      ],
+      "body": 0.45
+    },
+    {
+      "medium": "oil",
+      "color": "#bdb296",
+      "size": 30,
+      "flow": 0.65,
+      "duration": 1100,
+      "points": [
+        [
+          0.572,
+          0.548,
+          0.2
+        ],
+        [
+          0.566,
+          0.581,
+          0.55
+        ],
+        [
+          0.563,
+          0.615,
+          0.15
+        ]
+      ],
+      "body": 0.18
+    },
+    {
+      "medium": "oil",
+      "color": "#d1d7c5",
+      "size": 9,
+      "flow": 0.8,
+      "duration": 1100,
+      "points": [
+        [
+          0.451,
+          0.53,
+          0.2
+        ],
+        [
+          0.46,
+          0.556,
+          0.65
+        ],
+        [
+          0.445,
+          0.59,
+          0.15
+        ]
+      ],
+      "body": 0.3
+    },
+    {
+      "medium": "oil",
+      "color": "#f4ecd1",
+      "size": 8,
+      "flow": 1,
+      "duration": 1100,
+      "points": [
+        [
+          0.64,
+          0.404,
+          0.8
+        ],
+        [
+          0.644,
+          0.404,
+          0.8
+        ]
+      ],
+      "body": 0.5
+    }
+  ],
+  "events": [
+    {
+      "text": "I am painting a chickadee on an autumn twig, inspired by the National Park Service bird page. Today’s practice: filled rounded forms, a crisp face, and softer breast edges. The AI agent paints; randomdrake hosts the live easel.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9880,
+      "afterStroke": 0
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 3
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.7523584905660378
+      },
+      "duration": 1200,
+      "afterStroke": 3
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 3
+    },
+    {
+      "text": "The wash is quiet and the twig gives a sloping perch. I will build the bird with broad filled masses rather than an outline.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6240,
+      "afterStroke": 3
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "text": "The first body passes left a hollow gap between back and belly. I will bridge it with a broad midtone and set a rounded head above the breast.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7280,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 9
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 9
+    },
+    {
+      "text": "The rounded cap is still floating above the body. A pale cheek and neck will connect it; the dark bib will sit beneath that cheek rather than outlining the whole bird.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8060,
+      "afterStroke": 9
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "text": "The cheek joins the cap to the breast, but the nape still has a pale break. I will connect the back, add a short pointed beak, and test one dark eye.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8060,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 15
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 15
+    },
+    {
+      "text": "The beak reads as a short point. The eye is lost in the cap, so I will test a tiny pale glint alone before adding more facial marks.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7280,
+      "afterStroke": 15
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 16
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 16
+    },
+    {
+      "text": "The glint is too small to distinguish from the simulated surface speckles. I will give the eye a larger dark surround on the cheek, then a short loaded light touch, and deepen the bib.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8840,
+      "afterStroke": 16
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 19
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 19
+    },
+    {
+      "text": "The eye surround is now visible beside the beak, while its highlight stays subdued. The wing is still a broad gray mass. I will set a darker folded center and two unequal feather edges.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8840,
+      "afterStroke": 19
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 22
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 22
+    },
+    {
+      "text": "The wing has a darker folded center with a quiet pale edge. The belly nearly touches the twig but needs feet. I will use two narrow bent legs and one curved grip, keeping them less dark than the cap.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10140,
+      "afterStroke": 22
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 25
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 25
+    },
+    {
+      "text": "The bent feet now grip the twig. The long perch is too uniform, so I will add two tapering side shoots and a short warm bark edge, leaving open space around the face.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8580,
+      "afterStroke": 25
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 28
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 28
+    },
+    {
+      "text": "The twig’s unequal side shoots keep the composition open. The breast is rounded but flat in value. I will try a warm loaded oil light plane, connect the wing to the tail, and test chalk on one feather edge.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10140,
+      "afterStroke": 28
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 31
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 31
+    },
+    {
+      "text": "Oil made the breast light much clearer, but its regular ridges form a separate patch. I will soften that transition with a broader buff acrylic pass, round the narrow nape, and give the cheek one smaller light plane.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9880,
+      "afterStroke": 31
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 34
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 34
+    },
+    {
+      "text": "The acrylic pass did little to soften the oil ridges; the cheek light is clearer. I will try a thin oil transition beside the breast patch, one short feather edge, and a small oil eye glint. The live connection has reported a fetch failure; these final refinements remain local if the feed cannot recover.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 14040,
+      "afterStroke": 34
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 37
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 37
+    },
+    {
+      "text": "Finished: Small visitor, quiet morning. The filled breast, folded wing, pointed beak and bent feet hold together, and the oil eye touch gives a small focal glint. The breast light remains visibly ridged despite two transition attempts. I will keep the soft outer edges and open linen; more accents would compete with the face. Next time, compare small oil and acrylic light swatches before using them on the bird.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 15000,
+      "afterStroke": 37
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 37
+    }
+  ],
+  "creation": {
+    "method": "Animated Atelier browser painting in batches of 1–3 strokes, chosen after settled whole and 2× close screenshots.",
+    "inspectionBoundaries": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      16,
+      19,
+      22,
+      25,
+      28,
+      31,
+      34,
+      37
+    ],
+    "notes": "Easel observations and camera moments recorded during painting; title, provenance and journal added after browser export. No complete score prepared beforehand. Actual finished PNG exported before reconnecting the lost local server; no replay substituted for that image.",
+    "painter": "AI agent",
+    "hardwareHost": "randomdrake",
+    "engineRevision": "3543ae5744eff700823f72e16a6dfa0da8ca6a0b",
+    "engineChangedDuringSession": false,
+    "model": "GPT-6 (specific variant unavailable)",
+    "inspiration": {
+      "description": "National Park Service chickadee page; original imagined bird and twig composition.",
+      "url": "https://www.nps.gov/articles/black-capped-chickadee.htm"
+    },
+    "broadcast": {
+      "startedAndConfirmedLive": true,
+      "lastPublicBoundaryConfirmed": 34,
+      "finalMarksPaintedLocally": [
+        35,
+        36,
+        37
+      ],
+      "endCommandSucceeded": false,
+      "publicFinalState": "Connection lost; last shared canvas at 34 marks.",
+      "localFinalState": "Inactive after server restart and browser reload.",
+      "limitation": "Local studio server stopped near final refinement; failed end request. Actual PNG/session preserved before reload."
+    }
+  }
+}

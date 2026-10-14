@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Small visitor, quiet morning
+
+[![A chickadee perched on a bare twig in pale morning light](public-gallery/paintings/small-visitor-quiet-morning/finished.png)](https://atelier.randomdrake.com/#painting/small-visitor-quiet-morning)
+
+A chickadee and an autumn twig in **37 marks**, developed through **13 whole-and-close inspection boundaries**. Broad passes filled the body, bent feet established the perch, and a final oil touch made the eye glint visible. The breast light retains regular simulated ridges despite correction attempts. The live feed reached 34 marks before the local server stopped; the full finished work and notes are preserved in the replay.
+
+[Watch the small visitor take shape →](https://atelier.randomdrake.com/#painting/small-visitor-quiet-morning)
+
 ### Golden fans, blue glass
 
 [![Golden ginkgo leaves in a small blue glass bottle](public-gallery/paintings/golden-fans-blue-glass/finished.png)](https://atelier.randomdrake.com/#painting/golden-fans-blue-glass)

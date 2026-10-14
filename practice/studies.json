@@ -40,7 +40,7 @@
   },
   {
     "id": "copper-and-pears",
-    "title": "Copper & pears \u2014 an oil study",
+    "title": "Copper & pears — an oil study",
     "date": "2026-10-13",
     "session": "examples/copper-and-pears.json",
     "finishedImage": "examples/previews/copper-and-pears.png",
@@ -179,6 +179,67 @@
       "source": "Live whole and close browser inspections; journal added after export.",
       "humanRating": null,
       "improvementClaim": "Filled forms and stronger veins solved observed problems within this study. No controlled comparison or independent rating."
+    }
+  },
+  {
+    "id": "small-visitor-quiet-morning",
+    "title": "Small visitor, quiet morning",
+    "date": "2026-10-14",
+    "session": "examples/small-visitor-quiet-morning.json",
+    "finishedImage": "examples/previews/small-visitor-quiet-morning.png",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil",
+      "chalk"
+    ],
+    "goal": "Filled rounded forms first, selective crisp facial accents against softer breast and background edges.",
+    "inspiration": {
+      "description": "National Park Service chickadee page; original imagined bird and twig composition.",
+      "url": "https://www.nps.gov/articles/black-capped-chickadee.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 6,
+        "text": "Initial back and belly passes left an open gap; a broad center bridge filled it."
+      },
+      {
+        "afterStroke": 12,
+        "text": "Pale cheek joined the floating cap to the body. Nape still needed a connecting pass."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Tiny acrylic eye glint was indistinguishable from simulated speckles; a larger dark surround and light touch were tried."
+      },
+      {
+        "afterStroke": 25,
+        "text": "Two bent legs and a curved grip established contact with the twig."
+      },
+      {
+        "afterStroke": 31,
+        "text": "Loaded oil produced a clear warm breast light, but regular bristle ridges made it read as a separate patch. Chalk feather edge remained subtle."
+      },
+      {
+        "afterStroke": 34,
+        "text": "Broader acrylic transition did little to soften the oil patch. A smaller oil cheek light was clearer."
+      },
+      {
+        "afterStroke": 37,
+        "text": "Thin oil transition remained ridged; final oil eye glint became visible. Filled breast, wing, beak and feet hold together; surrounding linen remains quiet. Stop to avoid competing accents."
+      }
+    ],
+    "evidence": [
+      "examples/previews/small-visitor-quiet-morning.png",
+      "examples/small-visitor-quiet-morning.json"
+    ],
+    "inspectionEvidence": "Actual whole and 2× close screenshots inspected in the browser at all 13 boundaries; screenshots retained in the task conversation. Replay records inspection camera boundaries.",
+    "engineRevision": "3543ae5744eff700823f72e16a6dfa0da8ca6a0b",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Compare oil, acrylic and chalk light swatches on the same gray ground, with matched brush sizes and short path lengths, before painting a bird highlight. Test thinner oil body for less regular ridges.",
+    "assessment": {
+      "source": "Live browser whole/close observations; provenance and practice entry written after export. Broadcast connected through at least 34 marks, then server stopped.",
+      "humanRating": null,
+      "improvementClaim": "Corrections filled observed gaps and established perch contact within this study. Light accents remained medium-dependent; no controlled comparison or independent rating."
     }
   }
 ]
