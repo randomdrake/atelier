@@ -15,3 +15,4 @@ hosting/public/
 .dev.vars*
 
 .next/
+.atelier-broadcast-state.json*

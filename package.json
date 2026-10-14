@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "node server.mjs",
     "test": "node --test",
-    "check": "node --check src/thought-links.js && node --check src/engine.js && node --check src/studio.js && node --check src/compositions.js && node --check src/playback.js && node --check src/session.js && node --check src/tour.js && node --check server.mjs && node --check src/library.js && node --check src/gallery.js && node --check public-gallery/viewer.js && node --check scripts/add-gallery-painting.mjs && node --check scripts/build-gallery.mjs && node --check src/live-status.js && node --check src/live-service.js && node --check src/live-broadcast.js && node --check src/local-broadcast.js && node --check public-gallery/live.js && node --check scripts/build-live-site.mjs && node --check scripts/preview-gallery.mjs && node --check scripts/verify-live-artifact.mjs",
+    "check": "node --check src/thought-links.js && node --check src/engine.js && node --check src/studio.js && node --check src/compositions.js && node --check src/playback.js && node --check src/session.js && node --check src/tour.js && node --check server.mjs && node --check src/library.js && node --check src/gallery.js && node --check public-gallery/viewer.js && node --check scripts/add-gallery-painting.mjs && node --check scripts/build-gallery.mjs && node --check src/live-status.js && node --check src/live-service.js && node --check src/live-finalize.js && node --check scripts/finalize-live-painting.mjs && node --check src/live-broadcast.js && node --check src/local-broadcast.js && node --check public-gallery/live.js && node --check scripts/build-live-site.mjs && node --check scripts/preview-gallery.mjs && node --check scripts/verify-live-artifact.mjs",
+    "live:finalize": "node scripts/finalize-live-painting.mjs",
     "gallery:add": "node scripts/add-gallery-painting.mjs",
     "gallery:build": "node scripts/build-gallery.mjs",
     "gallery:preview": "node scripts/preview-gallery.mjs",

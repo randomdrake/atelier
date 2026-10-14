@@ -65,11 +65,12 @@ export async function handleLiveRequest(request,env,now=Date.now()){
   }catch(error){return liveJSON({error:error.message},400);}
   const previous=await env.BUCKET.get(key);
   const old=previous?await previous.json():null;
+  if(input.expectedSequence!==undefined&&(old?.sessionId!==input.sessionId||old?.sequence!==input.expectedSequence))return liveJSON({error:'The live session changed; do not replace it'},409);
   if(old&&old.sessionId!==input.sessionId&&old.activity!=='ended'&&now-old.receivedAt<LIVE_TIMEOUT)return liveJSON({error:'Another laptop session is still live'},409);
   if(old?.sessionId===input.sessionId&&input.sequence<=old.sequence)return liveJSON({accepted:true,sequence:old.sequence});
   const next={...snapshot,sessionId:input.sessionId,sequence:input.sequence,
     startedAt:old?.sessionId===input.sessionId?old.startedAt:now,receivedAt:now,
-    publisher:'randomdrake',host:'randomdrake',painter:'AI agent',origin:'Laptop studio',collaboration:'AI painter on hardware hosted by randomdrake',test};
+    publisher:'randomdrake',host:'randomdrake',painter:'AI agent',origin:input.finalizedFromExport===true?'Finished export recovery':'Laptop studio',collaboration:'AI painter on hardware hosted by randomdrake',test};
   // Conditional writes prevent an older request from overwriting a newer canvas.
   const saved=await env.BUCKET.put(key,JSON.stringify(next),{
     httpMetadata:{contentType:'application/json'},

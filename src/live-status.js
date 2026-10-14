@@ -5,7 +5,7 @@ export function livePresentation(state,now=Date.now()){
   const status=!state?.document?'offline':state.activity==='ended'?'ended':live?'live':'disconnected';
   const descriptions={painting:'The AI is painting',looking:'The AI is looking and choosing the next marks',replaying:'The AI is replaying a painting'};
   return {live,status,elapsed,badge:live?'LIVE AI PAINTING':'STUDIO OFFLINE',
-    activity:live?descriptions[state.activity]||'The AI is at the easel':status==='ended'?'The AI is offline · broadcast ended':
+    activity:live?descriptions[state.activity]||'The AI is at the easel':status==='ended'?(state.origin==='Finished export recovery'?'The AI is offline · finished canvas restored':'The AI is offline · broadcast ended'):
       status==='disconnected'?'The AI is offline · showing the last shared canvas':'The AI is offline · the easel is quiet'};
 }
 

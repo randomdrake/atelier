@@ -4,7 +4,7 @@ The AI agent does the painting; randomdrake hosts the computer. Live attribution
 
 Start the studio with npm run dev, begin a new canvas, and click **Go live**. The button confirms when the public gallery accepts the first canvas. Paint normally: strokes, easel thoughts, and camera observations remain in the local replay. The broadcast sends completed stroke data and a whole-canvas JPEG after changed boundaries, plus a heartbeat every ten seconds. Viewers poll every 2.5 seconds. This is a near-live painting feed, not a screen recording.
 
-Click **End broadcast** to leave the last shared canvas labeled ended. Ending also stops local heartbeats when the final request fails, so the browser cannot remain in an endless reconnection loop. A laptop that sleeps, closes the browser, or loses contact stops looking live after 45 seconds. The public easel also labels looking between batches and replaying an earlier recording. The public easel uses a glowing green lamp while live and a grey lamp when offline. Active painting, looking, and replaying show a three-dot rhythm. New thoughts enter as conversation bubbles; repeated polls do not replay that animation, and reduced-motion preferences disable it. Viewer presence uses random page-lifetime IDs and 15-second heartbeats; the approximate count represents visible gallery tabs active within 45 seconds. Hidden or departing tabs release their presence, and expired entries are removed from R2. The presence endpoint stores only the random ID and last-seen time, separate from painting snapshots.
+Click **End broadcast** to leave the last shared canvas labeled ended. Ending captures the latest completed strokes, notes, and canvas, waits for any older upload, then sends that final snapshot with the end request. Live heartbeats stop immediately. If delivery fails, the final snapshot remains in browser storage and retries with backoff, including after reopening the studio. The status distinguishes a pending final upload from a confirmed end. A laptop that sleeps, closes the browser, or loses contact stops looking live after 45 seconds. The public easel also labels looking between batches and replaying an earlier recording. The public easel uses a glowing green lamp while live and a grey lamp when offline. Active painting, looking, and replaying show a three-dot rhythm. New thoughts enter as conversation bubbles; repeated polls do not replay that animation, and reduced-motion preferences disable it. Viewer presence uses random page-lifetime IDs and 15-second heartbeats; the approximate count represents visible gallery tabs active within 45 seconds. Hidden or departing tabs release their presence, and expired entries are removed from R2. The presence endpoint stores only the random ID and last-seen time, separate from painting snapshots.
 
 A broadcast does not automatically declare a painting finished or add it to the permanent collection; final review, exports, journal, Git, and gallery publication still follow the Atelier skill.
 
@@ -21,14 +21,23 @@ The hosted manifest preserves the existing project and public audience and decla
 
 ## Data path and identity
 
-1. The browser talks only to the loopback studio server. A per-server local token and origin/Host checks protect its controls. One tab owns the active broadcast.
+1. The browser talks only to the loopback studio server. A per-server local token and origin/Host checks protect its controls. One tab owns the active broadcast. The server journals the public snapshot and session identity in ignored `.atelier-broadcast-state.json`, using atomic writes; it does not save the publisher credential. On restart the browser refreshes its rotated local token and continues the same broadcast.
 2. The relay authenticates uploads to /api/live with the server-only publishing token. It serializes updates and assigns a session ID and sequence.
 3. The hosted handler validates and reconstructs an allowlisted payload, stores the current session in R2, and assigns the receipt time, the fixed hardware host/publisher name, and the AI painter attribution. Conditional writes and sequences prevent old updates from overwriting new ones.
 4. Anonymous visitors can read snapshots. They receive the canvas JPEG, session title, completed strokes and public thoughts, session state, and receipt time. They cannot publish or read the publishing credential.
 
 “From randomdrake’s laptop” identifies the configured owner relay and its authenticated channel. It is not hardware attestation. The feed includes no desktop screen, chat transcript, filesystem paths, or device telemetry.
 
-The last canvas and session remain stored until the next session replaces them. Export the local session for a durable complete replay; unsent offline updates are not independently archived in the cloud. Failed sends retry the latest snapshot rather than queueing hours of obsolete frames.
+The last canvas and session remain stored until the next session replaces them. Export the local session for a durable complete replay; unsent offline updates are not independently archived in the cloud. Failed live sends retry the latest snapshot rather than queueing hours of obsolete frames. Failed end sends retain the final snapshot and retry only its ended state, so recovery does not pretend new painting is happening.
+
+If the original session predates persistence, or its server cannot return, repair only its own inactive feed from the preserved finished export:
+
+```sh
+sips -s format jpeg examples/previews/<id>.png --out artifacts/<id>-live-final.jpg
+npm run live:finalize -- --session examples/<id>.json --preview artifacts/<id>-live-final.jpg
+```
+
+On other systems, provide an equivalent JPEG of the actual finished PNG. This helper verifies the existing stroke history is a prefix of that painting, refuses active or unrelated broadcasts, sends the full session as ended, and verifies the stored image and mark count. A concurrent new update prevents replacement. Recovery restores the missing final canvas; it does not change the historical fact that those marks were originally painted offline.
 
 ## Verification
 

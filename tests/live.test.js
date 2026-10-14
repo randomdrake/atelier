@@ -4,6 +4,7 @@ import {handleLiveRequest,publicLiveState,LIVE_TIMEOUT,VIEWER_TIMEOUT} from '../
 import {livePresentation,thoughtChange} from '../src/live-status.js';
 import {LocalBroadcastRelay} from '../src/local-broadcast.js';
 import {LiveBroadcast} from '../src/live-broadcast.js';
+import {finalizeLivePainting} from '../src/live-finalize.js';
 
 const id='a1111111-1111-4111-8111-111111111111';
 const client='b1111111-1111-4111-8111-111111111111';
@@ -109,7 +110,7 @@ test('the browser sends changed boundaries, retries a failed update and ends eve
   let count=0,fail=false,last=[],statuses=[];
   const broadcaster=new LiveBroadcast({interval:100000,snapshot:()=>({...payload,signature:String(count)}),
     onStatus:state=>statuses.push(state),fetcher:async(url,options)=>{
-      if(!options)return Response.json({configured:true,localToken:'local',active:false});
+      if(!options?.body)return Response.json({configured:true,localToken:'local',active:false});
       const input=JSON.parse(options.body);last.push(input.action);
       if(fail){fail=false;return Response.json({error:'disconnected'},{status:502});}
       return Response.json({accepted:true});
@@ -182,4 +183,110 @@ test('only arriving thoughts animate; repeated heartbeats preserve the existing 
   const added=thoughtChange(first,id,[...document.events,second]);
   assert.equal(added.animate,true);assert.equal(added.append,true);assert.deepEqual(added.added,[second]);
   const reset=thoughtChange(added,client,document.events);assert.equal(reset.append,false);assert.equal(reset.animate,true);
+});
+
+const stroke={medium:'pencil',color:'#315b70',size:4,duration:800,points:[[.3,.5,.5],[.6,.4,.7]]};
+const painting=count=>({...payload,document:{...document,strokes:Array.from({length:count},()=>stroke)},signature:String(count)});
+const publicSnapshot=async e=>(await (await handleLiveRequest(new Request('https://atelier.test/api/live'),e,100000)).json());
+
+test('ending sends all 37 marks even if the last heartbeat uploaded only 34',async()=>{
+  const e=env();let count=34;
+  const relay=new LocalBroadcastRelay({endpoint:'https://atelier.test/api/live',token,fetcher:(url,options)=>handleLiveRequest(new Request(url,options),e,1000)});
+  const broadcaster=new LiveBroadcast({interval:100000,storage:null,snapshot:()=>painting(count),fetcher:(url,options)=>relay.handle(new Request('http://localhost'+url,options))});
+  try{
+    await broadcaster.configure();await broadcaster.start();count=37;
+    await broadcaster.end();
+    const result=await publicSnapshot(e);
+    assert.equal(result.document.strokes.length,37);assert.equal(result.activity,'ended');assert.equal(result.status,'ended');
+    assert.equal(broadcaster.pendingEnd,null);
+  }finally{broadcaster.dispose();}
+});
+
+test('ending waits for an in-flight older update before sending the final snapshot',async()=>{
+  let count=34,release,started;const gate=new Promise(resolve=>release=resolve),entered=new Promise(resolve=>started=resolve),seen=[];
+  const broadcaster=new LiveBroadcast({interval:100000,storage:null,snapshot:()=>painting(count),fetcher:async(url,options)=>{
+    const input=JSON.parse(options.body);seen.push([input.action,input.payload.document.strokes.length]);
+    if(input.action==='update'){started();await gate;}
+    return Response.json({accepted:true});
+  }});
+  try{
+    await broadcaster.start();count=35;
+    const update=broadcaster.tick();await entered;count=37;
+    const ending=broadcaster.end();release();await Promise.all([update,ending]);
+    assert.deepEqual(seen,[['start',34],['update',35],['stop',37]]);
+    assert.equal(broadcaster.active,false);assert.equal(broadcaster.pendingEnd,null);
+  }finally{broadcaster.dispose();}
+});
+
+test('an offline final snapshot survives a browser reload and retries without live heartbeats',async()=>{
+  const items=new Map(),storage={getItem:key=>items.get(key),setItem:(key,value)=>items.set(key,value),removeItem:key=>items.delete(key)};
+  let offline=false,count=34,clock=0;const seen=[];
+  const fetcher=async(url,options)=>{
+    if(!options?.body)return Response.json({configured:true,localToken:'local',active:false});
+    const input=JSON.parse(options.body);seen.push(input.action);
+    if(offline)throw new Error('Local server stopped');
+    assert.equal(input.action==='stop'?input.payload.document.strokes.length:count,count);
+    return Response.json({accepted:true});
+  };
+  const first=new LiveBroadcast({interval:100000,snapshot:()=>painting(count),storage,now:()=>clock,fetcher});
+  let second;
+  try{
+    await first.start();count=37;offline=true;await first.end();first.dispose();
+    assert.equal(first.active,false);assert.equal(JSON.parse(items.get('atelier-broadcast-end-v1')).payload.document.strokes.length,37);
+    second=new LiveBroadcast({interval:100000,snapshot:()=>{throw new Error('Canvas not rebuilt');},storage,now:()=>clock,fetcher});
+    offline=false;clock=2000;await second.configure();await second.tick();
+    assert.equal(second.active,false);assert.equal(second.pendingEnd,null);assert.equal(items.size,0);
+    assert.deepEqual(seen,['start','stop','stop']);
+  }finally{first.dispose();second?.dispose();}
+});
+
+test('a restarted relay restores its session and an open browser refreshes its rotated local token',async()=>{
+  const e=env();let saved,relay,count=34;
+  const persistence={load:async()=>saved?structuredClone(saved):null,save:async state=>{saved=structuredClone(state);}};
+  const makeRelay=()=>new LocalBroadcastRelay({endpoint:'https://atelier.test/api/live',token,persistence,fetcher:(url,options)=>handleLiveRequest(new Request(url,options),e,1000)});
+  relay=makeRelay();
+  const broadcaster=new LiveBroadcast({interval:100000,storage:null,snapshot:()=>painting(count),fetcher:(url,options)=>relay.handle(new Request('http://localhost'+url,options))});
+  try{
+    await broadcaster.configure();await broadcaster.start();const sessionId=relay.sessionId,oldLocalToken=relay.localToken;
+    relay=makeRelay();count=37;await broadcaster.tick();
+    assert.equal(relay.sessionId,sessionId);assert.notEqual(relay.localToken,oldLocalToken);
+    assert.equal(broadcaster.localToken,relay.localToken);assert.equal((await publicSnapshot(e)).document.strokes.length,37);
+    await broadcaster.end();assert.equal((await publicSnapshot(e)).activity,'ended');
+    assert.equal(saved.active,false);assert.equal(saved.lastSnapshot.document.strokes.length,37);
+    assert.equal(JSON.stringify(saved).includes(token),false,'Publisher credentials must not enter the journal');
+  }finally{broadcaster.dispose();}
+});
+
+test('a lost end acknowledgement can retry the complete final canvas on an already stopped relay',async()=>{
+  const e=env();let lose=true;
+  const relay=new LocalBroadcastRelay({endpoint:'https://atelier.test/api/live',token,fetcher:async(url,options)=>{
+    const result=await handleLiveRequest(new Request(url,options),e,1000);
+    if(JSON.parse(options.body).activity==='ended'&&lose){lose=false;throw new Error('Acknowledgement lost');}
+    return result;
+  }});
+  await relay.publish({action:'start',payload:painting(34),clientId:client});
+  await assert.rejects(relay.publish({action:'stop',payload:painting(37),clientId:client}));
+  assert.equal(relay.active,false);
+  await relay.publish({action:'stop',payload:painting(37),clientId:client});
+  const result=await publicSnapshot(e);assert.equal(result.document.strokes.length,37);assert.equal(result.activity,'ended');
+});
+
+test('finished-export recovery restores matching missing marks, rejects another painting and preserves new activity',async()=>{
+  const e=env();await handleLiveRequest(post({...painting(34),sessionId:id,sequence:1}),e,1000);
+  const fetcher=(url,options)=>handleLiveRequest(new Request(url,options),e,100000);
+  const args={document:painting(37).document,preview,endpoint:'https://atelier.test/api/live',token,fetcher};
+  const result=await finalizeLivePainting(args);assert.equal(result.marks,37);assert.equal(result.status,'ended');
+  assert.equal((await publicSnapshot(e)).origin,'Finished export recovery');
+  assert.equal(livePresentation(await publicSnapshot(e)).activity,'The AI is offline · finished canvas restored');
+  await assert.rejects(finalizeLivePainting({...args,document:{...args.document,strokes:[{...stroke,color:'#ffffff'}]}}),/does not match/);
+  const current=env();await handleLiveRequest(post({...painting(34),sessionId:id,sequence:1}),current,1000);
+  let calls=0;
+  const racingFetcher=async(url,options)=>{
+    const response=await handleLiveRequest(new Request(url,options),current,100000);
+    if(++calls===1)await handleLiveRequest(post({...painting(38),sessionId:id,sequence:2}),current,100000);
+    return response;
+  };
+  await assert.rejects(finalizeLivePainting({...args,fetcher:racingFetcher}),/not accepted \(409\)/);
+  assert.equal((await publicSnapshot(current)).document.strokes.length,38);
+  await assert.rejects(finalizeLivePainting({...args,fetcher:(url,options)=>handleLiveRequest(new Request(url,options),current,100001)}),/inactive/);
 });

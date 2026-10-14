@@ -329,7 +329,7 @@ const broadcast=new LiveBroadcast({
     toggle.setAttribute('aria-pressed',String(broadcast.active));
     const labels={occupied:'Another studio tab is broadcasting',ready:'Share this canvas and easel thoughts',unconfigured:'Live setup needed on this laptop',
       connecting:'Connecting to the public gallery…',live:'Live from this laptop',updating:'Live from this laptop',
-      ending:'Ending the broadcast…','ended-offline':'Broadcast off · the public feed will go offline when its heartbeat expires',reconnecting:'Reconnecting — gallery may show offline',error:'Broadcast could not start'};
+      ending:'Sending the final canvas…','ended-offline':'Broadcast off · final canvas saved for retry',reconnecting:'Reconnecting — gallery may show offline',error:'Broadcast could not start'};
     label.textContent=message||labels[state];label.dataset.state=state;
   }
 });
