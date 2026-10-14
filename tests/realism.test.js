@@ -88,6 +88,9 @@ test('replay clears prior paint and reconstructs all physical fields exactly',as
   const done=session.replay();while(session.busy)session.advance(.2);
   assert.deepEqual(await done,{cancelled:false});assert.deepEqual(surface.snapshot(),expected);
   assert.equal(session.strokes.length,score.length);
+  const again=session.replay();while(session.busy)session.advance(.01);
+  assert.deepEqual(await again,{cancelled:false});assert.deepEqual(surface.snapshot(),expected);
+  assert.equal(session.strokes.length,score.length);
 });
 test('pause freezes fluid and playback; stop preserves the painted part for replay',async()=>{
   const surface=new PaintSurface(64,48),session=new PaintingSession(surface),done=session.play(score);

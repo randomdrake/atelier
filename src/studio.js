@@ -9,7 +9,7 @@ const symbols={watercolor:'≈',oil:'≋',acrylic:'▰',pastel:'▧',chalk:'░'
 const notes={watercolor:'Water carries suspended pigment across uneven paper. The wash absorbs, granulates, and settles into dry edges.',oil:'Opaque pigments mix under the brush. Wet paint moves with the gesture, building bristle ridges and soft highlights.',acrylic:'Dense color covers quickly, holds a little relief, and dries faster than oil.',pastel:'Soft dry pigment catches on the paper grain. Pressure fills more of the tooth.',chalk:'Powdery, broken marks leave the paper visible. Layer gently for a soft haze.',pencil:'A fine, directional mark. Pressure and stroke angle change the deposited tone.'};
 let history=[],pointer=null,manualReservoir=null,dirty=true,last=0,lastMetrics=0,pointerStarted=0;
 const player=new PaintingSession(surface,{
-  beforeStroke(stroke){checkpoint();selectMedium(stroke.medium);selectColor(stroke.color);status(`Painting ${MEDIA[stroke.medium].label.toLowerCase()} · ${player.queue.length+1} strokes remaining`);},
+  beforeStroke(stroke){checkpoint();selectMedium(stroke.medium);selectColor(stroke.color);showBrush(stroke);status(`Painting ${MEDIA[stroke.medium].label.toLowerCase()} · ${player.queue.length+1} strokes remaining`);},
   changed(){updateButtons();}
 });
 function status(text){$('status').textContent=text;}
@@ -40,6 +40,14 @@ for(const c of colors){
 $('color').oninput=e=>selectColor(e.target.value);
 for(const [id,key,scale] of [['size','size',1],['flow','flow',100],['water','water',100],['body','body',100]]){
   $(id).oninput=e=>{brush[key]=+e.target.value/scale;$(id+'-value').textContent=e.target.value+(scale===100?'%':'');};
+}
+function showBrush(stroke){
+  brush.size=stroke.size;brush.flow=stroke.flow??1;brush.water=stroke.water??MEDIA[stroke.medium].water;
+  brush.body=stroke.body??.75;brush.tip=stroke.tip??'round';
+  for(const [id,key,scale] of [['size','size',1],['flow','flow',100],['water','water',100],['body','body',100]]){
+    const value=Math.round(brush[key]*scale);$(id).value=value;$(id+'-value').textContent=value+(scale===100?'%':'');
+  }
+  $('tip').value=brush.tip;
 }
 $('tip').onchange=e=>brush.tip=e.target.value;
 function point(e){
