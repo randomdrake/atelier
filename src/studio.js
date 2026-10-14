@@ -3,6 +3,7 @@ import {PaintingSession} from './session.js';
 import {StudioTour,StudioCamera,validateDocument,validateEvents} from './tour.js';
 import {PaintingLibrary} from './library.js';
 import {PaintingGallery} from './gallery.js';
+import {renderThought} from './thought-links.js';
 const $=id=>document.getElementById(id);
 const canvas=$('canvas'),wrap=canvas.parentElement,ctx=canvas.getContext('2d',{alpha:false});
 const surface=new PaintSurface(canvas.width,canvas.height),pixels=ctx.createImageData(canvas.width,canvas.height);
@@ -115,7 +116,7 @@ function renderNotebook(){
   for(const event of events){
     const item=document.createElement('li'),label=document.createElement('span'),body=document.createElement('p');
     label.textContent=`After ${event.afterStroke} marks · ${event.kind??'look'}`;
-    body.textContent=event.text||`${event.camera.zoom===1?'Whole painting':'Close inspection'} · ${event.camera.zoom.toFixed(1)}×`;
+    renderThought(body,event.text||`${event.camera.zoom===1?'Whole painting':'Close inspection'} · ${event.camera.zoom.toFixed(1)}×`);
     item.append(label,body);$('notebook').append(item);
   }
 }
@@ -125,7 +126,7 @@ function showMoment(event,recorded=false){
   voice.classList.toggle('is-trying',kind==='try');
   $('studio-stage').textContent=stageLabels[kind];
   if(event.text){
-    $('studio-heading').textContent=event.title??headings[kind];$('studio-message').textContent=event.text;
+    $('studio-heading').textContent=event.title??headings[kind];renderThought($('studio-message'),event.text);
     voice.classList.remove('new-note');void voice.offsetWidth;voice.classList.add('new-note');
     if($('read-aloud').checked&&'speechSynthesis' in window){
       try{

@@ -26,3 +26,5 @@
 #gallery-detail{margin-top:22px;text-align:center;background:#e8e2d0;border-radius:7px;padding:20px;background-image:repeating-linear-gradient(0deg,#66532d05 0 1px,transparent 1px 4px),repeating-linear-gradient(90deg,#66532d05 0 1px,transparent 1px 4px)}
 #gallery-painting-title{font-size:32px}#gallery-image{display:block;width:100%;max-width:790px;aspect-ratio:900/620;object-fit:contain;margin:auto;mix-blend-mode:multiply;box-shadow:3px 5px 0 #bfb399,0 15px 23px #39432b26}#gallery-description{margin:20px auto}#gallery-back{margin-top:15px}
 @media(max-width:700px){#gallery{padding:18px}#gallery-grid{grid-template-columns:1fr}.gallery-heading h2{font-size:28px}.header-actions{gap:8px}#browse-paintings{padding:8px;font-size:10px}header{gap:15px}.brand{font-size:35px}#export{font-size:10px;padding:8px}}
+
+.thought-link{color:inherit;text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}.thought-link:hover{color:#946744}.thought-link:focus-visible{outline:2px solid #8c9b5f;outline-offset:3px}
