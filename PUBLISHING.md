@@ -1,6 +1,6 @@
 # From easel to public gallery
 
-The owner has requested automatic publication of completed Atelier paintings to GitHub and this Site. Apply that default to Atelier painting requests, unless the user says local only or not to publish. Commit and push only the painting-project changes; verify the GitHub remote and push result. Then deploy the matching Site version. Report either destination if it fails.
+The owner has requested automatic publication of completed Atelier paintings to GitHub and this Site. Apply that default to Atelier painting requests, unless the user says local only or not to publish. Commit and push only the painting-project changes; verify the GitHub remote and push result. The repository is `git@github.com:randomdrake/atelier.git`, public at https://github.com/randomdrake/atelier. Publish the completed source to `main` with a normal fast-forward push (`git push origin HEAD:main`); if the remote has advanced, reconcile without force-pushing. Then deploy the matching Site version. Report either destination if it fails.
 
 The studio remains at port 5173. The separate viewing site is built from `public-gallery/`; it contains finished work, read-only replay, and a project explainer. The deployed assets never include the editor UI. A downloadable MIT source archive includes the project code and recorded sessions.
 
