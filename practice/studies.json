@@ -128,5 +128,57 @@
       "humanRating": null,
       "improvementClaim": "No controlled comparison or independent rating. The quiet highlight goal was met visually, but the mark is arguably too subdued; ridge regularity remains."
     }
+  },
+  {
+    "id": "golden-fans-blue-glass",
+    "title": "Golden fans, blue glass",
+    "date": "2026-10-14",
+    "session": "examples/golden-fans-blue-glass.json",
+    "finishedImage": "examples/previews/golden-fans-blue-glass.png",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "pencil"
+    ],
+    "goal": "Curved, uneven leaf silhouettes and selective bright accents.",
+    "inspiration": {
+      "description": "Smithsonian Gardens description of fan-shaped ginkgo leaves; original imagined sprig in blue glass.",
+      "url": "https://gardens.si.edu/collections/explore/object/ofeo-sg_2013-0618A"
+    },
+    "observations": [
+      {
+        "afterStroke": 7,
+        "text": "Broad acrylic joined the S-shaped wash into a connected bottle mass."
+      },
+      {
+        "afterStroke": 14,
+        "text": "Filled the hollow leaf crescents with tapering center passes."
+      },
+      {
+        "afterStroke": 18,
+        "text": "A single loaded pale acrylic reflection was visible but quiet against blue."
+      },
+      {
+        "afterStroke": 30,
+        "text": "Acrylic radiating veins read more clearly than the earlier pencil veins."
+      },
+      {
+        "afterStroke": 38,
+        "text": "Shortened the pale notch stripe with yellow. Bottle mouth, dark base and trailing shadow establish glass and contact; leaves remain soft and the notch still reads partly as a pale accent. Regular simulated ridges remain visible."
+      }
+    ],
+    "evidence": [
+      "artifacts/golden-fans-blue-glass-whole.png",
+      "artifacts/golden-fans-blue-glass-close.png",
+      "examples/previews/golden-fans-blue-glass.png"
+    ],
+    "engineRevision": "f4a71ff45e7bf454242edd21eab94c567a8d6046",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Repeat one ginkgo fan with radial broad strokes and a reserved unpainted notch; compare silhouette to the corrected pale stripe in this study.",
+    "assessment": {
+      "source": "Live whole and close browser inspections; journal added after export.",
+      "humanRating": null,
+      "improvementClaim": "Filled forms and stronger veins solved observed problems within this study. No controlled comparison or independent rating."
+    }
   }
 ]

@@ -1,0 +1,1492 @@
+{
+  "version": 2,
+  "width": 900,
+  "height": 620,
+  "title": "Golden fans, blue glass",
+  "strokes": [
+    {
+      "medium": "watercolor",
+      "color": "#b7bec0",
+      "size": 150,
+      "points": [
+        [
+          0.23,
+          0.72,
+          0.25
+        ],
+        [
+          0.45,
+          0.72,
+          0.45
+        ],
+        [
+          0.75,
+          0.74,
+          0.2
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.35,
+      "tip": "round",
+      "water": 0.85
+    },
+    {
+      "medium": "watercolor",
+      "color": "#6f8d9a",
+      "size": 125,
+      "points": [
+        [
+          0.49,
+          0.73,
+          0.4
+        ],
+        [
+          0.54,
+          0.65,
+          0.65
+        ],
+        [
+          0.53,
+          0.57,
+          0.6
+        ],
+        [
+          0.5,
+          0.54,
+          0.5
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.85,
+      "tip": "round",
+      "water": 0.7
+    },
+    {
+      "medium": "watercolor",
+      "color": "#5d8092",
+      "size": 55,
+      "points": [
+        [
+          0.5,
+          0.56,
+          0.5
+        ],
+        [
+          0.5,
+          0.45,
+          0.65
+        ],
+        [
+          0.53,
+          0.45,
+          0.5
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.85,
+      "tip": "round",
+      "water": 0.6
+    },
+    {
+      "medium": "acrylic",
+      "color": "#467186",
+      "size": 110,
+      "points": [
+        [
+          0.47,
+          0.73,
+          0.6
+        ],
+        [
+          0.46,
+          0.64,
+          0.8
+        ],
+        [
+          0.47,
+          0.56,
+          0.75
+        ],
+        [
+          0.5,
+          0.55,
+          0.55
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.75,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#52889a",
+      "size": 105,
+      "points": [
+        [
+          0.47,
+          0.7,
+          0.7
+        ],
+        [
+          0.54,
+          0.7,
+          0.7
+        ],
+        [
+          0.54,
+          0.59,
+          0.7
+        ],
+        [
+          0.5,
+          0.56,
+          0.6
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#41697d",
+      "size": 43,
+      "points": [
+        [
+          0.49,
+          0.55,
+          0.7
+        ],
+        [
+          0.49,
+          0.46,
+          0.75
+        ],
+        [
+          0.53,
+          0.46,
+          0.7
+        ],
+        [
+          0.53,
+          0.55,
+          0.7
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.8,
+      "tip": "round"
+    },
+    {
+      "medium": "pencil",
+      "color": "#6c6345",
+      "size": 7,
+      "points": [
+        [
+          0.51,
+          0.47,
+          0.75
+        ],
+        [
+          0.5,
+          0.38,
+          0.7
+        ],
+        [
+          0.47,
+          0.29,
+          0.7
+        ],
+        [
+          0.46,
+          0.19,
+          0.4
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.85,
+      "tip": "round"
+    },
+    {
+      "medium": "pencil",
+      "color": "#776847",
+      "size": 6,
+      "points": [
+        [
+          0.47,
+          0.29,
+          0.7
+        ],
+        [
+          0.39,
+          0.34,
+          0.55
+        ],
+        [
+          0.34,
+          0.37,
+          0.3
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.85,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#c4a342",
+      "size": 95,
+      "points": [
+        [
+          0.34,
+          0.37,
+          0.4
+        ],
+        [
+          0.31,
+          0.34,
+          0.65
+        ],
+        [
+          0.29,
+          0.3,
+          0.75
+        ],
+        [
+          0.3,
+          0.26,
+          0.75
+        ],
+        [
+          0.34,
+          0.24,
+          0.75
+        ],
+        [
+          0.38,
+          0.26,
+          0.6
+        ],
+        [
+          0.4,
+          0.29,
+          0.45
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.8,
+      "tip": "round"
+    },
+    {
+      "medium": "pencil",
+      "color": "#776847",
+      "size": 5,
+      "points": [
+        [
+          0.47,
+          0.27,
+          0.65
+        ],
+        [
+          0.55,
+          0.25,
+          0.55
+        ],
+        [
+          0.6,
+          0.29,
+          0.4
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.85,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#cdb047",
+      "size": 100,
+      "points": [
+        [
+          0.6,
+          0.29,
+          0.4
+        ],
+        [
+          0.56,
+          0.24,
+          0.65
+        ],
+        [
+          0.54,
+          0.2,
+          0.7
+        ],
+        [
+          0.56,
+          0.17,
+          0.75
+        ],
+        [
+          0.6,
+          0.16,
+          0.7
+        ],
+        [
+          0.64,
+          0.18,
+          0.6
+        ],
+        [
+          0.66,
+          0.23,
+          0.4
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.8,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#d7b74d",
+      "size": 80,
+      "points": [
+        [
+          0.34,
+          0.36,
+          0.22
+        ],
+        [
+          0.34,
+          0.32,
+          0.65
+        ],
+        [
+          0.34,
+          0.28,
+          0.9
+        ],
+        [
+          0.38,
+          0.29,
+          0.45
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.9,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#dfbf50",
+      "size": 85,
+      "points": [
+        [
+          0.6,
+          0.28,
+          0.22
+        ],
+        [
+          0.6,
+          0.24,
+          0.6
+        ],
+        [
+          0.6,
+          0.2,
+          0.9
+        ],
+        [
+          0.64,
+          0.22,
+          0.45
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.9,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#b99c41",
+      "size": 62,
+      "points": [
+        [
+          0.46,
+          0.2,
+          0.2
+        ],
+        [
+          0.43,
+          0.16,
+          0.65
+        ],
+        [
+          0.44,
+          0.12,
+          0.8
+        ],
+        [
+          0.48,
+          0.11,
+          0.6
+        ],
+        [
+          0.51,
+          0.14,
+          0.3
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.8,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#565f66",
+      "size": 45,
+      "points": [
+        [
+          0.43,
+          0.77,
+          0.2
+        ],
+        [
+          0.51,
+          0.78,
+          0.65
+        ],
+        [
+          0.64,
+          0.79,
+          0.45
+        ],
+        [
+          0.7,
+          0.79,
+          0.1
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.6,
+      "tip": "round",
+      "water": 0.55
+    },
+    {
+      "medium": "acrylic",
+      "color": "#305568",
+      "size": 26,
+      "points": [
+        [
+          0.56,
+          0.58,
+          0.4
+        ],
+        [
+          0.565,
+          0.64,
+          0.7
+        ],
+        [
+          0.558,
+          0.72,
+          0.6
+        ],
+        [
+          0.53,
+          0.75,
+          0.35
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.8,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#31596c",
+      "size": 20,
+      "points": [
+        [
+          0.45,
+          0.75,
+          0.3
+        ],
+        [
+          0.5,
+          0.758,
+          0.7
+        ],
+        [
+          0.55,
+          0.745,
+          0.4
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.85,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#d5e1d8",
+      "size": 18,
+      "points": [
+        [
+          0.46,
+          0.58,
+          0.2
+        ],
+        [
+          0.451,
+          0.62,
+          0.75
+        ],
+        [
+          0.451,
+          0.66,
+          0.6
+        ],
+        [
+          0.46,
+          0.69,
+          0.15
+        ]
+      ],
+      "duration": 1100,
+      "flow": 1,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#b4d1cf",
+      "size": 12,
+      "points": [
+        [
+          0.495,
+          0.476,
+          0.3
+        ],
+        [
+          0.49,
+          0.5,
+          0.7
+        ],
+        [
+          0.49,
+          0.532,
+          0.2
+        ]
+      ],
+      "duration": 1100,
+      "flow": 1,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#243e4b",
+      "size": 14,
+      "points": [
+        [
+          0.487,
+          0.457,
+          0.4
+        ],
+        [
+          0.498,
+          0.451,
+          0.65
+        ],
+        [
+          0.516,
+          0.452,
+          0.7
+        ],
+        [
+          0.536,
+          0.459,
+          0.3
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.9,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#9fbfc5",
+      "size": 9,
+      "points": [
+        [
+          0.483,
+          0.465,
+          0.2
+        ],
+        [
+          0.497,
+          0.469,
+          0.7
+        ],
+        [
+          0.517,
+          0.471,
+          0.65
+        ],
+        [
+          0.535,
+          0.466,
+          0.2
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#c5aa47",
+      "size": 48,
+      "points": [
+        [
+          0.461,
+          0.194,
+          0.25
+        ],
+        [
+          0.467,
+          0.16,
+          0.65
+        ],
+        [
+          0.48,
+          0.135,
+          0.7
+        ],
+        [
+          0.497,
+          0.145,
+          0.3
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#ead16a",
+      "size": 36,
+      "points": [
+        [
+          0.29,
+          0.285,
+          0.3
+        ],
+        [
+          0.32,
+          0.26,
+          0.7
+        ],
+        [
+          0.35,
+          0.255,
+          0.65
+        ],
+        [
+          0.38,
+          0.275,
+          0.2
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#ead473",
+      "size": 38,
+      "points": [
+        [
+          0.552,
+          0.196,
+          0.3
+        ],
+        [
+          0.574,
+          0.178,
+          0.7
+        ],
+        [
+          0.612,
+          0.181,
+          0.7
+        ],
+        [
+          0.646,
+          0.207,
+          0.2
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round"
+    },
+    {
+      "medium": "pencil",
+      "color": "#967c32",
+      "size": 4,
+      "points": [
+        [
+          0.345,
+          0.366,
+          0.55
+        ],
+        [
+          0.322,
+          0.322,
+          0.45
+        ],
+        [
+          0.301,
+          0.286,
+          0.2
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.85,
+      "tip": "round"
+    },
+    {
+      "medium": "pencil",
+      "color": "#967c32",
+      "size": 4,
+      "points": [
+        [
+          0.345,
+          0.366,
+          0.55
+        ],
+        [
+          0.347,
+          0.31,
+          0.5
+        ],
+        [
+          0.35,
+          0.263,
+          0.2
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.85,
+      "tip": "round"
+    },
+    {
+      "medium": "pencil",
+      "color": "#967c32",
+      "size": 4,
+      "points": [
+        [
+          0.345,
+          0.366,
+          0.5
+        ],
+        [
+          0.365,
+          0.322,
+          0.45
+        ],
+        [
+          0.385,
+          0.284,
+          0.15
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.85,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#ad8d38",
+      "size": 6,
+      "points": [
+        [
+          0.6,
+          0.287,
+          0.6
+        ],
+        [
+          0.574,
+          0.242,
+          0.45
+        ],
+        [
+          0.56,
+          0.2,
+          0.15
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#ad8d38",
+      "size": 6,
+      "points": [
+        [
+          0.6,
+          0.287,
+          0.6
+        ],
+        [
+          0.602,
+          0.239,
+          0.45
+        ],
+        [
+          0.606,
+          0.18,
+          0.15
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#ad8d38",
+      "size": 6,
+      "points": [
+        [
+          0.6,
+          0.287,
+          0.6
+        ],
+        [
+          0.627,
+          0.253,
+          0.45
+        ],
+        [
+          0.649,
+          0.222,
+          0.15
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#ad8d38",
+      "size": 6,
+      "points": [
+        [
+          0.345,
+          0.366,
+          0.6
+        ],
+        [
+          0.32,
+          0.325,
+          0.45
+        ],
+        [
+          0.3,
+          0.286,
+          0.15
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.9,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#ad8d38",
+      "size": 6,
+      "points": [
+        [
+          0.345,
+          0.366,
+          0.6
+        ],
+        [
+          0.345,
+          0.312,
+          0.45
+        ],
+        [
+          0.35,
+          0.265,
+          0.15
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.9,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#ad8d38",
+      "size": 6,
+      "points": [
+        [
+          0.345,
+          0.366,
+          0.6
+        ],
+        [
+          0.365,
+          0.32,
+          0.45
+        ],
+        [
+          0.385,
+          0.286,
+          0.15
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.9,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#eee7d7",
+      "size": 13,
+      "points": [
+        [
+          0.606,
+          0.125,
+          0.65
+        ],
+        [
+          0.607,
+          0.145,
+          0.55
+        ],
+        [
+          0.608,
+          0.164,
+          0.1
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#d8bc55",
+      "size": 18,
+      "points": [
+        [
+          0.607,
+          0.16,
+          0.6
+        ],
+        [
+          0.609,
+          0.174,
+          0.55
+        ]
+      ],
+      "duration": 1100,
+      "flow": 1,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#e8d17a",
+      "size": 11,
+      "points": [
+        [
+          0.58,
+          0.153,
+          0.2
+        ],
+        [
+          0.595,
+          0.151,
+          0.5
+        ],
+        [
+          0.601,
+          0.156,
+          0.15
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.9,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#e2e9d8",
+      "size": 8,
+      "points": [
+        [
+          0.451,
+          0.616,
+          0.3
+        ],
+        [
+          0.45,
+          0.638,
+          0.7
+        ],
+        [
+          0.452,
+          0.65,
+          0.2
+        ]
+      ],
+      "duration": 1100,
+      "flow": 1,
+      "tip": "round"
+    },
+    {
+      "medium": "acrylic",
+      "color": "#91bac3",
+      "size": 11,
+      "points": [
+        [
+          0.475,
+          0.733,
+          0.25
+        ],
+        [
+          0.5,
+          0.739,
+          0.6
+        ],
+        [
+          0.522,
+          0.734,
+          0.2
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round"
+    }
+  ],
+  "events": [
+    {
+      "text": "Golden fans, blue glass. Inspired by the fan-shaped ginkgo leaves in Smithsonian Gardens: https://gardens.si.edu/collections/explore/object/ofeo-sg_2013-0618A . I will practice curved leaf silhouettes, varied edges, and selective light accents in an original still life.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8320,
+      "afterStroke": 0
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 3
+    },
+    {
+      "text": "The wash has a soft S-shaped edge and an empty left shoulder. I will join the body into one bottle mass, then place the stem above the narrow neck.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7540,
+      "afterStroke": 3
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 7
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 7
+    },
+    {
+      "text": "The connected bottle mass reads clearly; the neck still has a pale hole and the base floats. First I will balance it with two golden fans, using curved sweeps rather than polygon outlines.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8580,
+      "afterStroke": 7
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 11
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 11
+    },
+    {
+      "text": "The leaf sweeps made rounded crescents with empty centers. I will fill each fan toward its stem junction, preserving the curved outer edge.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6000,
+      "afterStroke": 11
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 14
+    },
+    {
+      "text": "Filling closed the two large crescents, but the smaller upper leaf is still hollow. The bottle needs a grounded base and darker right side to give these pale leaves a firm anchor.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8320,
+      "afterStroke": 14
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 17
+    },
+    {
+      "text": "The darker base and trailing shadow now anchor the bottle. I will test one narrow pale acrylic reflection on its lit left side before adding more highlights.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7020,
+      "afterStroke": 17
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 18
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 18
+    },
+    {
+      "text": "The pale test is visible but quiet, with a ragged taper. I will retain it and add a shorter neck reflection plus a dark oval mouth; these should make the material read as glass.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8840,
+      "afterStroke": 18
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 21
+    },
+    {
+      "text": "The mouth now reads as a shallow dark oval with a pale lip. Above it, the small leaf still has a crescent gap; I will close that gap and separate warm light from the shaded fan bases.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.25
+      },
+      "duration": 9620,
+      "afterStroke": 21
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 24
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 24
+    },
+    {
+      "text": "Looking at the upper leaves: the added light bands follow the curved rims. I will check their edges close before choosing vein accents.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.25
+      },
+      "duration": 6000,
+      "afterStroke": 24
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 27
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 27
+    },
+    {
+      "text": "The left fan now has three radiating lines. I will inspect whether their weight stays subordinate to its golden mass.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.25
+      },
+      "duration": 6000,
+      "afterStroke": 27
+    },
+    {
+      "text": "Close inspection shows the pencil veins are almost lost in the yellow. I will test slightly broader ochre acrylic veins on the right fan, with only three lines and tapering pressure.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.25
+      },
+      "duration": 8060,
+      "afterStroke": 27
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 30
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 30
+    },
+    {
+      "text": "The right veins remain understated from the whole view. The fan shape is stronger than its internal lines; I will preserve that balance and inspect the leaf junction.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.25
+      },
+      "duration": 7280,
+      "afterStroke": 30
+    },
+    {
+      "text": "The acrylic veins converge clearly without overpowering the fan. I will give the left leaf the same readable junction and interrupt one smooth rim with a shallow notch.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.25
+      },
+      "duration": 7280,
+      "afterStroke": 30
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 34
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 34
+    },
+    {
+      "text": "The shallow notch breaks the rounded right rim, and both fans now have a visible point of attachment. I will check the pale cut close before the last bottle accents.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.25
+      },
+      "duration": 7800,
+      "afterStroke": 34
+    },
+    {
+      "text": "Close inspection reveals the notch is a pale interior stripe, not a clean cut. I will cover its lower portion with yellow, leaving only a short rim interruption, and strengthen two small glass accents.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.25
+      },
+      "duration": 8840,
+      "afterStroke": 34
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 38
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 38
+    },
+    {
+      "text": "Final review: three golden fans balance the blue bottle, its dark base meets the shadow, and the left reflection now reads at whole view. I will inspect the glass close, then keep the quiet surrounding linen.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9360,
+      "afterStroke": 38
+    },
+    {
+      "text": "Golden fans, blue glass — finished at 38 marks. Curved filled masses solved the hollow crescents; acrylic veins read more clearly than pencil, and a narrow loaded reflection stayed selective. The notch correction shortened a pale stripe. The simulated bristle bands remain regular. Further outlining would make these soft leaves heavy, so I will keep the quiet edges and linen.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 15000,
+      "afterStroke": 38
+    }
+  ],
+  "creation": {
+    "method": "Live Atelier browser painting with visible animated batches of 1–4 strokes",
+    "inspectionBoundaries": [
+      3,
+      7,
+      11,
+      14,
+      17,
+      18,
+      21,
+      24,
+      27,
+      30,
+      34,
+      38
+    ],
+    "notes": "Easel notes and camera moments recorded live; creation metadata and practice journal added after export. A few inspection screenshots were lost when subsequent wait calls timed out; repeated inspections were captured.",
+    "engineRevision": "f4a71ff45e7bf454242edd21eab94c567a8d6046",
+    "engineChangedDuringSession": false,
+    "model": "GPT-6 (specific variant unavailable)"
+  }
+}

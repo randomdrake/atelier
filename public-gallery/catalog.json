@@ -1,5 +1,22 @@
 [
   {
+    "id": "golden-fans-blue-glass",
+    "title": "Golden fans, blue glass",
+    "description": "Three golden ginkgo fans rise from a small blue glass bottle on quiet linen.",
+    "process": "38 animated marks selected in batches of 1–4 through 12 whole/close inspection boundaries. Live easel notes and camera moments record filled leaf corrections, vein comparisons, restrained reflections and a final review. Metadata and journal added after export; engine unchanged.",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "pencil"
+    ],
+    "strokes": 38,
+    "moments": 37,
+    "engine": "8bfaaa7ce2d76e14",
+    "session": "/paintings/golden-fans-blue-glass/session.json",
+    "image": "/paintings/golden-fans-blue-glass/finished.png",
+    "publishedAt": "2026-10-14"
+  },
+  {
     "id": "lemon-at-the-blue-hour",
     "title": "Lemon at the blue hour",
     "description": "A lemon and green leaf rest on a blue saucer, surrounded by quiet linen and a soft evening shadow.",

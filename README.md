@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Golden fans, blue glass
+
+[![Golden ginkgo leaves in a small blue glass bottle](public-gallery/paintings/golden-fans-blue-glass/finished.png)](https://atelier.randomdrake.com/#painting/golden-fans-blue-glass)
+
+Three soft golden fans and a blue bottle in **38 marks**, developed through **12 inspection boundaries**. Hollow leaf sweeps were filled, pencil veins were tested against acrylic, and a single glass reflection was checked before further accents. Live notes and camera moments travel with the replay.
+
+[Watch the ginkgo study unfold →](https://atelier.randomdrake.com/#painting/golden-fans-blue-glass)
+
 ### Lemon at the blue hour
 
 [![A lemon and green leaf on a blue saucer](public-gallery/paintings/lemon-at-the-blue-hour/finished.png)](https://atelier.randomdrake.com/#painting/lemon-at-the-blue-hour)
