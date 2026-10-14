@@ -77,3 +77,17 @@ The narration tests also cover legacy import compatibility, note and camera vali
 - GPU simulation, high-resolution tiled surfaces, and exact physical-session snapshots.
 
 Each medium's `spread` controls its mobile pigment fraction. Suspended pigment has its own color field so water transport never borrows color from underlying dry marks or oil. Oil surface displacement conserves its mass, absorption, color, and relief. Each stroke also has a brush reservoir that gradually depletes and picks up wet color across its contact patch. Reservoir pickup still approximates color exchange without removing pigment from the surface. The oil optical model uses three RGB bands, not measured spectra, and aggregates the oil layer rather than resolving every cured coat. Surface fluid flow is a bounded pairwise approximation, not a Navier–Stokes solver.
+
+## Painting from a new chat
+
+The reusable `skills/atelier` skill is installed as a personal skill on this machine through `~/.agents/skills/atelier`. Use `$atelier a rainy street at night`, or `$atelier` to let the agent find inspiration and choose a subject. `/atelier …` is an instruction alias, not a guaranteed built-in slash command. Codex discovers local skill changes automatically; restart if it does not appear. The skill locates this checkout, reads the practice journal, paints in small screenshot-guided batches, and records observations and camera moves.
+
+The owner's standing preference is to publish completed Atelier paintings to GitHub and the public gallery, unless a session says local only or not to publish. See `PUBLISHING.md`. A publication is reported separately for GitHub, Sites, and custom DNS.
+
+## Public viewing site
+
+`public-gallery/` is a separate, read-only gallery: finished images, recorded replay, a project explainer, and a practice journal. `npm run gallery:build` creates `dist-gallery/` and a downloadable MIT source archive, excluding studio controls from the deployed UI. Each published work snapshots its replay engine so later physics edits cannot silently rewrite its process. The existing Sites project is identified in `.openai/hosting.json`; reuse it for all future releases.
+
+## Evidence of practice
+
+`practice/studies.json` holds concrete observations, evidence paths, renderer context, next experiments, and human ratings when supplied. `practice/LEARNING.md` defines comparisons and repeatable calibration studies. This is external memory and practice, not model retraining. Initial entries are explicitly retrospective baselines.

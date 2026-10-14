@@ -1,0 +1,1322 @@
+{
+  "version": 2,
+  "width": 900,
+  "height": 620,
+  "title": "Afternoon Flowers",
+  "strokes": [
+    {
+      "medium": "watercolor",
+      "color": "#dbc4a0",
+      "size": 155,
+      "flow": 0.35,
+      "water": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.17,
+          0.24,
+          0.3
+        ],
+        [
+          0.42,
+          0.27,
+          0.9
+        ],
+        [
+          0.78,
+          0.32,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#d1c5aa",
+      "size": 145,
+      "flow": 0.3,
+      "water": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.15,
+          0.41,
+          0.3
+        ],
+        [
+          0.44,
+          0.43,
+          0.9
+        ],
+        [
+          0.78,
+          0.46,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#a59b87",
+      "size": 120,
+      "flow": 0.45,
+      "water": 0.65,
+      "duration": 1100,
+      "points": [
+        [
+          0.12,
+          0.79,
+          0.3
+        ],
+        [
+          0.43,
+          0.79,
+          0.9
+        ],
+        [
+          0.83,
+          0.8,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#3f687d",
+      "size": 95,
+      "flow": 0.85,
+      "water": 0.55,
+      "duration": 1300,
+      "points": [
+        [
+          0.502,
+          0.515,
+          0.35
+        ],
+        [
+          0.475,
+          0.6,
+          0.85
+        ],
+        [
+          0.47,
+          0.687,
+          1
+        ],
+        [
+          0.502,
+          0.769,
+          0.65
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#548594",
+      "size": 105,
+      "flow": 0.9,
+      "water": 0.65,
+      "duration": 1300,
+      "points": [
+        [
+          0.535,
+          0.518,
+          0.5
+        ],
+        [
+          0.533,
+          0.636,
+          0.9
+        ],
+        [
+          0.535,
+          0.725,
+          0.9
+        ],
+        [
+          0.533,
+          0.779,
+          0.55
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#709d9b",
+      "size": 95,
+      "flow": 0.8,
+      "water": 0.65,
+      "duration": 1300,
+      "points": [
+        [
+          0.564,
+          0.516,
+          0.35
+        ],
+        [
+          0.589,
+          0.61,
+          0.85
+        ],
+        [
+          0.589,
+          0.693,
+          1
+        ],
+        [
+          0.559,
+          0.773,
+          0.6
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#36565f",
+      "size": 10,
+      "body": 0.22,
+      "flow": 0.8,
+      "duration": 1100,
+      "points": [
+        [
+          0.49,
+          0.519,
+          0.3
+        ],
+        [
+          0.509,
+          0.509,
+          0.8
+        ],
+        [
+          0.535,
+          0.506,
+          0.9
+        ],
+        [
+          0.565,
+          0.513,
+          0.7
+        ],
+        [
+          0.576,
+          0.521,
+          0.3
+        ],
+        [
+          0.552,
+          0.528,
+          0.6
+        ],
+        [
+          0.524,
+          0.529,
+          0.6
+        ],
+        [
+          0.497,
+          0.522,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#596b65",
+      "size": 48,
+      "water": 0.35,
+      "flow": 0.6,
+      "duration": 1100,
+      "points": [
+        [
+          0.5,
+          0.808,
+          0.3
+        ],
+        [
+          0.566,
+          0.82,
+          0.8
+        ],
+        [
+          0.642,
+          0.831,
+          0.7
+        ],
+        [
+          0.728,
+          0.844,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#677959",
+      "size": 9,
+      "water": 0.3,
+      "flow": 0.95,
+      "duration": 1200,
+      "points": [
+        [
+          0.536,
+          0.516,
+          0.9
+        ],
+        [
+          0.519,
+          0.445,
+          0.85
+        ],
+        [
+          0.487,
+          0.384,
+          0.7
+        ],
+        [
+          0.429,
+          0.315,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#c97650",
+      "size": 38,
+      "body": 0.6,
+      "flow": 0.9,
+      "duration": 1000,
+      "points": [
+        [
+          0.421,
+          0.303,
+          0.5
+        ],
+        [
+          0.392,
+          0.291,
+          0.9
+        ],
+        [
+          0.369,
+          0.272,
+          1
+        ],
+        [
+          0.365,
+          0.25,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#dea15f",
+      "size": 38,
+      "body": 0.65,
+      "flow": 0.9,
+      "duration": 1000,
+      "points": [
+        [
+          0.419,
+          0.295,
+          0.5
+        ],
+        [
+          0.415,
+          0.266,
+          1
+        ],
+        [
+          0.427,
+          0.237,
+          0.9
+        ],
+        [
+          0.438,
+          0.228,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#e5b572",
+      "size": 35,
+      "body": 0.6,
+      "flow": 0.9,
+      "duration": 1000,
+      "points": [
+        [
+          0.425,
+          0.3,
+          0.5
+        ],
+        [
+          0.455,
+          0.283,
+          1
+        ],
+        [
+          0.476,
+          0.256,
+          0.8
+        ],
+        [
+          0.477,
+          0.242,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#d18b66",
+      "size": 31,
+      "body": 0.35,
+      "flow": 0.85,
+      "duration": 1000,
+      "points": [
+        [
+          0.38,
+          0.297,
+          0.2
+        ],
+        [
+          0.394,
+          0.324,
+          0.85
+        ],
+        [
+          0.422,
+          0.333,
+          0.9
+        ],
+        [
+          0.447,
+          0.316,
+          0.3
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#efc47d",
+      "size": 22,
+      "body": 0.28,
+      "flow": 0.9,
+      "duration": 900,
+      "points": [
+        [
+          0.441,
+          0.266,
+          0.2
+        ],
+        [
+          0.444,
+          0.29,
+          0.8
+        ],
+        [
+          0.426,
+          0.31,
+          0.85
+        ],
+        [
+          0.412,
+          0.31,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#60714b",
+      "size": 12,
+      "water": 0.25,
+      "flow": 1,
+      "duration": 1000,
+      "points": [
+        [
+          0.406,
+          0.323,
+          0.2
+        ],
+        [
+          0.429,
+          0.327,
+          0.9
+        ],
+        [
+          0.445,
+          0.316,
+          0.2
+        ],
+        [
+          0.43,
+          0.335,
+          0.7
+        ],
+        [
+          0.442,
+          0.35,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#687a54",
+      "size": 7,
+      "water": 0.25,
+      "flow": 1,
+      "duration": 1100,
+      "points": [
+        [
+          0.538,
+          0.518,
+          0.9
+        ],
+        [
+          0.549,
+          0.439,
+          0.8
+        ],
+        [
+          0.575,
+          0.361,
+          0.7
+        ],
+        [
+          0.602,
+          0.283,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#79895c",
+      "size": 7,
+      "water": 0.3,
+      "flow": 1,
+      "duration": 1100,
+      "points": [
+        [
+          0.551,
+          0.518,
+          0.9
+        ],
+        [
+          0.598,
+          0.471,
+          0.7
+        ],
+        [
+          0.633,
+          0.425,
+          0.6
+        ],
+        [
+          0.663,
+          0.394,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#859763",
+      "size": 26,
+      "water": 0.4,
+      "flow": 0.85,
+      "duration": 1000,
+      "points": [
+        [
+          0.557,
+          0.438,
+          0.2
+        ],
+        [
+          0.59,
+          0.413,
+          0.9
+        ],
+        [
+          0.612,
+          0.377,
+          0.85
+        ],
+        [
+          0.623,
+          0.354,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#d9b679",
+      "size": 29,
+      "body": 0.3,
+      "flow": 0.9,
+      "duration": 1000,
+      "points": [
+        [
+          0.608,
+          0.282,
+          0.45
+        ],
+        [
+          0.59,
+          0.257,
+          0.9
+        ],
+        [
+          0.593,
+          0.229,
+          0.85
+        ],
+        [
+          0.601,
+          0.217,
+          0.15
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#eed8a3",
+      "size": 32,
+      "body": 0.22,
+      "flow": 0.95,
+      "duration": 1000,
+      "points": [
+        [
+          0.609,
+          0.283,
+          0.5
+        ],
+        [
+          0.619,
+          0.256,
+          1
+        ],
+        [
+          0.628,
+          0.231,
+          0.85
+        ],
+        [
+          0.626,
+          0.216,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#e7c17c",
+      "size": 23,
+      "body": 0.25,
+      "flow": 0.9,
+      "duration": 1000,
+      "points": [
+        [
+          0.599,
+          0.275,
+          0.2
+        ],
+        [
+          0.614,
+          0.29,
+          0.8
+        ],
+        [
+          0.635,
+          0.269,
+          0.85
+        ],
+        [
+          0.641,
+          0.247,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#ae7773",
+      "size": 24,
+      "body": 0.25,
+      "flow": 0.9,
+      "duration": 1000,
+      "points": [
+        [
+          0.665,
+          0.402,
+          0.35
+        ],
+        [
+          0.658,
+          0.382,
+          0.95
+        ],
+        [
+          0.663,
+          0.359,
+          0.8
+        ],
+        [
+          0.668,
+          0.352,
+          0.15
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#d59a8a",
+      "size": 24,
+      "body": 0.22,
+      "flow": 0.95,
+      "duration": 1000,
+      "points": [
+        [
+          0.667,
+          0.402,
+          0.45
+        ],
+        [
+          0.678,
+          0.38,
+          1
+        ],
+        [
+          0.68,
+          0.363,
+          0.7
+        ],
+        [
+          0.675,
+          0.354,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#687b52",
+      "size": 9,
+      "water": 0.25,
+      "flow": 1,
+      "duration": 900,
+      "points": [
+        [
+          0.657,
+          0.401,
+          0.2
+        ],
+        [
+          0.668,
+          0.409,
+          0.8
+        ],
+        [
+          0.681,
+          0.395,
+          0.2
+        ],
+        [
+          0.67,
+          0.416,
+          0.7
+        ],
+        [
+          0.655,
+          0.43,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#647b54",
+      "size": 28,
+      "water": 0.35,
+      "flow": 0.9,
+      "duration": 1100,
+      "points": [
+        [
+          0.508,
+          0.439,
+          0.2
+        ],
+        [
+          0.48,
+          0.433,
+          0.8
+        ],
+        [
+          0.455,
+          0.419,
+          0.95
+        ],
+        [
+          0.435,
+          0.394,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#a3ae78",
+      "size": 12,
+      "water": 0.25,
+      "flow": 0.75,
+      "duration": 900,
+      "points": [
+        [
+          0.496,
+          0.435,
+          0.15
+        ],
+        [
+          0.469,
+          0.421,
+          0.85
+        ],
+        [
+          0.443,
+          0.4,
+          0.15
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#788958",
+      "size": 27,
+      "water": 0.35,
+      "flow": 0.85,
+      "duration": 1100,
+      "points": [
+        [
+          0.569,
+          0.48,
+          0.2
+        ],
+        [
+          0.602,
+          0.494,
+          0.9
+        ],
+        [
+          0.626,
+          0.511,
+          0.8
+        ],
+        [
+          0.64,
+          0.533,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "chalk",
+      "color": "#d8e2d7",
+      "size": 24,
+      "flow": 0.9,
+      "duration": 1200,
+      "points": [
+        [
+          0.502,
+          0.581,
+          0.25
+        ],
+        [
+          0.493,
+          0.609,
+          0.8
+        ],
+        [
+          0.491,
+          0.644,
+          0.7
+        ],
+        [
+          0.499,
+          0.674,
+          0.15
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#c2d7cb",
+      "size": 5,
+      "body": 0.08,
+      "flow": 0.95,
+      "duration": 1000,
+      "points": [
+        [
+          0.495,
+          0.516,
+          0.2
+        ],
+        [
+          0.516,
+          0.507,
+          0.7
+        ],
+        [
+          0.542,
+          0.508,
+          0.85
+        ],
+        [
+          0.566,
+          0.516,
+          0.2
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#446778",
+      "size": 9,
+      "water": 0.15,
+      "flow": 0.85,
+      "duration": 1100,
+      "points": [
+        [
+          0.482,
+          0.771,
+          0.15
+        ],
+        [
+          0.504,
+          0.792,
+          0.7
+        ],
+        [
+          0.539,
+          0.799,
+          0.85
+        ],
+        [
+          0.573,
+          0.784,
+          0.15
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#c5d8d1",
+      "size": 13,
+      "body": 0.06,
+      "flow": 0.8,
+      "duration": 1400,
+      "points": [
+        [
+          0.497,
+          0.588,
+          0.2
+        ],
+        [
+          0.494,
+          0.617,
+          0.75
+        ],
+        [
+          0.496,
+          0.648,
+          0.65
+        ],
+        [
+          0.505,
+          0.675,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "oil",
+      "color": "#cd9b75",
+      "size": 20,
+      "body": 0.18,
+      "flow": 0.85,
+      "duration": 1100,
+      "points": [
+        [
+          0.346,
+          0.805,
+          0.15
+        ],
+        [
+          0.363,
+          0.81,
+          0.9
+        ],
+        [
+          0.378,
+          0.818,
+          0.8
+        ],
+        [
+          0.391,
+          0.818,
+          0.15
+        ]
+      ]
+    },
+    {
+      "medium": "watercolor",
+      "color": "#8b8c77",
+      "size": 16,
+      "water": 0.15,
+      "flow": 0.55,
+      "duration": 900,
+      "points": [
+        [
+          0.349,
+          0.824,
+          0.15
+        ],
+        [
+          0.376,
+          0.831,
+          0.75
+        ],
+        [
+          0.408,
+          0.834,
+          0.1
+        ]
+      ]
+    },
+    {
+      "medium": "pencil",
+      "color": "#70835d",
+      "size": 2.5,
+      "flow": 0.75,
+      "duration": 1000,
+      "points": [
+        [
+          0.502,
+          0.438,
+          0.25
+        ],
+        [
+          0.477,
+          0.429,
+          0.75
+        ],
+        [
+          0.455,
+          0.414,
+          0.6
+        ],
+        [
+          0.441,
+          0.401,
+          0.1
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "afterStroke": 0,
+      "kind": "try",
+      "title": "Let’s grow a little afternoon.",
+      "text": "This is a recorded tour of our flower painting. We began with a blue vase and warm light, then chose just a few marks after each look. Come lean over the easel with me.",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9500
+    },
+    {
+      "afterStroke": 3,
+      "kind": "notice",
+      "title": "Three washes. Plenty of possibility.",
+      "text": "These washes stayed soft and left plenty of open paper. Notice how the paper does some of the work for us: the empty areas become light.",
+      "camera": {
+        "zoom": 1.9,
+        "x": 0.43,
+        "y": 0.36
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 3,
+      "kind": "try",
+      "title": "Give the blue a place to sit.",
+      "text": "Let’s put the vase a little right of center. A darker left side and a greener right side can suggest a rounded shape without tracing every edge.",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 6,
+      "kind": "notice",
+      "title": "A lovely oval—but is it a vase?",
+      "text": "Up close, the blue has a pleasing grain and a soft color change. From a distance it is still an oval. A dark opening and a contact shadow will help us recognize it.",
+      "camera": {
+        "zoom": 2,
+        "x": 0.535,
+        "y": 0.665
+      },
+      "duration": 9000
+    },
+    {
+      "afterStroke": 6,
+      "kind": "try",
+      "title": "Weight below. A gesture above.",
+      "text": "We’ll give it a small rim and cast shadow, then let one stem lean left. Asymmetry gives the arrangement a little life.",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7000
+    },
+    {
+      "afterStroke": 9,
+      "kind": "notice",
+      "title": "There’s our little vessel.",
+      "text": "The opening makes the vase readable, and the shadow anchors it. The first stem bends toward the open space. Let’s follow that gesture with a warm flower.",
+      "camera": {
+        "zoom": 2.15,
+        "x": 0.535,
+        "y": 0.54
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 9,
+      "kind": "try",
+      "title": "Three petals, then a look.",
+      "text": "Let’s try three broad oil petals. Their stronger bristle texture should stand out against the quiet watercolor. We can decide on the folds after seeing them.",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 12,
+      "kind": "notice",
+      "title": "The paint made an open fan.",
+      "text": "These overlapping petals have become a fan. There is also a little gap at the stem. That is useful information: the next marks can join the shapes instead of adding decoration everywhere.",
+      "camera": {
+        "zoom": 2.3,
+        "x": 0.42,
+        "y": 0.29
+      },
+      "duration": 9000
+    },
+    {
+      "afterStroke": 12,
+      "kind": "try",
+      "title": "Join it before growing it.",
+      "text": "A lower coral petal, a golden fold, and a green calyx will connect the flower to its stem. Small decisions can make a big difference in what a shape means.",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 15,
+      "kind": "notice",
+      "title": "A flower with a place to belong.",
+      "text": "The lower petal closes the cup and meets the stem. Now step back: there is still room above the vase for another gesture.",
+      "camera": {
+        "zoom": 2.15,
+        "x": 0.43,
+        "y": 0.325
+      },
+      "duration": 7000
+    },
+    {
+      "afterStroke": 15,
+      "kind": "try",
+      "title": "Let the stems decide the spacing.",
+      "text": "We’ll add a taller right stem, a shorter outer stem, and one pointed leaf. Their spacing will help us decide where the next blooms belong.",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 18,
+      "kind": "notice",
+      "title": "The bouquet starts to breathe.",
+      "text": "The stems spread naturally, and that pointed leaf fills the gap near the neck. Keeping some space between branches lets each shape stay readable.",
+      "camera": {
+        "zoom": 2,
+        "x": 0.565,
+        "y": 0.425
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 18,
+      "kind": "try",
+      "title": "A quieter flower up high.",
+      "text": "The taller right stem can carry a smaller pale yellow bloom. Let’s keep it more closed than the first flower. Variety can come from shape as well as color.",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 21,
+      "kind": "notice",
+      "title": "A small pocket of light.",
+      "text": "The pale bloom lightens the upper right without taking over. Look at its folds: thin oil has gentler relief, while the three marks still leave a visible brush rhythm.",
+      "camera": {
+        "zoom": 2.5,
+        "x": 0.613,
+        "y": 0.253
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 21,
+      "kind": "try",
+      "title": "A little rose-colored punctuation.",
+      "text": "The outer stem can carry a small dusty-rose bud. Its lower position will bring some warm color toward the vase and vary the sizes of the flowers.",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 24,
+      "kind": "notice",
+      "title": "Three different voices.",
+      "text": "Open terracotta petals, a pale folded flower, and a closed rose bud: each has a different shape and size. The stems still feel bare, so foliage can connect them.",
+      "camera": {
+        "zoom": 1.7,
+        "x": 0.545,
+        "y": 0.355
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 24,
+      "kind": "try",
+      "title": "Leaves with room between them.",
+      "text": "Let’s add a left leaf and a drooping leaf near the vase, with a lighter pass inside the first one. We can fill the bouquet without filling every bit of paper.",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 27,
+      "kind": "notice",
+      "title": "Fuller foliage. A soft vase.",
+      "text": "The leaves give the arrangement more substance. The vase is still very soft. A few touches of light and a darker base might give it form without a hard outline.",
+      "camera": {
+        "zoom": 2,
+        "x": 0.535,
+        "y": 0.535
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 27,
+      "kind": "try",
+      "title": "An experiment in light.",
+      "text": "Let’s test a chalk highlight, a little light on the rim, and a darker base curve. Different media behave differently on this surface; we should look before trusting the result.",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9000
+    },
+    {
+      "afterStroke": 30,
+      "kind": "learn",
+      "title": "Well, that wasn’t quite the highlight.",
+      "text": "The chalk pass deepened a stripe instead of giving us clear light. We do not have to pretend the experiment worked. One thin pale oil stroke beside it is worth trying.",
+      "camera": {
+        "zoom": 2.3,
+        "x": 0.53,
+        "y": 0.675
+      },
+      "duration": 10000
+    },
+    {
+      "afterStroke": 31,
+      "kind": "notice",
+      "title": "One small correction was enough.",
+      "text": "There is our highlight. The thin oil stroke gives a clearer sheen, while the chalk remains a neighboring shadow. A useful correction can be just one mark.",
+      "camera": {
+        "zoom": 2.3,
+        "x": 0.53,
+        "y": 0.675
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 31,
+      "kind": "try",
+      "title": "A small story on the table.",
+      "text": "Let’s echo the warm flower color below with a fallen petal and its contact shadow, then add a fine leaf vein. After that, we will look again and decide whether to stop.",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9000
+    },
+    {
+      "afterStroke": 34,
+      "kind": "notice",
+      "title": "Come close one last time.",
+      "text": "That little petal has weight because its shadow touches it. Above, the vase still keeps its soft edge. Small details work best when the larger shapes remain clear.",
+      "camera": {
+        "zoom": 2,
+        "x": 0.445,
+        "y": 0.77
+      },
+      "duration": 8000
+    },
+    {
+      "afterStroke": 34,
+      "kind": "keep",
+      "title": "Brush down. Leave the paper some light.",
+      "text": "The fallen petal ties the warm flowers to the tabletop. The open paper keeps the arrangement quiet. This feels like a good place to stop—and you can visit every little decision again.",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10000
+    }
+  ],
+  "annotationOrigin": "Teaching notes adapted from the public commentary of the original live painting session; camera focus recreates the reviewed areas."
+}

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "copper-and-pears",
+    "title": "Copper & pears — an oil study",
+    "description": "Copper, fruit, and linen. Warm light meeting cool reflections.",
+    "process": "57 oil strokes selected in batches of 3–4 after screenshots. All 17 notes and 29 camera moments were recorded live. The oil model was corrected at stroke 18; early observations describe the original experiment, and replay uses the corrected model.",
+    "media": [
+      "oil"
+    ],
+    "strokes": 57,
+    "moments": 46,
+    "engine": "ea2ea027dedf27c2",
+    "session": "/paintings/copper-and-pears/session.json",
+    "image": "/paintings/copper-and-pears/finished.png",
+    "publishedAt": "2026-10-13"
+  },
+  {
+    "id": "where-the-evening-goes",
+    "title": "Where the evening goes",
+    "description": "A pale sailboat finds its way through the last light of the day.",
+    "process": "Painted from blank paper in eleven three-stroke batches, chosen after whole-view and close-up screenshots. All 12 teaching notes and 23 camera moments were recorded live.",
+    "media": [
+      "watercolor",
+      "oil",
+      "pencil"
+    ],
+    "strokes": 33,
+    "moments": 35,
+    "engine": "ea2ea027dedf27c2",
+    "session": "/paintings/where-the-evening-goes/session.json",
+    "image": "/paintings/where-the-evening-goes/finished.png",
+    "publishedAt": "2026-10-13"
+  },
+  {
+    "id": "afternoon-flowers",
+    "title": "Afternoon Flowers",
+    "description": "Warm afternoon light, a blue vase, and a few bright flowers.",
+    "process": "34 strokes selected in batches of 1–3 after close and whole-view screenshots. This guided tour’s teaching notes were adapted afterward from the original session’s commentary.",
+    "media": [
+      "watercolor",
+      "oil",
+      "chalk",
+      "pencil"
+    ],
+    "strokes": 34,
+    "moments": 24,
+    "engine": "ea2ea027dedf27c2",
+    "session": "/paintings/afternoon-flowers/session.json",
+    "image": "/paintings/afternoon-flowers/finished.png",
+    "publishedAt": "2026-10-13"
+  },
+  {
+    "id": "harbor-study",
+    "title": "Light returns to the harbor",
+    "description": "A lighthouse, sailboat, and wildflowers around a busy harbor.",
+    "process": "A 341-stroke scripted foundation followed by seven refinements chosen with close and whole-view inspections. No recorded teaching notes.",
+    "media": [
+      "watercolor",
+      "pencil",
+      "oil"
+    ],
+    "strokes": 348,
+    "moments": 0,
+    "engine": "ea2ea027dedf27c2",
+    "session": "/paintings/harbor-study/session.json",
+    "image": "/paintings/harbor-study/finished.png",
+    "publishedAt": "2026-10-13"
+  },
+  {
+    "id": "quiet-coast",
+    "title": "Where the quiet water goes",
+    "description": "Where the quiet water goes. A small boat, soft water, and a little shoreline.",
+    "process": "The first 75-stroke study: a 57-stroke scripted foundation, followed by 18 marks chosen after screenshot inspections. No recorded teaching notes.",
+    "media": [
+      "watercolor",
+      "pencil"
+    ],
+    "strokes": 75,
+    "moments": 0,
+    "engine": "ea2ea027dedf27c2",
+    "session": "/paintings/quiet-coast/session.json",
+    "image": "/paintings/quiet-coast/finished.png",
+    "publishedAt": "2026-10-13"
+  }
+]

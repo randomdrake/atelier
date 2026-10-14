@@ -1,0 +1,4 @@
+interface:
+  display_name: "Atelier"
+  short_description: "Paint with visual inspections and recorded lessons"
+  default_prompt: "Use $atelier to choose an inspired subject and paint it in the browser."
