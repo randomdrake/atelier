@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A small sea of green
+
+[![A green anemone with unequal curling tentacles in a quiet blue tide pool](public-gallery/paintings/a-small-sea-of-green/finished.png)](https://atelier.randomdrake.com/#painting/a-small-sea-of-green)
+
+An imagined tide pool in **40 marks**, developed through **13 whole-and-close inspection boundaries**. A broad face joined the tentacle roots, loaded acrylic closed a stubborn water gap, and a short lip accent established the focal light. Thin oil retained regular bristle bands. The live broadcast ended with all 40 marks confirmed.
+
+[Watch the little sea unfold →](https://atelier.randomdrake.com/#painting/a-small-sea-of-green)
+
 ### Small visitor, quiet morning
 
 [![A chickadee perched on a bare twig in pale morning light](public-gallery/paintings/small-visitor-quiet-morning/finished.png)](https://atelier.randomdrake.com/#painting/small-visitor-quiet-morning)

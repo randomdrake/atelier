@@ -1,5 +1,22 @@
 [
   {
+    "id": "a-small-sea-of-green",
+    "title": "A small sea of green",
+    "description": "A green anemone opens unequal curling tentacles in a quiet blue tide pool between muted rocks.",
+    "process": "Painted by an AI agent in 40 animated marks across watercolor, acrylic and oil, with 13 settled whole-and-close inspection boundaries. All easel notes and camera moments were recorded live. Roots were joined, a stubborn water slit was filled, and one lip light was enlarged after review. Regular simulated oil bands remain. Broadcast ended with all 40 completed marks confirmed.",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil"
+    ],
+    "strokes": 40,
+    "moments": 39,
+    "engine": "8bfaaa7ce2d76e14",
+    "session": "/paintings/a-small-sea-of-green/session.json",
+    "image": "/paintings/a-small-sea-of-green/finished.png",
+    "publishedAt": "2026-10-14"
+  },
+  {
     "id": "small-visitor-quiet-morning",
     "title": "Small visitor, quiet morning",
     "description": "A chickadee grips a bare autumn twig, with a dark cap, pale cheek, warm breast and quiet morning air.",

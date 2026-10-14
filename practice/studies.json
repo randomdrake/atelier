@@ -40,7 +40,7 @@
   },
   {
     "id": "copper-and-pears",
-    "title": "Copper & pears — an oil study",
+    "title": "Copper & pears \u2014 an oil study",
     "date": "2026-10-13",
     "session": "examples/copper-and-pears.json",
     "finishedImage": "examples/previews/copper-and-pears.png",
@@ -232,7 +232,7 @@
       "examples/previews/small-visitor-quiet-morning.png",
       "examples/small-visitor-quiet-morning.json"
     ],
-    "inspectionEvidence": "Actual whole and 2× close screenshots inspected in the browser at all 13 boundaries; screenshots retained in the task conversation. Replay records inspection camera boundaries.",
+    "inspectionEvidence": "Actual whole and 2\u00d7 close screenshots inspected in the browser at all 13 boundaries; screenshots retained in the task conversation. Replay records inspection camera boundaries.",
     "engineRevision": "3543ae5744eff700823f72e16a6dfa0da8ca6a0b",
     "model": "GPT-6 (specific variant unavailable)",
     "nextExperiment": "Compare oil, acrylic and chalk light swatches on the same gray ground, with matched brush sizes and short path lengths, before painting a bird highlight. Test thinner oil body for less regular ridges.",
@@ -240,6 +240,75 @@
       "source": "Live browser whole/close observations; provenance and practice entry written after export. Broadcast connected through at least 34 marks, then server stopped.",
       "humanRating": null,
       "improvementClaim": "Corrections filled observed gaps and established perch contact within this study. Light accents remained medium-dependent; no controlled comparison or independent rating."
+    }
+  },
+  {
+    "id": "a-small-sea-of-green",
+    "title": "A small sea of green",
+    "date": "2026-10-14",
+    "session": "examples/a-small-sea-of-green.json",
+    "finishedImage": "examples/previews/a-small-sea-of-green.png",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil"
+    ],
+    "goal": "Varied curved edges and selective clear light accents against quiet water.",
+    "inspiration": {
+      "description": "Olympic National Park tidepool description sparked an original imagined green anemone, rocks and quiet water. No finished composition copied.",
+      "url": "https://www.nps.gov/olym/planyourvisit/tidepool-activities.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 3,
+        "text": "Blue washes left a bare stripe; a bridge was needed."
+      },
+      {
+        "afterStroke": 9,
+        "text": "Acrylic filled the disk, but green face lights remained subdued."
+      },
+      {
+        "afterStroke": 13,
+        "text": "Thin oil made the four upper tentacles clearly visible; bends were angular and bristle bands regular."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Broad oil face joined the roots; two lower curves balanced the upright crown."
+      },
+      {
+        "afterStroke": 23,
+        "text": "A pale oral ring and dark mouth established a focal center."
+      },
+      {
+        "afterStroke": 27,
+        "text": "Narrower interleaved curves increased crown density and varied the silhouette."
+      },
+      {
+        "afterStroke": 31,
+        "text": "A single small pale reflection stayed visible and quiet against the water."
+      },
+      {
+        "afterStroke": 34,
+        "text": "Loaded acrylic closed the left slit after washes failed, leaving a darker water patch. Warm top and cool underside established the left rock."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Enlarging only the short lip accent made it visible. Unequal tentacles, a connected face and two restrained water reflections hold together. Regular oil bands and some angular turns remain; stop to avoid competing highlights."
+      }
+    ],
+    "evidence": [
+      "artifacts/a-small-sea-of-green-whole.png",
+      "artifacts/a-small-sea-of-green-close.png",
+      "examples/previews/a-small-sea-of-green.png"
+    ],
+    "inspectionEvidence": "Actual whole and settled 2\u00d7 browser screenshots at all 13 boundaries; camera moments retained in replay.",
+    "engineRevision": "55478ed7a9a68812c7865b6700e91ffe7c8c8149",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Paint three identical curved oil paths with bodies 0.03, 0.12 and 0.3, varying point density but keeping size and load fixed; compare angular turns and ridge visibility.",
+    "assessment": {
+      "source": "Live browser observations and final whole/close screenshots; journal added after actual canvas export.",
+      "humanRating": null,
+      "improvementClaim": "Corrections joined roots, filled the observed slit and clarified the focal light within this study. Thin oil still showed regular ridges. No controlled comparison or independent rating."
     }
   }
 ]
