@@ -86,7 +86,7 @@ The owner's standing preference is to publish completed Atelier paintings to Git
 
 ## Public viewing site
 
-`public-gallery/` is a separate, read-only gallery: finished images, recorded replay, a project explainer, and a practice journal. `npm run gallery:build` creates `dist-gallery/` and a downloadable MIT source archive, excluding studio controls from the deployed UI. Each published work snapshots its replay engine so later physics edits cannot silently rewrite its process. The existing Sites project is identified in `.openai/hosting.json`; reuse it for all future releases.
+`public-gallery/` is a separate, read-only gallery: finished images, recorded replay, a project explainer, and a practice journal. `npm run gallery:build` creates `dist/` and a downloadable MIT source archive, excluding studio controls from the deployed UI. Each published work snapshots its replay engine so later physics edits cannot silently rewrite its process. The existing Sites project is identified in `.openai/hosting.json`; reuse it for all future releases.
 
 ## Evidence of practice
 

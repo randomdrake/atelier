@@ -2,7 +2,7 @@ import {mkdir,cp,readFile,writeFile,rm} from 'node:fs/promises';
 import {join} from 'node:path';
 import {execFileSync} from 'node:child_process';
 import {root} from './add-gallery-painting.mjs';
-const output=join(root,'dist-gallery');await rm(output,{recursive:true,force:true});await mkdir(output,{recursive:true});await cp(join(root,'public-gallery'),output,{recursive:true});await cp(join(root,'LICENSE'),join(output,'LICENSE.txt'));
+const output=join(root,'dist');await rm(output,{recursive:true,force:true});await mkdir(output,{recursive:true});await cp(join(root,'public-gallery'),output,{recursive:true});await cp(join(root,'LICENSE'),join(output,'LICENSE.txt'));
 const catalog=JSON.parse(await readFile(join(output,'catalog.json'),'utf8'));
 await cp(join(root,'practice'),join(output,'practice'),{recursive:true});
 execFileSync('zip',['-qr',join(output,'source.zip'),'src','scripts','skills','practice','public-gallery','examples','tests','README.md','PUBLISHING.md','LICENSE','index.html','package.json','server.mjs'],{cwd:root});
