@@ -4,6 +4,11 @@ import {PaintSurface,BrushReservoir,MEDIA,validateStroke} from '../src/engine.js
 import {compose} from '../src/compositions.js';
 const brush={medium:'watercolor',color:'#315b70',size:20,flow:.8};
 const sum=a=>a.reduce((x,y)=>x+y,0);
+test('unpainted linen is warm and textured, and rendering never changes physical paint',()=>{
+  const s=new PaintSurface(40,40),before=s.snapshot(),data=s.render(new Uint8ClampedArray(s.length*4));
+  const tones=new Set();for(let i=0;i<s.length;i++){assert(data[i*4]>data[i*4+2]);tones.add(data[i*4]);assert.equal(data[i*4+3],255);}
+  assert(tones.size>5);assert.deepEqual(s.snapshot(),before);
+});
 test('opaque oil highlights cover a deep dark ground without erasing its pigment',()=>{
   const s=new PaintSurface(40,40),dark={medium:'oil',color:'#252a24',size:16,body:.1,flow:1};
   for(let n=0;n<80;n++)s.dab(.5,.5,1,dark);

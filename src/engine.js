@@ -226,9 +226,14 @@ export class PaintSurface {
   render(data) {
     const w=this.width,h=this.height;
     for(let i=0;i<this.length;i++) {
-      const paper=.963+(this.tooth[i]-.5)*.022;
-      if(this.mass[i]<.00001){data[i*4]=data[i*4+1]=data[i*4+2]=paper*255;data[i*4+3]=255;continue;}
-      const x=i%w,y=Math.floor(i/w),oilMass=this.oilMass[i],baseMass=Math.max(0,this.mass[i]-oilMass);
+      const x=i%w,y=Math.floor(i/w);
+      // Warm primed linen: crossing warp/weft threads with alternating relief.
+      // Paint coverage masks the weave naturally instead of putting a texture over the pigment.
+      const warp=Math.cos(x*Math.PI/3),weft=Math.cos(y*Math.PI/3);
+      const linen=.949+.009*(warp+weft)+.004*warp*weft+(this.tooth[i]-.5)*.01;
+      const substrate=[linen,linen*.981,linen*.946];
+      if(this.mass[i]<.00001){for(let c=0;c<3;c++)data[i*4+c]=substrate[c]*255;data[i*4+3]=255;continue;}
+      const oilMass=this.oilMass[i],baseMass=Math.max(0,this.mass[i]-oilMass);
       const coverage=1-Math.exp(-baseMass*3.4),oilCoverage=1-Math.exp(-oilMass*7);
       const hx=(this.heightMap[y*w+Math.max(0,x-1)]-this.heightMap[y*w+Math.min(w-1,x+1)])*3;
       const hy=(this.heightMap[Math.max(0,y-1)*w+x]-this.heightMap[Math.min(h-1,y+1)*w+x])*3;
@@ -236,6 +241,7 @@ export class PaintSurface {
       const shade=.72+.4*light;
       const specular=Math.pow(clamp((hx*(-.24)+hy*(-.29)+.925)/normal),28)*this.oilWet[i]*oilCoverage*.18;
       for(let c=0;c<3;c++) {
+        const paper=substrate[c];
         const baseColor=baseMass>.00001?clamp((this.pigment[i*3+c]-this.oilColor[i*3+c])/baseMass,.025):paper;
         const base=paper*Math.exp(Math.log(Math.max(.025,baseColor/paper))*coverage);
         const oilColor=oilMass>.00001?reflectance(this.oilSurfaceKs[i*3+c]):base;

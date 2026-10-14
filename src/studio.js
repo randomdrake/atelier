@@ -2,6 +2,8 @@ import {MEDIA,PaintSurface,BrushReservoir} from './engine.js';
 import {compose} from './compositions.js';
 import {PaintingSession} from './session.js';
 import {StudioTour,StudioCamera,validateDocument,validateEvents} from './tour.js';
+import {PaintingLibrary} from './library.js';
+import {PaintingGallery} from './gallery.js';
 const $=id=>document.getElementById(id);
 const canvas=$('canvas'),wrap=canvas.parentElement,ctx=canvas.getContext('2d',{alpha:false});
 const surface=new PaintSurface(canvas.width,canvas.height),pixels=ctx.createImageData(canvas.width,canvas.height);
@@ -13,9 +15,20 @@ const headings={notice:'What’s the paint telling us?',try:'A small experiment.
 let history=[],events=[],pointer=null,manualReservoir=null,dirty=true,last=0,lastMetrics=0,pointerStarted=0;
 let currentPlayback=null,programmaticCameraUntil=0,scrollTimer=null,speechActive=false,speechEpoch=0,speechDeadline=0,speechPauseStarted=0,manualCamera=false;
 const camera=new StudioCamera();
+let libraryStorage;try{libraryStorage=localStorage;}catch{/* In-memory collection still works. */}
+const library=new PaintingLibrary(libraryStorage);
+let paintingId=null,openingPainting=false,surfaceReady=true,replaySource=null;
+const previewStrokeCounts=new Map();
+const gallery=new PaintingGallery({library,onOpen:()=>rememberPainting(),onReplay:(input,id)=>{
+  const doc=validateDocument(input); // Validate and fetch before disturbing the current studio.
+  rememberPainting();openingPainting=true;
+  try{reset();paintingId=id;$('guided').checked=true;$('review').value='0';player.reviewEvery=0;enqueue(doc,true);}
+  finally{openingPainting=false;}
+  document.querySelector('.workspace').scrollIntoView({behavior:'smooth',block:'start'});
+}});
 const tour=new StudioTour({cue:event=>showMoment(event,true),finished:()=>{updateButtons();finishPlayback();}});
 const player=new PaintingSession(surface,{
-  beforeStroke(stroke){checkpoint();selectMedium(stroke.medium);selectColor(stroke.color);showBrush(stroke);status(`Making mark ${player.strokes.length+1} · ${MEDIA[stroke.medium].label.toLowerCase()}`);},
+  beforeStroke(stroke){surfaceReady=true;checkpoint();selectMedium(stroke.medium);selectColor(stroke.color);showBrush(stroke);status(`Making mark ${player.strokes.length+1} · ${MEDIA[stroke.medium].label.toLowerCase()}`);},
   changed(){updateButtons();if(player.pauseReason==='review')status(`A little looking time. ${player.strokes.length} marks on the paper.`);}
 });
 function busy(){return player.busy||tour.running||!!currentPlayback;}
@@ -80,6 +93,23 @@ function documentState(full=false){
 }
 function saveSession(){
   try{localStorage.setItem('atelier-score-v2',JSON.stringify(documentState(true)));}catch{/* Downloads remain available when browser storage is full or blocked. */}
+  if(!openingPainting&&!busy()&&!pointer)rememberPainting();
+}
+function rememberPainting(){
+  const doc=replaySource??documentState(true);if(!doc.strokes.length||openingPainting)return;
+  if(!paintingId)paintingId=gallery.catalog.find(e=>e.title===doc.title)?.id??crypto.randomUUID();
+  const previous=library.entries.find(e=>e.id===paintingId);
+  if(!surfaceReady&&(previous||gallery.catalog.some(e=>e.id===paintingId&&e.strokes>doc.strokes.length)))return;
+  let preview=previous?.preview||gallery.catalog.find(e=>e.id===paintingId)?.preview;
+  if(surfaceReady&&(!replaySource||player.strokes.length===replaySource.strokes.length)&&(!preview||previewStrokeCounts.get(paintingId)!==player.strokes.length)){
+    // Capture the latest physical paint, including the final dab before the next frame.
+    surface.render(pixels.data);ctx.putImageData(pixels,0,0);dirty=false;
+    const thumbnail=document.createElement('canvas');thumbnail.width=600;thumbnail.height=Math.round(600*canvas.height/canvas.width);
+    thumbnail.getContext('2d').drawImage(canvas,0,0,thumbnail.width,thumbnail.height);preview=thumbnail.toDataURL('image/jpeg',.8);
+    previewStrokeCounts.set(paintingId,player.strokes.length);
+  }
+  library.save(paintingId,doc,preview);
+  if(library.error)status(library.error);
 }
 function renderNotebook(){
   $('note-count').textContent=`${events.length} moments`;$('notebook').replaceChildren();
@@ -111,6 +141,8 @@ function showMoment(event,recorded=false){
   status(kind==='look'||kind==='notice'?'Let’s take a look together.':'A little thought at the easel.');updateButtons();
 }
 function recordMoment(event){
+  if(replaySource&&player.strokes.length<replaySource.strokes.length)paintingId=crypto.randomUUID();
+  replaySource=null;
   const validated=validateEvents([{...event,afterStroke:player.strokes.length}],player.strokes.length)[0];
   events.push(validated);renderNotebook();showMoment(validated);saveSession();return validated;
 }
@@ -143,7 +175,9 @@ wrap.addEventListener('scroll',()=>{
 });
 window.addEventListener('resize',applyCamera);
 canvas.onpointerdown=e=>{
-  if(busy())return;canvas.setPointerCapture(e.pointerId);checkpoint();const p=point(e);
+  if(busy())return;
+  if(replaySource&&player.strokes.length<replaySource.strokes.length)paintingId=crypto.randomUUID();
+  surfaceReady=true;replaySource=null;canvas.setPointerCapture(e.pointerId);checkpoint();const p=point(e);
   pointer={...brush,points:[p],duration:0};pointerStarted=performance.now();manualReservoir=new BrushReservoir(pointer);
   surface.dab(...p,pointer,0,manualReservoir);dirty=true;updateButtons();status('There’s our first little gesture…');
 };
@@ -173,14 +207,17 @@ function stop(){
   events=events.filter(e=>e.afterStroke<=player.strokes.length);renderNotebook();dirty=true;saveSession();updateButtons();status('Brush down. We can pick this up again.');
 }
 function reset(){
-  stop();pointer=null;player.clear();events=[];history=[];dirty=true;camera.move({zoom:1,x:.5,y:.5},.6);
+  rememberPainting();const suppress=openingPainting;openingPainting=true;stop();openingPainting=suppress;
+  pointer=null;player.clear();events=[];history=[];paintingId=null;replaySource=null;surfaceReady=true;dirty=true;camera.move({zoom:1,x:.5,y:.5},.6);
   $('painting-title').textContent='An open possibility';renderNotebook();saveSession();updateButtons();
   $('studio-heading').textContent='Fresh paper. No pressure.';$('studio-message').textContent='One small mark is enough to begin. We’ll look, listen to the paint, and decide on the next one together.';
   $('studio-stage').textContent='HELLO FROM THE EASEL';$('moment-count').textContent='';status('A little room to explore.');
 }
-function enqueue(input){
+function enqueue(input,isReplay=false){
   if(busy()||pointer)throw new Error('Put the current brush down before starting another score');
   const doc=validateDocument(input),offset=player.strokes.length;
+  if(!isReplay&&replaySource&&offset<replaySource.strokes.length)paintingId=crypto.randomUUID();
+  replaySource=isReplay?doc:null;
   const incoming=doc.events.map(e=>({...e,afterStroke:e.afterStroke+offset}));
   const allEvents=validateEvents([...events,...incoming],offset+doc.strokes.length);
   const done=player.play(doc.strokes);events=allEvents;if(doc.title)$('painting-title').textContent=doc.title;
@@ -198,7 +235,7 @@ function enqueue(input){
 function replay(){
   if(busy()||pointer)throw new Error('Finish or stop the current painting first');
   const doc=validateDocument(documentState());history=[];player.clear();events=[];dirty=true;camera.move({zoom:1,x:.5,y:.5},.6);
-  return enqueue(doc);
+  return enqueue(doc,true);
 }
 $('stop').onclick=stop;
 $('review').onchange=e=>{player.reviewEvery=Number(e.target.value);};
@@ -277,6 +314,14 @@ window.atelier={version:3,paint:enqueue,comment:recordMoment,replay,clear:reset,
 selectMedium('watercolor');selectColor(brush.color);
 try{
   const saved=JSON.parse(localStorage.getItem('atelier-score-v2'));
-  if(saved){const doc=validateDocument(saved);player.strokes=doc.strokes;events=doc.events;$('painting-title').textContent=doc.title||'Saved study';status('Your studio session is ready. Replay it, or open the guided flowers.');}
+  if(saved){const doc=validateDocument(saved);player.strokes=doc.strokes;events=doc.events;surfaceReady=!doc.strokes.length;$('painting-title').textContent=doc.title||'Saved study';status('Your studio session is ready. Replay it, or browse your paintings.');}
 }catch{/* An unavailable or invalid stored score never blocks the studio. */}
 renderNotebook();applyCamera();updateButtons();requestAnimationFrame(frame);
+gallery.ready.then(()=>{
+  // Recover the last session into the collection without mistaking the blank
+  // startup surface for its finished preview.
+  const doc=documentState();if(!doc.strokes.length)return;
+  paintingId=gallery.catalog.find(e=>e.title===doc.title)?.id??library.entries.find(e=>e.title===doc.title)?.id??crypto.randomUUID();
+  const known=gallery.catalog.find(e=>e.id===paintingId);
+  if(!library.entries.some(e=>e.id===paintingId)&&!known)library.save(paintingId,doc,'');
+});

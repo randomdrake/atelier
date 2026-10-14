@@ -1,5 +1,9 @@
 # Atelier
 
+Use **Browse paintings** in the header to explore the studio collection. Select a thumbnail or **View finished** for a large finished view; **Replay** opens that painting with its saved strokes, notes, and camera moves. You can switch paintings during playback without shortening their stored replay histories. The five existing studies are included; future paintings are saved automatically in this browser as marks and notes are completed. JSON downloads remain the portable backup. The gallery reports when browser storage is unavailable or full.
+
+The working surface is warm primed linen with crossing woven threads and a subtle stretched-canvas edge. Unpainted and thinly painted areas show the weave; opaque paint covers it. The material texture is rendered into PNG exports. Historical finished previews retain their original paint and are presented on a linen surface in the gallery.
+
 A local, agent-driven paint studio. Run `npm run dev`, open http://127.0.0.1:5173, and draw with a mouse, touch, or pressure-sensitive pen. No package installation required. Run `npm test` and `npm run check` for validation.
 
 Six media share a CPU surface simulation with separate suspended watercolor and wet oil fields. Watercolor advects with capillary water flow over uneven paper, absorbs into the sheet, and settles with granulation, and can be reactivated by clean water. Oil is displaced in the direction of the brush, mixes through a three-band Kubelka–Munk approximation, and builds bristle ridges shaded by surface normals and wet highlights. Acrylic covers and dries quickly; pastel, chalk, and pencil deposit pressure-dependent dry marks. These remain experimental approximations, not validated fluid dynamics or full spectral paint chemistry. The paper type is currently fixed. The engine runs at 900 × 620 and may be slow on older devices.
