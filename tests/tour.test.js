@@ -1,10 +1,24 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {StudioTour,StudioCamera,validateDocument,validateEvents} from '../src/tour.js';
+import {StudioTour,StudioCamera,validateDocument,validateEvents,replayMomentDuration} from '../src/tour.js';
 import {PaintSurface} from '../src/engine.js';
 import {PaintingSession} from '../src/session.js';
 const stroke={medium:'watercolor',color:'#315b70',size:12,points:[[.2,.3,.7],[.7,.5,.8]],duration:350};
 const events=[{afterStroke:0,text:'A little room to explore.',duration:500,camera:{zoom:1,x:.5,y:.5}},{afterStroke:1,text:'Look at the wet edge.',kind:'notice',duration:700,camera:{zoom:2,x:.4,y:.4}},{afterStroke:1,text:'Now see the whole shape.',kind:'try',duration:500,camera:{zoom:1,x:.5,y:.5}},{afterStroke:2,text:'We can leave this quiet.',kind:'keep',duration:500}];
+test('long recorded pauses use a brief replay dwell without rewriting the session',()=>{
+  const recorded=[{afterStroke:0,text:'A thought worth keeping. '.repeat(20),duration:15000},{afterStroke:1,camera:{zoom:2,x:.5,y:.5},duration:1200}];
+  const tour=new StudioTour(),original=structuredClone(recorded);tour.start(recorded,1);
+  assert.equal(replayMomentDuration(recorded[0]),2400);assert.equal(replayMomentDuration(recorded[1]),650);
+  assert.equal(replayMomentDuration({...recorded[1],text:'  '}),650);
+  tour.advance(.01,0);assert(tour.advance(2,0));assert(!tour.advance(.4,0));
+  tour.advance(.01,1);assert(tour.advance(.5,1));assert(!tour.advance(.15,1));assert(!tour.running);
+  assert.deepEqual(recorded,original);assert.deepEqual(tour.events,original);
+});
+test('the copper replay spends at least 70 percent less time waiting while retaining every moment',async()=>{
+  const {readFile}=await import('node:fs/promises');const doc=validateDocument(JSON.parse(await readFile(new URL('../examples/copper-and-pears.json',import.meta.url),'utf8')));
+  const original=doc.events.reduce((sum,e)=>sum+e.duration,0),paced=doc.events.reduce((sum,e)=>sum+replayMomentDuration(e),0);
+  assert(paced<original*.3);assert.equal(doc.events.length,46);
+});
 test('legacy scores and sessions remain compatible with narrated documents',()=>{
   assert.equal(validateDocument([stroke]).events.length,0);
   assert.equal(validateDocument({version:1,strokes:[stroke]}).version,2);

@@ -25,16 +25,25 @@ export function validateDocument(data) {
   return {version:2,title:data.title??null,strokes,events:validateEvents(data.events??[],strokes.length)};
 }
 
+// Display pacing is independent of recorded durations, so old sessions benefit
+// without changing their notes, order, or exported history. Text stays visible
+// during the following strokes; the notebook allows a longer read at any time.
+export function replayMomentDuration(event){
+  const text=event.text?.trim(),words=text?text.split(/\s+/).length:0;
+  return Math.min(event.duration??6500,words?Math.min(2400,1200+words*16):650);
+}
+
 // Review time holds the physical simulation. Narration never alters pigment or drying.
 export class StudioTour {
   constructor({cue=()=>{},finished=()=>{}}={}){this.cue=cue;this.finished=finished;this.stop();}
+  get activeDuration(){return this.active?replayMomentDuration(this.active):0;}
   start(events,strokeCount){this.events=validateEvents(events,strokeCount);this.index=0;this.active=null;this.elapsed=0;this.running=!!this.events.length;}
   stop(){this.events=[];this.index=0;this.active=null;this.elapsed=0;this.running=false;}
   advance(seconds,completedStrokes){
     if(!this.running)return false;
     if(this.active){
       this.elapsed+=seconds*1000;
-      if(this.elapsed<this.active.duration)return true;
+      if(this.elapsed<this.activeDuration)return true;
       this.active=null;this.index++;
       if(this.index===this.events.length){this.running=false;this.finished();return false;}
     }

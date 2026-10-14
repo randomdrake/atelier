@@ -131,13 +131,13 @@ function showMoment(event,recorded=false){
     if($('read-aloud').checked&&'speechSynthesis' in window){
       try{
         const epoch=++speechEpoch;window.speechSynthesis.cancel();const speech=new SpeechSynthesisUtterance(event.text);
-        speech.rate=.92;speech.lang='en-US';speechActive=true;speechDeadline=performance.now()+Math.max(10000,event.text.split(/\s+/).length*550+4000);
+        speech.rate=1.08;speech.lang='en-US';speechActive=true;speechDeadline=performance.now()+Math.max(10000,event.text.split(/\s+/).length*550+4000);
         speech.onend=speech.onerror=()=>{if(epoch===speechEpoch)speechActive=false;};window.speechSynthesis.speak(speech);
       }catch{speechActive=false;}
     }
   }
   $('moment-count').textContent=recorded?`RECORDED MOMENT ${tour.index+1} / ${tour.events.length}`:'LIVE STUDIO NOTE';
-  if(event.camera){camera.move(event.camera,window.matchMedia('(prefers-reduced-motion: reduce)').matches?.01:.9);manualCamera=!recorded;}
+  if(event.camera){camera.move(event.camera,window.matchMedia('(prefers-reduced-motion: reduce)').matches ? .01 : (recorded ? .5 : .8));manualCamera=!recorded;}
   status(kind==='look'||kind==='notice'?'Let’s take a look together.':'A little thought at the easel.');updateButtons();
 }
 function recordMoment(event){
@@ -291,7 +291,7 @@ function frame(now){
   let holding=false;
   if(!player.paused){
     if(speechActive&&now>speechDeadline){speechEpoch++;speechActive=false;if('speechSynthesis' in window)window.speechSynthesis.cancel();}
-    const spokenHold=speechActive&&tour.active&&tour.elapsed+seconds*1000>=tour.active.duration;
+    const spokenHold=speechActive&&tour.active&&tour.elapsed+seconds*1000>=tour.activeDuration;
     holding=tour.advance(spokenHold?0:seconds,player.strokes.length);
     if(!holding&&player.advance(seconds,tour.running))dirty=true;
   }
