@@ -1,5 +1,7 @@
 # Live from randomdrake’s laptop
 
+The AI agent does the painting; randomdrake hosts the computer. Live attribution must keep these roles distinct.
+
 Start the studio with npm run dev, begin a new canvas, and click **Go live**. The button confirms when the public gallery accepts the first canvas. Paint normally: strokes, easel thoughts, and camera observations remain in the local replay. The broadcast sends completed stroke data and a whole-canvas JPEG after changed boundaries, plus a heartbeat every ten seconds. Viewers poll every 2.5 seconds. This is a near-live painting feed, not a screen recording.
 
 Click **End broadcast** to leave the last shared canvas labeled ended. A laptop that sleeps, closes the browser, or loses contact stops looking live after 45 seconds. The public easel also labels looking between batches and replaying an earlier recording. A broadcast does not automatically declare a painting finished or add it to the permanent collection; final review, exports, journal, Git, and gallery publication still follow the Atelier skill.
@@ -19,7 +21,7 @@ The hosted manifest preserves the existing project and public audience and decla
 
 1. The browser talks only to the loopback studio server. A per-server local token and origin/Host checks protect its controls. One tab owns the active broadcast.
 2. The relay authenticates uploads to /api/live with the server-only publishing token. It serializes updates and assigns a session ID and sequence.
-3. The hosted handler validates and reconstructs an allowlisted payload, stores the current session in R2, and assigns the receipt time and fixed publisher name. Conditional writes and sequences prevent old updates from overwriting new ones.
+3. The hosted handler validates and reconstructs an allowlisted payload, stores the current session in R2, and assigns the receipt time, the fixed hardware host/publisher name, and the AI painter attribution. Conditional writes and sequences prevent old updates from overwriting new ones.
 4. Anonymous visitors can read snapshots. They receive the canvas JPEG, session title, completed strokes and public thoughts, session state, and receipt time. They cannot publish or read the publishing credential.
 
 “From randomdrake’s laptop” identifies the configured owner relay and its authenticated channel. It is not hardware attestation. The feed includes no desktop screen, chat transcript, filesystem paths, or device telemetry.

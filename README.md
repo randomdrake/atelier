@@ -104,7 +104,7 @@ For the project owner, completed paintings are saved to GitHub and published to 
 
 The studio’s **Go live** button sends the current canvas, completed strokes, and easel thoughts to the [public live easel](https://atelier.randomdrake.com/#live). New boundaries arrive within a few seconds. A server-only publisher credential identifies randomdrake’s studio; visitors can watch and download the current stroke session.
 
-The public easel distinguishes painting, looking, replaying, ended, and disconnected states. Ten-second heartbeats expire after 45 seconds without contact. **End broadcast** leaves the last shared canvas visible, clearly labeled as ended. Finished paintings still use the normal reviewed export and gallery-publication workflow.
+The AI agent is the painter; randomdrake hosts the hardware and publishes the feed. The public easel distinguishes painting, looking, replaying, ended, and disconnected states. Ten-second heartbeats expire after 45 seconds without contact. **End broadcast** leaves the last shared canvas visible, clearly labeled as ended. Finished paintings still use the normal reviewed export and gallery-publication workflow.
 
 Setup and architecture: [Live broadcasting](docs/live-broadcast.md). The hosted gallery uses the Sites runtime in hosting/; the local paint simulator remains dependency-free and runs with npm run dev.
 

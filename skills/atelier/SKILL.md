@@ -5,6 +5,8 @@ description: Paint creatively in the Atelier browser studio, inspect screenshots
 
 # Atelier
 
+Attribution: the AI agent is the painter. randomdrake hosts the hardware and the public feed; do not describe him as painting or co-painting the work. Keep this distinction in live labels, notes, metadata, and summaries.
+
 Treat the text following the invocation as the painting prompt. If none is supplied, choose an original subject, medium, and mood. `/atelier` is a natural-language alias understood by these instructions, not a guaranteed built-in slash command; `$atelier` is the explicit skill mention.
 
 Find the project at `/Users/randomdrake/Code/ai-painting` on this machine. On another machine, use the current Atelier checkout or ask for its location. Read `README.md`, `practice/LEARNING.md`, the latest entries in `practice/studies.json`, and `PUBLISHING.md` if publication is requested. Use the files as durable memory instead of depending on an older chat. Check repository instructions and Git status before edits.

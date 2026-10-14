@@ -17,7 +17,7 @@ export function renderLive(state,now=Date.now()){
   if(!state?.document){
     panel.hidden=false;panel.dataset.status='offline';indicator.hidden=true;current=null;
     badge.textContent='STUDIO OFFLINE';title.textContent='The easel is quiet';
-    activity.textContent='randomdrake is not broadcasting right now. The next canvas will appear here when the laptop studio goes live.';
+    activity.textContent='The AI painter is not broadcasting right now. The next canvas will appear here when a session begins on randomdrake’s computer.';
     panel.querySelector('.live-layout').hidden=true;panel.querySelector('details').hidden=true;download.hidden=true;
     return;
   }
@@ -27,16 +27,16 @@ export function renderLive(state,now=Date.now()){
   const live=state.activity!=='ended'&&elapsed<45000&&state.status!=='disconnected';
   const status=state.activity==='ended'?'ended':live?'live':'disconnected';
   panel.dataset.status=status;indicator.dataset.status=status;
-  badge.textContent=live?'● LIVE FROM THE LAPTOP':status==='ended'?'LAST LIVE SESSION':'CONNECTION LOST';
-  indicator.textContent=live?'● Painting now':'Last live session';
+  badge.textContent=live?'● LIVE AI PAINTING':status==='ended'?'LAST LIVE SESSION':'CONNECTION LOST';
+  indicator.textContent=live?'● AI painting live':'Last live session';
   title.textContent=state.document.title||'A painting is taking shape';
-  const descriptions={painting:'randomdrake + AI painting companion · painting now',looking:'randomdrake + AI painting companion · looking and choosing the next marks',
-    replaying:'randomdrake’s laptop · replaying a recorded painting',ended:'Broadcast ended · this is the last shared canvas'};
+  const descriptions={painting:'AI painter · painting now on randomdrake’s laptop',looking:'AI painter · looking and choosing the next marks',
+    replaying:'AI painting replay · hosted on randomdrake’s laptop',ended:'Broadcast ended · this is the last shared canvas'};
   activity.textContent=status==='disconnected'?'The laptop stopped sending. This is the last shared canvas.':descriptions[state.activity];
   const age=elapsed<5000?'just now':elapsed<60000?Math.floor(elapsed/1000)+' seconds ago':elapsed<3600000?Math.floor(elapsed/60000)+' minutes ago':Math.floor(elapsed/3600000)+' hours ago';
   updated.textContent='Last received '+age;
   if(image.src!==state.preview)image.src=state.preview;
-  image.alt='Canvas broadcast from randomdrake’s laptop';
+  image.alt='Canvas painted by AI on hardware hosted by randomdrake';
   marks.textContent=state.document.strokes.length+' completed marks';
   const notes=state.document.events.filter(event=>event.text);
   const noteKey=JSON.stringify(notes);

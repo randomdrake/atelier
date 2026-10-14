@@ -33,7 +33,7 @@ test('only the owner relay can publish; public snapshots expose only painting fi
     document:{...document,creation:{secret:'private'},events:[{...document.events[0],secret:'private'}]}};
   assert.equal((await handleLiveRequest(post(input),e,1000)).status,200);
   const state=await (await handleLiveRequest(new Request('https://atelier.test/api/live'),e,1001)).json();
-  assert.equal(state.publisher,'randomdrake');assert.equal(state.live,true);
+  assert.equal(state.publisher,'randomdrake');assert.equal(state.host,'randomdrake');assert.equal(state.painter,'AI agent');assert.equal(state.live,true);
   assert.equal(state.document.creation,undefined);assert.equal(state.document.events[0].secret,undefined);
   assert.equal(state.privateKey,undefined);assert.equal(state.document.width,900);
 });

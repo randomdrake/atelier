@@ -67,7 +67,7 @@ export async function handleLiveRequest(request,env,now=Date.now()){
   if(old?.sessionId===input.sessionId&&input.sequence<=old.sequence)return liveJSON({accepted:true,sequence:old.sequence});
   const next={...snapshot,sessionId:input.sessionId,sequence:input.sequence,
     startedAt:old?.sessionId===input.sessionId?old.startedAt:now,receivedAt:now,
-    publisher:'randomdrake',origin:'Laptop studio',collaboration:'randomdrake + AI painting companion',test};
+    publisher:'randomdrake',host:'randomdrake',painter:'AI agent',origin:'Laptop studio',collaboration:'AI painter on hardware hosted by randomdrake',test};
   // Conditional writes prevent an older request from overwriting a newer canvas.
   const saved=await env.BUCKET.put(key,JSON.stringify(next),{
     httpMetadata:{contentType:'application/json'},
