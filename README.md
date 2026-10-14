@@ -4,6 +4,29 @@ A local, agent-driven paint studio. Run `npm run dev`, open http://127.0.0.1:517
 
 Six media share a CPU surface simulation with separate suspended watercolor and wet oil fields. Watercolor advects with capillary water flow over uneven paper, absorbs into the sheet, and settles with granulation, and can be reactivated by clean water. Oil is displaced in the direction of the brush, mixes through a three-band Kubelka–Munk approximation, and builds bristle ridges shaded by surface normals and wet highlights. Acrylic covers and dries quickly; pastel, chalk, and pencil deposit pressure-dependent dry marks. These remain experimental approximations, not validated fluid dynamics or full spectral paint chemistry. The paper type is currently fixed. The engine runs at 900 × 620 and may be slow on older devices.
 
+## The studio companion
+
+The on-screen companion shares short observations, experiments, lessons, and decisions to keep a mark. The current pigment, brush size, paint load, animated brush contact, and camera view remain visible beside the commentary. Replay/pause/stop/speed controls are also available beside the companion while the larger controls remain below the canvas.
+
+**Guided flower session** opens the first narrated replay: 34 marks and 24 studio moments. Its teaching notes were adapted from the public commentary during the original live flower painting, and its camera focuses recreate the inspected areas. This existing session was annotated afterward. New live notes and meaningful whole/close/pan changes are recorded as they happen and survive export and refresh.
+
+Use **Leave a thought at the easel** to publish a note with its purpose and camera focus. The **studio notebook** keeps the moments. **Include studio notes & camera moments** selects guided or brush-only replay. Optional **Read notes aloud** uses the browser/device’s normal voice when available; it is off by default.
+
+Version 2 JSON sessions add `events` to the existing stroke history. Each event has `afterStroke`, optional `text`/`title`/`kind`, `duration` in milliseconds, and an optional `camera: {zoom, x, y}`. `kind` is `notice`, `try`, `learn`, `keep`, or `look`. Camera zoom is 1–3; focus coordinates are normalized. Events at the same boundary retain their order. Inspection time holds fluid and drying, and the camera moves smoothly to its focus; replay speed changes viewing time without changing the physical painting result. Pause freezes commentary and camera as well as paint; stop cancels remaining moments.
+
+For future live agent sessions, put the public observation in the browser before choosing the next batch:
+
+```js
+window.atelier.comment({
+  kind: 'notice',
+  text: 'The wash softened the left edge. Let’s keep it and sharpen the next one.',
+  camera: {zoom: 2, x: .4, y: .5}
+});
+await window.atelier.paint(nextFewStrokes);
+```
+
+`comment` anchors a moment at the currently completed mark count. A `paint` call can also accept a complete version 2 session; event boundaries are relative to that incoming batch. The visible score editor accepts the same object or a legacy stroke array. `getDocument()` and JSON downloads include strokes and studio moments. During playback, saving retains the complete source so a refresh can restart an interrupted replay. Legacy version 1 sessions and old stroke arrays still open.
+
 ## Agent painting
 
 Use the visible **Agent controls & stroke score** panel to submit JSON and watch it animate. Browser agents can fill the editor, click **Play stroke score**, and take screenshots to evaluate the result. Alternatively, a browser integration with script execution can call:
@@ -32,7 +55,9 @@ The prompt button selects handcrafted harbor, coastal, floral, or abstract studi
 
 ## Verification
 
-The 28 automated tests cover distinct media deposition, capillary transport beyond the initial brush footprint, conservation of pigment and oil relief, separation of suspended and anchored colors, absorption and settling, clean-water strokes and rewetting, brush-driven oil displacement, subtractive mixing, body-dependent ridges, drying, state restoration, score validation, cancellation, and exact physical replay across frame rates. Browser checks exercised custom watercolor/oil scores, cross-stroke mixing, replay, pause/resume, changed viewing speed, saved-score recovery after refresh, and automatic three-mark review pauses with whole/close inspection, in addition to the earlier six-media, undo, stop, validation, and export checks.
+The 37 automated tests cover distinct media deposition, capillary transport beyond the initial brush footprint, conservation of pigment and oil relief, separation of suspended and anchored colors, absorption and settling, clean-water strokes and rewetting, brush-driven oil displacement, subtractive mixing, body-dependent ridges, drying, state restoration, score validation, cancellation, and exact physical replay across frame rates. Browser checks exercised custom watercolor/oil scores, cross-stroke mixing, replay, pause/resume, changed viewing speed, saved-score recovery after refresh, automatic three-mark review pauses with whole/close inspection, and narrated replay with camera choreography, in addition to the earlier six-media, undo, stop, validation, and export checks.
+
+The narration tests also cover legacy import compatibility, note and camera validation, boundary ordering, exact camera focus, cancellation, and all 24 flower-session moments. The narrated and brush-only replays produce identical physical fields at completion in the test simulation.
 
 ## Next realism milestones
 

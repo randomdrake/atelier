@@ -33,7 +33,7 @@ export class PaintingSession {
     this.active=null;this.queue=[];this.paused=false;this.pauseReason='';this.sinceReview=0;this.accumulator=0;
     this.listeners.splice(0).forEach(resolve=>resolve({cancelled:true}));this.changed();
   }
-  advance(seconds) {
+  advance(seconds,stopAtBoundary=false) {
     if(this.paused)return false;
     this.pauseReason='';
     this.accumulator+=seconds;
@@ -61,6 +61,7 @@ export class PaintingSession {
       if(completed&&this.busy&&this.reviewEvery>0&&this.sinceReview>=this.reviewEvery){
         this.paused=true;this.pauseReason='review';this.sinceReview=0;this.accumulator=0;this.changed();break;
       }
+      if(completed&&this.busy&&stopAtBoundary){this.accumulator=0;break;}
       if(completed&&!this.busy) {
         this.accumulator=0;
         this.listeners.splice(0).forEach(resolve=>resolve({cancelled:false}));
