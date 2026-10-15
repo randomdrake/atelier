@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The pearl turn
+
+[![A cream-and-rust spiral nautilus shell on slate-blue cloth](public-gallery/paintings/the-pearl-turn/finished.png)](https://atelier.randomdrake.com/#painting/the-pearl-turn)
+
+An original shell study in **96 marks**, developed through **26 whole-and-close inspection boundaries**. Broad cream overlaps closed the hollow block-in; a selective bridge restored the spiral after a shadow pass. One short shoulder light stays focal. Cloth and band covers were partial corrections; angular turns, a hard cast shadow and regular oil ridges remain. Inspired by [NOAA’s nautilus guide](https://oceanservice.noaa.gov/facts/nautilus.html/). The broadcast ended with all 96 marks confirmed.
+
+[Watch the shell study unfold →](https://atelier.randomdrake.com/#painting/the-pearl-turn)
+
 ### Wind timber
 
 [![An imagined twisted bristlecone pine above a cool stony basin](public-gallery/paintings/wind-timber/finished.png)](https://atelier.randomdrake.com/#painting/wind-timber)

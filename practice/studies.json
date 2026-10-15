@@ -1183,5 +1183,87 @@
       "humanRating": null,
       "improvementClaim": "Broad joined planes, a compact light and the branch-collar correction solved visible local problems. Soil covers were a partial failure. No controlled comparison or independent quality rating."
     }
+  },
+  {
+    "id": "the-pearl-turn",
+    "title": "The pearl turn",
+    "date": "2026-10-15",
+    "session": "examples/the-pearl-turn.json",
+    "finishedImage": "examples/previews/the-pearl-turn.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "goal": "Join broad rounded shell planes, carry a continuous spiral, and reserve one short focal shoulder light.",
+    "inspiration": {
+      "description": "NOAA nautilus guide sparked an original imagined cream-and-rust spiral shell on slate-blue cloth; no finished composition copied.",
+      "url": "https://oceanservice.noaa.gov/facts/nautilus.html/"
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Overlapping broad washes closed bright seams; horizontal bands remained."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Broad cream overlaps closed both blue holes in shell block-in."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Many-point pale arc made a smoother edge than the initial polygonal dark coil."
+      },
+      {
+        "afterStroke": 49,
+        "text": "Single loaded blue cover only partly softened shadow bar and widened a ridged patch."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Cream band covers split the first rust bars into pale middles and rusty edges; partial correction."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Warm shadow planes turned upper-right shell but covered coil join and two bands."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Selective dark bridge restored continuous spiral; aperture acquired warm interior wall."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Fine acrylic growth lines barely registered over oil texture."
+      },
+      {
+        "afterStroke": 76,
+        "text": "Thin oil accents registered more clearly but cut through rust pattern; uncontrolled media comparison."
+      },
+      {
+        "afterStroke": 77,
+        "text": "Single short loaded ivory shoulder light stayed compact and visible in whole view."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Narrow rust middles partially reunited split bands; small center turn became clearer."
+      },
+      {
+        "afterStroke": 96,
+        "text": "Final refinement quieted lower spiral light partly and joined lip. Rounded mass, continuous coil and compact shoulder light hold. Angular turns, split bands, rigid shadow and regular ridges remain."
+      }
+    ],
+    "evidence": [
+      "examples/the-pearl-turn.json",
+      "examples/previews/the-pearl-turn.png",
+      "artifacts/the-pearl-turn/96-whole-crop.jpg",
+      "artifacts/the-pearl-turn/96-close-crop.jpg"
+    ],
+    "inspectionEvidence": "26 settled paired whole-and-close inspection boundaries, including single-mark checks at 49 and 77. Initial camera click at 4 timed out during playback; verified 4 completed marks and At rest before successful paired inspection. Unique full-page JPEG captures cropped using measured canvas-wrapper bounds at every boundary. First crop attempt lacked Pillow; repeated with bundled Python before more paint. Final pair committed; all others retained locally. Actual artwork export is PNG 900x620.",
+    "engineRevision": "355ed3810b722042f78ba35fa33f87e88775e079",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer compare a dense-point spiral with a sparse-point spiral at matched width and pressure. On separate oil-ground swatches test acrylic and loaded oil covers before correcting cloth shadows.",
+    "assessment": {
+      "source": "Live browser observations, settled paired reviews, actual browser exports and hosted ended receipt.",
+      "humanRating": null,
+      "improvementClaim": "Joined planes, restored coil and short focal light solved local goals. Shadow and band covers were partial failures. No controlled comparison or independent quality rating."
+    }
   }
 ]

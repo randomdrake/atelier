@@ -1,5 +1,24 @@
 [
   {
+    "id": "the-pearl-turn",
+    "title": "The pearl turn",
+    "description": "An imagined cream-and-rust nautilus shell on slate-blue cloth",
+    "process": "AI agent painted 96 animated marks in batches of 1–4, with 26 settled whole-and-close inspection boundaries and 27 live easel notes. Broad overlaps filled shell holes; selective correction restored a covered spiral join, and one short shoulder light stayed compact. Shadow and band covers were partial failures. The broadcast ended with all 96 marks acknowledged.",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "strokes": 96,
+    "moments": 78,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/the-pearl-turn/session.json",
+    "image": "/paintings/the-pearl-turn/finished.png",
+    "addedAt": "2026-10-15T20:09:23.728Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-15"
+  },
+  {
     "id": "wind-timber",
     "title": "Wind timber",
     "description": "An imagined twisted bristlecone pine above a cool stony basin, with unequal needle tufts and one short light at the bend.",
