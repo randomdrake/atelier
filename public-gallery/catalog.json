@@ -1,5 +1,24 @@
 [
   {
+    "id": "still-water-long-shadow",
+    "title": "Still water, long shadow",
+    "description": "A blue heron among unequal cattails, pale bent neck and a quiet broken reflection in green marsh water.",
+    "process": "100 animated marks in batches of one to four, selected after 26 paired whole-and-close inspections. All 28 easel notes posted live, with a panned head inspection. Broad planes closed the belly; closely spaced points softened grass arcs. Covers enlarged some edges; angular shoulders, regular ridges and a grey tail extension remain. Broadcast ended with all 100 marks confirmed.",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil"
+    ],
+    "strokes": 100,
+    "moments": 82,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/still-water-long-shadow/session.json",
+    "image": "/paintings/still-water-long-shadow/finished.png",
+    "addedAt": "2026-10-15T17:16:13.908Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-15"
+  },
+  {
     "id": "october-folded-blue",
     "title": "October, folded blue",
     "description": "An orange ribbed pumpkin with a bent stem and a small curled leaf on folded blue cloth.",

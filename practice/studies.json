@@ -963,5 +963,80 @@
       "humanRating": null,
       "improvementClaim": "No controlled comparison or human rating. Filled masses and quieter focal light worked; edge-cover corrections were partial and regular simulated texture remained."
     }
+  },
+  {
+    "id": "still-water-long-shadow",
+    "title": "Still water, long shadow",
+    "date": "2026-10-15",
+    "session": "examples/still-water-long-shadow.json",
+    "finishedImage": "examples/previews/still-water-long-shadow.png",
+    "media": [
+      "acrylic",
+      "oil",
+      "watercolor"
+    ],
+    "goal": "Keep a bent heron neck readable with a few broad planes and reserve the brightest accent for the head.",
+    "inspiration": {
+      "description": "NPS Great Marsh description sparked an original imagined heron among cattails; no finished composition copied.",
+      "url": "https://www.nps.gov/places/great-marsh-trail-south.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 20,
+        "text": "Broad overlapping passes closed the hollow hooked belly."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Loaded pale oil neck plane separated the bent neck from cool water."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Watercolor barely altered the oil bank; a thin oil cover widened it rather than dissolving its edge."
+      },
+      {
+        "afterStroke": 61,
+        "text": "Panned head close-up confirmed small amber eye beneath heavy crown."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Short brow light stayed small at whole view; throat cover was partial and ridged."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Six-point narrow leaf gestures made gentler arcs than earlier three-point elbows."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Longer feather planes separated wing, but the new shoulder light competed with the head."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Muted shoulder restored head emphasis; tapering over blunt tail was partial."
+      },
+      {
+        "afterStroke": 96,
+        "text": "Low ripples interrupted flat foot bars. Water-color oil cover created grey tail extension."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Final brow, cheek and tapered breast refinement kept head light small, bent neck readable, filled body, unequal grasses and quiet reflection. Angular shoulders, regular oil ridges, ribbon banks and grey tail-cover extension remain. Stopped because additional covers enlarged edges."
+      }
+    ],
+    "evidence": [
+      "examples/still-water-long-shadow.json",
+      "examples/previews/still-water-long-shadow.png",
+      "artifacts/still-water-long-shadow/100-whole.png",
+      "artifacts/still-water-long-shadow/100-close.png",
+      "artifacts/still-water-long-shadow/61-head.png"
+    ],
+    "inspectionEvidence": "26 paired inspection boundaries. First 4 whole/close observed live but not retained. Whole capture at 12 initially caught camera transition; repeated and replaced after correction. Settled whole/2x close screenshots retained from 8 onward with unique numeric names; additional head pan at 61. Final paired 100 images committed.",
+    "engineRevision": "3675bda86fbf46bb8a30fa38f62df80a67a4048a",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Repeat a small bent-neck bird with fixed palette and renderer, comparing three-point and six-point curved strokes at matched size and pressure. Test edge cover on an isolated swatch before using it on the silhouette.",
+    "assessment": {
+      "source": "Live browser observations, final paired review and actual browser exports.",
+      "humanRating": null,
+      "improvementClaim": "Filled belly and broad neck plane solved visible block-in problems. Curved grass points helped locally; covers and tail taper were partial failures. No controlled comparison or independent quality rating."
+    }
   }
 ]

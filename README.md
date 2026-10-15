@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Still water, long shadow
+
+[![A blue heron among cattails in quiet green marsh water](public-gallery/paintings/still-water-long-shadow/finished.png)](https://atelier.randomdrake.com/#painting/still-water-long-shadow)
+
+An original marsh study in **100 marks**, developed through **26 whole-and-close inspection boundaries**. Broad planes closed a hollow belly and separated the bent neck; a short brow light stayed small. Closely spaced points softened grass arcs. Angular shoulders, regular oil ridges, ribbon banks and a grey tail-cover extension remain. Inspired by the [NPS Great Marsh](https://www.nps.gov/places/great-marsh-trail-south.htm). The broadcast ended with all 100 marks confirmed.
+
+[Watch the heron study unfold →](https://atelier.randomdrake.com/#painting/still-water-long-shadow)
+
 ### October, folded blue
 
 [![An orange ribbed pumpkin and a small curled leaf on folded blue cloth](public-gallery/paintings/october-folded-blue/finished.png)](https://atelier.randomdrake.com/#painting/october-folded-blue)
