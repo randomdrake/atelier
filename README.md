@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Red pear, blue linen
+
+[![A red pear with a small warm highlight on folded blue linen](public-gallery/paintings/red-pear-blue-linen/finished.png)](https://atelier.randomdrake.com/#painting/red-pear-blue-linen)
+
+An imagined still life in **32 marks**, developed through **12 whole-and-close inspection boundaries**. Broad oil overlaps filled the pear; a small shoulder glint survived whole view. Wider cloth planes broke a straight stripe, and outside washes removed a pale seam. A final glaze quieted a competing reflected edge. Regular ridges remain. The broadcast ended with all 32 marks confirmed.
+
+[Watch the pear study unfold →](https://atelier.randomdrake.com/#painting/red-pear-blue-linen)
+
 ### Copper at the window
 
 [![A copper kettle with a dark handle in cool window light](public-gallery/paintings/copper-at-the-window/finished.png)](https://atelier.randomdrake.com/#painting/copper-at-the-window)

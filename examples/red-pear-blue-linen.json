@@ -1,0 +1,1361 @@
+{
+  "version": 2,
+  "width": 900,
+  "height": 620,
+  "title": "Red pear, blue linen",
+  "strokes": [
+    {
+      "medium": "watercolor",
+      "color": "#879eac",
+      "size": 160,
+      "points": [
+        [
+          0.12,
+          0.33,
+          0.8
+        ],
+        [
+          0.4,
+          0.31,
+          0.8
+        ],
+        [
+          0.7,
+          0.32,
+          0.8
+        ],
+        [
+          0.87,
+          0.3,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.45,
+      "tip": "round",
+      "water": 0.65
+    },
+    {
+      "medium": "watercolor",
+      "color": "#577e94",
+      "size": 160,
+      "points": [
+        [
+          0.12,
+          0.53,
+          0.8
+        ],
+        [
+          0.4,
+          0.5,
+          0.8
+        ],
+        [
+          0.72,
+          0.54,
+          0.8
+        ],
+        [
+          0.88,
+          0.51,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.5,
+      "tip": "round",
+      "water": 0.65
+    },
+    {
+      "medium": "watercolor",
+      "color": "#7899ab",
+      "size": 160,
+      "points": [
+        [
+          0.14,
+          0.75,
+          0.8
+        ],
+        [
+          0.4,
+          0.72,
+          0.8
+        ],
+        [
+          0.71,
+          0.76,
+          0.8
+        ],
+        [
+          0.86,
+          0.73,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.45,
+      "tip": "round",
+      "water": 0.55
+    },
+    {
+      "medium": "watercolor",
+      "color": "#7995a6",
+      "size": 160,
+      "points": [
+        [
+          0.11,
+          0.41,
+          0.8
+        ],
+        [
+          0.4,
+          0.41,
+          0.8
+        ],
+        [
+          0.7,
+          0.43,
+          0.8
+        ],
+        [
+          0.88,
+          0.41,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.4,
+      "tip": "round",
+      "water": 0.5
+    },
+    {
+      "medium": "watercolor",
+      "color": "#7e9aaa",
+      "size": 160,
+      "points": [
+        [
+          0.13,
+          0.63,
+          0.8
+        ],
+        [
+          0.4,
+          0.61,
+          0.8
+        ],
+        [
+          0.72,
+          0.64,
+          0.8
+        ],
+        [
+          0.87,
+          0.62,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.4,
+      "tip": "round",
+      "water": 0.5
+    },
+    {
+      "medium": "oil",
+      "color": "#36596f",
+      "size": 38,
+      "points": [
+        [
+          0.22,
+          0.7,
+          0.8
+        ],
+        [
+          0.4,
+          0.69,
+          0.8
+        ],
+        [
+          0.59,
+          0.72,
+          0.8
+        ],
+        [
+          0.76,
+          0.77,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.7,
+      "tip": "round",
+      "body": 0.04
+    },
+    {
+      "medium": "oil",
+      "color": "#883d46",
+      "size": 145,
+      "points": [
+        [
+          0.49,
+          0.48,
+          0.8
+        ],
+        [
+          0.47,
+          0.56,
+          0.8
+        ],
+        [
+          0.48,
+          0.63,
+          0.8
+        ],
+        [
+          0.53,
+          0.64,
+          0.8
+        ],
+        [
+          0.56,
+          0.59,
+          0.8
+        ],
+        [
+          0.55,
+          0.51,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round",
+      "body": 0.05
+    },
+    {
+      "medium": "oil",
+      "color": "#b75546",
+      "size": 130,
+      "points": [
+        [
+          0.46,
+          0.53,
+          0.8
+        ],
+        [
+          0.46,
+          0.6,
+          0.8
+        ],
+        [
+          0.51,
+          0.63,
+          0.8
+        ],
+        [
+          0.54,
+          0.6,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round",
+      "body": 0.05
+    },
+    {
+      "medium": "oil",
+      "color": "#a84943",
+      "size": 80,
+      "points": [
+        [
+          0.5,
+          0.35,
+          0.8
+        ],
+        [
+          0.49,
+          0.4,
+          0.8
+        ],
+        [
+          0.5,
+          0.47,
+          0.8
+        ],
+        [
+          0.52,
+          0.52,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round",
+      "body": 0.05
+    },
+    {
+      "medium": "oil",
+      "color": "#703a48",
+      "size": 52,
+      "points": [
+        [
+          0.558,
+          0.46,
+          0.8
+        ],
+        [
+          0.574,
+          0.51,
+          0.8
+        ],
+        [
+          0.579,
+          0.565,
+          0.8
+        ],
+        [
+          0.568,
+          0.622,
+          0.8
+        ],
+        [
+          0.54,
+          0.663,
+          0.8
+        ],
+        [
+          0.51,
+          0.677,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.7,
+      "tip": "round",
+      "body": 0.04
+    },
+    {
+      "medium": "oil",
+      "color": "#ce7951",
+      "size": 66,
+      "points": [
+        [
+          0.476,
+          0.406,
+          0.8
+        ],
+        [
+          0.463,
+          0.449,
+          0.8
+        ],
+        [
+          0.435,
+          0.5,
+          0.8
+        ],
+        [
+          0.427,
+          0.548,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.78,
+      "tip": "round",
+      "body": 0.05
+    },
+    {
+      "medium": "oil",
+      "color": "#493d31",
+      "size": 15,
+      "points": [
+        [
+          0.5,
+          0.32,
+          0.8
+        ],
+        [
+          0.501,
+          0.292,
+          0.8
+        ],
+        [
+          0.516,
+          0.268,
+          0.8
+        ],
+        [
+          0.525,
+          0.256,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.95,
+      "tip": "round",
+      "body": 0.07
+    },
+    {
+      "medium": "oil",
+      "color": "#bd6450",
+      "size": 86,
+      "points": [
+        [
+          0.437,
+          0.526,
+          0.8
+        ],
+        [
+          0.448,
+          0.576,
+          0.8
+        ],
+        [
+          0.478,
+          0.611,
+          0.8
+        ],
+        [
+          0.51,
+          0.621,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.65,
+      "tip": "round",
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#7694a3",
+      "size": 80,
+      "points": [
+        [
+          0.22,
+          0.64,
+          0.8
+        ],
+        [
+          0.34,
+          0.635,
+          0.8
+        ],
+        [
+          0.397,
+          0.644,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.75,
+      "tip": "round",
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#8fa7af",
+      "size": 66,
+      "points": [
+        [
+          0.596,
+          0.687,
+          0.8
+        ],
+        [
+          0.66,
+          0.712,
+          0.8
+        ],
+        [
+          0.736,
+          0.745,
+          0.8
+        ],
+        [
+          0.77,
+          0.762,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.75,
+      "tip": "round",
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#7c97a7",
+      "size": 105,
+      "points": [
+        [
+          0.17,
+          0.66,
+          0.8
+        ],
+        [
+          0.23,
+          0.635,
+          0.8
+        ],
+        [
+          0.3,
+          0.635,
+          0.8
+        ],
+        [
+          0.36,
+          0.645,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.7,
+      "tip": "round",
+      "body": 0.02
+    },
+    {
+      "medium": "oil",
+      "color": "#455a68",
+      "size": 28,
+      "points": [
+        [
+          0.47,
+          0.695,
+          0.8
+        ],
+        [
+          0.51,
+          0.708,
+          0.8
+        ],
+        [
+          0.558,
+          0.703,
+          0.8
+        ],
+        [
+          0.603,
+          0.713,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.75,
+      "tip": "round",
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#9cb0b7",
+      "size": 48,
+      "points": [
+        [
+          0.27,
+          0.64,
+          0.8
+        ],
+        [
+          0.33,
+          0.638,
+          0.8
+        ],
+        [
+          0.392,
+          0.65,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.7,
+      "tip": "round",
+      "body": 0.025
+    },
+    {
+      "medium": "oil",
+      "color": "#ead3a0",
+      "size": 18,
+      "points": [
+        [
+          0.456,
+          0.459,
+          0.75
+        ],
+        [
+          0.449,
+          0.479,
+          0.8
+        ],
+        [
+          0.446,
+          0.5,
+          0.5
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.8,
+      "tip": "round",
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#bb6650",
+      "size": 44,
+      "points": [
+        [
+          0.482,
+          0.346,
+          0.8
+        ],
+        [
+          0.475,
+          0.381,
+          0.8
+        ],
+        [
+          0.476,
+          0.419,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.65,
+      "tip": "round",
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#6d3c35",
+      "size": 17,
+      "points": [
+        [
+          0.491,
+          0.326,
+          0.8
+        ],
+        [
+          0.501,
+          0.332,
+          0.8
+        ],
+        [
+          0.51,
+          0.328,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.8,
+      "tip": "round",
+      "body": 0.04
+    },
+    {
+      "medium": "oil",
+      "color": "#84644b",
+      "size": 8,
+      "points": [
+        [
+          0.502,
+          0.303,
+          0.8
+        ],
+        [
+          0.513,
+          0.279,
+          0.8
+        ],
+        [
+          0.524,
+          0.261,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.85,
+      "tip": "round",
+      "body": 0.03
+    },
+    {
+      "medium": "watercolor",
+      "color": "#7896a8",
+      "size": 130,
+      "points": [
+        [
+          0.14,
+          0.59,
+          0.8
+        ],
+        [
+          0.25,
+          0.6,
+          0.8
+        ],
+        [
+          0.35,
+          0.6,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.55,
+      "tip": "round",
+      "water": 0.45
+    },
+    {
+      "medium": "watercolor",
+      "color": "#7998a8",
+      "size": 130,
+      "points": [
+        [
+          0.64,
+          0.6,
+          0.8
+        ],
+        [
+          0.76,
+          0.61,
+          0.8
+        ],
+        [
+          0.88,
+          0.58,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.55,
+      "tip": "round",
+      "water": 0.45
+    },
+    {
+      "medium": "oil",
+      "color": "#819baa",
+      "size": 115,
+      "points": [
+        [
+          0.2,
+          0.76,
+          0.8
+        ],
+        [
+          0.28,
+          0.733,
+          0.8
+        ],
+        [
+          0.34,
+          0.69,
+          0.8
+        ],
+        [
+          0.397,
+          0.662,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.7,
+      "tip": "round",
+      "body": 0.02
+    },
+    {
+      "medium": "oil",
+      "color": "#7f9baa",
+      "size": 105,
+      "points": [
+        [
+          0.6,
+          0.743,
+          0.8
+        ],
+        [
+          0.665,
+          0.772,
+          0.8
+        ],
+        [
+          0.737,
+          0.794,
+          0.8
+        ],
+        [
+          0.805,
+          0.792,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.72,
+      "tip": "round",
+      "body": 0.02
+    },
+    {
+      "medium": "oil",
+      "color": "#a0b2b8",
+      "size": 38,
+      "points": [
+        [
+          0.632,
+          0.714,
+          0.8
+        ],
+        [
+          0.674,
+          0.733,
+          0.8
+        ],
+        [
+          0.713,
+          0.756,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.8,
+      "tip": "round",
+      "body": 0.02
+    },
+    {
+      "medium": "oil",
+      "color": "#b87558",
+      "size": 28,
+      "points": [
+        [
+          0.443,
+          0.599,
+          0.8
+        ],
+        [
+          0.459,
+          0.634,
+          0.8
+        ],
+        [
+          0.484,
+          0.65,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.6,
+      "tip": "round",
+      "body": 0.02
+    },
+    {
+      "medium": "oil",
+      "color": "#806270",
+      "size": 21,
+      "points": [
+        [
+          0.58,
+          0.53,
+          0.8
+        ],
+        [
+          0.582,
+          0.566,
+          0.8
+        ],
+        [
+          0.574,
+          0.61,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.6,
+      "tip": "round",
+      "body": 0.02
+    },
+    {
+      "medium": "oil",
+      "color": "#394b58",
+      "size": 19,
+      "points": [
+        [
+          0.488,
+          0.706,
+          0.8
+        ],
+        [
+          0.525,
+          0.714,
+          0.8
+        ],
+        [
+          0.555,
+          0.708,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.82,
+      "tip": "round",
+      "body": 0.03
+    },
+    {
+      "medium": "oil",
+      "color": "#7a94a3",
+      "size": 58,
+      "points": [
+        [
+          0.594,
+          0.726,
+          0.8
+        ],
+        [
+          0.63,
+          0.739,
+          0.8
+        ],
+        [
+          0.662,
+          0.751,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.66,
+      "tip": "round",
+      "body": 0.02
+    },
+    {
+      "medium": "oil",
+      "color": "#794653",
+      "size": 37,
+      "points": [
+        [
+          0.576,
+          0.525,
+          0.8
+        ],
+        [
+          0.581,
+          0.563,
+          0.8
+        ],
+        [
+          0.574,
+          0.609,
+          0.8
+        ]
+      ],
+      "duration": 1100,
+      "flow": 0.63,
+      "tip": "round",
+      "body": 0.015
+    }
+  ],
+  "events": [
+    {
+      "text": "I am painting an imagined red pear on folded blue linen. The practice goal is a filled silhouette and one restrained light that survives at whole view. Cool cloth will carry the warm fruit; broad passes come before small accents.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10400,
+      "afterStroke": 0
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 3
+    },
+    {
+      "text": "The blue washes have soft granular edges, but pale seams split the ground into bands. I will bridge those gaps and establish a low cloth fold before placing the fruit.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7800,
+      "afterStroke": 3
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 6
+    },
+    {
+      "text": "The upper seam is reduced; the lower one remains, and the first oil fold is too line-like. I will place a broad pear body above it, then turn that line into the dark side of a fold.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9620,
+      "afterStroke": 6
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 9
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 9
+    },
+    {
+      "text": "The broad overlaps made a solid pear rather than a hollow contour. The neck is upright and the right shoulder abrupt. A curved shadow turn and a leaning stem should make the form less stiff.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9100,
+      "afterStroke": 9
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "text": "The curved right shadow turns under the fruit and the stem makes its identity clear. The warm left pass is abrupt at its lower end. I will connect that into the belly and spread a lighter plane beside the dark cloth fold.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10920,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 15
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 15
+    },
+    {
+      "text": "The belly connects more smoothly. The wider cloth planes help, but their squared ends and straight ridge still dominate. I will soften the left end with a broad curved plane and deepen only the short contact beneath the pear.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10140,
+      "afterStroke": 15
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 18
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 18
+    },
+    {
+      "text": "The contact sits close to the fold, and the left cloth end is less square. The pear has a broad warm light but no focal accent. I will test one short, low-body cream stroke on the upper-left shoulder.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9880,
+      "afterStroke": 18
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 19
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 19
+    },
+    {
+      "text": "The 18 px light survives whole view as a small warm glint. Its location can stay. The upper neck still needs a gentler transition and a dark stem socket; I will develop those while leaving the light alone.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9880,
+      "afterStroke": 19
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 22
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 22
+    },
+    {
+      "text": "The socket attaches the stem and the warm neck joins the shoulder. The pale background seam still cuts behind the lower fruit. Two outside washes will quiet that seam; a broad diagonal cloth pass will turn the stripe into a fold.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10660,
+      "afterStroke": 22
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 25
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 25
+    },
+    {
+      "text": "The outside washes removed the long pale seam. The diagonal cloth pass broke the ruler-like stripe, but the right tail remains narrow. A wider lower-right plane and a small turned ridge should make the fold belong to the fabric.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10140,
+      "afterStroke": 25
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 28
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 28
+    },
+    {
+      "text": "The lower warm turn is visible and the right cloth is now a broad plane. Its short pale ridge remains subordinate to the pear glint. I will add a muted reflected edge inside the right shadow and shorten the strongest contact dark.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10920,
+      "afterStroke": 28
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 31
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 31
+    },
+    {
+      "text": "The contact is darker and shorter, but the reflected right edge is brighter than intended and competes with the small shoulder glint. I will glaze it back into the red shadow with one broader muted pass, then review again.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10140,
+      "afterStroke": 31
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 32
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 32
+    },
+    {
+      "text": "Final review: the pear is filled, the warm left plane turns into a cooler red shadow, and the small shoulder glint survives whole view. The last glaze quieted the reflected edge. Broad linen planes replaced the first stripe and the pale seam is gone. Regular simulated oil ridges and a somewhat upright neck remain. I will stop here to preserve the quiet light hierarchy.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 15000,
+      "afterStroke": 32
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 32
+    }
+  ],
+  "creation": {
+    "method": "AI agent painted in the Atelier browser simulator, choosing each next 1–3 animated marks after actual whole and settled 2× close screenshots. Initial inspection framing was corrected before the main form; subsequent captures used the visible canvas viewport after checking displayed zoom.",
+    "inspectionBoundaries": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      19,
+      22,
+      25,
+      28,
+      31,
+      32
+    ],
+    "notes": "Easel observations and camera moves recorded live. Title, provenance and practice entry added after actual browser PNG and JSON exports.",
+    "broadcast": "Live from this laptop confirmed. Public easel verified broadcast ended with all 32 completed marks and final review note.",
+    "engineRevision": "638041f74355bafde41200bf3cea7c757bb8f0a9",
+    "engineChanges": false,
+    "painter": "AI agent",
+    "hardwareHost": "randomdrake",
+    "inspiration": {
+      "description": "An ordinary red pear and folded kitchen linen sparked an imagined still life; no reference composition copied."
+    }
+  }
+}
