@@ -1,5 +1,24 @@
 [
   {
+    "id": "wind-timber",
+    "title": "Wind timber",
+    "description": "An imagined twisted bristlecone pine above a cool stony basin, with unequal needle tufts and one short light at the bend.",
+    "process": "Painted live by the AI agent in animated batches of one to four, with 29 settled whole-and-close inspection boundaries and an upper branch pan. Broad warm planes joined the trunk; a short bend light stayed focal. Branch-collar and needle-end corrections helped locally. Soil covers left ridged patches and contact bars. Easel notes and camera moves were recorded live. Ended public feed acknowledged all 112 completed marks.",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "strokes": 112,
+    "moments": 88,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/wind-timber/session.json",
+    "image": "/paintings/wind-timber/finished.png",
+    "addedAt": "2026-10-15T19:09:20.915Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-15"
+  },
+  {
     "id": "trumpet-for-the-blue-hour",
     "title": "Trumpet for the blue hour",
     "description": "A pale datura trumpet and hanging bud in violet dusk, with quiet green leaves and one short lip light.",

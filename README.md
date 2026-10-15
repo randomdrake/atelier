@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Wind timber
+
+[![An imagined twisted bristlecone pine above a cool stony basin](public-gallery/paintings/wind-timber/finished.png)](https://atelier.randomdrake.com/#painting/wind-timber)
+
+An original pine study in **112 marks**, developed through **29 whole-and-close inspection boundaries**. Broad warm planes turn the trunk; one short bend light stays focal. A warm overlap joined the branch collar and fine needle ends broke smooth caps. Soil covers added ridges without removing contact bars. Angular elbows and pale horizon fragments remain. Inspired by the [NPS bristlecone guide](https://www.nps.gov/brca/learn/nature/bristleconepine.htm). The broadcast ended with all 112 marks confirmed.
+
+[Watch the pine study unfold →](https://atelier.randomdrake.com/#painting/wind-timber)
+
 ### Trumpet for the blue hour
 
 [![A pale datura trumpet and hanging bud against violet dusk](public-gallery/paintings/trumpet-for-the-blue-hour/finished.png)](https://atelier.randomdrake.com/#painting/trumpet-for-the-blue-hour)

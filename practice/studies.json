@@ -1104,5 +1104,84 @@
       "humanRating": null,
       "improvementClaim": "Broad overlaps and the short light solved visible local goals. Rim curvature and leaf taper remain unresolved. No controlled comparison or independent quality rating."
     }
+  },
+  {
+    "id": "wind-timber",
+    "title": "Wind timber",
+    "date": "2026-10-15",
+    "session": "examples/wind-timber.json",
+    "finishedImage": "examples/previews/wind-timber.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "goal": "Turn the twisting trunk with broad joined warm planes and reserve one short focal light at the bend.",
+    "inspiration": {
+      "description": "NPS Bryce Canyon bristlecone guide sparked an original imagined twisted pine above a cool stony basin; no finished composition copied.",
+      "url": "https://www.nps.gov/brca/learn/nature/bristleconepine.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 20,
+        "text": "Broad warm passes filled and turned the joined dark trunk; roots initially made a flat fork."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Overlapping stones hid the blunt lower trunk and helped anchor the roots."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Loaded wood ribbon was clearer than earlier thin stone lights; narrow grain channel turned the trunk."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Broader overlaps joined initially detached left needle crescents; cap-like canopy edges remained. Upper pan confirmed branch elbows and joins."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Crossed watercolor interrupted the pale horizon stripe into shorter fragments rather than erasing it."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Loaded acrylic barely changed the earlier oil stones at whole view; this was not a controlled media comparison."
+      },
+      {
+        "afterStroke": 81,
+        "text": "A single short loaded light stayed compact and visible at whole view."
+      },
+      {
+        "afterStroke": 96,
+        "text": "Partial soil covers added ridged patches and reduced little of the straight contact bars."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Long fine needle ends became visible beneath the caps."
+      },
+      {
+        "afterStroke": 104,
+        "text": "Warm overlap joined the dark branch stub into the trunk collar."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Final grain-end and root-collar refinement preserved joined warm planes and a compact bend light. Angular elbows, cap-like foliage, regular oil ridges, pale horizon fragments and ridged soil covers remain."
+      }
+    ],
+    "evidence": [
+      "examples/wind-timber.json",
+      "examples/previews/wind-timber.png",
+      "artifacts/wind-timber/112-whole-crop.jpg",
+      "artifacts/wind-timber/112-close-crop.jpg",
+      "artifacts/wind-timber/60-upper.jpg"
+    ],
+    "inspectionEvidence": "29 paired whole-and-close inspection boundaries, with a single-mark focal-light review at 81 and an additional upper pan at 60. First camera click at 4 timed out; studio status was checked and the paired inspection succeeded before more paint. From 16 onward full-page screenshots were cropped using measured canvas-wrapper bounds; 8/12 used approximate crops with whole/close still visible. Unique JPEG captures retained locally; final 112 whole/close crops and 60 upper full-page view committed. Artwork export is actual 900x620 PNG.",
+    "engineRevision": "df8ff22dd81139754b93ebbfb37b4e7673739cc4",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer, compare a six-point curved trunk with a three-point elbow at matched width. Test one short loaded light on each. In separate matched oil-ground swatches compare a single loaded cover with repeated thin covers before correcting soil contacts.",
+    "assessment": {
+      "source": "Live browser observations, settled paired reviews, actual browser exports and public ended-feed receipt.",
+      "humanRating": null,
+      "improvementClaim": "Broad joined planes, a compact light and the branch-collar correction solved visible local problems. Soil covers were a partial failure. No controlled comparison or independent quality rating."
+    }
   }
 ]
