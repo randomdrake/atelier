@@ -36,9 +36,9 @@ export function validateLiveSnapshot(input){
 }
 
 export function publicLiveState(snapshot,now=Date.now()){
-  if(!snapshot||snapshot.test)return {status:'offline',live:false};
+  if(!snapshot||snapshot.test)return {status:'offline',live:false,serverNow:now};
   const age=Math.max(0,now-snapshot.receivedAt);
-  return {...snapshot,live:snapshot.activity!=='ended'&&age<LIVE_TIMEOUT,
+  return {...snapshot,serverNow:now,live:snapshot.activity!=='ended'&&age<LIVE_TIMEOUT,
     status:snapshot.activity==='ended'?'ended':age>=LIVE_TIMEOUT?'disconnected':'live'};
 }
 

@@ -1,7 +1,7 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import {handleLiveRequest,publicLiveState,LIVE_TIMEOUT,VIEWER_TIMEOUT} from '../src/live-service.js';
-import {livePresentation,thoughtChange} from '../src/live-status.js';
+import {livePresentation,thoughtChange,LiveFeedClock,returnSchedule} from '../src/live-status.js';
 import {LocalBroadcastRelay} from '../src/local-broadcast.js';
 import {LiveBroadcast} from '../src/live-broadcast.js';
 import {finalizeLivePainting} from '../src/live-finalize.js';
@@ -76,7 +76,7 @@ test('an ended broadcast and missing heartbeats never claim someone is painting 
 test('broadcast tests are isolated from the public easel and malformed previews are rejected',async()=>{
   const e=env();
   await handleLiveRequest(post({...payload,sessionId:id,sequence:1},token,'/api/live?test=1'),e,1000);
-  assert.deepEqual(await (await handleLiveRequest(new Request('https://atelier.test/api/live'),e)).json(),{status:'offline',live:false});
+  assert.deepEqual(await (await handleLiveRequest(new Request('https://atelier.test/api/live'),e,1000)).json(),{status:'offline',live:false,serverNow:1000});
   assert.equal((await handleLiveRequest(new Request('https://atelier.test/api/live?test=1'),e)).status,401);
   assert.equal((await handleLiveRequest(post({...payload,preview:'data:text/html;base64,AAAA',sessionId:id,sequence:1}),e)).status,400);
   assert.equal((await handleLiveRequest(post({...payload,document:{...document,width:999},sessionId:id,sequence:1}),e)).status,400);
@@ -300,4 +300,49 @@ test('finished-export recovery restores matching missing marks, rejects another 
   await assert.rejects(finalizeLivePainting({...args,fetcher:racingFetcher}),/not accepted \(409\)/);
   assert.equal((await publicSnapshot(current)).document.strokes.length,38);
   await assert.rejects(finalizeLivePainting({...args,fetcher:(url,options)=>handleLiveRequest(new Request(url,options),current,100001)}),/inactive/);
+});
+
+
+test('viewer freshness follows the server clock even with a fast or slow wall clock',()=>{
+  for(const skew of [-86400000,86400000,365*86400000]){
+    let wall=1000+skew,tick=50;
+    const clock=new LiveFeedClock({wall:()=>wall,tick:()=>tick});
+    const fresh=publicLiveState({...payload,receivedAt:1000},2000);
+    clock.accept(fresh);
+    assert.equal(livePresentation(fresh,clock.now()).live,true);
+    wall+=20*86400000;tick+=43999;
+    assert.equal(livePresentation(fresh,clock.now()).live,true,'Wall-clock jumps must not expire a fresh feed');
+    tick++;
+    assert.equal(livePresentation(fresh,clock.now()).status,'disconnected');
+    const heartbeat=publicLiveState({...payload,receivedAt:50000},50001);
+    clock.accept(heartbeat);
+    assert.equal(livePresentation(heartbeat,clock.now()).live,true);
+    clock.accept(publicLiveState({...payload,activity:'ended',receivedAt:50001},50001));
+    assert.equal(livePresentation({...heartbeat,activity:'ended'},clock.now()).status,'ended');
+  }
+});
+
+test('legacy live responses and offline boot remain usable during a rolling deployment',()=>{
+  let tick=0;const clock=new LiveFeedClock({wall:()=>900000,tick:()=>tick});
+  clock.accept({...payload,status:'live',live:true,receivedAt:1000});
+  assert.equal(livePresentation({...payload,receivedAt:1000},clock.now()).live,true);
+  tick=45000;assert.equal(livePresentation({...payload,receivedAt:1000},clock.now()).live,false);
+  clock.accept({status:'offline',live:false,serverNow:2000});
+  assert.equal(livePresentation(null,clock.now()).status,'offline');
+});
+
+test('the return sign uses the next Pacific weekday hour, including DST weekends',()=>{
+  const cases=[
+    ['2026-10-15T14:30:00Z','2026-10-15T15:00:00.000Z','à 8 h'],
+    ['2026-10-15T16:16:00Z','2026-10-15T17:00:00.000Z','à 10 h'],
+    ['2026-10-15T22:00:00Z','2026-10-16T15:00:00.000Z','à 8 h'],
+    ['2026-10-16T22:16:00Z','2026-10-19T15:00:00.000Z','à 8 h'],
+    ['2026-10-30T22:16:00Z','2026-11-02T16:00:00.000Z','à 8 h'],
+    ['2026-03-06T23:16:00Z','2026-03-09T15:00:00.000Z','à 8 h']
+  ];
+  for(const [now,at,time] of cases){
+    const sign=returnSchedule(Date.parse(now));assert.equal(sign.at,at);assert.equal(sign.time,time);
+  }
+  assert.equal(returnSchedule(Date.parse('2026-10-15T16:16:00Z')).date,'aujourd’hui');
+  assert.match(returnSchedule(Date.parse('2026-10-16T22:16:00Z')).date,/lundi 19 octobre/);
 });

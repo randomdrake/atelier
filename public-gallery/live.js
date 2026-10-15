@@ -1,5 +1,5 @@
 import {renderThought} from '/thought-links.js';
-import {livePresentation,thoughtChange} from '/live-status.js';
+import {livePresentation,thoughtChange,LiveFeedClock,returnSchedule} from '/live-status.js';
 import {cameraTransform} from '/camera.js';
 import {LiveCamera} from '/live-camera.js';
 
@@ -35,6 +35,10 @@ const download=document.getElementById('live-session-download');
 const indicator=document.getElementById('live-nav');
 const navLabel=document.getElementById('live-nav-label');
 const viewers=document.getElementById('live-viewers');
+const returnSign=document.getElementById('return-sign');
+const returnTime=document.getElementById('return-time');
+const returnDate=document.getElementById('return-date');
+const feedClock=new LiveFeedClock();
 const reducedMotion=matchMedia('(prefers-reduced-motion: reduce)');
 let current=null,downloadURL=null,fetching=false,noteHistory=null,lastSnapshotKey='';
 const setText=(element,text)=>{if(element.textContent!==text)element.textContent=text;};
@@ -46,7 +50,7 @@ function arrive(element){
   element.classList.add('thought-arriving');
 }
 
-export function renderLive(state,now=Date.now()){
+export function renderLive(state,now=feedClock.now()){
   const presentation=livePresentation(state,now);
   followCamera(state,presentation);
   current=state;
@@ -55,9 +59,16 @@ export function renderLive(state,now=Date.now()){
   setText(badge,presentation.badge);
   setText(navLabel,presentation.live?'AI painting live':'Studio offline');
   setText(activity,presentation.activity);dots.hidden=!presentation.live;
+  const next=returnSchedule(now);
+  setText(returnTime,next.time);returnTime.dateTime=next.at;setText(returnDate,next.date);
+  returnSign.setAttribute('aria-hidden',String(presentation.live));
+  panel.querySelector('.live-layout').hidden=false;
+  image.hidden=!state?.document;
+  bubble.hidden=!state?.document;
+  panel.querySelector('figcaption').hidden=!state?.document;
   if(!state?.document){
     setText(title,'The easel is quiet');
-    panel.querySelector('.live-layout').hidden=true;panel.querySelector('details').hidden=true;download.hidden=true;
+    panel.querySelector('details').hidden=true;download.hidden=true;
     noteHistory=null;lastSnapshotKey='';
     return;
   }
@@ -98,10 +109,12 @@ async function poll(){
   try{
     const response=await fetch('/api/live',{cache:'no-store',signal:abort.signal});
     if(!response.ok)throw new Error();
-    renderLive(await response.json());
+    const state=await response.json();feedClock.accept(state);renderLive(state);
   }catch{
-    renderLive(current?{...current,status:'disconnected'}:null);
-    setText(updated,'Feed unavailable · last shared canvas shown');
+    // A single failed poll must not extinguish a still-fresh broadcast.
+    // The monotonic freshness clock still expires it after 45 seconds.
+    renderLive(current);
+    setText(updated,livePresentation(current,feedClock.now()).live?'Reconnecting to the live easel…':'Feed unavailable · last shared canvas shown');
   }finally{clearTimeout(timeout);fetching=false;}
 }
 

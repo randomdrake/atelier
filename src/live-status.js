@@ -18,3 +18,38 @@ export function thoughtChange(previous,sessionId,notes){
     append,added:append?notes.slice(previous.keys.length):notes,
     animate:!!previous&&(append?keys.length>previous.keys.length:!!notes.length)};
 }
+
+// Anchor freshness to the gallery's clock, then advance it monotonically between
+// polls. A visitor's clock can be minutes (or years) ahead of the publisher.
+export class LiveFeedClock {
+  constructor({wall=()=>Date.now(),tick=()=>performance.now()}={}){
+    this.wall=wall;this.tick=tick;this.anchor=null;
+  }
+  accept(state){
+    const local=this.wall();
+    // Older deployments omit serverNow but still explicitly report freshness.
+    const server=Number.isFinite(state?.serverNow)?state.serverNow:
+      state?.live===true&&Number.isFinite(state.receivedAt)?state.receivedAt:local;
+    this.anchor={server,tick:this.tick()};
+  }
+  now(){return this.anchor?this.anchor.server+Math.max(0,this.tick()-this.anchor.tick):this.wall();}
+}
+
+const pacificParts=new Intl.DateTimeFormat('en-US',{timeZone:'America/Los_Angeles',
+  weekday:'short',year:'numeric',month:'2-digit',day:'2-digit',hour:'numeric',hourCycle:'h23'});
+const parts=date=>Object.fromEntries(pacificParts.formatToParts(date).map(part=>[part.type,part.value]));
+const dayKey=date=>{const p=parts(date);return p.year+'-'+p.month+'-'+p.day;};
+
+// Inspect actual instants in Pacific time, rather than assuming a fixed UTC
+// offset. This carries the weekday schedule across daylight-saving changes.
+export function returnSchedule(now=Date.now()){
+  const hour=3600000;
+  for(let at=(Math.floor(now/hour)+1)*hour;at<=now+8*24*hour;at+=hour){
+    const p=parts(at);
+    if(['Sat','Sun'].includes(p.weekday)||Number(p.hour)<8||Number(p.hour)>15)continue;
+    const date=dayKey(at)===dayKey(now)?'aujourd’hui':
+      new Intl.DateTimeFormat('fr-FR',{timeZone:'America/Los_Angeles',weekday:'long',day:'numeric',month:'long'}).format(at);
+    return {at:new Date(at).toISOString(),time:'à '+Number(p.hour)+' h',date};
+  }
+  throw new Error('No painting time in the next week');
+}

@@ -41,6 +41,12 @@ On other systems, provide an equivalent JPEG of the actual finished PNG. This he
 
 ## Verification
 
+The public viewer anchors heartbeat freshness to `serverNow` returned by the gallery and advances it with a monotonic clock. A viewer clock that is fast, slow or adjusted during a session cannot turn a fresh broadcast offline. A failed poll keeps the lamp green while the last accepted heartbeat is younger than 45 seconds; expiry still turns it grey and a successful fresh poll restores it. Painting, choosing marks and replaying all count as live activity.
+
+When offline, ended or disconnected, a small French handwritten return sign hangs over the studio window. It names the next Monday–Friday hourly start from 8 a.m. through 3 p.m. Pacific, including daylight-saving changes. It flips upward and leaves the canvas unobstructed while live; reduced-motion viewers get an immediate transition.
+
+Run `npm run live:verify` from the configured laptop for an authenticated hosted round trip through the isolated `?test=1` namespace. It verifies start, painting, looking, replay, camera, completed marks and end, checks that the test never replaces the public feed, and leaves its test broadcast ended. It requires an actual saved preview and refuses to overlap an active test. Publishing credentials remain server-side and never enter output.
+
 npm test covers authorization, allowlisted data, ordering, deduplication, ownership, isolated test broadcasts, disconnect expiry, and browser retries. The hidden ?test=1 namespace requires authentication and never appears on the public easel. Use it for hosted checks, so a test cannot masquerade as a real painting session.
 
 For a real end-to-end preview, run the local studio relay against a local Worker/R2 preview. Check Go live, completed strokes, notes with clickable source links, End broadcast, and disconnected status. Use the Worker’s built preview to verify the existing gallery and replay assets survive deployment.
