@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Red mug, morning hush
+
+[![A red enamel camping mug with soft steam, pine sprig and spoon on folded cloth](public-gallery/paintings/red-mug-morning-hush/finished.png)](https://atelier.randomdrake.com/#painting/red-mug-morning-hush)
+
+An original camp still life in **112 marks**, developed through **29 paired inspection boundaries**. Broad crosswise paint filled the cup; a continuous rim and one short shoulder reflection hold the focus. Watercolor steam stays soft. Shadow covers widened ridged patches and handle covers left islands; angular edges remain. The broadcast ended with all 112 marks acknowledged.
+
+[Watch the camp study unfold →](https://atelier.randomdrake.com/#painting/red-mug-morning-hush)
+
 ### River watch
 
 [![An imagined belted kingfisher on a curved branch above quiet green water](public-gallery/paintings/river-watch/finished.png)](https://atelier.randomdrake.com/#painting/river-watch)

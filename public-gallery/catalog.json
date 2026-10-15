@@ -1,5 +1,23 @@
 [
   {
+    "id": "red-mug-morning-hush",
+    "title": "Red mug, morning hush",
+    "description": "A red enamel camping mug with soft steam, pine sprig and spoon on folded cloth.",
+    "process": "112 animated marks in batches of 1–4, chosen after 29 settled whole-and-close screenshot inspections. Live easel notes and camera moves recorded during painting. Broad overlaps closed the cup; compact shoulder light held focus. Handle and shadow covers were partial failures. Broadcast ended with all 112 marks acknowledged.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 89,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/red-mug-morning-hush/session.json",
+    "image": "/paintings/red-mug-morning-hush/finished.png",
+    "addedAt": "2026-10-15T22:08:53.256Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-15"
+  },
+  {
     "id": "river-watch",
     "title": "River watch",
     "description": "An imagined blue-and-rust kingfisher on a curved weathered branch above quiet green water.",
