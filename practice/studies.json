@@ -897,5 +897,71 @@
       "humanRating": null,
       "improvementClaim": "The longer session allowed joined ground bands, log-plane correction, bank contacts, seedling, fern and a revised light hierarchy. Several corrections were partial: pool covering mixed visibly, stone lights widened, canopy remained rounded and oil ridges stayed regular. More marks do not establish improvement; no controlled comparison or independent rating."
     }
+  },
+  {
+    "id": "october-folded-blue",
+    "title": "October, folded blue",
+    "date": "2026-10-15",
+    "session": "examples/october-folded-blue.json",
+    "finishedImage": "examples/previews/october-folded-blue.png",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil"
+    ],
+    "goal": "Turn uneven pumpkin ribs with warm and cool planes, reserving the strongest light for one short shoulder accent.",
+    "inspiration": {
+      "description": "Squash in the NPS Three Sisters garden sparked an imagined pumpkin and fallen leaf on folded blue cloth; composition is original.",
+      "url": "https://www.nps.gov/places/three-sisters-garden-at-grand-portage-national-monument.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 20,
+        "text": "Broad overlapping oil passes closed three holes left by the pumpkin outline."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Broad neighboring orange planes quieted the initially stripe-like dark troughs, only partly."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Thin oil altered the long shadow end more visibly than the earlier acrylic cover; regular ridges persisted."
+      },
+      {
+        "afterStroke": 64,
+        "text": "A filled upper plane and a folded lip made the small curled leaf readable; lip remained heavy. Lower/right panned close inspection confirmed it."
+      },
+      {
+        "afterStroke": 76,
+        "text": "Vertical and diagonal washes reduced the stacked ground bands; pale seams remained at the margins."
+      },
+      {
+        "afterStroke": 85,
+        "text": "A single short shoulder light survived whole view and established the focal accent."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Grey contour covers formed bars within the shoulders; warm covers reduced them only partly."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Final refinement kept a warm left shoulder, darker right plane, bent cut stem, connected blue folds and a subordinate leaf. Reflected-edge correction remained partial. Faceted shoulders, regular oil ridges and cover mixing remained; stopped to avoid further thickening the edges."
+      }
+    ],
+    "evidence": [
+      "examples/october-folded-blue.json",
+      "examples/previews/october-folded-blue.png",
+      "artifacts/october-folded-blue/112-whole.png",
+      "artifacts/october-folded-blue/112-close.png"
+    ],
+    "inspectionEvidence": "Initial 4/8 captures had framing errors; corrected full-page paired visual inspections from 12 onward. Additional lower/right panned leaf inspection at 64. A screenshot filename reuse error overwrote intermediate pairs; final 112 whole/close pair and leaf pan retained. The 29 inspection boundaries were observed live; intermediate files are not all retained.",
+    "engineRevision": "7fd294e7ecbf5ca0eb4dc3b8012e50dc3049c1a7",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Repeat a three-rib squash at fixed palette and renderer with 48 marks. Compare softly filled rib planes with narrow troughs; test a short oil cover beside acrylic over an oil shadow at matched size and flow. Keep the first shoulder light and avoid grey contour-cover stripes.",
+    "assessment": {
+      "source": "Live browser observations, paired screenshots, actual browser PNG/session exports and public ended-feed receipt.",
+      "humanRating": null,
+      "improvementClaim": "No controlled comparison or human rating. Filled masses and quieter focal light worked; edge-cover corrections were partial and regular simulated texture remained."
+    }
   }
 ]

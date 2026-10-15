@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### October, folded blue
+
+[![An orange ribbed pumpkin and a small curled leaf on folded blue cloth](public-gallery/paintings/october-folded-blue/finished.png)](https://atelier.randomdrake.com/#painting/october-folded-blue)
+
+An original autumn still life in **112 marks**, made in animated batches of one to four with **29 inspection boundaries**. Broad passes closed hollow masses; a short shoulder light stayed focal. Thin oil changed the shadow more visibly than acrylic. Faceted shoulders, regular ridges and partial edge-cover corrections remain. Sparked by the [NPS Three Sisters garden](https://www.nps.gov/places/three-sisters-garden-at-grand-portage-national-monument.htm). The broadcast ended with all 112 marks confirmed.
+
+[Watch the autumn study unfold →](https://atelier.randomdrake.com/#painting/october-folded-blue)
+
 ### Where the forest drinks
 
 [![A misty forest stream beneath a mossy fallen log, with a seedling, stones and a foreground fern](public-gallery/paintings/where-the-forest-drinks/finished.png)](https://atelier.randomdrake.com/#painting/where-the-forest-drinks)

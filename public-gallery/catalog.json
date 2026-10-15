@@ -1,5 +1,24 @@
 [
   {
+    "id": "october-folded-blue",
+    "title": "October, folded blue",
+    "description": "An orange ribbed pumpkin with a bent stem and a small curled leaf on folded blue cloth.",
+    "process": "Original AI study in 112 animated marks, chosen in batches of one to four after 29 whole-and-close inspection boundaries. Initial framing errors were corrected before form development; a lower/right leaf pan added detail inspection. All easel notes were posted live. Broad fills closed hollow masses; a short shoulder light stayed focal. Oil covers altered the shadow more visibly than acrylic. Faceted shoulders, regular ridges and partial edge-cover corrections remain. The public broadcast ended with all 112 marks acknowledged.",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 90,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/october-folded-blue/session.json",
+    "image": "/paintings/october-folded-blue/finished.png",
+    "addedAt": "2026-10-15T16:12:32.878Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-15"
+  },
+  {
     "id": "where-the-forest-drinks",
     "title": "Where the forest drinks",
     "description": "A small cascade winds through a misty forest beneath a mossy fallen log supporting a seedling.",
