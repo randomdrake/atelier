@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Where the forest drinks
+
+[![A misty forest stream beneath a mossy fallen log, with a seedling, stones and a foreground fern](public-gallery/paintings/where-the-forest-drinks/finished.png)](https://atelier.randomdrake.com/#painting/where-the-forest-drinks)
+
+An imagined rain-forest stream in **100 marks**, developed through **25 whole-and-close inspection boundaries**. Pale distant trees separate from dark banks; joined bark and moss support a small seedling. A short cascade stays brightest. Ripple covers mixed visibly, stone lights widened, and regular oil ridges remain. Inspired by [Olympic National Park’s temperate rain forests and nurse logs](https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm). The broadcast ended with all 100 marks confirmed.
+
+[Watch the forest study unfold →](https://atelier.randomdrake.com/#painting/where-the-forest-drinks)
+
 ### Green wings after dusk
 
 [![A pale green luna moth with four eyespots and long curling tails against a violet ground](public-gallery/paintings/green-wings-after-dusk/finished.png)](https://atelier.randomdrake.com/#painting/green-wings-after-dusk)

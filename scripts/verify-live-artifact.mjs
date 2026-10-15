@@ -1,4 +1,4 @@
-import {readdir,readFile} from 'node:fs/promises';
+import {readdir,readFile,stat} from 'node:fs/promises';
 import {execFileSync} from 'node:child_process';
 import {join} from 'node:path';
 import assert from 'node:assert/strict';
@@ -24,7 +24,10 @@ async function inspect(directory){
     assert.ok(!/^(\.env(?:\.|$)|\.dev\.vars|\.git$)/.test(item.name),'Secret or Git metadata in build output');
     const path=join(directory,item.name);
     if(item.isDirectory())await inspect(path);
-    else if(secret)assert.ok(!(await readFile(path)).includes(Buffer.from(secret)),'Publisher credential in build output');
+    else{
+      if(directory.startsWith(join(output,'client')))assert.ok((await stat(path)).size<=25*1024*1024,'Public asset exceeds the 25 MiB hosting limit: '+path);
+      if(secret)assert.ok(!(await readFile(path)).includes(Buffer.from(secret)),'Publisher credential in build output');
+    }
   }
 }
 await inspect(output);

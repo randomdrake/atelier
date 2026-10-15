@@ -4,6 +4,8 @@ The owner explicitly authorized the complete Git and Site deployment workflow on
 
 The studio remains at port 5173. The separate viewing site is built from public-gallery/ through the Sites runtime in hosting/; it contains finished work, read-only replay, and a project explainer. The deployed assets never include the editor UI. A downloadable MIT source archive includes the project code and recorded sessions.
 
+The source download stores identical artwork PNGs once under `examples/previews/`; `npm run gallery:build` restores missing gallery copies when building an extracted download. Distinct pinned gallery exports remain in the archive. Artifact verification rejects public assets above the hosting limit of 25 MiB.
+
 1. Finish and visually review the study in the browser. Export its actual PNG and complete version-2 session JSON. Store them in `examples/previews/<id>.png` and `examples/<id>.json`. Add the practice entry and truthful creation provenance.
 2. Check that an ended live feed contains the completed mark count. If its final upload is still pending, preserve the actual finished exports before reloading. For an old interrupted session, follow the `live:finalize` recovery command in `docs/live-broadcast.md`; it only restores a matching inactive feed. Keep the original interruption in creation metadata.
 

@@ -1,5 +1,24 @@
 [
   {
+    "id": "where-the-forest-drinks",
+    "title": "Where the forest drinks",
+    "description": "A small cascade winds through a misty forest beneath a mossy fallen log supporting a seedling.",
+    "process": "100 animated marks developed in 25 four-mark batches, each followed by whole and settled close browser inspection. Live notes and camera moves preserve bank, log, fern and light corrections. Initial framing checks repeated at marks 4 and 64. Public broadcast ended with all 100 completed marks confirmed.",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil"
+    ],
+    "strokes": 100,
+    "moments": 80,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/where-the-forest-drinks/session.json",
+    "image": "/paintings/where-the-forest-drinks/finished.png",
+    "addedAt": "2026-10-15T03:16:50.815Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-14"
+  },
+  {
     "id": "green-wings-after-dusk",
     "title": "Green wings after dusk",
     "description": "A pale green luna moth opens four marked wings and curling tails against a dusky violet ground.",

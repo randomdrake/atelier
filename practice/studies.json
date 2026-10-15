@@ -763,5 +763,139 @@
       "humanRating": null,
       "improvementClaim": "Overlapping passes broadened narrow wings, layered spots remained compact, and fine comb marks broke blunt antenna shapes within this study. Tail correction was only partly successful; regular ridges remained. No controlled comparison or independent rating."
     }
+  },
+  {
+    "id": "where-the-forest-drinks",
+    "title": "Where the forest drinks",
+    "date": "2026-10-14",
+    "session": "examples/where-the-forest-drinks.json",
+    "finishedImage": "examples/previews/where-the-forest-drinks.png",
+    "media": [
+      "watercolor",
+      "acrylic",
+      "oil"
+    ],
+    "goal": "Build depth through separation of pale distant trees, dark framing trees and banks, then reserve the brightest short light for a small cascade.",
+    "inspiration": {
+      "description": "Original imagined forest stream, mossy fallen log and seedling sparked by Olympic National Park\u2019s account of temperate rain forests and nurse logs; no reference composition copied.",
+      "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 4,
+        "text": "Atmospheric washes stepped from pale mist to a cool foreground but left horizontal seams."
+      },
+      {
+        "afterStroke": 8,
+        "text": "Bridging reduced seams and a slightly warmer central opening remained."
+      },
+      {
+        "afterStroke": 12,
+        "text": "Four distant trunks stayed soft and separated from the mist."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Dark banks framed a blue S-curve, but pale gaps and isolated bank masses remained."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Right foreground joined; dark trunks framed the scene and fallen log spanned stream."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Canopy and branches framed the opening, but paired wash clouds looked too regular."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Darker foliage and two middle trunks added layers; canopy remained broad."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Moss and underside separated log, but their strips looked divided by an unfilled middle."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Bark plane connected moss to underside; two unequal stones interrupted the banks."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Pool widened toward foreground and stone tops caught light; regular oil ridges remained."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Muted trunk lights and unequal roots connected framing trees to ground."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Dark ledge appeared, but first falling-water plane almost disappeared into stream."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Short brighter fall survived whole view; long dark foreground ripple was too strong."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Nearer stones varied foreground scale and stayed quieter than the cascade."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Hanging moss broke log underside; canopy leaf accents still looked like smooth bars."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Unequal foreground fern fronds read clearly but as solid blades."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Alternating leaflet cuts broke fern blades at whole view but remained stylized."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Cover pass interrupted dark ripple with visible mixing; short shadows anchored stones."
+      },
+      {
+        "afterStroke": 76,
+        "text": "Seedling rooted visibly in log moss, with two unequal small leaves."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Shadow cuts interrupted canopy bars and short bark breaks varied smooth trunks."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Small right-bank plant stayed below fern scale; left stone gained darker lower facet."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Facets broke dark cascade ledge and brief foam marks distinguished falling from flat water."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Moss notches, bark fissure and knot interrupted log\u2019s long surface."
+      },
+      {
+        "afterStroke": 96,
+        "text": "New stone accents became isolated bright dots that competed with cascade; seedling veins remained small."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Broader muted passes softened stone dots but enlarged their light areas. Short cascade strengthened as brightest accent, and pool ripple shortened with visible cover mixing. Pale distance, dark banks, connected log and seedling held together. Rounded foliage, stylized fern cuts, acrylic speckles and regular oil ridges remained. Stop to avoid building competing lights."
+      }
+    ],
+    "evidence": [
+      "examples/where-the-forest-drinks.json",
+      "examples/previews/where-the-forest-drinks.png",
+      "artifacts/where-the-forest-drinks/100-whole.png",
+      "artifacts/where-the-forest-drinks/100-close.png"
+    ],
+    "inspectionEvidence": "Actual paired whole and settled 2x close browser screenshots at 25 distinct boundaries retained under artifacts. Framing corrections prompted repeat pairs at 4 and 64. Final pair committed; all live notes and camera moments preserved in replay.",
+    "engineRevision": "06a9f7f0502b4a0fea7c7f477981ff30a1c1bfc1",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Repeat a small three-plane forest composition with a fixed palette and renderer. Compare one short acrylic water light to oil at matched size, flow and pressure; keep stone lights at least one value darker. Measure by paired visual review rather than stroke count.",
+    "assessment": {
+      "source": "Live browser observations, final paired review and actual browser exports.",
+      "humanRating": null,
+      "improvementClaim": "The longer session allowed joined ground bands, log-plane correction, bank contacts, seedling, fern and a revised light hierarchy. Several corrections were partial: pool covering mixed visibly, stone lights widened, canopy remained rounded and oil ridges stayed regular. More marks do not establish improvement; no controlled comparison or independent rating."
+    }
   }
 ]
