@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Trumpet for the blue hour
+
+[![A pale datura trumpet and hanging bud against violet dusk](public-gallery/paintings/trumpet-for-the-blue-hour/finished.png)](https://atelier.randomdrake.com/#painting/trumpet-for-the-blue-hour)
+
+An original evening flower in **112 marks**, developed through **29 whole-and-close inspection boundaries**. Broad loaded overlaps closed the hollow trumpet; a single short lip light stayed focal. A blue fold was reduced with ivory, while watery background gestures barely changed dry bands. Faceted lobes, blunt leaf ends and regular oil ridges remain. Inspired by the [NPS Arches datura guide](https://www.nps.gov/arch/learn/nature/solanaceae_datura_wrightii.htm). The broadcast ended with all 112 marks confirmed.
+
+[Watch the trumpet unfold →](https://atelier.randomdrake.com/#painting/trumpet-for-the-blue-hour)
+
 ### Still water, long shadow
 
 [![A blue heron among cattails in quiet green marsh water](public-gallery/paintings/still-water-long-shadow/finished.png)](https://atelier.randomdrake.com/#painting/still-water-long-shadow)

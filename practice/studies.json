@@ -1038,5 +1038,71 @@
       "humanRating": null,
       "improvementClaim": "Filled belly and broad neck plane solved visible block-in problems. Curved grass points helped locally; covers and tail taper were partial failures. No controlled comparison or independent quality rating."
     }
+  },
+  {
+    "id": "trumpet-for-the-blue-hour",
+    "title": "Trumpet for the blue hour",
+    "date": "2026-10-15",
+    "session": "examples/trumpet-for-the-blue-hour.json",
+    "finishedImage": "examples/previews/trumpet-for-the-blue-hour.png",
+    "media": [
+      "oil",
+      "watercolor"
+    ],
+    "goal": "Join the trumpet from broad filled shadow planes and reserve the brightest paint for one short rim.",
+    "inspiration": {
+      "description": "NPS Arches evening-opening datura guide sparked an original imagined trumpet and hanging bud in violet dusk; no finished composition copied.",
+      "url": "https://www.nps.gov/arch/learn/nature/solanaceae_datura_wrightii.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Overlapping watercolor passes closed bright horizontal gaps; wash banding remained."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Broad loaded oil overlaps closed the forked hollow tube and established a dark mouth."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Broader leaf middles filled seams; blunt round ends remained despite taper extensions at 44."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Loaded ivory fold survived whole view and separated outer wall from cool throat."
+      },
+      {
+        "afterStroke": 76,
+        "text": "Low-load watercolor gestures barely changed the dry bands. Thin oil stems at 80 made a clearer interruption."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Cool fold became an isolated blue slash at 84; broad ivory overlap reduced it."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Single short loaded ivory lip stroke stayed compact and visible at whole view."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Final refinement quieted a long leaf vein and softened mouth and petal transitions. Joined trumpet, unequal leaves, hanging bud and small focal light hold. Faceted rim, angular bud, rounded leaf ends and regular oil ridges remain."
+      }
+    ],
+    "evidence": [
+      "examples/trumpet-for-the-blue-hour.json",
+      "examples/previews/trumpet-for-the-blue-hour.png",
+      "artifacts/trumpet-for-the-blue-hour/112-whole-crop.jpg",
+      "artifacts/trumpet-for-the-blue-hour/112-close-crop.jpg",
+      "artifacts/trumpet-for-the-blue-hour/112-upper.jpg"
+    ],
+    "inspectionEvidence": "29 paired inspection boundaries. Initial whole view at 4 observed but not saved. The first 8-mark whole capture caught playback and poor framing; both views repeated settled before continuing. From 12 onward unique full-page screenshots retained and cropped for inspection. Extra upper flower pans at 32 and 112. Final whole/close pair and upper view committed. Screenshots are JPEG; artwork export is actual PNG.",
+    "engineRevision": "da700d93372bb4e91eccbb200d8ba4d6f1cbcd35",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Repeat a small trumpet with fixed palette and renderer, comparing filled petal planes with narrow contour-built lobes. Match pressure and thickness, then test one short rim light. Inspect top-centered close views earlier.",
+    "assessment": {
+      "source": "Live browser observations, paired final review, upper pan and actual browser exports.",
+      "humanRating": null,
+      "improvementClaim": "Broad overlaps and the short light solved visible local goals. Rim curvature and leaf taper remain unresolved. No controlled comparison or independent quality rating."
+    }
   }
 ]
