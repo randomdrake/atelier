@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### River watch
+
+[![An imagined belted kingfisher on a curved branch above quiet green water](public-gallery/paintings/river-watch/finished.png)](https://atelier.randomdrake.com/#painting/river-watch)
+
+An original kingfisher in **96 marks**, developed through **26 paired inspection boundaries** and an upper head review. Broad overlapping planes filled the body; curved gestures established the perch and one short brow light held the focus. Narrow band covers left pale rims; regular oil ridges remain. The live broadcast ended with all 96 marks acknowledged.
+
+[Watch the river study unfold →](https://atelier.randomdrake.com/#painting/river-watch)
+
 ### The pearl turn
 
 [![A cream-and-rust spiral nautilus shell on slate-blue cloth](public-gallery/paintings/the-pearl-turn/finished.png)](https://atelier.randomdrake.com/#painting/the-pearl-turn)

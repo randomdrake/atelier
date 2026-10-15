@@ -1265,5 +1265,91 @@
       "humanRating": null,
       "improvementClaim": "Joined planes, restored coil and short focal light solved local goals. Shadow and band covers were partial failures. No controlled comparison or independent quality rating."
     }
+  },
+  {
+    "id": "river-watch",
+    "title": "River watch",
+    "date": "2026-10-15",
+    "session": "examples/river-watch.json",
+    "finishedImage": "examples/previews/river-watch.png",
+    "media": [
+      "oil",
+      "watercolor"
+    ],
+    "goal": "Join broad body planes, curve the perch with long gestures, and reserve one short focal head light.",
+    "inspiration": {
+      "description": "NPS belted kingfisher guide sparked an original imagined blue-and-rust bird above quiet green water on a weathered branch; no finished composition copied.",
+      "url": "https://www.nps.gov/prsf/learn/nature/belted-kingfisher.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Overlapping watercolor passes closed bright channels; soft horizontal bands remained."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Broad crosswise blue pass closed most of the river-colored hole in body; pale breast was still an outline."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Broad pale overlaps filled breast and separated it from folded blue wing."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Two bent feet and curved toes established grip around perch."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Blue midtone reduced overly dark wing seam; lower breast light became too strong."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Local blue cover only partly reduced dark feather hook; broken bark visible in close view."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Watercolor reeds stayed soft and distant."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Thin oil reeds registered more clearly than wash reeds; bends remained angular. Uncontrolled media comparison."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Band covers partly softened blunt ends but left pale rims."
+      },
+      {
+        "afterStroke": 77,
+        "text": "One short loaded brow light stayed compact and visible at whole view."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Upper close camera confirmed distinct eye, compact brow light and unequal crest; head remains faceted."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Narrow bridges joined detached reed tips; branch extensions only partly tapered rounded caps."
+      },
+      {
+        "afterStroke": 96,
+        "text": "Final refinement quieted lower breast and joined shoulder to collar. Broad form, curved perch and compact head light hold; bar-like bands, faceted edges, wash seams and regular ridges remain."
+      }
+    ],
+    "evidence": [
+      "examples/river-watch.json",
+      "examples/previews/river-watch.png",
+      "artifacts/river-watch/96-whole-crop.jpg",
+      "artifacts/river-watch/96-close-crop.jpg",
+      "artifacts/river-watch/80-upper-crop.jpg"
+    ],
+    "inspectionEvidence": "26 settled paired whole-and-close screenshot inspections, plus upper head pan at 80. Whole camera click at 8 timed out; verified exact completed count and At rest, then repeated successful pair before more painting. At 4 whole screenshot was first clipped by viewport; full-page paired captures were cropped before continuing. Unique JPEG screenshots retained locally; final pair and upper head crop committed. Artwork export is actual 900x620 PNG. Camera transitions waited 900ms and showed Whole painting or Looking closer 2.0\u00d7.",
+    "engineRevision": "ca1f8b74ffa0bcc7a2ba9c06f2780d760ef140f5",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "With fixed palette, medium and renderer, compare a broad crosswise fill with parallel contour fills for a bird body. Compare matched many-point and three-point perch curves. Test tapered chest-band ends on separate swatches before silhouette corrections.",
+    "assessment": {
+      "source": "Live browser observations, paired settled screenshots, actual browser exports and hosted ended receipt.",
+      "humanRating": null,
+      "improvementClaim": "Joined planes, curved perch and one compact light achieved local goals. Narrow band covers were partial failures. No controlled comparison or independent quality rating."
+    }
   }
 ]

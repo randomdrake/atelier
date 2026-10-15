@@ -1,5 +1,23 @@
 [
   {
+    "id": "river-watch",
+    "title": "River watch",
+    "description": "An imagined blue-and-rust kingfisher on a curved weathered branch above quiet green water.",
+    "process": "AI agent painted 96 animated marks in 1–4-stroke batches, with 26 paired settled whole/close inspections and an upper head pan. Live easel notes record corrections; a broad crosswise plane closed the hollow body and a short brow light stayed focal. Band covers left pale rims and regular ridges remain. Public broadcast ended with all 96 marks confirmed.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 96,
+    "moments": 79,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/river-watch/session.json",
+    "image": "/paintings/river-watch/finished.png",
+    "addedAt": "2026-10-15T21:14:11.681Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-15"
+  },
+  {
     "id": "the-pearl-turn",
     "title": "The pearl turn",
     "description": "An imagined cream-and-rust nautilus shell on slate-blue cloth",
