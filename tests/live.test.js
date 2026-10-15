@@ -335,7 +335,7 @@ test('the return sign uses the next Pacific weekday hour, including DST weekends
   const cases=[
     ['2026-10-15T14:30:00Z','2026-10-15T15:00:00.000Z','à 8 h'],
     ['2026-10-15T16:16:00Z','2026-10-15T17:00:00.000Z','à 10 h'],
-    ['2026-10-15T22:00:00Z','2026-10-16T15:00:00.000Z','à 8 h'],
+    ['2026-10-15T22:15:00Z','2026-10-16T15:00:00.000Z','à 8 h'],
     ['2026-10-16T22:16:00Z','2026-10-19T15:00:00.000Z','à 8 h'],
     ['2026-10-30T22:16:00Z','2026-11-02T16:00:00.000Z','à 8 h'],
     ['2026-03-06T23:16:00Z','2026-03-09T15:00:00.000Z','à 8 h']
@@ -345,4 +345,29 @@ test('the return sign uses the next Pacific weekday hour, including DST weekends
   }
   assert.equal(returnSchedule(Date.parse('2026-10-15T16:16:00Z')).date,'aujourd’hui');
   assert.match(returnSchedule(Date.parse('2026-10-16T22:16:00Z')).date,/lundi 19 octobre/);
+});
+
+test('the return sign allows fifteen minutes for scheduled studio startup',()=>{
+  for(const timestamp of ['2026-10-15T17:00:00Z','2026-10-15T17:04:00Z','2026-10-15T17:14:59Z']){
+    const sign=returnSchedule(Date.parse(timestamp));
+    assert.equal(sign.at,'2026-10-15T17:00:00.000Z');
+    assert.equal(sign.time,'prévu à 10 h');
+    assert.equal(sign.greeting,'Un petit retard…');
+    assert.equal(sign.message,'L’artiste arrive bientôt');
+  }
+  assert.equal(returnSchedule(Date.parse('2026-10-15T17:15:00Z')).time,'à 11 h');
+  // The last slot still gets startup time, then the sign rolls to Monday.
+  assert.equal(returnSchedule(Date.parse('2026-10-16T22:04:00Z')).time,'prévu à 15 h');
+  assert.equal(returnSchedule(Date.parse('2026-10-16T22:15:00Z')).at,'2026-10-19T15:00:00.000Z');
+  assert.equal(returnSchedule(Date.parse('2026-10-17T17:04:00Z')).time,'à 8 h');
+  // Startup follows Pacific local time on both sides of daylight saving.
+  assert.equal(returnSchedule(Date.parse('2026-11-02T16:04:00Z')).time,'prévu à 8 h');
+  assert.equal(returnSchedule(Date.parse('2026-03-09T15:04:00Z')).time,'prévu à 8 h');
+});
+
+test('a broadcast already started in this slot is not described as running late',()=>{
+  const now=Date.parse('2026-10-15T17:10:00Z');
+  const startedAt=Date.parse('2026-10-15T17:05:00Z');
+  for(const activity of ['ended','looking'])assert.equal(returnSchedule(now,{startedAt,activity}).time,'à 11 h');
+  assert.equal(returnSchedule(now,{startedAt:Date.parse('2026-10-15T16:05:00Z'),activity:'ended'}).time,'prévu à 10 h');
 });

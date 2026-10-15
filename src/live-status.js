@@ -42,14 +42,25 @@ const dayKey=date=>{const p=parts(date);return p.year+'-'+p.month+'-'+p.day;};
 
 // Inspect actual instants in Pacific time, rather than assuming a fixed UTC
 // offset. This carries the weekday schedule across daylight-saving changes.
-export function returnSchedule(now=Date.now()){
+export function returnSchedule(now=Date.now(),state=null){
   const hour=3600000;
+  const slot=Math.floor(now/hour)*hour;
+  const current=parts(slot);
+  const scheduled=!['Sat','Sun'].includes(current.weekday)&&Number(current.hour)>=8&&Number(current.hour)<=15;
+  // Startup checks take a few minutes. Do not announce the next hour while
+  // this slot is still waiting to begin, or call an already-finished slot late.
+  const alreadyStarted=Number.isFinite(state?.startedAt)&&state.startedAt>=slot&&state.startedAt<=now;
+  if(scheduled&&now-slot<15*60000&&!alreadyStarted){
+    return {at:new Date(slot).toISOString(),time:'prévu à '+Number(current.hour)+' h',
+      date:'merci de patienter',greeting:'Un petit retard…',message:'L’artiste arrive bientôt'};
+  }
   for(let at=(Math.floor(now/hour)+1)*hour;at<=now+8*24*hour;at+=hour){
     const p=parts(at);
     if(['Sat','Sun'].includes(p.weekday)||Number(p.hour)<8||Number(p.hour)>15)continue;
     const date=dayKey(at)===dayKey(now)?'aujourd’hui':
       new Intl.DateTimeFormat('fr-FR',{timeZone:'America/Los_Angeles',weekday:'long',day:'numeric',month:'long'}).format(at);
-    return {at:new Date(at).toISOString(),time:'à '+Number(p.hour)+' h',date};
+    return {at:new Date(at).toISOString(),time:'à '+Number(p.hour)+' h',date,
+      greeting:'À bientôt',message:'L’artiste sera de retour'};
   }
   throw new Error('No painting time in the next week');
 }

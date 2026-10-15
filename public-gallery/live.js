@@ -38,6 +38,8 @@ const viewers=document.getElementById('live-viewers');
 const returnSign=document.getElementById('return-sign');
 const returnTime=document.getElementById('return-time');
 const returnDate=document.getElementById('return-date');
+const returnGreeting=returnSign.querySelector('.return-greeting');
+const returnMessage=returnSign.querySelector('.return-message');
 const feedClock=new LiveFeedClock();
 const reducedMotion=matchMedia('(prefers-reduced-motion: reduce)');
 let current=null,downloadURL=null,fetching=false,noteHistory=null,lastSnapshotKey='';
@@ -59,7 +61,8 @@ export function renderLive(state,now=feedClock.now()){
   setText(badge,presentation.badge);
   setText(navLabel,presentation.live?'AI painting live':'Studio offline');
   setText(activity,presentation.activity);dots.hidden=!presentation.live;
-  const next=returnSchedule(now);
+  const next=returnSchedule(now,state);
+  setText(returnGreeting,next.greeting);setText(returnMessage,next.message);
   setText(returnTime,next.time);returnTime.dateTime=next.at;setText(returnDate,next.date);
   returnSign.setAttribute('aria-hidden',String(presentation.live));
   panel.querySelector('.live-layout').hidden=false;
