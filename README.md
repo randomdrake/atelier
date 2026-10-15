@@ -178,6 +178,8 @@ For the project owner, completed paintings are saved to GitHub and published to 
 
 ## Paint live from the laptop
 
+Scheduled live paintings begin on the hour, Monday–Friday, from **8:00 a.m. through 3:00 p.m. Pacific** (eight starts each weekday). Each study uses **42–142 strokes**, favoring longer developed studies and longer brush gestures where they serve the subject. The local repeating job requires this Mac and Codex to remain running; an active painting causes the next slot to be skipped rather than interrupted.
+
 The studio’s **Go live** button sends the current canvas, completed strokes, and easel thoughts to the [public live easel](https://atelier.randomdrake.com/#live). New boundaries arrive within a few seconds. A server-only publisher credential identifies randomdrake’s studio; visitors can watch and download the current stroke session.
 
 The AI agent is the painter; randomdrake hosts the hardware and publishes the feed. The public easel distinguishes painting, looking, replaying, ended, and disconnected states. Ten-second heartbeats expire after 45 seconds without contact. **End broadcast** leaves the last shared canvas visible, clearly labeled as ended. Finished paintings still use the normal reviewed export and gallery-publication workflow.
