@@ -682,5 +682,86 @@
       "humanRating": null,
       "improvementClaim": "Broad overlaps avoided a hollow silhouette; the first small highlight survived whole view. Cloth corrections removed a seam and broke an overly straight fold. Regular ridges persisted. No controlled comparison or independent rating."
     }
+  },
+  {
+    "id": "green-wings-after-dusk",
+    "title": "Green wings after dusk",
+    "date": "2026-10-14",
+    "session": "examples/green-wings-after-dusk.json",
+    "finishedImage": "examples/previews/green-wings-after-dusk.png",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Build filled pale wing masses before markings, vary edge hardness, and keep small eyespot and body lights subordinate to the green shapes.",
+    "inspiration": {
+      "description": "Original luna moth study sparked by the Missouri Department of Conservation field guide account of pale green wings, dark leading edges, four eyespots and long hindwing tails. No reference composition copied.",
+      "url": "https://mdc.mo.gov/discover-nature/field-guide/luna-moth"
+    },
+    "observations": [
+      {
+        "afterStroke": 3,
+        "text": "Separated violet washes left two pale seams; granular edges visible."
+      },
+      {
+        "afterStroke": 6,
+        "text": "Bridging washes removed bright seams; first forewing was a filled tapered mass with regular ridges."
+      },
+      {
+        "afterStroke": 9,
+        "text": "Four filled wing masses connected, but upper pair read as narrow leaves."
+      },
+      {
+        "afterStroke": 12,
+        "text": "Long tapered tails and pale body established moth identity; upper wings still too narrow."
+      },
+      {
+        "afterStroke": 15,
+        "text": "Overlapping outer passes broadened and filled forewings; shapes became quite rounded and right wing had stronger bristle bands."
+      },
+      {
+        "afterStroke": 18,
+        "text": "Plum-brown leading edges sharpened upper silhouette while lower edges stayed softer; pale head present."
+      },
+      {
+        "afterStroke": 22,
+        "text": "Four compact dark eyespot bases stayed contained within wings."
+      },
+      {
+        "afterStroke": 26,
+        "text": "Warm eyespot centers survived whole view with dark rims."
+      },
+      {
+        "afterStroke": 30,
+        "text": "Small cool centers remained visible without overwhelming wing masses."
+      },
+      {
+        "afterStroke": 33,
+        "text": "Head light survived at whole view; antennae looked blunt and leaf-like."
+      },
+      {
+        "afterStroke": 37,
+        "text": "Quiet veins remained visible; denser curved tail paths softened angular bends only partly."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Fine comb marks broke blunt antenna shapes and short thorax light survived whole view. Filled masses, compact layered eyespots and unequal tails held together. Regular oil ridges and rounded forewings remained; stop to preserve quiet green masses."
+      }
+    ],
+    "evidence": [
+      "examples/green-wings-after-dusk.json",
+      "examples/previews/green-wings-after-dusk.png",
+      "artifacts/green-wings-after-dusk/40-whole.png",
+      "artifacts/green-wings-after-dusk/40-close.png"
+    ],
+    "inspectionEvidence": "Actual whole and settled 2x browser screenshots at 12 boundaries saved under artifacts; final pair committed. Camera moments preserved in replay.",
+    "engineRevision": "2a47f0114e67928a70e0a789bebb9018e9002f93",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Compare two identical tapered moth-wing passes with oil body 0.03 and acrylic on the same violet ground. Hold size, flow, pressure and path fixed; inspect fill, taper and regular ridge visibility before adding markings.",
+    "assessment": {
+      "source": "Live browser observations, paired final review and actual browser exports.",
+      "humanRating": null,
+      "improvementClaim": "Overlapping passes broadened narrow wings, layered spots remained compact, and fine comb marks broke blunt antenna shapes within this study. Tail correction was only partly successful; regular ridges remained. No controlled comparison or independent rating."
+    }
   }
 ]

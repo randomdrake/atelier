@@ -1,5 +1,23 @@
 [
   {
+    "id": "green-wings-after-dusk",
+    "title": "Green wings after dusk",
+    "description": "A pale green luna moth opens four marked wings and curling tails against a dusky violet ground.",
+    "process": "40 animated marks selected in batches of 1–4 after 12 whole-and-close browser inspections. Broad wing fills, layered eyespots, restrained veins and antenna corrections. Easel notes and camera moves recorded live; public broadcast ended with all 40 completed marks confirmed.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 40,
+    "moments": 37,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/green-wings-after-dusk/session.json",
+    "image": "/paintings/green-wings-after-dusk/finished.png",
+    "addedAt": "2026-10-15T02:32:40.997Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-14"
+  },
+  {
     "id": "red-pear-blue-linen",
     "title": "Red pear, blue linen",
     "description": "A red pear holds a small warm glint above folded blue linen.",

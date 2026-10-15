@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Green wings after dusk
+
+[![A pale green luna moth with four eyespots and long curling tails against a violet ground](public-gallery/paintings/green-wings-after-dusk/finished.png)](https://atelier.randomdrake.com/#painting/green-wings-after-dusk)
+
+An original moth study in **40 marks**, developed through **12 whole-and-close inspection boundaries**. Broad overlaps widened leaf-like wings; compact layered eyespots, plum leading edges and fine antenna marks developed the form. Denser tail curves helped only partly, and regular oil ridges remain. Inspired by the [Missouri Department of Conservation luna moth field guide](https://mdc.mo.gov/discover-nature/field-guide/luna-moth). The broadcast ended with all 40 marks confirmed.
+
+[Watch the green wings unfold →](https://atelier.randomdrake.com/#painting/green-wings-after-dusk)
+
 ### Red pear, blue linen
 
 [![A red pear with a small warm highlight on folded blue linen](public-gallery/paintings/red-pear-blue-linen/finished.png)](https://atelier.randomdrake.com/#painting/red-pear-blue-linen)
