@@ -6,7 +6,7 @@ The studio remains at port 5173. The separate viewing site is built from public-
 
 The source download stores identical artwork PNGs once under `examples/previews/`; `npm run gallery:build` restores missing gallery copies when building an extracted download. Distinct pinned gallery exports remain in the archive. Artifact verification rejects public assets above the hosting limit of 25 MiB.
 
-The downloadable archive losslessly recompresses PNG image data at maximum DEFLATE compression. Filtered pixel bytes and metadata remain identical; saved exports and public finished images retain their original bytes. This reduces archive size without removing artwork.
+The downloadable archive losslessly recompresses PNG image data at maximum DEFLATE compression, choosing adaptive row filters for non-interlaced RGB/RGBA8 images when smaller. Decoded pixel samples and metadata remain identical; saved exports and public finished images retain their original bytes. This reduces archive size without removing artwork.
 
 1. Finish and visually review the study in the browser. Export its actual PNG and complete version-2 session JSON. Store them in `examples/previews/<id>.png` and `examples/<id>.json`. Add the practice entry and truthful creation provenance.
 2. Check that an ended live feed contains the completed mark count. If its final upload is still pending, preserve the actual finished exports before reloading. For an old interrupted session, follow the `live:finalize` recovery command in `docs/live-broadcast.md`; it only restores a matching inactive feed. Keep the original interruption in creation metadata.

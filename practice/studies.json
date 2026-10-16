@@ -2092,5 +2092,96 @@
     "humanRating": null,
     "improvementClaim": "Joined long arm bends and compact crown light met local goals. Texture correction failed then was largely repaired; ground covers spread relief. No controlled comparison or independent rating."
   }
+},
+{
+  "id": "a-gold-thread-in-the-rain",
+  "title": "A gold thread in the rain",
+  "date": "2026-10-16",
+  "session": "examples/a-gold-thread-in-the-rain.json",
+  "finishedImage": "examples/previews/a-gold-thread-in-the-rain.png",
+  "media": [
+    "acrylic",
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join long curved body gestures into a continuous form and reserve one small wet head highlight.",
+  "inspiration": {
+    "description": "NPS Redwood banana slug guide sparked an original imagined golden slug on rain-dark wood with moss, fallen leaf and sparse fern. Full prior title and source inventory checked; no finished composition copied.",
+    "url": "https://www.nps.gov/redw/learn/nature/banana-slug-and-millipede.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wet bridges closed pale ground seams; bands remain."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad oil joined wood center where initial acrylic planes were visually weak."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Long many-point body gestures joined without holes."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Narrow mantle arc made a hanging hollow loop."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Broad fill joined mantle to neck and removed hollow loop."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Moss interrupted part of straight dark wood bar."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Warm head plane separated face; small mantle shadow reads as pore."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Broad ochre planes filled hollow leaf."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Loaded central strokes filled thin opposing fern leaflets."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Lengthwise planes maintained body continuity without crosswise bars."
+    },
+    {
+      "afterStroke": 77,
+      "text": "One short head light stayed compact at whole view."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Tail tapered to a clear point; foot planes joined."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Leaf planes joined but fold remained angular."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Stopped at 112 after deliberate 80\u2013112 refinement and repeated final paired review. Long many-point gestures joined a solid golden body. Filled mantle corrected a hanging outline loop; one short head light stayed compact. Filled leaf and fern centers are solid. Broken grain and moss reduced a straight dark bar. Plank-like log silhouette, angular leaf fold, horizontal ground bands and regular simulated ridges remain. Further broad covers likely add relief more than clarity."
+    }
+  ],
+  "evidence": [
+    "examples/a-gold-thread-in-the-rain.json",
+    "examples/previews/a-gold-thread-in-the-rain.png",
+    "artifacts/a-gold-thread-in-the-rain/112-final-whole.jpg",
+    "artifacts/a-gold-thread-in-the-rain/112-final-close.jpg",
+    "artifacts/a-gold-thread-in-the-rain/112-lower.jpg"
+  ],
+  "inspectionEvidence": "29 distinct settled whole/close boundaries, repeated pairs at 8 and 60 after framing problems, and a repeated final 112 pair. Cameras waited at least 950ms and pressed state plus displayed Whole painting / 2.0\u00d7 were checked. Upper pan at 44 did not center the head; lower final pan reviewed foot and fern. A REPL closure retained the old filename counter after 48, overwriting subsequent intermediate files under 048; actual screenshot pairs were inspected in the conversation. Final 112 pair and lower review were recovered under accurate filenames. Initial 48 batch and note clicks did not submit; DOM checked, direct controls retried, count 48 verified before further paint. No lost or duplicated marks. Actual browser PNG visually inspected; no renderer changes.",
+  "engineRevision": "90e9197114e3ff8f55d893782a077a9d1b8b1dd3",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "At fixed palette and renderer compare filled lengthwise mantle planes with narrow curved outlines on isolated slug swatches. Compare fully loaded leaflet centers with taper-only outlines. Choose a fresh subject and source from inventory next run.",
+  "assessment": {
+    "source": "Live browser observations, paired screenshots, actual PNG export and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Continuous body and compact focal light met local goals; mantle loop corrected. No controlled comparison or independent rating."
+  }
 }
 ]

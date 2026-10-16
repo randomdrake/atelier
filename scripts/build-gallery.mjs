@@ -4,7 +4,7 @@ import {tmpdir} from 'node:os';
 import {execFileSync} from 'node:child_process';
 import {root} from './add-gallery-painting.mjs';
 import {restoreGalleryArtwork} from './gallery-artwork.mjs';
-import {compactPNG} from './compact-png.mjs';
+import {refilterPNG} from './compact-png.mjs';
 const output=join(root,'dist');await rm(output,{recursive:true,force:true});await mkdir(output,{recursive:true});await cp(join(root,'public-gallery'),output,{recursive:true});await cp(join(root,'LICENSE'),join(output,'LICENSE.txt'));await cp(join(root,'src/pacing.js'),join(output,'pacing.js'));
 await cp(join(root,'src/thought-links.js'),join(output,'thought-links.js'));
 for(const file of ['live-status.js','camera.js','live-camera.js'])await cp(join(root,'src',file),join(output,file));
@@ -26,7 +26,7 @@ try{
   const paths=execFileSync('unzip',['-Z1',archive],{encoding:'utf8'}).split('\n').filter(path=>path.endsWith('.png'));
   const changed=[];
   for(const path of paths){
-    const original=await readFile(join(root,path)),compact=compactPNG(original);
+    const original=await readFile(join(root,path)),compact=refilterPNG(original);
     if(compact.length>=original.length)continue;
     await mkdir(dirname(join(compactRoot,path)),{recursive:true});await writeFile(join(compactRoot,path),compact);changed.push(path);
   }
