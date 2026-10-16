@@ -1976,5 +1976,121 @@
       "humanRating": null,
       "improvementClaim": "Joined mass and flowing long coil met local goals; focal light remained subtle. Repeated small planes interrupted walls and ground covers spread relief. No controlled comparison or independent rating."
     }
+  },
+{
+  "id": "arms-full-of-evening",
+  "title": "Arms full of evening",
+  "date": "2026-10-16",
+  "session": "examples/arms-full-of-evening.json",
+  "finishedImage": "examples/previews/arms-full-of-evening.png",
+  "media": [
+    "acrylic",
+    "oil",
+    "watercolor"
+  ],
+  "goal": "Join long curved arm gestures into solid green forms, then keep warm light on selected cactus ribs.",
+  "inspiration": {
+    "description": "NPS saguaro guide sparked an original imagined saguaro at evening with distant columns, stones, grass and a small agave; no finished composition copied. Full prior study inventory checked before selection.",
+    "url": "https://www.nps.gov/sagu/learn/nature/saguaro.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Watercolor bridges joined most pale ground seams; horizontal bands remain."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Two long many-point arm gestures joined trunk without holes; crown cap remained angular."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Warm left planes began turning form; cast shadow became a hard rectangular bar."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Matching earth covers extended shadow relief rather than hiding it; failed correction."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Loaded stone oil mixed darkly; acrylic did not visibly replace wet oil surface or relief."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Short paler loaded oil facets made stone lights visible; curved right arm plane read. Dark left rib overshot into trunk."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Broad green join removed dark overshoot; watercolor distant cactus stayed ghosted."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Agave blades converged cleanly; inner folds separated at whole view. Tips remained angular."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Crown interior planes softened turns without rounding exterior cap."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Long pale earth gestures became visible but added heavy relief. Lower review confirmed strong shadow edge."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Interrupted light gestures broke continuous trunk stripe; regular ridges remain."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Sparse small spine test stayed quiet in whole view, visible close up."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Single short crown light stayed compact; upper pan verified its edge."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Left stone facet turned; right lower facet became harsh bar."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Broader warm face reduced stone bar; agave folds stayed secondary."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Crosswise green texture facets created dark bars across trunk light; failed experiment."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Vertical light overlaps largely reconnected trunk plane, leaving texture seams."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Grass curves branched; warm stone-ground join made a small ridged ledge."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Tapered base and arm interior overlaps kept lights within silhouette."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Stopped at 112 after deliberate 80–112 refinement and paired final review. Long many-point gestures joined solid arm bends; selected warm ribs turn the cactus and one compact crown light holds focus. Vertical overlaps largely repaired dark bars caused by crosswise texture planes. Matching ground covers spread relief; short pale loaded stone facets read more clearly. Faceted crown, angular agave tips, strong horizontal cast shadow, foreground ledges and regular simulated ridges remain. Further covering likely adds texture more than clarity."
+    }
+  ],
+  "evidence": [
+    "examples/arms-full-of-evening.json",
+    "examples/previews/arms-full-of-evening.png",
+    "artifacts/arms-full-of-evening/112-whole-final.jpg",
+    "artifacts/arms-full-of-evening/112-close-final.jpg",
+    "artifacts/arms-full-of-evening/060-lower.jpg",
+    "artifacts/arms-full-of-evening/077-upper.jpg"
+  ],
+  "inspectionEvidence": "29 distinct settled whole/close screenshot boundaries plus repeated final 112 pair, lower 60 and upper 77 pans. Cameras waited 950ms and pressed state plus displayed Whole painting / 2.0× checked. All numeric pairs retained locally; final pair and two pans committed. Initial camera assertion at 4 failed because active preceded pressed; corrected before further paint. At 8 crop framing was incorrect; switched to fullPage:true with measured page coordinates and repeated pair before more marks. Actual browser PNG 900x620 visually inspected. No renderer changes.",
+  "engineRevision": "a074e3c55fc7e6b9d9ab578f5c5159fec33f5488",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "At fixed palette and renderer compare curved many-point arm gestures with three-point bends. On isolated rib swatches compare crosswise facets against interrupted vertical planes at identical load and pressure; test short pale versus matching-color ground covers before touching a scene. Choose a fresh subject/source from inventory.",
+  "assessment": {
+    "source": "Live browser observations, settled screenshot pairs, actual PNG export and hosted ended receipt.",
+    "humanRating": null,
+    "improvementClaim": "Joined long arm bends and compact crown light met local goals. Texture correction failed then was largely repaired; ground covers spread relief. No controlled comparison or independent rating."
   }
+}
 ]

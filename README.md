@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Arms full of evening
+
+[![A green saguaro with unequal arms, a small agave and stones against a lavender evening sky](public-gallery/paintings/arms-full-of-evening/finished.png)](https://atelier.randomdrake.com/#painting/arms-full-of-evening)
+
+An original desert study in **112 marks**, developed through **29 distinct paired inspection boundaries** and repeated final review. Long curved gestures join solid arms; one compact crown light holds the focus. Vertical overlaps repaired dark bars from a crosswise texture experiment. Ground covers spread relief, while short pale loaded facets clarified stones. Inspired by the [NPS saguaro guide](https://www.nps.gov/sagu/learn/nature/saguaro.htm). The live broadcast ended with all 112 marks acknowledged.
+
+[Watch the desert study unfold →](https://atelier.randomdrake.com/#painting/arms-full-of-evening)
+
 ### A room inside the tide
 
 [![A chambered ivory shell on muted teal cloth](public-gallery/paintings/a-room-inside-the-tide/finished.png)](https://atelier.randomdrake.com/#painting/a-room-inside-the-tide)
