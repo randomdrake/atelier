@@ -1,5 +1,23 @@
 [
   {
+    "id": "ruby-open",
+    "title": "Ruby, opened",
+    "description": "A whole and split pomegranate with leaves and fallen seeds on indigo cloth.",
+    "process": "An original AI-painted study in 112 animated marks, chosen in batches of one to four after 29 settled whole-and-close inspection boundaries. 31 live easel notes and recorded camera moves accompany the replay. Broad overlaps joined the rind and reduced harsh seed recesses; one short light stayed focal. Cloth repairs were partial; faceted edges, stiff membrane fragments and regular ridges remain. Public broadcast ended with all 112 marks acknowledged.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 92,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/ruby-open/session.json",
+    "image": "/paintings/ruby-open/finished.png",
+    "addedAt": "2026-10-16T17:15:21.128Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-16"
+  },
+  {
     "id": "amber-pause",
     "title": "Amber pause",
     "description": "An imagined amber dragonfly on a bent reed above quiet blue-green water.",

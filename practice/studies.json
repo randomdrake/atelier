@@ -1652,5 +1652,103 @@
       "humanRating": null,
       "improvementClaim": "Joined wing masses and compact focal light met local goals. Narrow covers failed, broad reclaim partly repaired them; no controlled comparison or independent rating."
     }
+  },
+  {
+    "id": "ruby-open",
+    "title": "Ruby, opened",
+    "date": "2026-10-16",
+    "session": "examples/ruby-open.json",
+    "finishedImage": "examples/previews/ruby-open.png",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Join rounded rind planes with broad overlaps, vary seed shapes, and retain one compact focal light.",
+    "inspiration": {
+      "description": "NPS Tumacácori orchard guide sparked an original imagined whole and split pomegranate with leaves and fallen seeds on indigo cloth; no finished composition copied.",
+      "url": "https://www.nps.gov/places/tour-orchard.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Broad overlapping washes closed ground gaps; horizontal bands remained."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Crosswise red overlap closed the blue slit inside the whole rind."
+      },
+      {
+        "afterStroke": 28,
+        "text": "A red crossing filled the cut face; closely sampled pale arc stayed continuous but faceted."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Unequal seed clusters read at whole view with dark gaps; membranes remained spoke-like."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Broad crosswise shoulder planes warmed the lit side; regular ridges remained."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Upper camera caught pale top-edge gap; broad watercolor pass covered it. Leaves joined with quiet inner planes."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Blue cloth covers enlarged ridged patches instead of hiding dark shadow bar ends; failed repair."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Loaded cloth partly shortened lower fold but left conspicuous ridged patches; uncontrolled load comparison."
+      },
+      {
+        "afterStroke": 77,
+        "text": "Single short loaded rind light stayed compact and focal at whole and close view."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Unequal seed overlaps interrupted central spoke symmetry partly."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Fuller lower rind added weight; upper lip widened and stayed faceted."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Dark seed recesses became harsh lines close up."
+      },
+      {
+        "afterStroke": 96,
+        "text": "Red overlaps reduced harsh seed recess lines to small nicks."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Sparse rind flecks visible close up, subordinate to regular bristle ridges."
+      },
+      {
+        "afterStroke": 108,
+        "text": "Warm overlaps narrowed the dark crescent and joined lower rind."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Stopped at 112 after deliberate 84–112 refinement and paired final review. Broad overlaps joined the rind and narrowed harsh seed recesses; unequal clusters interrupt the spokes and one compact rind light remains focal. Faceted rims, straight membrane fragments, hard cloth bars, ridged cover patches and regular simulated ridges remain. More covering is likely to add texture rather than clarify form."
+      }
+    ],
+    "evidence": [
+      "examples/ruby-open.json",
+      "examples/previews/ruby-open.png",
+      "artifacts/ruby-open/112-whole-final.jpg",
+      "artifacts/ruby-open/112-close-final.jpg",
+      "artifacts/ruby-open/60-upper.png"
+    ],
+    "inspectionEvidence": "29 distinct settled whole/close inspection boundaries plus a repeated final 112 pair. Measured canvas-wrap crops retained locally; final pair and upper 60 camera screenshot committed. Cameras waited 900ms and pressed state verified; screenshots display Whole painting / 2.0×. Initial camera assertion failed because active was inserted before pressed; corrected and completed pair at 4 before continuing. At 60 the paired screenshots completed but an unsupported note kind failed; repeated pair and posted a supported notice with upper preset before more paint. Actual browser-exported PNG 900x620 visually inspected.",
+    "engineRevision": "f2e86c77a19ebc6407f5901e1df14e80487707a0",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer compare crosswise versus contour rind fills; test broad cloth covers at matched load on isolated swatches before shadow repair. Compare curved versus straight membrane branches with unequal seed overlap.",
+    "assessment": {
+      "source": "Live browser observations, settled screenshot pairs, actual PNG export and hosted ended receipt.",
+      "humanRating": null,
+      "improvementClaim": "Joined rind and compact focal light met local goals; cloth covers only partly corrected hard bars. No controlled comparison or independent rating."
+    }
   }
 ]

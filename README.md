@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Ruby, opened
+
+[![A whole and split pomegranate with leaves and fallen seeds on indigo cloth](public-gallery/paintings/ruby-open/finished.png)](https://atelier.randomdrake.com/#painting/ruby-open)
+
+An original orchard still life in **112 marks**, developed through **29 distinct paired inspection boundaries** and a repeated final review. Broad overlaps closed a rind slit and reduced harsh seed shadows; unequal clusters break the membrane spokes while one short rind light holds the focus. Cloth covers partly shortened dark folds but left ridged patches. Inspired by the [Tumacácori orchard guide](https://www.nps.gov/places/tour-orchard.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the pomegranate study unfold →](https://atelier.randomdrake.com/#painting/ruby-open)
+
 ### Amber pause
 
 [![An amber dragonfly on a bent reed above blue-green water](public-gallery/paintings/amber-pause/finished.png)](https://atelier.randomdrake.com/#painting/amber-pause)
