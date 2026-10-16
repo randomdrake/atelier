@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Cups of borrowed sun
+
+[![Two golden California poppies and a closed bud in a cool field](public-gallery/paintings/cups-of-borrowed-sun/finished.png)](https://atelier.randomdrake.com/#painting/cups-of-borrowed-sun)
+
+An original flower study in **112 marks**, developed through **29 settled whole-and-close inspection boundaries**. Broad filled planes joined the cups; loaded orange repaired hard rust fold bars, and one short restored lip light stays compact. Scalloped tops, angular foliage, field bands and regular simulated ridges remain. Inspired by the [NPS California poppy guide](https://www.nps.gov/prsf/learn/nature/california-poppy.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the poppy study unfold →](https://atelier.randomdrake.com/#painting/cups-of-borrowed-sun)
+
 ### Arms full of evening
 
 [![A green saguaro with unequal arms, a small agave and stones against a lavender evening sky](public-gallery/paintings/arms-full-of-evening/finished.png)](https://atelier.randomdrake.com/#painting/arms-full-of-evening)

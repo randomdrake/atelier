@@ -2183,5 +2183,104 @@
     "humanRating": null,
     "improvementClaim": "Continuous body and compact focal light met local goals; mantle loop corrected. No controlled comparison or independent rating."
   }
+},
+{
+  "id": "cups-of-borrowed-sun",
+  "title": "Cups of borrowed sun",
+  "date": "2026-10-16",
+  "session": "examples/cups-of-borrowed-sun.json",
+  "finishedImage": "examples/previews/cups-of-borrowed-sun.png",
+  "media": [
+    "acrylic",
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad filled poppy cup planes and reserve one short focal petal light.",
+  "inspiration": {
+    "description": "Original imagined two California poppies and a closed bud in a cool field, sparked by the NPS California poppy guide. Prior full study/source inventory checked. No finished composition copied.",
+    "url": "https://www.nps.gov/prsf/learn/nature/california-poppy.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wet bridges closed pale field seams; horizontal bands remain."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad overlapping main petals joined without a hollow center."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Calyxes landed too high on flower faces."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Loaded front petals reduced green patches and joined cup faces."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Rear lip strokes made angular gold bands."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Loaded central passes strengthened thin leaf lobes."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Warm planes partly interrupted gold bands."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Rust folds became hard dark bars."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Broad loaded orange largely repaired dark fold bars."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Broad green filled bud bend into a closed pod; warm overlaps reduced calyx remnants."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Single short main lip light remained compact in whole view."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Lower camera confirmed joined base and sparse divided foliage; long spines remained."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Tapers interrupted stick-like base ends."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Rear shoulders joined but scallops remained; compact light partly covered."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Warm overlaps softened some central petal edges."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Restored short focal light stays compact. Joined orange cups, a filled bud and sparse divided foliage read clearly. Scalloped tops, angular leaves, field bands and regular simulated ridges remain. Stopped after paired final review because more broad covers likely add relief rather than clarity."
+    }
+  ],
+  "evidence": [
+    "examples/cups-of-borrowed-sun.json",
+    "examples/previews/cups-of-borrowed-sun.png",
+    "artifacts/cups-of-borrowed-sun/112-final-whole.jpg",
+    "artifacts/cups-of-borrowed-sun/112-final-close.jpg",
+    "artifacts/cups-of-borrowed-sun/084-lower.jpg"
+  ],
+  "inspectionEvidence": "Animated 1\u20134-stroke batches, settled whole and 2.0x close screenshots at 29 distinct boundaries; repeated final pair and lower pan at 84. Camera settled for 1000ms and pressed/displayed zoom checked. At 4 assertion rejected active+pressed before capture; corrected. At 8 camera timeout and misframed crop repeated before more paint. Thereafter full-page priming before measured crop fixed framing. Unique explicit numeric filenames retained locally. Actual exported PNG visually inspected.",
+  "engineRevision": "86521c564c2942db047a0cfa59b399df253e3f97",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "At fixed palette and renderer compare broad filled poppy cup planes with narrow outlines; compare rust fold bars with short low-contrast warm folds on isolated swatches. Test matched broad covers before scene corrections. Choose a fresh subject/source next run.",
+  "assessment": {
+    "source": "Live browser observations, settled paired screenshots, actual PNG export and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Joined filled cups and compact light met local goals; hard fold bars repaired. No controlled comparison or independent rating."
+  }
 }
 ]
