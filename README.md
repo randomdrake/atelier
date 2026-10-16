@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Violet, held in clay
+
+[![A violet iris and smaller bud in an earthenware jug on pale cloth](public-gallery/paintings/violet-held-in-clay/finished.png)](https://atelier.randomdrake.com/#painting/violet-held-in-clay)
+
+An original flower still life in **112 marks**, developed through **29 distinct paired inspection boundaries** and repeated final review. Broad lilac overlaps joined the petals; one short throat light holds the focus. A loaded clay lip covered a stem overshoot. Ground covers first enlarged patches; loaded light oil shortened the shadow and joined the cloth, leaving heavy relief. Inspired by the [NPS Douglas iris guide](https://www.nps.gov/prsf/learn/nature/douglas-iris.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the iris study unfold →](https://atelier.randomdrake.com/#painting/violet-held-in-clay)
+
 ### Ruby, opened
 
 [![A whole and split pomegranate with leaves and fallen seeds on indigo cloth](public-gallery/paintings/ruby-open/finished.png)](https://atelier.randomdrake.com/#painting/ruby-open)

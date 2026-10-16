@@ -1750,5 +1750,128 @@
       "humanRating": null,
       "improvementClaim": "Joined rind and compact focal light met local goals; cloth covers only partly corrected hard bars. No controlled comparison or independent rating."
     }
+  },
+  {
+    "id": "violet-held-in-clay",
+    "title": "Violet, held in clay",
+    "date": "2026-10-16",
+    "session": "examples/violet-held-in-clay.json",
+    "finishedImage": "examples/previews/violet-held-in-clay.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "goal": "Join broad iris petal planes without narrow cover patches, vary folded edges, and retain one compact focal light.",
+    "inspiration": {
+      "description": "NPS Douglas iris guide sparked an original imagined violet iris and smaller bud in a clay jug on pale cloth; no finished composition copied.",
+      "url": "https://www.nps.gov/prsf/learn/nature/douglas-iris.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Broad overlaps closed ground gaps; horizontal bands remained."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Crossing clay joined split jug shoulders; rim established mouth. Handle remained angular."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Three falling petals changed tulip-like upright masses into an iris silhouette; no hollow center."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Broad lilac planes separated falling petals without opening holes."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Broad violet softened a harsh dark root V. Leaf blades gained mass but left blade crossed flower."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Lilac overlap restored flower in front of leaf. Dark crease remained strong."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Broad clay planes turned the belly; green crossing shortened dark leaf crease."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Ground reclaim enlarged hard shadow ends into ridged islands; failed correction."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Acrylic joined lower ground but did not hide oil relief; not a controlled medium comparison."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Loaded pale petal planes were more visible at whole view; regular ridges remained."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Ochre throats read as bars; broad watercolor filled upper ground seam."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Lilac shortened ochre ends but left a lower-petal tab."
+      },
+      {
+        "afterStroke": 76,
+        "text": "Violet partly joined the lower tab. Broader clay absorbed floating inner-handle C, making a thick handle."
+      },
+      {
+        "afterStroke": 77,
+        "text": "Single short loaded cream throat light stayed compact in whole and close views."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Three fine veins stayed inside petals but read as straight fragments close up."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Crosswise clay facets interrupted some long bristle bands close up without moving broad light."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Loaded lighter oil shortened dark shadow ends but left pale ridged islands."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Long gestures joined pale cloth beneath jug; short dark contact bar and heavy relief remained."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Unequal petal edge folds added variety. Clay lip repair only partly covered green stem overshoot."
+      },
+      {
+        "afterStroke": 104,
+        "text": "Sparse clay flecks stayed subtle beside regular simulated ridges."
+      },
+      {
+        "afterStroke": 108,
+        "text": "Loaded front lip covered the green overshoot and seated stems inside mouth. Bud fold gained a dark edge."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Stopped at 112 after deliberate 78–112 refinement and paired final review. Broad lilac planes remain joined, loaded front lip covers the stem overshoot, and one short throat light stays focal. Early ground covers enlarged shadow islands; loaded light oil shortened dark ends and joined foreground cloth. Faceted petals, straight vein fragments, angular thick handle, short dark contact bar, pale foreground relief and regular simulated ridges remain. Further covering is likely to add texture more than clarity."
+      }
+    ],
+    "evidence": [
+      "examples/violet-held-in-clay.json",
+      "examples/previews/violet-held-in-clay.png",
+      "artifacts/violet-held-in-clay/112-final-whole.jpg",
+      "artifacts/violet-held-in-clay/112-final-close.jpg",
+      "artifacts/violet-held-in-clay/060-upper.png"
+    ],
+    "inspectionEvidence": "29 distinct settled whole/close screenshot boundaries plus repeated 60 and final 112 pairs. Each camera waited 900ms and pressed state was checked; screenshots display Whole painting / 2.0×. Unique measured canvas-wrap JPEG crops retained locally; final pair and upper 60 PNG committed. At 8 a closure retained count 4: wait failed, exact 8 and At rest were confirmed, then paired inspection completed before more marks. Upper capture after 60 initially failed from negative viewport y; page scroll offsets were added and paired plus upper inspection repeated before more paint. Actual browser PNG 900x620 visually inspected. Title-only empty append was initially rejected by automatic review; actual exports were backed up, append-only source verified, retry approved and count 112 retained.",
+    "engineRevision": "0e4b04d48670fa2d9f1b3020b246eac953edd6e4",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer compare loaded broad ground reclaim at matched pressure/body with narrow covers on isolated oil swatches. Compare short curved internal petal veins against straight fragments; stop leaf stems before the front lip.",
+    "assessment": {
+      "source": "Live browser observations, settled screenshot pairs, actual PNG export and hosted ended receipt.",
+      "humanRating": null,
+      "improvementClaim": "Joined petal masses, compact focal light and final lip correction met local goals. Foreground repairs only partly succeeded and heavy relief remains; no controlled comparison or independent rating. Publication build required lossless PNG compression inside source.zip; renderer and original artwork bytes unchanged."
+    }
   }
 ]

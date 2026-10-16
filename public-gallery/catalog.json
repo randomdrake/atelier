@@ -1,5 +1,24 @@
 [
   {
+    "id": "violet-held-in-clay",
+    "title": "Violet, held in clay",
+    "description": "A violet iris and smaller bud in a warm clay jug on pale cloth.",
+    "process": "AI-painted in 112 animated marks through 29 distinct settled whole-and-close inspection boundaries, with 31 live notes and 91 replay moments. Broad lilac planes joined petals; a loaded clay lip corrected stem overshoot and one short throat light remained focal. Ground covers enlarged patches; loaded lighter oil shortened the shadow and joined cloth, leaving heavy relief. Broadcast ended with all 112 marks acknowledged. No engine changes.",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "strokes": 112,
+    "moments": 91,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/violet-held-in-clay/session.json",
+    "image": "/paintings/violet-held-in-clay/finished.png",
+    "addedAt": "2026-10-16T18:18:36.917Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-16"
+  },
+  {
     "id": "ruby-open",
     "title": "Ruby, opened",
     "description": "A whole and split pomegranate with leaves and fallen seeds on indigo cloth.",
