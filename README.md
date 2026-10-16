@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Where the tide rests
+
+[![An ochre sea star on dark tidal rock with mussels, kelp and quiet green water](public-gallery/paintings/where-the-tide-rests/finished.png)](https://atelier.randomdrake.com/#painting/where-the-tide-rests)
+
+An original tide-pool study in **96 marks**, developed through **25 distinct inspection boundaries** and a repeated final review. Tapered center-out gestures joined five arms without a hollow center; one short loaded light stays compact. Misplaced rock planes crossed two arms and warm repairs restored continuity partly, leaving notches and extra texture. Inspired by the [NPS Point Reyes tidepool guide](https://www.nps.gov/thingstodo/point-reyes-tidepooling.htm). The broadcast ended with all 96 marks acknowledged.
+
+[Watch the tide-pool study unfold →](https://atelier.randomdrake.com/#painting/where-the-tide-rests)
+
 ### Red mug, morning hush
 
 [![A red enamel camping mug with soft steam, pine sprig and spoon on folded cloth](public-gallery/paintings/red-mug-morning-hush/finished.png)](https://atelier.randomdrake.com/#painting/red-mug-morning-hush)

@@ -1448,5 +1448,102 @@
       "humanRating": null,
       "improvementClaim": "Joined planes, continuous rim and compact reflection met local goals. Handle and shadow covers were partial failures; no controlled comparison or independent rating."
     }
+  },
+  {
+    "id": "where-the-tide-rests",
+    "title": "Where the tide rests",
+    "date": "2026-10-16",
+    "session": "examples/where-the-tide-rests.json",
+    "finishedImage": "examples/previews/where-the-tide-rests.png",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Join five tapered arms into one solid warm form and reserve one short focal light.",
+    "inspiration": {
+      "description": "NPS Point Reyes tidepool guide sparked an original imagined ochre sea star on dark rock, with mussels, kelp and green water. No finished composition copied.",
+      "url": "https://www.nps.gov/thingstodo/point-reyes-tidepooling.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Overlapping washes closed linen channels; pale seams remained."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Tapered center-out arm gestures met in a solid center without an outline hole."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Warm arm-center planes separated the star from rock."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Contact shadows became detached dark bars."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Warm bridges partly softened bars; loaded broad rock facets showed more than thin first passes."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Broad kelp ribbons filled wiry stems."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Cool short shell planes separated mussels quietly."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Diagonal watercolor reduced lower seam; upper bands remained."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Fine watercolor ripples barely registered; upper pan reviewed tapered arm tip."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Sparse granules interrupted close texture but regular ridges still dominated."
+      },
+      {
+        "afterStroke": 76,
+        "text": "Broad center bridge joined warm planes; right contact shortened."
+      },
+      {
+        "afterStroke": 77,
+        "text": "Single loaded upper-arm light stayed compact in whole view."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Misplaced rock planes crossed both side arms, a failed correction."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Warm bridges restored most side-arm continuity; grey bites remained."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Narrow warm repairs reduced grey bites but left notches and added texture."
+      },
+      {
+        "afterStroke": 96,
+        "text": "Stopped after deliberate 76–96 refinement and paired final review. Five arms meet in solid warm center; one short light stays compact. Rock cap, lower-left contact bar, repaired side-arm notches, water bands and regular simulated ridges remain. Further covers added texture more than clarity; no padding toward 112."
+      }
+    ],
+    "evidence": [
+      "examples/where-the-tide-rests.json",
+      "examples/previews/where-the-tide-rests.png",
+      "artifacts/where-the-tide-rests/96-whole.jpg",
+      "artifacts/where-the-tide-rests/96-close.jpg"
+    ],
+    "inspectionEvidence": "25 distinct settled whole-and-close inspection boundaries (26 pairs, including repeated final review), including single-mark light review at 77; final pair repeated after final note and title. Upper preset pan at 60 inspected the upper tip and water. First 4/8/12 pairs retained as full-page JPEG; from 16 onward cropped to measured canvas-wrap bounds. Screenshot crop module setup failed before 12; full-page inspection completed before more paint. Early rest check at 20 failed; waited for completion and repeated successfully. Camera transitions waited 900ms and verified Whole painting / 2.0×. Actual browser PNG 900x620 visually inspected.",
+    "engineRevision": "3778a4b65911d46a06bec4b66320d3b6fb1ff45d",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer compare tapered center-out arm fills with contour fills. Test loaded rock covers on separate swatches away from the subject before edge repairs.",
+    "assessment": {
+      "source": "Live browser observations, settled screenshots, actual exports and hosted ended receipt.",
+      "humanRating": null,
+      "improvementClaim": "Solid joined arms and compact focal light met local goals. Rock-plane placement failed and repairs were partial; no controlled comparison or independent rating."
+    }
   }
 ]

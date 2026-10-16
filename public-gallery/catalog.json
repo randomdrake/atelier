@@ -1,5 +1,23 @@
 [
   {
+    "id": "where-the-tide-rests",
+    "title": "Where the tide rests",
+    "description": "An ochre sea star on dark tidal rock with mussels, curling kelp and quiet green water.",
+    "process": "Painted live by an AI agent in 96 animated marks, through 25 distinct settled paired whole-and-close inspection boundaries (26 pairs, including repeated final review) and an upper detail pan. Five tapered arms joined a solid center; one short focal light stayed compact. Rock-plane placement crossed two arms; warm repairs restored continuity partly, leaving notches. Regular ridges and a lower contact bar remain. All 96 completed marks acknowledged by the ended broadcast.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 96,
+    "moments": 78,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/where-the-tide-rests/session.json",
+    "image": "/paintings/where-the-tide-rests/finished.png",
+    "addedAt": "2026-10-16T15:07:48.621Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-16"
+  },
+  {
     "id": "red-mug-morning-hush",
     "title": "Red mug, morning hush",
     "description": "A red enamel camping mug with soft steam, pine sprig and spoon on folded cloth.",
