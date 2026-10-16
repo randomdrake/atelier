@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Amber pause
+
+[![An amber dragonfly on a bent reed above blue-green water](public-gallery/paintings/amber-pause/finished.png)](https://atelier.randomdrake.com/#painting/amber-pause)
+
+An original insect study in **112 marks**, developed through **29 distinct paired inspection boundaries** and a repeated final review. Long tapered wing gestures meet in a solid thorax; one short head light holds the focus. Narrow covers created dark ridged patches, while broad amber reclaim absorbed most of them and closed a split tip. Uneven edges, angular limbs and regular oil ridges remain. Inspired by [NPS Flying Jewels](https://www.nps.gov/articles/000/nature-watch-flying-jewels-living-flashes-of-light.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the dragonfly study unfold →](https://atelier.randomdrake.com/#painting/amber-pause)
+
 ### Where the tide rests
 
 [![An ochre sea star on dark tidal rock with mussels, kelp and quiet green water](public-gallery/paintings/where-the-tide-rests/finished.png)](https://atelier.randomdrake.com/#painting/where-the-tide-rests)

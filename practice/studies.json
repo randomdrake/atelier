@@ -1545,5 +1545,112 @@
       "humanRating": null,
       "improvementClaim": "Solid joined arms and compact focal light met local goals. Rock-plane placement failed and repairs were partial; no controlled comparison or independent rating."
     }
+  },
+  {
+    "id": "amber-pause",
+    "title": "Amber pause",
+    "date": "2026-10-16",
+    "session": "examples/amber-pause.json",
+    "finishedImage": "examples/previews/amber-pause.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "goal": "Use long joined wing gestures with quieter inner planes and one compact focal light.",
+    "inspiration": {
+      "description": "NPS Flying Jewels sparked an original imagined amber dragonfly on a bent reed above blue-green water; no finished composition copied.",
+      "url": "https://www.nps.gov/articles/000/nature-watch-flying-jewels-living-flashes-of-light.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Overlapping broad washes closed linen gaps while leaving soft water bands."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Long tapered wing gestures met without a hollow center."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Pale amber overlaps established inner membrane planes."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Upper branching veins overshot membrane and looked like hairs; shorter lower veins at 36 stayed inside."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Warm covers created tabs instead of hiding the vein overshoots."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Continuous left-wing overlap joined much of the tab rhythm; right tabs remained."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Far-right foot bridge reached reed; sparse abdomen bands stayed legible."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Broad leaf midtones gave the perch more weight; upper camera review showed subtle eyes and right-wing tabs."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Watercolor background reeds stayed soft and subordinate."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Loaded oil trim reduced amber tabs but created dark ridged patches."
+      },
+      {
+        "afterStroke": 76,
+        "text": "Acrylic cover enlarged dark patches; repair failed, not a controlled medium comparison."
+      },
+      {
+        "afterStroke": 77,
+        "text": "A single short loaded head light stayed compact at whole view."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Short crosswise facets interrupted bristle bands in close view, barely changing whole values."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Closely sampled midrib gestures flowed more gently; main stem remained angular."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Broad amber reclaim absorbed most dark cover islands but left a split tip."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Tapered join and short amber overlaps closed the inner tip slit; fine water ripples barely registered."
+      },
+      {
+        "afterStroke": 104,
+        "text": "Eye plane added head volume; forward leg pair completed small limb structure."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Stopped at 112 after deliberate 84\u2013112 refinement and paired final review. Four long tapered wings join the thorax; single head light stays compact. Broad amber reclaim absorbed most failed cover islands and closed split tip. Dark fringe, uneven wing edges, angular legs/stem, slightly detached terminal fork, water bands and regular simulated ridges remain. More covering is likely to enlarge texture rather than improve form."
+      }
+    ],
+    "evidence": [
+      "examples/amber-pause.json",
+      "examples/previews/amber-pause.png",
+      "artifacts/amber-pause/112-whole.jpg",
+      "artifacts/amber-pause/112-close.jpg",
+      "artifacts/amber-pause/60-upper.png"
+    ],
+    "inspectionEvidence": "29 distinct settled paired whole-and-close screenshot boundaries, plus repeated final 112 review after title and final note. Unique measured canvas-wrap crops retained locally; final pair and upper-detail screenshot committed. Camera transitions waited 900ms, screenshots display Whole painting / 2.0x and pressed state verified. Early completion wait at 12 timed out; confirmed At rest and exact 12 then inspected before further marks. Initial sharp module path failed before opening note; corrected to bundled runtime before first inspection. Upper camera preset at 60 inspected head and wing roots. Actual browser-exported PNG 900x620 visually inspected.",
+    "engineRevision": "5868282e38848bc17277239e2ef3e1f237476676",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer compare broad membrane reclaim with narrow ground-color covers on separate swatches. Keep branch veins inside tapered silhouettes; compare short crosswise facets with long parallel fills.",
+    "assessment": {
+      "source": "Live browser observations, settled screenshot pairs, actual exports and hosted ended receipt.",
+      "humanRating": null,
+      "improvementClaim": "Joined wing masses and compact focal light met local goals. Narrow covers failed, broad reclaim partly repaired them; no controlled comparison or independent rating."
+    }
   }
 ]

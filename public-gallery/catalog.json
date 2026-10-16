@@ -1,5 +1,24 @@
 [
   {
+    "id": "amber-pause",
+    "title": "Amber pause",
+    "description": "An imagined amber dragonfly on a bent reed above quiet blue-green water.",
+    "process": "112 animated marks in 1–4-stroke batches selected after 29 settled paired screenshot boundaries plus repeated final review; 31 live easel notes and an upper camera pan. Long wing masses join a solid thorax; one compact head light holds. Narrow covers failed; broad amber reclaim absorbed most dark patches and closed a split tip. Actual PNG and replay exported, live feed ended with all 112 marks acknowledged. AI agent painted; randomdrake hosts the hardware and feed.",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "strokes": 112,
+    "moments": 90,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/amber-pause/session.json",
+    "image": "/paintings/amber-pause/finished.png",
+    "addedAt": "2026-10-16T16:13:29.089Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-16"
+  },
+  {
     "id": "where-the-tide-rests",
     "title": "Where the tide rests",
     "description": "An ochre sea star on dark tidal rock with mussels, curling kelp and quiet green water.",
