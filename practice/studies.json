@@ -1873,5 +1873,108 @@
       "humanRating": null,
       "improvementClaim": "Joined petal masses, compact focal light and final lip correction met local goals. Foreground repairs only partly succeeded and heavy relief remains; no controlled comparison or independent rating. Publication build required lossless PNG compression inside source.zip; renderer and original artwork bytes unchanged."
     }
+  },
+  {
+    "id": "a-room-inside-the-tide",
+    "title": "A room inside the tide",
+    "date": "2026-10-16",
+    "session": "examples/a-room-inside-the-tide.json",
+    "finishedImage": "examples/previews/a-room-inside-the-tide.png",
+    "media": [
+      "acrylic",
+      "oil",
+      "watercolor"
+    ],
+    "goal": "Join broad ivory shell planes, keep the spiral flowing, and reserve one compact focal light.",
+    "inspiration": {
+      "description": "NOAA nautilus page sparked an original imagined chambered shell on muted teal cloth; no finished composition copied.",
+      "url": "https://oceanservice.noaa.gov/facts/nautilus.html/"
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Diagonal watercolor reduced continuous ground seams to smaller gaps. Cast shadow became a hard ridged bar."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Crosswise ivory closed the central blue hole; joined mass and cooler right turn read at whole view."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Two long many-point spiral gestures joined smoothly. Aperture was dark and angular."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Unequal curved chamber walls read clearly. Small ivory plane softened the central knot."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Warm interior planes gave depth but shortened several wall ends; correction created new breaks."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Small inner curl restored center. Broad warm aperture covers removed too much recess depth."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Smaller curved dark recess recovered aperture depth; lower ivory gave shell volume."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Matching teal oil reclaim shortened dark bar but spread a larger ridged patch; failed to quiet cloth."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Broad acrylic joined ground but did not hide oil relief. This was not a controlled medium comparison."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Paler long oil folds became visible where matching teal covers were weak; relief remained."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Broad ivory absorbed a detached left-edge light bar. Cool nacre patch looked like a hole; pale plane broke coil."
+      },
+      {
+        "afterStroke": 76,
+        "text": "Ivory muted cool patch and selective curve reconnected coil, though a wall end remained blunt."
+      },
+      {
+        "afterStroke": 77,
+        "text": "One short loaded rim light stayed compact but subtle at whole view."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Short chamber lights cut across two dark lines and left detached fragments; failed placement."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Selective original-curve repairs partly restored broken coil arcs without tracing every edge."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Unequal restrained growth marks varied lower band close up but remained subordinate to regular ridges."
+      },
+      {
+        "afterStroke": 96,
+        "text": "Stopped at 96 after deliberate 78–96 refinement and paired final review. Final left chamber joins clarify the curve, the aperture lip tapers, and broad ivory planes remain joined. The compact rim light is subtle at whole view. Ground covers spread relief; blunt chamber ends, faceted silhouette, dark contact strip and regular ridges remain. Further covering is likely to add texture rather than clarity; no strokes added to meet a larger count."
+      }
+    ],
+    "evidence": [
+      "examples/a-room-inside-the-tide.json",
+      "examples/previews/a-room-inside-the-tide.png",
+      "artifacts/a-room-inside-the-tide/096-final-whole.jpg",
+      "artifacts/a-room-inside-the-tide/096-final-close.jpg",
+      "artifacts/a-room-inside-the-tide/060-lower.png"
+    ],
+    "inspectionEvidence": "25 distinct settled whole/close screenshot boundaries plus repeated final 96 pair. Cameras waited 900ms and pressed state/displayed Whole painting or 2.0× were checked. Unique canvas-wrap JPEG crops retained locally; final pair and lower 60 screenshot committed. First whole-view click timed out before inspection 4; state checked and retry completed before any further marks. At 60 unsupported note kind look failed after paired screenshots; saved pair was displayed again and supported notice posted with lower camera. Actual browser PNG 900x620 visually inspected.",
+    "engineRevision": "4ec071c141c999ead9c5368b849a6a3a2e2541b3",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette, renderer, pressure and paint load, compare many-point curved chamber walls against three-point bends on isolated shell swatches. Keep light planes entirely inside walls. Compare matched ground oil covers with a much paler loaded plane away from the subject before scene repairs.",
+    "assessment": {
+      "source": "Live browser observations, settled screenshot pairs, actual PNG export and hosted ended receipt.",
+      "humanRating": null,
+      "improvementClaim": "Joined mass and flowing long coil met local goals; focal light remained subtle. Repeated small planes interrupted walls and ground covers spread relief. No controlled comparison or independent rating."
+    }
   }
 ]

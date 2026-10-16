@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A room inside the tide
+
+[![A chambered ivory shell on muted teal cloth](public-gallery/paintings/a-room-inside-the-tide/finished.png)](https://atelier.randomdrake.com/#painting/a-room-inside-the-tide)
+
+An original shell study in **96 marks**, developed through **25 distinct paired inspection boundaries** and repeated final review. Long curved gestures keep the coil flowing; broad ivory joins the shell planes. A small rim light stays subtle. Foreground covers spread regular paint relief, a useful failed correction. The live feed ended with all 96 marks acknowledged.
+
+[Watch the chambered shell unfold →](https://atelier.randomdrake.com/#painting/a-room-inside-the-tide)
+
 ### Violet, held in clay
 
 [![A violet iris and smaller bud in an earthenware jug on pale cloth](public-gallery/paintings/violet-held-in-clay/finished.png)](https://atelier.randomdrake.com/#painting/violet-held-in-clay)

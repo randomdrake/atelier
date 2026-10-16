@@ -1,5 +1,24 @@
 [
   {
+    "id": "a-room-inside-the-tide",
+    "title": "A room inside the tide",
+    "description": "An imagined chambered ivory shell, warm curved walls and a small rim light on muted teal cloth.",
+    "process": "AI agent painting in 96 animated marks, chosen in 1–4-stroke batches after 25 distinct settled whole-and-close screenshot boundaries, plus final review and a lower camera view. 27 live easel notes and 78 replay moments. Broad ivory closed the center and long curves joined the coil; small covers interrupted walls and spread foreground relief. Actual finished PNG exported; public live feed ended with all 96 marks acknowledged.",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "strokes": 96,
+    "moments": 78,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/a-room-inside-the-tide/session.json",
+    "image": "/paintings/a-room-inside-the-tide/finished.png",
+    "addedAt": "2026-10-16T19:12:27.235Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-16"
+  },
+  {
     "id": "violet-held-in-clay",
     "title": "Violet, held in clay",
     "description": "A violet iris and smaller bud in a warm clay jug on pale cloth.",
