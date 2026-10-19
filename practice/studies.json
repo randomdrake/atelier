@@ -3005,5 +3005,112 @@
       "humanRating": null,
       "improvementClaim": "Joined broad masses and compact light observed within this study; no controlled comparison or human rating. Long feather shadows and rail covers produced hard bars or raised patches."
     }
+  },
+  {
+    "id": "a-small-fire-before-migration",
+    "title": "A small fire before migration",
+    "date": "2026-10-19",
+    "session": "examples/a-small-fire-before-migration.json",
+    "finishedImage": "examples/previews/a-small-fire-before-migration.png",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Join broad orange wing planes with long gestures; keep dark veins subordinate and one shoulder light compact.",
+    "inspiration": {
+      "url": "https://www.nps.gov/subjects/pollinators/migratingmonarchs.htm",
+      "description": "Original imagined monarch above violet asters, sparked by NPS monarch migration guide; no finished composition copied."
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Bridge washes closed linen seams; horizontal bands remained."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Broad wing gestures joined without central hole; colors muted."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Loaded orange overlaps widened solid fans; small far lower hole remained."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Short warm fill closed far wing hole; slender dark body read clearly."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Dark perimeter became angular segmented outlines."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Warm corner covers partly softened corners but left mixed patches; fine veins stayed subordinate."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Feet met violet flower support."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Unequal petals and center changed violet bar into aster."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Broad interiors made supporting leaves solid."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Watercolor grasses barely altered dry field."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Cream border spots remained compact, fewer and dimmer on far wing."
+      },
+      {
+        "afterStroke": 81,
+        "text": "Single short shoulder light stayed compact at whole view."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Direct upper viewport confirmed shoulder light and tiny head glint; angular borders and orange halo remained."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Thin oil produced visible grasses where watercolor barely changed ground."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Warm overlaps shortened blunt border roots but left ridged mixed patches."
+      },
+      {
+        "afterStroke": 104,
+        "text": "Fine tapered cross-veins remained quiet at whole view."
+      },
+      {
+        "afterStroke": 108,
+        "text": "Calyx shadows became separate dark bars below petals."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Violet overlaps joined most calyx bars, leaving dark tips; tapered leaf ends varied lower rhythm. Repeated final paired review retained joined wing planes and compact light. Stop to avoid enlarging mixed patches; angular borders, orange halos, field bands and regular ridges remain."
+      }
+    ],
+    "evidence": [
+      "examples/a-small-fire-before-migration.json",
+      "examples/previews/a-small-fire-before-migration.png",
+      "artifacts/a-small-fire-before-migration/112-final-whole.png",
+      "artifacts/a-small-fire-before-migration/112-final-close.png",
+      "artifacts/a-small-fire-before-migration/084-upper-viewport.png"
+    ],
+    "inspectionEvidence": "Initial 8 and 20 reviews exposed idle-start and framing races; repeated after confirmed completed counts and idle before any further painting. Later batch helper waited for expected completed count and At rest. Upper 84 clip framing failed; full viewport screenshot inspected and retained. Paired final screenshots and actual exported PNG visually inspected.",
+    "engineRevision": "e48df7c5ba33a9f12979f29a524779f407337f74",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Fixed-palette wing-border calibration: same curved paths at two sampling densities and two widths, comparing color coverage, corner shape and relief separately. Repeat calibration before claims of improvement; choose fresh subject next study.",
+    "assessment": {
+      "source": "Live notes, screenshot inspections, exported actual PNG and ended hosted broadcast receipt.",
+      "humanRating": null,
+      "improvementClaim": "Joined masses and compact focal light observed within this study; no controlled comparison or human rating. Angular borders and mixed repair patches remain."
+    }
   }
 ]

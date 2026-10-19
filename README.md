@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A small fire before migration
+
+[![An imagined monarch above violet asters on a muted green field](public-gallery/paintings/a-small-fire-before-migration/finished.png)](https://atelier.randomdrake.com/#painting/a-small-fire-before-migration)
+
+An original monarch study in **112 marks**, developed through **29 distinct paired inspection boundaries**, direct upper review and repeated final review. Broad loaded overlaps joined the wings; fine veins and one compact shoulder light stay subordinate to the orange planes. Warm border repairs and violet calyx covers partly corrected blunt bars, leaving mixed patches. Inspired by the [NPS monarch migration guide](https://www.nps.gov/subjects/pollinators/migratingmonarchs.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the monarch study unfold →](https://atelier.randomdrake.com/#painting/a-small-fire-before-migration)
+
+
 ### The dusk has a face
 
 [![An imagined barn owl on an old fence post above a quiet dusk field](public-gallery/paintings/the-dusk-has-a-face/finished.png)](https://atelier.randomdrake.com/#painting/the-dusk-has-a-face)
