@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Ember curled in frost
+
+[![An imagined red fox curled asleep on snow, with distant trees and sparse grasses](public-gallery/paintings/ember-curled-in-frost/finished.png)](https://atelier.randomdrake.com/#painting/ember-curled-in-frost)
+
+An original winter study in **96 marks**, developed through **25 distinct paired inspection boundaries** and repeated final review. Long warm overlaps joined the body and tail; one short brow light stays compact against quiet snow. Broad matching paint repaired a dark fold bar and pale tail patch. Faceted crown, blunt cream tip, angular grasses and regular oil ridges remain. Inspired by the [NPS Isle Royale red fox guide](https://www.nps.gov/isro/learn/nature/red-fox.htm). The broadcast ended with all 96 marks acknowledged.
+
+[Watch the sleeping fox unfold →](https://atelier.randomdrake.com/#painting/ember-curled-in-frost)
+
 ### Slow gold on the forest floor
 
 [![A golden banana slug on dark moss with fallen leaves and a small fern](public-gallery/paintings/slow-gold-on-the-forest-floor/finished.png)](https://atelier.randomdrake.com/#painting/slow-gold-on-the-forest-floor)

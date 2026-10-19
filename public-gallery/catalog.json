@@ -1,5 +1,24 @@
 [
   {
+    "id": "ember-curled-in-frost",
+    "title": "Ember curled in frost",
+    "description": "An imagined red fox curled asleep on snow with distant trees and sparse grasses.",
+    "process": "96 animated marks in batches of one to four, with 25 distinct settled whole-and-close inspection boundaries and repeated final review. Live easel notes and camera moves; broadcast ended with all 96 marks acknowledged. Broad matching paint repaired dark fold and pale patch; regular ridges and faceted crown remain.",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 96,
+    "moments": 79,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/ember-curled-in-frost/session.json",
+    "image": "/paintings/ember-curled-in-frost/finished.png",
+    "addedAt": "2026-10-19T17:15:40.691Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-19"
+  },
+  {
     "id": "slow-gold-on-the-forest-floor",
     "title": "Slow gold on the forest floor",
     "description": "A golden banana slug crosses dark moss beside fallen leaves and a quiet fern.",
