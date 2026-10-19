@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Small stores of autumn
+
+[![Two warm acorns and a curled oak leaf on blue-grey cloth](public-gallery/paintings/small-stores-of-autumn/finished.png)](https://atelier.randomdrake.com/#painting/small-stores-of-autumn)
+
+An original autumn still life in **100 marks**, developed through **26 distinct paired inspection boundaries** and repeated final review. Long overlaps joined solid nuts; one short shoulder light stays compact. Broad warm paint repaired a crossing stem and hard shadow bar. Shadow-cover trials left broad regular relief; scalloped leaf edges and soft tips remain. Inspired by the [NPS oak study](https://www.nps.gov/articles/species-spotlight-oaks.htm). The broadcast ended with all 100 marks acknowledged.
+
+[Watch the acorn study unfold →](https://atelier.randomdrake.com/#painting/small-stores-of-autumn)
+
 ### Cups of borrowed sun
 
 [![Two golden California poppies and a closed bud in a cool field](public-gallery/paintings/cups-of-borrowed-sun/finished.png)](https://atelier.randomdrake.com/#painting/cups-of-borrowed-sun)

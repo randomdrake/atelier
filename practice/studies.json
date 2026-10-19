@@ -2282,5 +2282,109 @@
     "humanRating": null,
     "improvementClaim": "Joined filled cups and compact light met local goals; hard fold bars repaired. No controlled comparison or independent rating."
   }
+},
+{
+  "id": "small-stores-of-autumn",
+  "title": "Small stores of autumn",
+  "date": "2026-10-19",
+  "session": "examples/small-stores-of-autumn.json",
+  "finishedImage": "examples/previews/small-stores-of-autumn.png",
+  "media": [
+    "acrylic",
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build solid rounded acorns with long overlapping planes and reserve one compact shoulder light.",
+  "inspiration": {
+    "description": "Original imagined two acorns and a curled oak leaf on blue-grey cloth, sparked by the NPS Species Spotlight Oaks article. Full prior subject/source inventory checked; no finished composition copied.",
+    "url": "https://www.nps.gov/articles/species-spotlight-oaks.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Broad wet bridges closed bright field seams; bands remain."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Long warm overlaps joined solid unequal nut bodies."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Broad cap planes establish acorns; leaf stem crossed the smaller nut."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Loaded warm overlap mostly removed the crossing stem."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Matched cloth shadow covers changed color but widened regular relief."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Unequal cap facets stay subordinate at whole view."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Joined leaf planes filled the scalloped leaf; upper preset showed most of leaf but cropped right edge."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Low-contrast midrib and unequal branches read without outlining the leaf."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Contact marks connected bodies; longer cloth gestures added unwanted relief."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Narrow smaller-nut shadow became a hard brown bar."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Broad warm midtone absorbed the smaller nut bar."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Single short pale shoulder light remained compact at whole view."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Tapered lobes changed leaf interior more than outer scallops."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Long warm overlaps joined patchy nut planes without covering the focal light."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Pale loaded trial shortened dark shadow bars but made conspicuous light patches."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Matched cloth paint removed pale patches but left broad ridged relief."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Final restrained cap facets and leaf turns retained joined bodies and compact light. Soft blunt tips, scalloped leaf edges, field bands and conspicuous regular ground relief remain. Stopped after deliberate 80\u2013100 refinement and paired final review because further ground covers were adding relief rather than clarity."
+    }
+  ],
+  "evidence": [
+    "examples/small-stores-of-autumn.json",
+    "examples/previews/small-stores-of-autumn.png",
+    "artifacts/small-stores-of-autumn/100-final-whole.png",
+    "artifacts/small-stores-of-autumn/100-final-close.png",
+    "artifacts/small-stores-of-autumn/052-upper.png",
+    "artifacts/small-stores-of-autumn/077-whole.png"
+  ],
+  "inspectionEvidence": "Animated 1\u20134-stroke batches with 26 distinct settled whole and 2.0x close screenshot boundaries; repeated final pair and upper camera at 52. Initial pressed-token assertion rejected active+pressed at 4; corrected. Camera focus timeout and misframed whole screenshot at 8 repeated before more paint. Camera state delayed at 12/16; paired review repeated before continuing. Stable mutable helper state then polled pressed and displayed zoom after 1000ms waits. Explicit numeric filenames avoided overwrites. Final actual browser PNG visually inspected.",
+  "engineRevision": "8386bd1bd41b9f134887682a5ef594a07d208b8e",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "At fixed palette and renderer, compare broad filled acorn planes with narrow shadow bars. On isolated swatches compare matched cloth oil covers at equal body with pale then matched covers; measure value change separately from relief. Repeat a small calibration subject against its earlier exported image before claiming improvement. Choose a fresh subject/source for the next open-ended study.",
+  "assessment": {
+    "source": "Live browser observations, settled whole/close screenshots, actual exported PNG and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Local joined-body and compact-light goals met; crossing stem and hard nut bar repaired. Ground relief remains. No controlled comparison or independent rating."
+  }
 }
 ]

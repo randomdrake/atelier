@@ -1,5 +1,24 @@
 [
   {
+    "id": "small-stores-of-autumn",
+    "title": "Small stores of autumn",
+    "description": "Two warm acorns and a curled oak leaf on blue-grey cloth, with one compact shoulder light.",
+    "process": "100 animated marks in batches of one to four, with 26 settled whole-and-close inspection boundaries, an upper camera move, 29 live notes and 84 replay moments. Broad overlaps joined solid nuts and repaired a crossing stem and hard nut bar. Deliberate final refinement and repeated paired review preserved the focal light; shadow-cover trials left conspicuous regular relief. The public broadcast ended with all 100 marks acknowledged.",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 100,
+    "moments": 84,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/small-stores-of-autumn/session.json",
+    "image": "/paintings/small-stores-of-autumn/finished.png",
+    "addedAt": "2026-10-19T15:09:59.266Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-19"
+  },
+  {
     "id": "cups-of-borrowed-sun",
     "title": "Cups of borrowed sun",
     "description": "Two golden California poppies and a closed bud on long stems above sparse divided foliage in a cool field.",

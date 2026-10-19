@@ -31,6 +31,9 @@ async function inspect(directory){
   }
 }
 await inspect(output);
-const entries=execFileSync('unzip',['-Z1',join(output,'client/source.zip')],{encoding:'utf8'}).split('\n');
+const downloads=JSON.parse(await readFile(join(output,'client/source-downloads.json'),'utf8'));
+const entries=downloads.flatMap(name=>execFileSync('unzip',['-Z1',join(output,'client',name)],{encoding:'utf8'}).split('\n').filter(Boolean));
 assert.ok(!entries.some(file=>/(^|\/)(\.env(?!\.example)|\.dev\.vars|node_modules|\.git|\.sites-runtime)(\/|$|\.)/.test(file)),'Private or generated files in source download');
+assert.equal(new Set(entries.filter(file=>!file.endsWith('/'))).size,entries.filter(file=>!file.endsWith('/')).length,'Duplicate files across source downloads');
+for(const entry of catalog)assert.ok(entries.includes(`examples/previews/${entry.id}.png`)||entries.includes('public-gallery'+entry.image),'Artwork missing from source downloads: '+entry.id);
 console.log('Live artifact verified: '+catalog.length+' paintings, complete Worker, no publisher credential or private files.');
