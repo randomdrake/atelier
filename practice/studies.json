@@ -2572,5 +2572,108 @@
       "humanRating": null,
       "improvementClaim": "Local joined-curl, quiet-field and compact-light goals met. No controlled comparison or human rating; regular relief and faceting remain."
     }
+  },
+  {
+    "id": "white-step-green-silence",
+    "title": "White step, green silence",
+    "date": "2026-10-19",
+    "session": "examples/white-step-green-silence.json",
+    "finishedImage": "examples/previews/white-step-green-silence.png",
+    "media": [
+      "acrylic",
+      "oil",
+      "watercolor"
+    ],
+    "goal": "Join long neck and body gestures, separate three feather values, and keep one compact brightest accent.",
+    "inspiration": {
+      "url": "https://www.nps.gov/prsf/learn/nature/snowy-egret.htm",
+      "description": "An original imagined snowy egret lifting a yellow foot above green marsh water, sparked by the NPS guide; no copied finished composition."
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Wet bridges closed pale seams; field bands remain."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Broad overlaps filled torso hollow and widened head."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Feather planes changed relief more than value."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Thinner cool pass separated lower wing but made a dark bar."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Broad middle plane softened transition partly; long feathers broke blunt tail."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Watery distant reeds almost disappeared into dry ground."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Near reeds visible but angular; interrupted ripple anchored standing foot."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Curved neck widened elbow and partly covered eye."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Eye restored; crest tips escaped silhouette; upper close confirmed round head and narrow bill."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Chest and fine wing strokes mainly changed surface direction, some striping remains."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Broad overlaps filled hollow leaf centers."
+      },
+      {
+        "afterStroke": 77,
+        "text": "One isolated short brow light remained compact in whole view."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Yellow foot gestures clarified lifted toes and standing contact."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Low-contrast reflections widened into pale grey blocks."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Matching thin covers removed some pale color but enlarged ridged patch."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Loaded covers increased regular relief; stopped water repairs."
+      },
+      {
+        "afterStroke": 96,
+        "text": "Final feather planes kept coherent torso direction; joined bird, clear eye, small brow light and lifted foot read. Neck elbow, soft tips, angular reeds, field bands and conspicuous ridged water patches remain."
+      }
+    ],
+    "evidence": [
+      "examples/white-step-green-silence.json",
+      "examples/previews/white-step-green-silence.png",
+      "artifacts/white-step-green-silence/096-final-whole.jpg",
+      "artifacts/white-step-green-silence/096-final-close.jpg",
+      "artifacts/white-step-green-silence/056-upper-corrected.jpg"
+    ],
+    "inspectionEvidence": "Settled whole and 2.0x close screenshot pairs inspected at 25 distinct boundaries, plus repeated final pair and upper camera at 56. Initial camera assertion rejected active+pressed state; corrected. Focus timeout at 8 and misframed pair repeated with 1280x1400 viewport. At 56, corrected screenshot crop from viewport coordinates to page coordinates including scroll offset. Close zoom at 96 had not settled; repeated final pair before stopping. A captured count in the screenshot helper reused 004 filenames and overwrote intermediate files; those inspections were seen live but are not retained individually. Retained final pair copied to accurate 096 filenames, and corrected upper image retained. Actual exported PNG visually inspected.",
+    "engineRevision": "1c5b112bba23faf7e4bb0f198ab94fcc93079ab2",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Repeat fixed-palette broad versus narrow oil swatches outside a finished composition, comparing color change and relief separately. Repeat a saved calibration before claiming improvement; choose a fresh subject next study.",
+    "assessment": {
+      "source": "Live notes, settled screenshot pairs, actual PNG and ended public feed receipt.",
+      "humanRating": null,
+      "improvementClaim": "Joined silhouette, partial three-value feather separation and compact warm accent observed. No controlled comparison or human rating; water repair failed and regular relief remains."
+    }
   }
 ]

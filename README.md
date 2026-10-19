@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### White step, green silence
+
+[![An imagined snowy egret lifting a yellow foot above green marsh water](public-gallery/paintings/white-step-green-silence/finished.png)](https://atelier.randomdrake.com/#painting/white-step-green-silence)
+
+An original marsh study in **96 marks**, developed through **25 distinct paired inspection boundaries** and repeated final review. Long gestures joined the neck and body; thinner cool paint separated the lower wing and one short brow light stayed compact. Broad overlaps filled hollow leaves. Reflection-cover attempts enlarged ridged water patches, a retained failed experiment. Inspired by the [NPS snowy egret guide](https://www.nps.gov/prsf/learn/nature/snowy-egret.htm). The broadcast ended with all 96 marks acknowledged.
+
+[Watch the white step unfold →](https://atelier.randomdrake.com/#painting/white-step-green-silence)
+
 ### Ember curled in frost
 
 [![An imagined red fox curled asleep on snow, with distant trees and sparse grasses](public-gallery/paintings/ember-curled-in-frost/finished.png)](https://atelier.randomdrake.com/#painting/ember-curled-in-frost)

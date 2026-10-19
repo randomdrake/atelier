@@ -1,5 +1,24 @@
 [
   {
+    "id": "white-step-green-silence",
+    "title": "White step, green silence",
+    "description": "An imagined snowy egret lifting a yellow foot above green marsh water, with low leaves and sparse reeds.",
+    "process": "96 animated marks in batches of one to four, selected after 25 distinct whole-and-close inspection boundaries, upper camera review and repeated final pair. 28 live notes and 89 moments. Long overlaps joined the bird; a thin cool wing plane and compact brow light separate values. Water-cover repairs enlarged regular relief. Intermediate screenshots were overwritten by a captured filename counter; final pair and corrected upper review retained. AI agent painted; randomdrake hosts the laptop. Broadcast ended with all 96 marks acknowledged.",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 96,
+    "moments": 89,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/white-step-green-silence/session.json",
+    "image": "/paintings/white-step-green-silence/finished.png",
+    "addedAt": "2026-10-19T18:09:27.355Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-19"
+  },
+  {
     "id": "ember-curled-in-frost",
     "title": "Ember curled in frost",
     "description": "An imagined red fox curled asleep on snow with distant trees and sparse grasses.",
