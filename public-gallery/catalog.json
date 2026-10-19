@@ -1,5 +1,24 @@
 [
   {
+    "id": "blue-keeps-the-mountain",
+    "title": "Blue keeps the mountain",
+    "description": "A quiet volcanic lake, spired island and unequal foreground pines.",
+    "process": "AI agent painted 112 animated marks in batches of 1–4, choosing each next batch after settled whole and close screenshots at 29 boundaries. All notes and camera moves recorded live. Broad overlaps joined island and pines; one compact warm light stays focal. Rim oil and reflection covers left regular relief. Final actual PNG reviewed; live broadcast ended acknowledging all 112 marks.",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 91,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/blue-keeps-the-mountain/session.json",
+    "image": "/paintings/blue-keeps-the-mountain/finished.png",
+    "addedAt": "2026-10-19T20:09:49.317Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-19"
+  },
+  {
     "id": "silk-before-the-wind",
     "title": "Silk before the wind",
     "description": "An opened milkweed pod, curled leaf and drifting seed with pale silk against a quiet blue-grey autumn field.",

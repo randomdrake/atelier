@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Blue keeps the mountain
+
+[![A quiet volcanic lake with a spired island and unequal foreground pines](public-gallery/paintings/blue-keeps-the-mountain/finished.png)](https://atelier.randomdrake.com/#painting/blue-keeps-the-mountain)
+
+An original lake study in **112 marks**, developed through **29 distinct paired inspection boundaries** and a direct left-pine review. Broad overlaps joined the island and pines; one short warm spire light stays compact. Thin rim oil and reflection covers left regular relief, a retained failed experiment. Inspired by the [NPS Crater Lake guide](https://www.nps.gov/crla/index.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the lake study unfold →](https://atelier.randomdrake.com/#painting/blue-keeps-the-mountain)
+
 ### Silk before the wind
 
 [![An opened milkweed pod with pale wind-carried silk, curled leaf and drifting seed](public-gallery/paintings/silk-before-the-wind/finished.png)](https://atelier.randomdrake.com/#painting/silk-before-the-wind)

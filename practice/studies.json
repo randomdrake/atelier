@@ -2779,5 +2779,112 @@
       "humanRating": null,
       "improvementClaim": "Joined shell and leaf, brighter loaded silk and smoother sampled arcs observed within this study. No controlled cross-study comparison or human rating; interior cover left a lighter ridged patch."
     }
+  },
+  {
+    "id": "blue-keeps-the-mountain",
+    "title": "Blue keeps the mountain",
+    "date": "2026-10-19",
+    "session": "examples/blue-keeps-the-mountain.json",
+    "finishedImage": "examples/previews/blue-keeps-the-mountain.png",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Join broad cool landscape planes, keep the distant rim soft, and reserve one compact warm light on the island.",
+    "inspiration": {
+      "url": "https://www.nps.gov/crla/index.htm",
+      "description": "Original imagined volcanic lake, spired island and unequal foreground pines, sparked by the NPS Crater Lake guide; no finished composition copied."
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Bridge washes closed broad ground seams; horizontal bands remained."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Thin oil joined lower rim but added conspicuous regular relief; distant crest stayed soft."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Broad overlapping dark planes filled hollow island centers."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Side ledges varied the three spires, but oil reflection formed a heavy lower loop."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Short water-colored gaps partly broke reflection contour; ridges persisted."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Overlapping needle masses filled branch centers and tapered tips escaped smooth edges."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Loaded short facets varied rock faces but lower ledge light became too continuous."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Matching broad shadow shortened the ledge stripe."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Broad overlaps filled smaller pine branch roots."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Dark breaks separated foreground light bars into unequal stone facets."
+      },
+      {
+        "afterStroke": 81,
+        "text": "One short loaded warm spire light stayed compact and visible at both scales."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Thin watercolor ripples barely changed dry lake."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Direct left close review confirmed subdued needle lights, small top-root hole and regular ridges."
+      },
+      {
+        "afterStroke": 96,
+        "text": "Short broad green closed top branch root; smaller tapered tips remained subtle."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Narrow tip experiment changed relief more than silhouette."
+      },
+      {
+        "afterStroke": 104,
+        "text": "Short loaded facets turned faces more clearly but enlarged a lower greenish patch."
+      },
+      {
+        "afterStroke": 108,
+        "text": "Water-contact lights became longer than intended."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Matching short covers shortened outer ripple ends partly; bank fissures broke stone bars. Final quiet water, soft crest and compact warm light retained, alongside heavy reflection, rounded spires and regular relief."
+      }
+    ],
+    "evidence": [
+      "examples/blue-keeps-the-mountain.json",
+      "examples/previews/blue-keeps-the-mountain.png",
+      "artifacts/blue-keeps-the-mountain/112-whole.png",
+      "artifacts/blue-keeps-the-mountain/112-close.png",
+      "artifacts/blue-keeps-the-mountain/092-left-review.png"
+    ],
+    "inspectionEvidence": "Settled whole and 2.0x close screenshot pairs inspected at 29 distinct boundaries, plus direct left camera review at 92. First canvas focus key timed out before screenshot; removed it. Early 8 pair was misframed and repeated before painting further; camera-layout delay fixed framing. Explicit boundary filenames retain distinct pairs locally. Final pair and left review committed. Actual browser-exported 900x620 PNG visually inspected.",
+    "engineRevision": "f3b182781f716248fa755cc046fa631d1adae8d0",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Separate same-palette thin oil and watercolor reflection swatches over identical acrylic ground; compare color changes and relief independently. Repeat saved calibration before improvement claims; choose fresh subject next study.",
+    "assessment": {
+      "source": "Live notes, actual screenshot inspections, exported PNG and ended hosted receipt.",
+      "humanRating": null,
+      "improvementClaim": "Joined masses and compact accent observed within this study. No controlled comparison or human rating. Thin rim oil and reflection covers produced regular relief."
+    }
   }
 ]
