@@ -40,7 +40,7 @@
   },
   {
     "id": "copper-and-pears",
-    "title": "Copper & pears \u2014 an oil study",
+    "title": "Copper & pears — an oil study",
     "date": "2026-10-13",
     "session": "examples/copper-and-pears.json",
     "finishedImage": "examples/previews/copper-and-pears.png",
@@ -232,7 +232,7 @@
       "examples/previews/small-visitor-quiet-morning.png",
       "examples/small-visitor-quiet-morning.json"
     ],
-    "inspectionEvidence": "Actual whole and 2\u00d7 close screenshots inspected in the browser at all 13 boundaries; screenshots retained in the task conversation. Replay records inspection camera boundaries.",
+    "inspectionEvidence": "Actual whole and 2× close screenshots inspected in the browser at all 13 boundaries; screenshots retained in the task conversation. Replay records inspection camera boundaries.",
     "engineRevision": "3543ae5744eff700823f72e16a6dfa0da8ca6a0b",
     "model": "GPT-6 (specific variant unavailable)",
     "nextExperiment": "Compare oil, acrylic and chalk light swatches on the same gray ground, with matched brush sizes and short path lengths, before painting a bird highlight. Test thinner oil body for less regular ridges.",
@@ -301,7 +301,7 @@
       "artifacts/a-small-sea-of-green-close.png",
       "examples/previews/a-small-sea-of-green.png"
     ],
-    "inspectionEvidence": "Actual whole and settled 2\u00d7 browser screenshots at all 13 boundaries; camera moments retained in replay.",
+    "inspectionEvidence": "Actual whole and settled 2× browser screenshots at all 13 boundaries; camera moments retained in replay.",
     "engineRevision": "55478ed7a9a68812c7865b6700e91ffe7c8c8149",
     "model": "GPT-6 (specific variant unavailable)",
     "nextExperiment": "Paint three identical curved oil paths with bodies 0.03, 0.12 and 0.3, varying point density but keeping size and load fixed; compare angular turns and ridge visibility.",
@@ -362,7 +362,7 @@
       "artifacts/two-wings-before-the-wind-close.png",
       "examples/previews/two-wings-before-the-wind.png"
     ],
-    "inspectionEvidence": "Actual whole and settled 2\u00d7 screenshots at 13 boundaries, retained in conversation; final screenshots saved. Camera moments retained in replay.",
+    "inspectionEvidence": "Actual whole and settled 2× screenshots at 13 boundaries, retained in conversation; final screenshots saved. Camera moments retained in replay.",
     "engineRevision": "e351be144331880c4b716dc30b4df21568754d05",
     "model": "GPT-6 (specific variant unavailable)",
     "nextExperiment": "Compare identical curved oil paths at bodies 0.03, 0.12 and 0.30, fixed color, load, size, point density and ground.",
@@ -426,7 +426,7 @@
       "examples/previews/lanterns-on-the-fallen-log.png",
       "examples/lanterns-on-the-fallen-log.json"
     ],
-    "inspectionEvidence": "Actual whole and settled 2\u00d7 browser screenshots at 13 boundaries, retained in task conversation; camera moments preserved in replay.",
+    "inspectionEvidence": "Actual whole and settled 2× browser screenshots at 13 boundaries, retained in task conversation; camera moments preserved in replay.",
     "engineRevision": "f8ec0557314b0920f8c4b6035555f25db3fb40cf",
     "model": "GPT-6 (specific variant unavailable)",
     "nextExperiment": "Paint one mushroom dome with adjacent overlapping broad passes before any contour, using fixed oil body 0.03; compare filled silhouette and shadow-lip continuity to this arch-and-fill method.",
@@ -511,7 +511,7 @@
       "examples/previews/what-the-wind-leaves.png",
       "examples/what-the-wind-leaves.json"
     ],
-    "inspectionEvidence": "Actual whole and settled 2\u00d7 browser screenshots at 14 boundaries retained in task conversation; camera moments preserved in replay.",
+    "inspectionEvidence": "Actual whole and settled 2× browser screenshots at 14 boundaries retained in task conversation; camera moments preserved in replay.",
     "engineRevision": "2bba6886101d1f528388164ce04cfa610795cd9c",
     "model": "GPT-6 (specific variant unavailable)",
     "nextExperiment": "Compare a dry acrylic feather with thin oil using the same filled silhouette, palette, brush sizes and renderer. Test edge-cover behavior before adding barbs.",
@@ -593,7 +593,7 @@
       "examples/previews/copper-at-the-window.png",
       "examples/copper-at-the-window.json"
     ],
-    "inspectionEvidence": "Actual whole and settled 2\u00d7 browser screenshots at 13 boundaries retained in task conversation; camera moments preserved in replay.",
+    "inspectionEvidence": "Actual whole and settled 2× browser screenshots at 13 boundaries retained in task conversation; camera moments preserved in replay.",
     "engineRevision": "bd7ea6910a947cc8482f738feab3e247229cb8b9",
     "model": "GPT-6 (specific variant unavailable)",
     "nextExperiment": "Compare two identical short oil reflections on the same copper ground: size 18/body 0.03/load 0.8 versus size 26/body 0.08/load 1.0. Hold path and palette fixed to separate visibility from surrounding shape changes.",
@@ -673,7 +673,7 @@
       "artifacts/red-pear-blue-linen/final-whole.png",
       "artifacts/red-pear-blue-linen/final-close.png"
     ],
-    "inspectionEvidence": "Actual whole and settled 2\u00d7 browser screenshots at 12 boundaries retained in conversation; final paired inspection saved under artifacts and camera moments preserved in replay.",
+    "inspectionEvidence": "Actual whole and settled 2× browser screenshots at 12 boundaries retained in conversation; final paired inspection saved under artifacts and camera moments preserved in replay.",
     "engineRevision": "638041f74355bafde41200bf3cea7c757bb8f0a9",
     "model": "GPT-6 (specific variant unavailable)",
     "nextExperiment": "Compare identical 18 px shoulder highlights on matched red oil grounds at body 0.03 and 0.08, fixed flow 0.8 and path. Compare visibility and ridge texture before a new fruit study.",
@@ -777,7 +777,7 @@
     ],
     "goal": "Build depth through separation of pale distant trees, dark framing trees and banks, then reserve the brightest short light for a small cascade.",
     "inspiration": {
-      "description": "Original imagined forest stream, mossy fallen log and seedling sparked by Olympic National Park\u2019s account of temperate rain forests and nurse logs; no reference composition copied.",
+      "description": "Original imagined forest stream, mossy fallen log and seedling sparked by Olympic National Park’s account of temperate rain forests and nurse logs; no reference composition copied.",
       "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
     },
     "observations": [
@@ -871,7 +871,7 @@
       },
       {
         "afterStroke": 92,
-        "text": "Moss notches, bark fissure and knot interrupted log\u2019s long surface."
+        "text": "Moss notches, bark fissure and knot interrupted log’s long surface."
       },
       {
         "afterStroke": 96,
@@ -1342,7 +1342,7 @@
       "artifacts/river-watch/96-close-crop.jpg",
       "artifacts/river-watch/80-upper-crop.jpg"
     ],
-    "inspectionEvidence": "26 settled paired whole-and-close screenshot inspections, plus upper head pan at 80. Whole camera click at 8 timed out; verified exact completed count and At rest, then repeated successful pair before more painting. At 4 whole screenshot was first clipped by viewport; full-page paired captures were cropped before continuing. Unique JPEG screenshots retained locally; final pair and upper head crop committed. Artwork export is actual 900x620 PNG. Camera transitions waited 900ms and showed Whole painting or Looking closer 2.0\u00d7.",
+    "inspectionEvidence": "26 settled paired whole-and-close screenshot inspections, plus upper head pan at 80. Whole camera click at 8 timed out; verified exact completed count and At rest, then repeated successful pair before more painting. At 4 whole screenshot was first clipped by viewport; full-page paired captures were cropped before continuing. Unique JPEG screenshots retained locally; final pair and upper head crop committed. Artwork export is actual 900x620 PNG. Camera transitions waited 900ms and showed Whole painting or Looking closer 2.0×.",
     "engineRevision": "ca1f8b74ffa0bcc7a2ba9c06f2780d760ef140f5",
     "model": "GPT-6 (specific variant unavailable)",
     "nextExperiment": "With fixed palette, medium and renderer, compare a broad crosswise fill with parallel contour fills for a bird body. Compare matched many-point and three-point perch curves. Test tapered chest-band ends on separate swatches before silhouette corrections.",
@@ -1430,7 +1430,7 @@
       },
       {
         "afterStroke": 112,
-        "text": "Final warm shoulder and lower plane refinement kept compact light. Stopped after deliberate 100\u2013112 refinement and paired final review. Joined warm planes, continuous rim and short focal reflection hold; watercolor steam stays soft. Handle covers added ridged islands and shadow covers enlarged patches. More covering is unlikely to help. Angular handle, shadow bar, wash seams and regular simulated ridges remain."
+        "text": "Final warm shoulder and lower plane refinement kept compact light. Stopped after deliberate 100–112 refinement and paired final review. Joined warm planes, continuous rim and short focal reflection hold; watercolor steam stays soft. Handle covers added ridged islands and shadow covers enlarged patches. More covering is unlikely to help. Angular handle, shadow bar, wash seams and regular simulated ridges remain."
       }
     ],
     "evidence": [
@@ -1439,7 +1439,7 @@
       "artifacts/red-mug-morning/112-whole.jpg",
       "artifacts/red-mug-morning/112-close.jpg"
     ],
-    "inspectionEvidence": "29 settled paired whole-and-close screenshot boundaries, including single-mark reflection check at 77; lower preset pan at 60 centered on cup base and did not show side objects closely. At 8, generic locator failed and initial close crop used transformed canvas bounds; corrected to measured canvas-wrap bounds and repeated pair before more painting. At 12, early rest check failed; waited for completion before paired inspection. All unique JPEG pairs retained locally, final pair committed. Camera waited 900ms and verified 2.0\u00d7. Actual browser PNG 900x620 visually inspected.",
+    "inspectionEvidence": "29 settled paired whole-and-close screenshot boundaries, including single-mark reflection check at 77; lower preset pan at 60 centered on cup base and did not show side objects closely. At 8, generic locator failed and initial close crop used transformed canvas bounds; corrected to measured canvas-wrap bounds and repeated pair before more painting. At 12, early rest check failed; waited for completion before paired inspection. All unique JPEG pairs retained locally, final pair committed. Camera waited 900ms and verified 2.0×. Actual browser PNG 900x620 visually inspected.",
     "engineRevision": "912c4fc80b4fa9c4a8c509b0edcdcf0ae062ea31",
     "model": "GPT-6 (specific variant unavailable)",
     "nextExperiment": "At fixed palette and renderer compare crosswise and contour body fills. On separate oil-ground swatches test broad and narrow background covers before silhouette corrections. Compare matched many-point and sparse oval rims.",
@@ -1633,7 +1633,7 @@
       },
       {
         "afterStroke": 112,
-        "text": "Stopped at 112 after deliberate 84\u2013112 refinement and paired final review. Four long tapered wings join the thorax; single head light stays compact. Broad amber reclaim absorbed most failed cover islands and closed split tip. Dark fringe, uneven wing edges, angular legs/stem, slightly detached terminal fork, water bands and regular simulated ridges remain. More covering is likely to enlarge texture rather than improve form."
+        "text": "Stopped at 112 after deliberate 84–112 refinement and paired final review. Four long tapered wings join the thorax; single head light stays compact. Broad amber reclaim absorbed most failed cover islands and closed split tip. Dark fringe, uneven wing edges, angular legs/stem, slightly detached terminal fork, water bands and regular simulated ridges remain. More covering is likely to enlarge texture rather than improve form."
       }
     ],
     "evidence": [
@@ -1977,414 +1977,505 @@
       "improvementClaim": "Joined mass and flowing long coil met local goals; focal light remained subtle. Repeated small planes interrupted walls and ground covers spread relief. No controlled comparison or independent rating."
     }
   },
-{
-  "id": "arms-full-of-evening",
-  "title": "Arms full of evening",
-  "date": "2026-10-16",
-  "session": "examples/arms-full-of-evening.json",
-  "finishedImage": "examples/previews/arms-full-of-evening.png",
-  "media": [
-    "acrylic",
-    "oil",
-    "watercolor"
-  ],
-  "goal": "Join long curved arm gestures into solid green forms, then keep warm light on selected cactus ribs.",
-  "inspiration": {
-    "description": "NPS saguaro guide sparked an original imagined saguaro at evening with distant columns, stones, grass and a small agave; no finished composition copied. Full prior study inventory checked before selection.",
-    "url": "https://www.nps.gov/sagu/learn/nature/saguaro.htm"
-  },
-  "observations": [
-    {
-      "afterStroke": 8,
-      "text": "Watercolor bridges joined most pale ground seams; horizontal bands remain."
+  {
+    "id": "arms-full-of-evening",
+    "title": "Arms full of evening",
+    "date": "2026-10-16",
+    "session": "examples/arms-full-of-evening.json",
+    "finishedImage": "examples/previews/arms-full-of-evening.png",
+    "media": [
+      "acrylic",
+      "oil",
+      "watercolor"
+    ],
+    "goal": "Join long curved arm gestures into solid green forms, then keep warm light on selected cactus ribs.",
+    "inspiration": {
+      "description": "NPS saguaro guide sparked an original imagined saguaro at evening with distant columns, stones, grass and a small agave; no finished composition copied. Full prior study inventory checked before selection.",
+      "url": "https://www.nps.gov/sagu/learn/nature/saguaro.htm"
     },
-    {
-      "afterStroke": 16,
-      "text": "Two long many-point arm gestures joined trunk without holes; crown cap remained angular."
-    },
-    {
-      "afterStroke": 20,
-      "text": "Warm left planes began turning form; cast shadow became a hard rectangular bar."
-    },
-    {
-      "afterStroke": 24,
-      "text": "Matching earth covers extended shadow relief rather than hiding it; failed correction."
-    },
-    {
-      "afterStroke": 32,
-      "text": "Loaded stone oil mixed darkly; acrylic did not visibly replace wet oil surface or relief."
-    },
-    {
-      "afterStroke": 36,
-      "text": "Short paler loaded oil facets made stone lights visible; curved right arm plane read. Dark left rib overshot into trunk."
-    },
-    {
-      "afterStroke": 40,
-      "text": "Broad green join removed dark overshoot; watercolor distant cactus stayed ghosted."
-    },
-    {
-      "afterStroke": 52,
-      "text": "Agave blades converged cleanly; inner folds separated at whole view. Tips remained angular."
-    },
-    {
-      "afterStroke": 56,
-      "text": "Crown interior planes softened turns without rounding exterior cap."
-    },
-    {
-      "afterStroke": 60,
-      "text": "Long pale earth gestures became visible but added heavy relief. Lower review confirmed strong shadow edge."
-    },
-    {
-      "afterStroke": 68,
-      "text": "Interrupted light gestures broke continuous trunk stripe; regular ridges remain."
-    },
-    {
-      "afterStroke": 72,
-      "text": "Sparse small spine test stayed quiet in whole view, visible close up."
-    },
-    {
-      "afterStroke": 77,
-      "text": "Single short crown light stayed compact; upper pan verified its edge."
-    },
-    {
-      "afterStroke": 84,
-      "text": "Left stone facet turned; right lower facet became harsh bar."
-    },
-    {
-      "afterStroke": 88,
-      "text": "Broader warm face reduced stone bar; agave folds stayed secondary."
-    },
-    {
-      "afterStroke": 96,
-      "text": "Crosswise green texture facets created dark bars across trunk light; failed experiment."
-    },
-    {
-      "afterStroke": 100,
-      "text": "Vertical light overlaps largely reconnected trunk plane, leaving texture seams."
-    },
-    {
-      "afterStroke": 104,
-      "text": "Grass curves branched; warm stone-ground join made a small ridged ledge."
-    },
-    {
-      "afterStroke": 108,
-      "text": "Tapered base and arm interior overlaps kept lights within silhouette."
-    },
-    {
-      "afterStroke": 112,
-      "text": "Stopped at 112 after deliberate 80–112 refinement and paired final review. Long many-point gestures joined solid arm bends; selected warm ribs turn the cactus and one compact crown light holds focus. Vertical overlaps largely repaired dark bars caused by crosswise texture planes. Matching ground covers spread relief; short pale loaded stone facets read more clearly. Faceted crown, angular agave tips, strong horizontal cast shadow, foreground ledges and regular simulated ridges remain. Further covering likely adds texture more than clarity."
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Watercolor bridges joined most pale ground seams; horizontal bands remain."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Two long many-point arm gestures joined trunk without holes; crown cap remained angular."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Warm left planes began turning form; cast shadow became a hard rectangular bar."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Matching earth covers extended shadow relief rather than hiding it; failed correction."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Loaded stone oil mixed darkly; acrylic did not visibly replace wet oil surface or relief."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Short paler loaded oil facets made stone lights visible; curved right arm plane read. Dark left rib overshot into trunk."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Broad green join removed dark overshoot; watercolor distant cactus stayed ghosted."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Agave blades converged cleanly; inner folds separated at whole view. Tips remained angular."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Crown interior planes softened turns without rounding exterior cap."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Long pale earth gestures became visible but added heavy relief. Lower review confirmed strong shadow edge."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Interrupted light gestures broke continuous trunk stripe; regular ridges remain."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Sparse small spine test stayed quiet in whole view, visible close up."
+      },
+      {
+        "afterStroke": 77,
+        "text": "Single short crown light stayed compact; upper pan verified its edge."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Left stone facet turned; right lower facet became harsh bar."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Broader warm face reduced stone bar; agave folds stayed secondary."
+      },
+      {
+        "afterStroke": 96,
+        "text": "Crosswise green texture facets created dark bars across trunk light; failed experiment."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Vertical light overlaps largely reconnected trunk plane, leaving texture seams."
+      },
+      {
+        "afterStroke": 104,
+        "text": "Grass curves branched; warm stone-ground join made a small ridged ledge."
+      },
+      {
+        "afterStroke": 108,
+        "text": "Tapered base and arm interior overlaps kept lights within silhouette."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Stopped at 112 after deliberate 80–112 refinement and paired final review. Long many-point gestures joined solid arm bends; selected warm ribs turn the cactus and one compact crown light holds focus. Vertical overlaps largely repaired dark bars caused by crosswise texture planes. Matching ground covers spread relief; short pale loaded stone facets read more clearly. Faceted crown, angular agave tips, strong horizontal cast shadow, foreground ledges and regular simulated ridges remain. Further covering likely adds texture more than clarity."
+      }
+    ],
+    "evidence": [
+      "examples/arms-full-of-evening.json",
+      "examples/previews/arms-full-of-evening.png",
+      "artifacts/arms-full-of-evening/112-whole-final.jpg",
+      "artifacts/arms-full-of-evening/112-close-final.jpg",
+      "artifacts/arms-full-of-evening/060-lower.jpg",
+      "artifacts/arms-full-of-evening/077-upper.jpg"
+    ],
+    "inspectionEvidence": "29 distinct settled whole/close screenshot boundaries plus repeated final 112 pair, lower 60 and upper 77 pans. Cameras waited 950ms and pressed state plus displayed Whole painting / 2.0× checked. All numeric pairs retained locally; final pair and two pans committed. Initial camera assertion at 4 failed because active preceded pressed; corrected before further paint. At 8 crop framing was incorrect; switched to fullPage:true with measured page coordinates and repeated pair before more marks. Actual browser PNG 900x620 visually inspected. No renderer changes.",
+    "engineRevision": "a074e3c55fc7e6b9d9ab578f5c5159fec33f5488",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer compare curved many-point arm gestures with three-point bends. On isolated rib swatches compare crosswise facets against interrupted vertical planes at identical load and pressure; test short pale versus matching-color ground covers before touching a scene. Choose a fresh subject/source from inventory.",
+    "assessment": {
+      "source": "Live browser observations, settled screenshot pairs, actual PNG export and hosted ended receipt.",
+      "humanRating": null,
+      "improvementClaim": "Joined long arm bends and compact crown light met local goals. Texture correction failed then was largely repaired; ground covers spread relief. No controlled comparison or independent rating."
     }
-  ],
-  "evidence": [
-    "examples/arms-full-of-evening.json",
-    "examples/previews/arms-full-of-evening.png",
-    "artifacts/arms-full-of-evening/112-whole-final.jpg",
-    "artifacts/arms-full-of-evening/112-close-final.jpg",
-    "artifacts/arms-full-of-evening/060-lower.jpg",
-    "artifacts/arms-full-of-evening/077-upper.jpg"
-  ],
-  "inspectionEvidence": "29 distinct settled whole/close screenshot boundaries plus repeated final 112 pair, lower 60 and upper 77 pans. Cameras waited 950ms and pressed state plus displayed Whole painting / 2.0× checked. All numeric pairs retained locally; final pair and two pans committed. Initial camera assertion at 4 failed because active preceded pressed; corrected before further paint. At 8 crop framing was incorrect; switched to fullPage:true with measured page coordinates and repeated pair before more marks. Actual browser PNG 900x620 visually inspected. No renderer changes.",
-  "engineRevision": "a074e3c55fc7e6b9d9ab578f5c5159fec33f5488",
-  "model": "GPT-6 (specific variant unavailable)",
-  "nextExperiment": "At fixed palette and renderer compare curved many-point arm gestures with three-point bends. On isolated rib swatches compare crosswise facets against interrupted vertical planes at identical load and pressure; test short pale versus matching-color ground covers before touching a scene. Choose a fresh subject/source from inventory.",
-  "assessment": {
-    "source": "Live browser observations, settled screenshot pairs, actual PNG export and hosted ended receipt.",
-    "humanRating": null,
-    "improvementClaim": "Joined long arm bends and compact crown light met local goals. Texture correction failed then was largely repaired; ground covers spread relief. No controlled comparison or independent rating."
-  }
-},
-{
-  "id": "a-gold-thread-in-the-rain",
-  "title": "A gold thread in the rain",
-  "date": "2026-10-16",
-  "session": "examples/a-gold-thread-in-the-rain.json",
-  "finishedImage": "examples/previews/a-gold-thread-in-the-rain.png",
-  "media": [
-    "acrylic",
-    "watercolor",
-    "oil"
-  ],
-  "goal": "Join long curved body gestures into a continuous form and reserve one small wet head highlight.",
-  "inspiration": {
-    "description": "NPS Redwood banana slug guide sparked an original imagined golden slug on rain-dark wood with moss, fallen leaf and sparse fern. Full prior title and source inventory checked; no finished composition copied.",
-    "url": "https://www.nps.gov/redw/learn/nature/banana-slug-and-millipede.htm"
   },
-  "observations": [
-    {
-      "afterStroke": 8,
-      "text": "Wet bridges closed pale ground seams; bands remain."
+  {
+    "id": "a-gold-thread-in-the-rain",
+    "title": "A gold thread in the rain",
+    "date": "2026-10-16",
+    "session": "examples/a-gold-thread-in-the-rain.json",
+    "finishedImage": "examples/previews/a-gold-thread-in-the-rain.png",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Join long curved body gestures into a continuous form and reserve one small wet head highlight.",
+    "inspiration": {
+      "description": "NPS Redwood banana slug guide sparked an original imagined golden slug on rain-dark wood with moss, fallen leaf and sparse fern. Full prior title and source inventory checked; no finished composition copied.",
+      "url": "https://www.nps.gov/redw/learn/nature/banana-slug-and-millipede.htm"
     },
-    {
-      "afterStroke": 16,
-      "text": "Broad oil joined wood center where initial acrylic planes were visually weak."
-    },
-    {
-      "afterStroke": 20,
-      "text": "Long many-point body gestures joined without holes."
-    },
-    {
-      "afterStroke": 28,
-      "text": "Narrow mantle arc made a hanging hollow loop."
-    },
-    {
-      "afterStroke": 32,
-      "text": "Broad fill joined mantle to neck and removed hollow loop."
-    },
-    {
-      "afterStroke": 40,
-      "text": "Moss interrupted part of straight dark wood bar."
-    },
-    {
-      "afterStroke": 48,
-      "text": "Warm head plane separated face; small mantle shadow reads as pore."
-    },
-    {
-      "afterStroke": 56,
-      "text": "Broad ochre planes filled hollow leaf."
-    },
-    {
-      "afterStroke": 68,
-      "text": "Loaded central strokes filled thin opposing fern leaflets."
-    },
-    {
-      "afterStroke": 72,
-      "text": "Lengthwise planes maintained body continuity without crosswise bars."
-    },
-    {
-      "afterStroke": 77,
-      "text": "One short head light stayed compact at whole view."
-    },
-    {
-      "afterStroke": 88,
-      "text": "Tail tapered to a clear point; foot planes joined."
-    },
-    {
-      "afterStroke": 100,
-      "text": "Leaf planes joined but fold remained angular."
-    },
-    {
-      "afterStroke": 112,
-      "text": "Stopped at 112 after deliberate 80\u2013112 refinement and repeated final paired review. Long many-point gestures joined a solid golden body. Filled mantle corrected a hanging outline loop; one short head light stayed compact. Filled leaf and fern centers are solid. Broken grain and moss reduced a straight dark bar. Plank-like log silhouette, angular leaf fold, horizontal ground bands and regular simulated ridges remain. Further broad covers likely add relief more than clarity."
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Wet bridges closed pale ground seams; bands remain."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Broad oil joined wood center where initial acrylic planes were visually weak."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Long many-point body gestures joined without holes."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Narrow mantle arc made a hanging hollow loop."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Broad fill joined mantle to neck and removed hollow loop."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Moss interrupted part of straight dark wood bar."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Warm head plane separated face; small mantle shadow reads as pore."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Broad ochre planes filled hollow leaf."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Loaded central strokes filled thin opposing fern leaflets."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Lengthwise planes maintained body continuity without crosswise bars."
+      },
+      {
+        "afterStroke": 77,
+        "text": "One short head light stayed compact at whole view."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Tail tapered to a clear point; foot planes joined."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Leaf planes joined but fold remained angular."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Stopped at 112 after deliberate 80–112 refinement and repeated final paired review. Long many-point gestures joined a solid golden body. Filled mantle corrected a hanging outline loop; one short head light stayed compact. Filled leaf and fern centers are solid. Broken grain and moss reduced a straight dark bar. Plank-like log silhouette, angular leaf fold, horizontal ground bands and regular simulated ridges remain. Further broad covers likely add relief more than clarity."
+      }
+    ],
+    "evidence": [
+      "examples/a-gold-thread-in-the-rain.json",
+      "examples/previews/a-gold-thread-in-the-rain.png",
+      "artifacts/a-gold-thread-in-the-rain/112-final-whole.jpg",
+      "artifacts/a-gold-thread-in-the-rain/112-final-close.jpg",
+      "artifacts/a-gold-thread-in-the-rain/112-lower.jpg"
+    ],
+    "inspectionEvidence": "29 distinct settled whole/close boundaries, repeated pairs at 8 and 60 after framing problems, and a repeated final 112 pair. Cameras waited at least 950ms and pressed state plus displayed Whole painting / 2.0× were checked. Upper pan at 44 did not center the head; lower final pan reviewed foot and fern. A REPL closure retained the old filename counter after 48, overwriting subsequent intermediate files under 048; actual screenshot pairs were inspected in the conversation. Final 112 pair and lower review were recovered under accurate filenames. Initial 48 batch and note clicks did not submit; DOM checked, direct controls retried, count 48 verified before further paint. No lost or duplicated marks. Actual browser PNG visually inspected; no renderer changes.",
+    "engineRevision": "90e9197114e3ff8f55d893782a077a9d1b8b1dd3",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer compare filled lengthwise mantle planes with narrow curved outlines on isolated slug swatches. Compare fully loaded leaflet centers with taper-only outlines. Choose a fresh subject and source from inventory next run.",
+    "assessment": {
+      "source": "Live browser observations, paired screenshots, actual PNG export and ended hosted receipt.",
+      "humanRating": null,
+      "improvementClaim": "Continuous body and compact focal light met local goals; mantle loop corrected. No controlled comparison or independent rating."
     }
-  ],
-  "evidence": [
-    "examples/a-gold-thread-in-the-rain.json",
-    "examples/previews/a-gold-thread-in-the-rain.png",
-    "artifacts/a-gold-thread-in-the-rain/112-final-whole.jpg",
-    "artifacts/a-gold-thread-in-the-rain/112-final-close.jpg",
-    "artifacts/a-gold-thread-in-the-rain/112-lower.jpg"
-  ],
-  "inspectionEvidence": "29 distinct settled whole/close boundaries, repeated pairs at 8 and 60 after framing problems, and a repeated final 112 pair. Cameras waited at least 950ms and pressed state plus displayed Whole painting / 2.0\u00d7 were checked. Upper pan at 44 did not center the head; lower final pan reviewed foot and fern. A REPL closure retained the old filename counter after 48, overwriting subsequent intermediate files under 048; actual screenshot pairs were inspected in the conversation. Final 112 pair and lower review were recovered under accurate filenames. Initial 48 batch and note clicks did not submit; DOM checked, direct controls retried, count 48 verified before further paint. No lost or duplicated marks. Actual browser PNG visually inspected; no renderer changes.",
-  "engineRevision": "90e9197114e3ff8f55d893782a077a9d1b8b1dd3",
-  "model": "GPT-6 (specific variant unavailable)",
-  "nextExperiment": "At fixed palette and renderer compare filled lengthwise mantle planes with narrow curved outlines on isolated slug swatches. Compare fully loaded leaflet centers with taper-only outlines. Choose a fresh subject and source from inventory next run.",
-  "assessment": {
-    "source": "Live browser observations, paired screenshots, actual PNG export and ended hosted receipt.",
-    "humanRating": null,
-    "improvementClaim": "Continuous body and compact focal light met local goals; mantle loop corrected. No controlled comparison or independent rating."
-  }
-},
-{
-  "id": "cups-of-borrowed-sun",
-  "title": "Cups of borrowed sun",
-  "date": "2026-10-16",
-  "session": "examples/cups-of-borrowed-sun.json",
-  "finishedImage": "examples/previews/cups-of-borrowed-sun.png",
-  "media": [
-    "acrylic",
-    "watercolor",
-    "oil"
-  ],
-  "goal": "Join broad filled poppy cup planes and reserve one short focal petal light.",
-  "inspiration": {
-    "description": "Original imagined two California poppies and a closed bud in a cool field, sparked by the NPS California poppy guide. Prior full study/source inventory checked. No finished composition copied.",
-    "url": "https://www.nps.gov/prsf/learn/nature/california-poppy.htm"
   },
-  "observations": [
-    {
-      "afterStroke": 8,
-      "text": "Wet bridges closed pale field seams; horizontal bands remain."
+  {
+    "id": "cups-of-borrowed-sun",
+    "title": "Cups of borrowed sun",
+    "date": "2026-10-16",
+    "session": "examples/cups-of-borrowed-sun.json",
+    "finishedImage": "examples/previews/cups-of-borrowed-sun.png",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Join broad filled poppy cup planes and reserve one short focal petal light.",
+    "inspiration": {
+      "description": "Original imagined two California poppies and a closed bud in a cool field, sparked by the NPS California poppy guide. Prior full study/source inventory checked. No finished composition copied.",
+      "url": "https://www.nps.gov/prsf/learn/nature/california-poppy.htm"
     },
-    {
-      "afterStroke": 16,
-      "text": "Broad overlapping main petals joined without a hollow center."
-    },
-    {
-      "afterStroke": 24,
-      "text": "Calyxes landed too high on flower faces."
-    },
-    {
-      "afterStroke": 28,
-      "text": "Loaded front petals reduced green patches and joined cup faces."
-    },
-    {
-      "afterStroke": 32,
-      "text": "Rear lip strokes made angular gold bands."
-    },
-    {
-      "afterStroke": 44,
-      "text": "Loaded central passes strengthened thin leaf lobes."
-    },
-    {
-      "afterStroke": 56,
-      "text": "Warm planes partly interrupted gold bands."
-    },
-    {
-      "afterStroke": 60,
-      "text": "Rust folds became hard dark bars."
-    },
-    {
-      "afterStroke": 64,
-      "text": "Broad loaded orange largely repaired dark fold bars."
-    },
-    {
-      "afterStroke": 68,
-      "text": "Broad green filled bud bend into a closed pod; warm overlaps reduced calyx remnants."
-    },
-    {
-      "afterStroke": 77,
-      "text": "Single short main lip light remained compact in whole view."
-    },
-    {
-      "afterStroke": 84,
-      "text": "Lower camera confirmed joined base and sparse divided foliage; long spines remained."
-    },
-    {
-      "afterStroke": 88,
-      "text": "Tapers interrupted stick-like base ends."
-    },
-    {
-      "afterStroke": 92,
-      "text": "Rear shoulders joined but scallops remained; compact light partly covered."
-    },
-    {
-      "afterStroke": 100,
-      "text": "Warm overlaps softened some central petal edges."
-    },
-    {
-      "afterStroke": 112,
-      "text": "Restored short focal light stays compact. Joined orange cups, a filled bud and sparse divided foliage read clearly. Scalloped tops, angular leaves, field bands and regular simulated ridges remain. Stopped after paired final review because more broad covers likely add relief rather than clarity."
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Wet bridges closed pale field seams; horizontal bands remain."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Broad overlapping main petals joined without a hollow center."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Calyxes landed too high on flower faces."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Loaded front petals reduced green patches and joined cup faces."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Rear lip strokes made angular gold bands."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Loaded central passes strengthened thin leaf lobes."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Warm planes partly interrupted gold bands."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Rust folds became hard dark bars."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Broad loaded orange largely repaired dark fold bars."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Broad green filled bud bend into a closed pod; warm overlaps reduced calyx remnants."
+      },
+      {
+        "afterStroke": 77,
+        "text": "Single short main lip light remained compact in whole view."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Lower camera confirmed joined base and sparse divided foliage; long spines remained."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Tapers interrupted stick-like base ends."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Rear shoulders joined but scallops remained; compact light partly covered."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Warm overlaps softened some central petal edges."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Restored short focal light stays compact. Joined orange cups, a filled bud and sparse divided foliage read clearly. Scalloped tops, angular leaves, field bands and regular simulated ridges remain. Stopped after paired final review because more broad covers likely add relief rather than clarity."
+      }
+    ],
+    "evidence": [
+      "examples/cups-of-borrowed-sun.json",
+      "examples/previews/cups-of-borrowed-sun.png",
+      "artifacts/cups-of-borrowed-sun/112-final-whole.jpg",
+      "artifacts/cups-of-borrowed-sun/112-final-close.jpg",
+      "artifacts/cups-of-borrowed-sun/084-lower.jpg"
+    ],
+    "inspectionEvidence": "Animated 1–4-stroke batches, settled whole and 2.0x close screenshots at 29 distinct boundaries; repeated final pair and lower pan at 84. Camera settled for 1000ms and pressed/displayed zoom checked. At 4 assertion rejected active+pressed before capture; corrected. At 8 camera timeout and misframed crop repeated before more paint. Thereafter full-page priming before measured crop fixed framing. Unique explicit numeric filenames retained locally. Actual exported PNG visually inspected.",
+    "engineRevision": "86521c564c2942db047a0cfa59b399df253e3f97",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer compare broad filled poppy cup planes with narrow outlines; compare rust fold bars with short low-contrast warm folds on isolated swatches. Test matched broad covers before scene corrections. Choose a fresh subject/source next run.",
+    "assessment": {
+      "source": "Live browser observations, settled paired screenshots, actual PNG export and ended hosted receipt.",
+      "humanRating": null,
+      "improvementClaim": "Joined filled cups and compact light met local goals; hard fold bars repaired. No controlled comparison or independent rating."
     }
-  ],
-  "evidence": [
-    "examples/cups-of-borrowed-sun.json",
-    "examples/previews/cups-of-borrowed-sun.png",
-    "artifacts/cups-of-borrowed-sun/112-final-whole.jpg",
-    "artifacts/cups-of-borrowed-sun/112-final-close.jpg",
-    "artifacts/cups-of-borrowed-sun/084-lower.jpg"
-  ],
-  "inspectionEvidence": "Animated 1\u20134-stroke batches, settled whole and 2.0x close screenshots at 29 distinct boundaries; repeated final pair and lower pan at 84. Camera settled for 1000ms and pressed/displayed zoom checked. At 4 assertion rejected active+pressed before capture; corrected. At 8 camera timeout and misframed crop repeated before more paint. Thereafter full-page priming before measured crop fixed framing. Unique explicit numeric filenames retained locally. Actual exported PNG visually inspected.",
-  "engineRevision": "86521c564c2942db047a0cfa59b399df253e3f97",
-  "model": "GPT-6 (specific variant unavailable)",
-  "nextExperiment": "At fixed palette and renderer compare broad filled poppy cup planes with narrow outlines; compare rust fold bars with short low-contrast warm folds on isolated swatches. Test matched broad covers before scene corrections. Choose a fresh subject/source next run.",
-  "assessment": {
-    "source": "Live browser observations, settled paired screenshots, actual PNG export and ended hosted receipt.",
-    "humanRating": null,
-    "improvementClaim": "Joined filled cups and compact light met local goals; hard fold bars repaired. No controlled comparison or independent rating."
-  }
-},
-{
-  "id": "small-stores-of-autumn",
-  "title": "Small stores of autumn",
-  "date": "2026-10-19",
-  "session": "examples/small-stores-of-autumn.json",
-  "finishedImage": "examples/previews/small-stores-of-autumn.png",
-  "media": [
-    "acrylic",
-    "watercolor",
-    "oil"
-  ],
-  "goal": "Build solid rounded acorns with long overlapping planes and reserve one compact shoulder light.",
-  "inspiration": {
-    "description": "Original imagined two acorns and a curled oak leaf on blue-grey cloth, sparked by the NPS Species Spotlight Oaks article. Full prior subject/source inventory checked; no finished composition copied.",
-    "url": "https://www.nps.gov/articles/species-spotlight-oaks.htm"
   },
-  "observations": [
-    {
-      "afterStroke": 8,
-      "text": "Broad wet bridges closed bright field seams; bands remain."
+  {
+    "id": "small-stores-of-autumn",
+    "title": "Small stores of autumn",
+    "date": "2026-10-19",
+    "session": "examples/small-stores-of-autumn.json",
+    "finishedImage": "examples/previews/small-stores-of-autumn.png",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Build solid rounded acorns with long overlapping planes and reserve one compact shoulder light.",
+    "inspiration": {
+      "description": "Original imagined two acorns and a curled oak leaf on blue-grey cloth, sparked by the NPS Species Spotlight Oaks article. Full prior subject/source inventory checked; no finished composition copied.",
+      "url": "https://www.nps.gov/articles/species-spotlight-oaks.htm"
     },
-    {
-      "afterStroke": 16,
-      "text": "Long warm overlaps joined solid unequal nut bodies."
-    },
-    {
-      "afterStroke": 24,
-      "text": "Broad cap planes establish acorns; leaf stem crossed the smaller nut."
-    },
-    {
-      "afterStroke": 32,
-      "text": "Loaded warm overlap mostly removed the crossing stem."
-    },
-    {
-      "afterStroke": 36,
-      "text": "Matched cloth shadow covers changed color but widened regular relief."
-    },
-    {
-      "afterStroke": 48,
-      "text": "Unequal cap facets stay subordinate at whole view."
-    },
-    {
-      "afterStroke": 52,
-      "text": "Joined leaf planes filled the scalloped leaf; upper preset showed most of leaf but cropped right edge."
-    },
-    {
-      "afterStroke": 56,
-      "text": "Low-contrast midrib and unequal branches read without outlining the leaf."
-    },
-    {
-      "afterStroke": 60,
-      "text": "Contact marks connected bodies; longer cloth gestures added unwanted relief."
-    },
-    {
-      "afterStroke": 64,
-      "text": "Narrow smaller-nut shadow became a hard brown bar."
-    },
-    {
-      "afterStroke": 68,
-      "text": "Broad warm midtone absorbed the smaller nut bar."
-    },
-    {
-      "afterStroke": 77,
-      "text": "Single short pale shoulder light remained compact at whole view."
-    },
-    {
-      "afterStroke": 84,
-      "text": "Tapered lobes changed leaf interior more than outer scallops."
-    },
-    {
-      "afterStroke": 88,
-      "text": "Long warm overlaps joined patchy nut planes without covering the focal light."
-    },
-    {
-      "afterStroke": 92,
-      "text": "Pale loaded trial shortened dark shadow bars but made conspicuous light patches."
-    },
-    {
-      "afterStroke": 96,
-      "text": "Matched cloth paint removed pale patches but left broad ridged relief."
-    },
-    {
-      "afterStroke": 100,
-      "text": "Final restrained cap facets and leaf turns retained joined bodies and compact light. Soft blunt tips, scalloped leaf edges, field bands and conspicuous regular ground relief remain. Stopped after deliberate 80\u2013100 refinement and paired final review because further ground covers were adding relief rather than clarity."
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Broad wet bridges closed bright field seams; bands remain."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Long warm overlaps joined solid unequal nut bodies."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Broad cap planes establish acorns; leaf stem crossed the smaller nut."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Loaded warm overlap mostly removed the crossing stem."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Matched cloth shadow covers changed color but widened regular relief."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Unequal cap facets stay subordinate at whole view."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Joined leaf planes filled the scalloped leaf; upper preset showed most of leaf but cropped right edge."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Low-contrast midrib and unequal branches read without outlining the leaf."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Contact marks connected bodies; longer cloth gestures added unwanted relief."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Narrow smaller-nut shadow became a hard brown bar."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Broad warm midtone absorbed the smaller nut bar."
+      },
+      {
+        "afterStroke": 77,
+        "text": "Single short pale shoulder light remained compact at whole view."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Tapered lobes changed leaf interior more than outer scallops."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Long warm overlaps joined patchy nut planes without covering the focal light."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Pale loaded trial shortened dark shadow bars but made conspicuous light patches."
+      },
+      {
+        "afterStroke": 96,
+        "text": "Matched cloth paint removed pale patches but left broad ridged relief."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Final restrained cap facets and leaf turns retained joined bodies and compact light. Soft blunt tips, scalloped leaf edges, field bands and conspicuous regular ground relief remain. Stopped after deliberate 80–100 refinement and paired final review because further ground covers were adding relief rather than clarity."
+      }
+    ],
+    "evidence": [
+      "examples/small-stores-of-autumn.json",
+      "examples/previews/small-stores-of-autumn.png",
+      "artifacts/small-stores-of-autumn/100-final-whole.png",
+      "artifacts/small-stores-of-autumn/100-final-close.png",
+      "artifacts/small-stores-of-autumn/052-upper.png",
+      "artifacts/small-stores-of-autumn/077-whole.png"
+    ],
+    "inspectionEvidence": "Animated 1–4-stroke batches with 26 distinct settled whole and 2.0x close screenshot boundaries; repeated final pair and upper camera at 52. Initial pressed-token assertion rejected active+pressed at 4; corrected. Camera focus timeout and misframed whole screenshot at 8 repeated before more paint. Camera state delayed at 12/16; paired review repeated before continuing. Stable mutable helper state then polled pressed and displayed zoom after 1000ms waits. Explicit numeric filenames avoided overwrites. Final actual browser PNG visually inspected.",
+    "engineRevision": "8386bd1bd41b9f134887682a5ef594a07d208b8e",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer, compare broad filled acorn planes with narrow shadow bars. On isolated swatches compare matched cloth oil covers at equal body with pale then matched covers; measure value change separately from relief. Repeat a small calibration subject against its earlier exported image before claiming improvement. Choose a fresh subject/source for the next open-ended study.",
+    "assessment": {
+      "source": "Live browser observations, settled whole/close screenshots, actual exported PNG and ended hosted receipt.",
+      "humanRating": null,
+      "improvementClaim": "Local joined-body and compact-light goals met; crossing stem and hard nut bar repaired. Ground relief remains. No controlled comparison or independent rating."
     }
-  ],
-  "evidence": [
-    "examples/small-stores-of-autumn.json",
-    "examples/previews/small-stores-of-autumn.png",
-    "artifacts/small-stores-of-autumn/100-final-whole.png",
-    "artifacts/small-stores-of-autumn/100-final-close.png",
-    "artifacts/small-stores-of-autumn/052-upper.png",
-    "artifacts/small-stores-of-autumn/077-whole.png"
-  ],
-  "inspectionEvidence": "Animated 1\u20134-stroke batches with 26 distinct settled whole and 2.0x close screenshot boundaries; repeated final pair and upper camera at 52. Initial pressed-token assertion rejected active+pressed at 4; corrected. Camera focus timeout and misframed whole screenshot at 8 repeated before more paint. Camera state delayed at 12/16; paired review repeated before continuing. Stable mutable helper state then polled pressed and displayed zoom after 1000ms waits. Explicit numeric filenames avoided overwrites. Final actual browser PNG visually inspected.",
-  "engineRevision": "8386bd1bd41b9f134887682a5ef594a07d208b8e",
-  "model": "GPT-6 (specific variant unavailable)",
-  "nextExperiment": "At fixed palette and renderer, compare broad filled acorn planes with narrow shadow bars. On isolated swatches compare matched cloth oil covers at equal body with pale then matched covers; measure value change separately from relief. Repeat a small calibration subject against its earlier exported image before claiming improvement. Choose a fresh subject/source for the next open-ended study.",
-  "assessment": {
-    "source": "Live browser observations, settled whole/close screenshots, actual exported PNG and ended hosted receipt.",
-    "humanRating": null,
-    "improvementClaim": "Local joined-body and compact-light goals met; crossing stem and hard nut bar repaired. Ground relief remains. No controlled comparison or independent rating."
+  },
+  {
+    "id": "slow-gold-on-the-forest-floor",
+    "title": "Slow gold on the forest floor",
+    "date": "2026-10-19",
+    "session": "examples/slow-gold-on-the-forest-floor.json",
+    "finishedImage": "examples/previews/slow-gold-on-the-forest-floor.png",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Build a continuous tapered golden body through long overlaps, with one compact head light and quieter surrounding moss.",
+    "inspiration": {
+      "description": "Original imagined banana slug crossing a mossy forest floor with fallen twig, leaves and a small fern; sparked by the NPS Redwood banana slug guide. Prior subject inventory checked; no finished composition copied.",
+      "url": "https://www.nps.gov/redw/learn/nature/banana-slug-and-millipede.htm"
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Wet bridges joined bright ground seams; horizontal bands remain."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Long overlaps joined body, but mantle retained a small dark hole and angular crown."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Broad gold closed hole; two tapered feelers made subject readable."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Filled moss centers repaired hollow arches."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Broad warm overlaps absorbed a hard underside bar, leaving relief."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Loaded centers filled fallen leaf loops; moss tufts mostly changed interior."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Narrow mantle folds became dark bars despite close palette match."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Broad gold partly reduced fold bars; regular ridges remain."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Unequal fern leaflets stayed below the golden silhouette."
+      },
+      {
+        "afterStroke": 77,
+        "text": "Single short head light stayed compact at whole view."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Tail connected into taper. Watery bank passes barely changed dry relief."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Thin ground covers widened dark patches at twig ends."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Loaded opaque paint changed color but widened relief further."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Final long gold planes retained continuous body and compact head light. Angular crown, regular skin ridges, straight bank contact and broad cover patches remain. Stopped after final paired review because further covers were adding relief rather than clarity."
+      }
+    ],
+    "evidence": [
+      "examples/slow-gold-on-the-forest-floor.json",
+      "examples/previews/slow-gold-on-the-forest-floor.png",
+      "artifacts/slow-gold-on-the-forest-floor/092-whole.png",
+      "artifacts/slow-gold-on-the-forest-floor/092-close.png",
+      "artifacts/slow-gold-on-the-forest-floor/077-whole.png"
+    ],
+    "inspectionEvidence": "Animated 1–4-stroke batches with 24 distinct settled whole/2.0x close screenshot boundaries, plus repeated final pair. Camera timeout and misframed 8-mark pair repeated before further painting. Upper preset at 48 cropped the head and was unhelpful; whole/close review resumed. Unique numeric screenshots retained locally; final pair and single-light 77 whole preserved in Git. Actual 900x620 PNG visually inspected.",
+    "engineRevision": "63a31a3ebb327fe5789683d919aeddc98007e1b9",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer compare long broad gold planes with narrow fold marks. Compare thin versus loaded ground covers on isolated swatches, recording color and relief separately. Repeat a saved calibration subject before improvement claims. Choose a fresh subject next run.",
+    "assessment": {
+      "source": "Live notes, actual browser PNG, settled screenshot pairs and ended hosted receipt.",
+      "humanRating": null,
+      "improvementClaim": "Local continuity and compact-light goals met; no controlled comparison or human rating. Ground-cover experiment failed."
+    }
   }
-}
 ]

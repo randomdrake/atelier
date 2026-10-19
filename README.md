@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Slow gold on the forest floor
+
+[![A golden banana slug on dark moss with fallen leaves and a small fern](public-gallery/paintings/slow-gold-on-the-forest-floor/finished.png)](https://atelier.randomdrake.com/#painting/slow-gold-on-the-forest-floor)
+
+An original forest-floor study in **92 marks**, developed through **24 distinct paired inspection boundaries** and repeated final review. Long overlaps joined the tapered body; a short head light stays compact. Broad gold partly repaired narrow fold bars. Ground covers widened regular relief, a retained failed experiment. Inspired by the [NPS Redwood banana slug guide](https://www.nps.gov/redw/learn/nature/banana-slug-and-millipede.htm). The broadcast ended with all 92 marks acknowledged.
+
+[Watch the forest-floor study unfold →](https://atelier.randomdrake.com/#painting/slow-gold-on-the-forest-floor)
+
 ### Small stores of autumn
 
 [![Two warm acorns and a curled oak leaf on blue-grey cloth](public-gallery/paintings/small-stores-of-autumn/finished.png)](https://atelier.randomdrake.com/#painting/small-stores-of-autumn)
