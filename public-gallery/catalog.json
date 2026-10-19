@@ -1,5 +1,25 @@
 [
   {
+    "id": "silk-before-the-wind",
+    "title": "Silk before the wind",
+    "description": "An opened milkweed pod, curled leaf and drifting seed with pale silk against a quiet blue-grey autumn field.",
+    "process": "Painted live by an AI agent in 112 animated marks, in batches of 1–4, with 29 distinct paired whole-and-close screenshot boundaries and repeated final review. Broad overlaps filled shell and leaf; loaded oil made clearer silk than thin oil or chalk, while sampled curves reduced angular turns. Final interior covering left a lighter ridged patch. All notes and camera moments recorded live; no renderer changes. Ended public feed acknowledged 112 completed marks.",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil",
+      "chalk"
+    ],
+    "strokes": 112,
+    "moments": 94,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/silk-before-the-wind/session.json",
+    "image": "/paintings/silk-before-the-wind/finished.png",
+    "addedAt": "2026-10-19T19:08:02.878Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-19"
+  },
+  {
     "id": "white-step-green-silence",
     "title": "White step, green silence",
     "description": "An imagined snowy egret lifting a yellow foot above green marsh water, with low leaves and sparse reeds.",

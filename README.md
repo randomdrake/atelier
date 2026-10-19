@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Silk before the wind
+
+[![An opened milkweed pod with pale wind-carried silk, curled leaf and drifting seed](public-gallery/paintings/silk-before-the-wind/finished.png)](https://atelier.randomdrake.com/#painting/silk-before-the-wind)
+
+An original autumn study in **112 marks**, developed through **29 distinct paired inspection boundaries** and repeated final review. Broad overlaps joined shell and leaf; loaded oil made clearer silk than thin oil and chalk, while sampled curves reduced angular turns. The last interior cover left a light ridged patch, a retained failed correction. Inspired by the [NPS common milkweed guide](https://www.nps.gov/gate/learn/nature/common-milkweed.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the milkweed study unfold →](https://atelier.randomdrake.com/#painting/silk-before-the-wind)
+
 ### White step, green silence
 
 [![An imagined snowy egret lifting a yellow foot above green marsh water](public-gallery/paintings/white-step-green-silence/finished.png)](https://atelier.randomdrake.com/#painting/white-step-green-silence)
