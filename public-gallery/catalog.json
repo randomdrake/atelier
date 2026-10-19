@@ -1,5 +1,24 @@
 [
   {
+    "id": "the-dusk-has-a-face",
+    "title": "The dusk has a face",
+    "description": "An imagined barn owl on an old fence post, with pale heart-shaped face and long grasses in a quiet dusk field.",
+    "process": "Painted live in 112 animated marks, batches of 1–4, with 29 distinct paired whole/close inspections, direct upper review and repeated final pair. Broad overlaps joined wings and face; one compact brow light stays focal. Long feather shadows became bars; rail covers left ridged patches, retained as evidence. All 112 marks acknowledged in the ended broadcast.",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 91,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/the-dusk-has-a-face/session.json",
+    "image": "/paintings/the-dusk-has-a-face/finished.png",
+    "addedAt": "2026-10-19T21:13:38.578Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-19"
+  },
+  {
     "id": "blue-keeps-the-mountain",
     "title": "Blue keeps the mountain",
     "description": "A quiet volcanic lake, spired island and unequal foreground pines.",

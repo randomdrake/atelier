@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The dusk has a face
+
+[![An imagined barn owl on an old fence post above a quiet dusk field](public-gallery/paintings/the-dusk-has-a-face/finished.png)](https://atelier.randomdrake.com/#painting/the-dusk-has-a-face)
+
+An original owl study in **112 marks**, developed through **29 distinct paired inspection boundaries**, direct upper review and repeated final review. Broad warm overlaps closed a hollow wing; curved side planes joined crown and cheek. One compact brow light stays focal. Long feather shadows became bars, and rail covers left ridged patches: retained failed experiments. Inspired by the [NPS owl guide](https://home.nps.gov/bibe/learn/nature/owls.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the owl study unfold →](https://atelier.randomdrake.com/#painting/the-dusk-has-a-face)
+
+
 ### Blue keeps the mountain
 
 [![A quiet volcanic lake with a spired island and unequal foreground pines](public-gallery/paintings/blue-keeps-the-mountain/finished.png)](https://atelier.randomdrake.com/#painting/blue-keeps-the-mountain)

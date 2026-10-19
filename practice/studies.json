@@ -2886,5 +2886,124 @@
       "humanRating": null,
       "improvementClaim": "Joined masses and compact accent observed within this study. No controlled comparison or human rating. Thin rim oil and reflection covers produced regular relief."
     }
+  },
+  {
+    "id": "the-dusk-has-a-face",
+    "title": "The dusk has a face",
+    "date": "2026-10-19",
+    "session": "examples/the-dusk-has-a-face.json",
+    "finishedImage": "examples/previews/the-dusk-has-a-face.png",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Join broad curved face and chest planes, keeping one compact facial light against warm wings and quiet dusk.",
+    "inspiration": {
+      "url": "https://home.nps.gov/bibe/learn/nature/owls.htm",
+      "description": "Original imagined barn owl on an old fence post at dusk, sparked by the NPS owl guide; no finished composition copied."
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Bridge washes closed linen seams; quiet horizontal bands remained."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Broad ivory overlaps filled the hollow head and joined pale chest, leaving square upper lobes."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Broad warm interior passes closed the left wing hollow and rounded the facial lobes."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Sockets became thick brows and far-wing shadow became a hard stripe."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Pale lower covers narrowed sockets; broad warm covers mostly absorbed wing stripe, leaving lower tip."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Dark centers established gaze; pale beak cover left dark lower edge."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Unequal feet bridged bird and post."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Long shadow feathers became parallel bars."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Short warm overlaps broke bars into shorter segments but left raised patches."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Watercolor stems and seedheads remained subdued."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Loaded cream separated breast more clearly from wings; regular bristle ridges remained conspicuous."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Tapered foreground blades varied stems but bends remained angular."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Post light and split turned wood; rail highlights too continuous."
+      },
+      {
+        "afterStroke": 81,
+        "text": "Single compact brow light stayed small at whole view."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Direct upper review confirmed tiny glint and short light, but broad brown socket caps remained."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Rail breaks became dark dashes."
+      },
+      {
+        "afterStroke": 96,
+        "text": "Thin broad matching glazes joined dashes into larger ridged patches; warm feather ends reduced lower hooks."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Claw ends and short foot lights clarified contact."
+      },
+      {
+        "afterStroke": 104,
+        "text": "Short overlaps reduced left wing bracket but left a raised patch."
+      },
+      {
+        "afterStroke": 108,
+        "text": "Warm side curves joined crown overhangs to cheek edges; pale covers narrowed beak shadow."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Final short seedhead breaks and wing facets varied edges. Repeated paired review retained compact light, joined masses and quiet surroundings; stopped to avoid enlarging ridged patches."
+      }
+    ],
+    "evidence": [
+      "examples/the-dusk-has-a-face.json",
+      "examples/previews/the-dusk-has-a-face.png",
+      "artifacts/the-dusk-has-a-face/112-final-whole.png",
+      "artifacts/the-dusk-has-a-face/112-final-close.png",
+      "artifacts/the-dusk-has-a-face/084-upper.png"
+    ],
+    "inspectionEvidence": "Settled whole and 2.0x close screenshot pairs inspected at 29 distinct boundaries, plus direct upper camera review at 84 and repeated final pair. Displayed camera zoom checked after each move. First 4 pair re-emitted after tool wrapper serialized image output; inspected before next batch. Unique explicit filenames retained all pairs locally. Final pair and upper review committed. Actual browser-exported 900x620 PNG visually inspected.",
+    "engineRevision": "07cf825097867e9d2b6241c05889862c09a24157",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Fixed-palette owl wing calibration: compare broad filled warm planes with long narrow shadow feathers, same paths and renderer; assess color separation and relief separately. Choose a fresh subject next study.",
+    "assessment": {
+      "source": "Live notes, actual screenshot inspections, exported PNG and ended hosted receipt.",
+      "humanRating": null,
+      "improvementClaim": "Joined broad masses and compact light observed within this study; no controlled comparison or human rating. Long feather shadows and rail covers produced hard bars or raised patches."
+    }
   }
 ]
