@@ -1,5 +1,24 @@
 [
   {
+    "id": "a-small-song-in-lichen",
+    "title": "A small song in lichen",
+    "description": "A chickadee holds a lichen-covered twig against quiet green air.",
+    "process": "112 animated strokes in batches of one to four, with 29 settled whole-and-close inspection boundaries, an upper head review, 31 live easel notes, deliberate refinement and a repeated final paired review. Live broadcast ended with all 112 marks acknowledged.",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 90,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/a-small-song-in-lichen/session.json",
+    "image": "/paintings/a-small-song-in-lichen/finished.png",
+    "addedAt": "2026-10-20T16:07:53.281Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-20"
+  },
+  {
     "id": "keys-for-the-wind",
     "title": "Keys for the wind",
     "description": "Paired maple seeds and a curled copper leaf on blue-grey cloth.",
