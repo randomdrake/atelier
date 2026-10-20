@@ -1,5 +1,25 @@
 [
   {
+    "id": "where-the-grass-listens",
+    "title": "Where the grass listens",
+    "description": "An imagined warm brown snowshoe hare resting among pale grasses.",
+    "process": "112 animated marks in batches of 1–4, with 29 paired inspection boundaries, direct upper pan and repeated final review. Long overlaps joined body and ears; one compact ear light stayed focal. Ground covers enlarged raised pads, retained as failed experiments. All notes recorded live; broadcast ended with all 112 marks acknowledged.",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil",
+      "pastel"
+    ],
+    "strokes": 112,
+    "moments": 91,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/where-the-grass-listens/session.json",
+    "image": "/paintings/where-the-grass-listens/finished.png",
+    "addedAt": "2026-10-20T19:11:16.781Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-20"
+  },
+  {
     "id": "a-green-room-under-water",
     "title": "A green room under water",
     "description": "An imagined green sea anemone in a rocky tidal pool with a small closed anemone and quiet kelp.",

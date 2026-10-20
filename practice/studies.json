@@ -3504,5 +3504,145 @@
     "humanRating": null,
     "improvementClaim": "Within-study joined cup, compact light and gentler sampled turns observed; no controlled comparison or human rating. Covers remained partial corrections."
   }
+},
+{
+  "id": "where-the-grass-listens",
+  "title": "Where the grass listens",
+  "date": "2026-10-20",
+  "session": "examples/where-the-grass-listens.json",
+  "finishedImage": "examples/previews/where-the-grass-listens.png",
+  "media": [
+    "acrylic",
+    "watercolor",
+    "oil",
+    "pastel"
+  ],
+  "goal": "Join long body planes, vary curved ears and reserve one compact ear light.",
+  "inspiration": {
+    "url": "https://www.nps.gov/olym/learn/nature/snowshoe-hare.htm",
+    "description": "Original imagined brown snowshoe hare resting among pale grasses, sparked by the NPS Olympic hare guide. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wet bridges closed exposed linen lanes; soft horizontal bands remained."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Broad overlapping long planes joined the body without a hollow; back faceted."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Neck and cheek joined; head rounded."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Densely sampled curves made unequal tapered ears; dark roots extended into cheek."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Thigh crease became two dark fragments; pale feet remained distinct."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Broad thigh overlap removed upper slash, leaving a lower patch. Belly joined feet."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Small eye and nose located face; shoulder light read as a separate bar."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Broad shoulder overlap joined light; thigh cover left vertical seam."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Grass tips tapered and unequal, but roots heavy and detached."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Warm back overlaps connected into flank; raised horizontal ridges remained."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Ear interiors shortened dark roots; throat stroke made pale vertical patch."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Wider neck cover only partly joined patch."
+    },
+    {
+      "afterStroke": 61,
+      "text": "Single short ear light stayed compact at whole view."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Glint tiny, whisker nearly invisible."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Watery verticals changed background bands only subtly."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Direct upper pan confirmed joined tips and contained light; near tip had angular shoulder."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Thin foot shadows became hard green brackets; grass root covers made pads."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Broad ground covers enlarged raised patches rather than erasing relief."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Pastel accents barely changed grass."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Loaded fur marks mostly became small interior ridges, with little silhouette change."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Longer planes kept back/neck continuous; tail cover made pale bar."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Rump cover shortened tail bar partly; loaded seed accents clearer than pastel."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Breast/foot turns remained joined with ridges."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Watery top pass covered exposed linen edge, ground passes did not erase oil pads."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Ear base joined; brow and thigh middle values kept small eye clear."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final crown and cheek turns kept body joined and light compact. Repeated final pair supported stopping before more covers enlarged patches. Faceted back, neck/tail patches, raised ground pads, regular ridges and field bands remain."
+    }
+  ],
+  "evidence": [
+    "examples/where-the-grass-listens.json",
+    "examples/previews/where-the-grass-listens.png",
+    "artifacts/where-the-grass-listens/112-final-whole.jpg",
+    "artifacts/where-the-grass-listens/112-final-close.jpg",
+    "artifacts/where-the-grass-listens/072-upper-pan.jpg"
+  ],
+  "inspectionEvidence": "29 distinct completed-stroke boundaries inspected as settled whole and 2.0x close pairs, including isolated light61; repeated final112 pair plus direct upper pan72. Initial whole4 inspected but not saved; close4 and all later pairs have unique explicit filenames. Whole views show complete canvas; default close views crop ears and feet, upper pan includes both tips. Camera badges checked in screenshots after settling. Actual 900x620 browser PNG visually inspected.",
+  "engineRevision": "e0572095c03e32d83fa77987cebfb347e4bde996",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette fur-plane calibration: compare a broad joined body plane and a narrow crease at two oil body settings, then matched ground-color covers. Assess coverage, value and relief separately before any improvement claim. Fresh subject next.",
+  "assessment": {
+    "source": "Live notes, paired screenshots, upper pan, actual PNG and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Joined body and compact light observed within study; cover attempts partly failed. No controlled comparison or human rating."
+  }
 }
 ]

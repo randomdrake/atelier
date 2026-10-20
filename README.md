@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Where the grass listens
+
+[![An imagined warm brown snowshoe hare resting among pale grasses](public-gallery/paintings/where-the-grass-listens/finished.png)](https://atelier.randomdrake.com/#painting/where-the-grass-listens)
+
+An original hare study in **112 marks**, developed through **29 distinct paired inspection boundaries**, a direct upper pan and repeated final review. Long overlaps joined body and ears; one short ear light stays compact. Thin shadows became brackets and ground covers enlarged raised pads, retained as failed experiments. Inspired by the [NPS Olympic hare guide](https://www.nps.gov/olym/learn/nature/snowshoe-hare.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the hare study unfold →](https://atelier.randomdrake.com/#painting/where-the-grass-listens)
+
+
 ### A green room under water
 
 [![An imagined green sea anemone in a rocky tidal pool, a small closed anemone and quiet kelp](public-gallery/paintings/a-green-room-under-water/finished.png)](https://atelier.randomdrake.com/#painting/a-green-room-under-water)
