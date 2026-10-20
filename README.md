@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Keys for the wind
+
+[![Paired maple seeds and a curled copper leaf on blue-grey cloth](public-gallery/paintings/keys-for-the-wind/finished.png)](https://atelier.randomdrake.com/#painting/keys-for-the-wind)
+
+An original quiet still life in **84 marks**, developed through **22 distinct paired inspection boundaries**, a single-mark light check and repeated final review. Broad overlaps joined the papery wings; fine veins stay quiet and one compact seed light holds the focus. Warm paint closed an accidental leaf slit, while later wing covers only partly softened raised patches. Inspired by the [NPS bigleaf maple guide](https://home.nps.gov/articles/000/bigleaf-maple.htm). The broadcast ended with all 84 marks acknowledged.
+
+[Watch the maple study unfold →](https://atelier.randomdrake.com/#painting/keys-for-the-wind)
+
 ### A small fire before migration
 
 [![An imagined monarch above violet asters on a muted green field](public-gallery/paintings/a-small-fire-before-migration/finished.png)](https://atelier.randomdrake.com/#painting/a-small-fire-before-migration)

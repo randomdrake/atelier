@@ -1,5 +1,24 @@
 [
   {
+    "id": "keys-for-the-wind",
+    "title": "Keys for the wind",
+    "description": "Paired maple seeds and a curled copper leaf on blue-grey cloth.",
+    "process": "84 animated marks in batches of 1–4, with 22 distinct paired inspection boundaries, a single-mark light check and repeated final review. 24 live notes and 71 replay moments. Broad overlaps joined wings; warm paint closed a leaf slit. Fine veins and compact seed light stay subordinate. Raised seams, faceted tips and uneven patches remain. Ended broadcast acknowledged all 84 marks.",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 84,
+    "moments": 71,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/keys-for-the-wind/session.json",
+    "image": "/paintings/keys-for-the-wind/finished.png",
+    "addedAt": "2026-10-20T15:14:38.761Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-20"
+  },
+  {
     "id": "a-small-fire-before-migration",
     "title": "A small fire before migration",
     "description": "An imagined monarch above violet asters on a muted green field",

@@ -3112,5 +3112,88 @@
       "humanRating": null,
       "improvementClaim": "Joined masses and compact focal light observed within this study; no controlled comparison or human rating. Angular borders and mixed repair patches remain."
     }
+  },
+{
+  "id": "keys-for-the-wind",
+  "title": "Keys for the wind",
+  "date": "2026-10-20",
+  "session": "examples/keys-for-the-wind.json",
+  "finishedImage": "examples/previews/keys-for-the-wind.png",
+  "media": [
+    "acrylic",
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad papery wing planes with long gestures; keep fan veins quiet and one near-seed light compact.",
+  "inspiration": {
+    "url": "https://home.nps.gov/articles/000/bigleaf-maple.htm",
+    "description": "Original imagined paired maple seeds and curled copper leaf on blue-grey cloth, sparked by the NPS bigleaf maple guide; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Broad bridge passes closed linen seams; quiet horizontal bands remained."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad loaded overlaps made both wing blades solid while retaining slender roots."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Two warm seed bodies separated the central pair."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Leaf block-in left an accidental blue slit."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Warm interior overlap closed the leaf slit; fine seam separated seeds."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Fine fan veins stayed subordinate at whole view."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Thin oil contact shadows became visible and left regular ridges."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Long low-contrast cloth folds remained quiet."
+    },
+    {
+      "afterStroke": 57,
+      "text": "Single compact near-seed light stayed small at whole view."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Lower review confirmed joined leaf curl and faceted upper edge; corrected screenshot framing before continuing."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Following-curve overlaps softened some crosswise wing patches but retained raised seams."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Final short wing turns and warm leaf bridge retained joined masses and compact light. Repeated final pair supported stopping; faceted tips, uneven left-wing patches, regular ridges and quiet cloth bands remain."
+    }
+  ],
+  "evidence": [
+    "examples/keys-for-the-wind.json",
+    "examples/previews/keys-for-the-wind.png",
+    "artifacts/keys-for-the-wind/084-final-whole.jpg",
+    "artifacts/keys-for-the-wind/084-final-close.jpg",
+    "artifacts/keys-for-the-wind/060-lower-corrected.jpg"
+  ],
+  "inspectionEvidence": "22 distinct completed-stroke boundaries inspected in settled whole/2.0x close pairs, including a single-mark light check at 57; repeated final pair at 84. Initial 4 framing showed only upper canvas, corrected before further painting. Lower camera review at 60 first misframed, then corrected; leaf partly cropped at right. All pairs retained locally with unique filenames; final pair and corrected lower screenshot committed. Actual exported PNG visually inspected.",
+  "engineRevision": "5e8141249469cc013153e6adf9cfbb90436aa7cb",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette samara calibration: compare broad single blade passes with overlapping curved planes at two body settings; assess color coverage and raised seams separately. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Live notes, screenshot pairs, actual exported PNG and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study joined forms and compact light observed; no controlled comparison or human rating. Curved covers only partly softened raised patches."
   }
+}
 ]
