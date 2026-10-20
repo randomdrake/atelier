@@ -3393,5 +3393,116 @@
     "humanRating": null,
     "improvementClaim": "Within-study hollow closure and compact light observed; no controlled comparison or human rating. Root covers remain partial corrections."
   }
+},
+{
+  "id": "a-green-room-under-water",
+  "title": "A green room under water",
+  "date": "2026-10-20",
+  "session": "examples/a-green-room-under-water.json",
+  "finishedImage": "examples/previews/a-green-room-under-water.png",
+  "media": [
+    "acrylic",
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join the central cup with broad planes, vary long tentacle curves, and reserve one compact light above the mouth.",
+  "inspiration": {
+    "url": "https://www.nps.gov/places/anemone.htm",
+    "description": "Original imagined green sea anemone in a rocky tidal pool with a small closed anemone and quiet kelp; sparked by the NPS anemone guide. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Watery bridges closed linen lanes; horizontal bands remained."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad overlapping green planes joined the cup without a hollow; silhouette faceted."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad rock fills reduced hollows; lower blue notch remained."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Sparse six-point upper tentacles tapered but formed angular elbows."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Denser quadratic right curves made gentler turns than sparse upper bends; uncontrolled within-study observation."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Staggered roots and broad disk planes joined the interior; repeated grooves remained."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Small mouth read as a recess; surrounding folds stayed subtle."
+    },
+    {
+      "afterStroke": 61,
+      "text": "Single short pale turn stayed compact at whole view."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Curved upper covers softened elbows partly, leaving raised seams."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Watery diagonals changed field bands subtly, leaving soft vertical starts."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Thin rock seams became hard dark brackets."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Broad stone covers shortened brackets partly, leaving fragments and raised patches."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Direct lower-left pan confirmed joined closed curl and remaining rock notch/fragments."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Wider stone facet absorbed much of bracket but made a bright ridged patch; cup root pass made a hard corner."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Broad green overlap only partly softened root corner."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Selected tip turns rounded upper bends, but lower-right tip appeared detached."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Water edge passes covered exposed top linen; moss curl partly visible after covers."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Bridge joined lower-right tip; broad cup turns stayed solid with raised patches."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final joins kept cup solid, tip connected and light compact, but left root acquired pale raised patch. Repeated final review supported stopping before covers enlarged patches. Angular upper turns, regular ridges, banded water and stone fragments remain."
+    }
+  ],
+  "evidence": [
+    "examples/a-green-room-under-water.json",
+    "examples/previews/a-green-room-under-water.png",
+    "artifacts/a-green-room-under-water/112-final-whole.jpg",
+    "artifacts/a-green-room-under-water/112-final-close.jpg",
+    "artifacts/a-green-room-under-water/084-left-pan.jpg"
+  ],
+  "inspectionEvidence": "29 distinct completed-stroke boundaries inspected in settled whole and displayed 2.0x close pairs, including single light61, plus repeated final112 pair and direct lower-left pan84. Initial4 screenshots were misframed; corrected complete pair inspected before further marks. First count wait timed out before 4 appeared; fresh DOM confirmed4 and At rest. Later batches waited for animation and checked expected count plus idle. Camera badge checked after settling. Unique filenames retained locally; final pair and direct pan committed. Actual 900x620 browser PNG visually inspected. Screenshot bytes are JPEG.",
+  "engineRevision": "7b3e1d4a3bf759d91694800852a311811826a471",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette tentacle calibration: compare identical curved gestures sampled at 6 and 14 points, with two oil body settings. Assess bend smoothness, coverage and relief separately; no improvement claim before controlled comparison. Fresh subject next.",
+  "assessment": {
+    "source": "Live notes, paired screenshots, direct lower-left pan, actual PNG and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study joined cup, compact light and gentler sampled turns observed; no controlled comparison or human rating. Covers remained partial corrections."
+  }
 }
 ]

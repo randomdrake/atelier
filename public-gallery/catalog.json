@@ -1,5 +1,24 @@
 [
   {
+    "id": "a-green-room-under-water",
+    "title": "A green room under water",
+    "description": "An imagined green sea anemone in a rocky tidal pool with a small closed anemone and quiet kelp.",
+    "process": "112 animated marks in batches of 1–4, 29 distinct paired inspections, a direct lower-left pan, single light check and repeated final review. Broad overlaps joined the cup; denser curves softened tentacle bends. Stone seam and root covers remained partial corrections. Thirty live text notes and 93 moments; ended broadcast acknowledged all 112 marks.",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 93,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/a-green-room-under-water/session.json",
+    "image": "/paintings/a-green-room-under-water/finished.png",
+    "addedAt": "2026-10-20T18:10:38.433Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-20"
+  },
+  {
     "id": "shelves-of-quiet-rain",
     "title": "Shelves of quiet rain",
     "description": "Three amber bracket fungi on a mossy fallen trunk, with a small fern and folded leaf in quiet green air.",

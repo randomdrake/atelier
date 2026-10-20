@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A green room under water
+
+[![An imagined green sea anemone in a rocky tidal pool, a small closed anemone and quiet kelp](public-gallery/paintings/a-green-room-under-water/finished.png)](https://atelier.randomdrake.com/#painting/a-green-room-under-water)
+
+An original tidepool study in **112 marks**, developed through **29 distinct paired inspection boundaries**, a direct lower-left pan and repeated final review. Broad overlaps joined the cup; denser curved paths softened tentacle turns, and one compact light stays focal. Stone seam and root covers only partly corrected hard fragments, leaving raised patches. Inspired by the [NPS anemone guide](https://www.nps.gov/places/anemone.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the tidepool study unfold →](https://atelier.randomdrake.com/#painting/a-green-room-under-water)
+
+
 ### Shelves of quiet rain
 
 [![Three amber bracket fungi on a mossy fallen trunk with a fern and folded leaf](public-gallery/paintings/shelves-of-quiet-rain/finished.png)](https://atelier.randomdrake.com/#painting/shelves-of-quiet-rain)
