@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Shelves of quiet rain
+
+[![Three amber bracket fungi on a mossy fallen trunk with a fern and folded leaf](public-gallery/paintings/shelves-of-quiet-rain/finished.png)](https://atelier.randomdrake.com/#painting/shelves-of-quiet-rain)
+
+An original forest study in **112 marks**, developed through **29 distinct paired inspection boundaries**, a direct fern pan and repeated final review. Broad overlaps joined the shelves and closed a leaf slit; one short rim light stays compact. Narrow root shadows became hooks and warm covers only partly corrected them, leaving raised patches. Inspired by the [NPS Olympic fungi guide](https://www.nps.gov/olym/learn/nature/fungi.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the shelf study unfold →](https://atelier.randomdrake.com/#painting/shelves-of-quiet-rain)
+
 ### Keys for the wind
 
 [![Paired maple seeds and a curled copper leaf on blue-grey cloth](public-gallery/paintings/keys-for-the-wind/finished.png)](https://atelier.randomdrake.com/#painting/keys-for-the-wind)

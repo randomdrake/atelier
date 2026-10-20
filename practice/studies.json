@@ -3286,5 +3286,112 @@
     "humanRating": null,
     "improvementClaim": "Within-study joined masses, compact cheek light and clearer perch crossing observed. No controlled comparison or human rating; raised patches and angular details remain."
   }
+},
+{
+  "id": "shelves-of-quiet-rain",
+  "title": "Shelves of quiet rain",
+  "date": "2026-10-20",
+  "session": "examples/shelves-of-quiet-rain.json",
+  "finishedImage": "examples/previews/shelves-of-quiet-rain.png",
+  "media": [
+    "acrylic",
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join the amber shelves with long curved planes, keep undersides distinct, and reserve one compact near-rim light.",
+  "inspiration": {
+    "url": "https://www.nps.gov/olym/learn/nature/fungi.htm",
+    "description": "Original imagined amber bracket fungi on a diagonal fallen trunk, moss, a small fern and folded leaf; sparked by Olympic National Park\u2019s fungi guide. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Watery bridges closed linen lanes; horizontal bands remained."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Near shelf outline enclosed an accidental blue hollow."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad interior overlaps closed the hollow and joined the crown."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Three unequal shelves read as solid masses."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Bark tips crossed two undersides."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Warm covers shortened bark crossings; rims clearer but segmented."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Thin growth-band test made a dark crown arc."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Fallen leaf developed a blue slit and its stem crossed the lower shelf."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Broad fill closed the leaf slit; shelf cover shortened stem crossing; warm plane partly softened crown arc, leaving raised seams."
+    },
+    {
+      "afterStroke": 61,
+      "text": "Single short rim light stayed compact at whole view."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Distant watery verticals interrupted bands but left soft pillar shapes."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Narrow root shadows became dark hooks on crowns."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Warm covers reduced hooks partly, leaving dark crescents and raised patches."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Direct fern pan confirmed joined unequal leaflets, angular tips and regular ridges."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Longer bark plane crossed near root again."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Warm cover partly restored shelf overlap; narrow dark edge remained."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Wider upper crown overlap softened crescent only partly and left a light patch."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final shelf turns, leaf fold, fern tips and crown joins retained solid masses and compact light. Repeated paired review supported stopping before more covers enlarged patches. Angular leaflets, faceted leaf, horizontal field bands, root crescents and regular oil ridges remain."
+    }
+  ],
+  "evidence": [
+    "examples/shelves-of-quiet-rain.json",
+    "examples/previews/shelves-of-quiet-rain.png",
+    "artifacts/shelves-of-quiet-rain/112-final-whole.jpg",
+    "artifacts/shelves-of-quiet-rain/112-final-close.jpg",
+    "artifacts/shelves-of-quiet-rain/084-fern-pan.jpg"
+  ],
+  "inspectionEvidence": "29 distinct completed-stroke boundaries inspected in settled whole and displayed 2.0x close pairs, including single light61, plus repeated final112 pair and direct fern pan84. Initial4 screenshots showed only upper canvas; corrected complete pair inspected before next marks. First wait selector timed out before four marks appeared; fresh AX confirmed completed4/At rest before inspection. All subsequent batches waited for expected mark count and At rest. Camera badge checked after settling; unique filenames retained locally. Final pair and direct fern pan committed. Actual 900x620 exported PNG visually inspected.",
+  "engineRevision": "996b495eb6eb4c0654e970e0c99f11ebc1a5008b",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette shelf calibration: compare broad filled crown passes and thin concentric arcs at two oil body settings; separately assess coverage, value and raised seams. Repeat before claiming improvement; fresh subject next.",
+  "assessment": {
+    "source": "Live notes, paired screenshots, direct fern pan, actual PNG and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study hollow closure and compact light observed; no controlled comparison or human rating. Root covers remain partial corrections."
+  }
 }
 ]
