@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Where the sand turns blue
+
+[![A flowering yucca and smaller rosette above pale dunes with blue shadows](public-gallery/paintings/where-the-sand-turns-blue/finished.png)](https://atelier.randomdrake.com/#painting/where-the-sand-turns-blue)
+
+An original dune study in **113 completed marks**, including one accidental setup dab. Long overlaps joined the sand planes; tapered leaves and one compact flower light hold the focus. Loaded sand covered the distant plant, which was restored; relief patches remain. Developed through **27 correctly framed paired inspection boundaries**, an upper pan and repeated final review. Inspired by the [NPS White Sands plant guide](https://home.nps.gov/whsa/learn/nature/plant-survival-strategies.htm). The broadcast ended with all 113 marks acknowledged.
+
+[Watch the dune study unfold →](https://atelier.randomdrake.com/#painting/where-the-sand-turns-blue)
+
 ### Three small fires in the mist
 
 [![Three warm rosehips on a thorny twig against cool mist](public-gallery/paintings/three-small-fires-in-the-mist/finished.png)](https://atelier.randomdrake.com/#painting/three-small-fires-in-the-mist)

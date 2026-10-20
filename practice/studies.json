@@ -3779,5 +3779,89 @@
     "humanRating": null,
     "improvementClaim": "Joined fruit, attached fork and compact light observed within study. Leaf-edge and mist-cover attempts partly failed; no controlled comparison or human rating."
   }
+},
+{
+  "id": "where-the-sand-turns-blue",
+  "title": "Where the sand turns blue",
+  "date": "2026-10-20",
+  "session": "examples/where-the-sand-turns-blue.json",
+  "finishedImage": "examples/previews/where-the-sand-turns-blue.png",
+  "media": [
+    "acrylic",
+    "watercolor",
+    "oil",
+    "pastel"
+  ],
+  "goal": "Connect broad dune planes with long gestures, unequal tapered yucca leaves and one compact flower light.",
+  "inspiration": {
+    "description": "Original imagined flowering yucca above pale dunes, sparked by the NPS White Sands plant-survival guide. No finished composition copied.",
+    "url": "https://home.nps.gov/whsa/learn/nature/plant-survival-strategies.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 9,
+      "text": "Wet bridges closed foundation linen lanes. Accidental setup dab retained as mark5."
+    },
+    {
+      "afterStroke": 17,
+      "text": "Broad overlaps connected sand and blue lee planes; regular raised ribbon relief remained."
+    },
+    {
+      "afterStroke": 29,
+      "text": "Pressure taper sharpened new leaf tips; original side arms remained blunt and angular."
+    },
+    {
+      "afterStroke": 49,
+      "text": "Cast shadow joined trunk foot and tapered right, seating plant."
+    },
+    {
+      "afterStroke": 58,
+      "text": "Single loaded left-bell light stayed compact; direct upper review included complete stalk."
+    },
+    {
+      "afterStroke": 65,
+      "text": "Thin covers barely changed blue edge and left ridged patches."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Loaded sand covered distant yucca unintentionally and enlarged relief patches."
+    },
+    {
+      "afterStroke": 73,
+      "text": "Distant plant silhouette restored with matched narrow strokes."
+    },
+    {
+      "afterStroke": 85,
+      "text": "Grass base joined and seed tips stayed quiet."
+    },
+    {
+      "afterStroke": 93,
+      "text": "Flower turns rounded bottoms but made ledges; matched petal paint partly absorbed them."
+    },
+    {
+      "afterStroke": 105,
+      "text": "Dry pigment barely changed sand and did not remove oil relief."
+    },
+    {
+      "afterStroke": 113,
+      "text": "Final distant blades/contact restored and short flower light retained. Repeated final pair supported stopping before more covers enlarged patches. Blunt side arms, pointed crowns, ribbon dunes, relief patches and regular ridges remain."
+    }
+  ],
+  "evidence": [
+    "examples/where-the-sand-turns-blue.json",
+    "examples/previews/where-the-sand-turns-blue.png",
+    "artifacts/where-the-sand-turns-blue/113-final-whole.jpg",
+    "artifacts/where-the-sand-turns-blue/113-final-close.jpg",
+    "artifacts/where-the-sand-turns-blue/058-upper-pan.jpg"
+  ],
+  "inspectionEvidence": "27 correctly framed settled whole/2.0x close pairs from boundary13 through113, plus repeated final113 pair and upper pan58. Foundation4 was visually inspected after repeated framing corrections; boundary9 screenshots were misframed. One accidental acrylic dab during scroll setup is mark5, retained and acknowledged. Screenshot helper corrected to fullPage with document-coordinate canvas-wrap clipping at13. Default close crops flower tips; upper pan58 includes complete stalk. Camera badges inspected after850ms settling. Actual browser-exported900x620PNG inspected.",
+  "engineRevision": "0a46393a1466d0ca7aacd5931ed2ee138bde6761",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette dune calibration: compare equally wide thin and loaded covers over the same blue oil band, measuring color coverage and relief separately; protect a small silhouette from ground covers. Fresh subject next.",
+  "assessment": {
+    "source": "Live easel notes, corrected whole/close pairs, upper pan, actual PNG and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study connected planes, tapered new tips and compact light observed. Covers partly failed; no controlled comparison or human rating."
+  }
 }
 ]
