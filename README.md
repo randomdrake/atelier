@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A blue pause above water
+
+[![A crested blue kingfisher on a weathered branch above quiet water](public-gallery/paintings/a-blue-pause-above-water/finished.png)](https://atelier.randomdrake.com/#painting/a-blue-pause-above-water)
+
+An original kingfisher study in **96 animated marks**, developed through **25 paired inspection boundaries**, an upper camera review and repeated final review. Broad overlaps joined the body; a pale collar and compact revised eye light hold the focus. Blue paint repaired a bark overshoot, leaving relief. Stiff crest, bracket feet and a pale breast ledge remain. Inspired by the [NPS kingfisher guide](https://www.nps.gov/prsf/learn/nature/belted-kingfisher.htm). The broadcast ended with all 96 marks acknowledged.
+
+[Watch the kingfisher study unfold →](https://atelier.randomdrake.com/#painting/a-blue-pause-above-water)
+
 ### Where the sand turns blue
 
 [![A flowering yucca and smaller rosette above pale dunes with blue shadows](public-gallery/paintings/where-the-sand-turns-blue/finished.png)](https://atelier.randomdrake.com/#painting/where-the-sand-turns-blue)

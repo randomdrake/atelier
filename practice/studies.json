@@ -3863,5 +3863,96 @@
     "humanRating": null,
     "improvementClaim": "Within-study connected planes, tapered new tips and compact light observed. Covers partly failed; no controlled comparison or human rating."
   }
+},
+{
+  "id": "a-blue-pause-above-water",
+  "title": "A blue pause above water",
+  "date": "2026-10-20",
+  "session": "examples/a-blue-pause-above-water.json",
+  "finishedImage": "examples/previews/a-blue-pause-above-water.png",
+  "media": [
+    "acrylic",
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad blue body planes while keeping the pale collar distinct and one eye light compact.",
+  "inspiration": {
+    "description": "Original imagined crested kingfisher on a weathered branch above quiet water, with hanging leaves and reeds; sparked by the NPS belted kingfisher guide. No finished composition copied.",
+    "url": "https://www.nps.gov/prsf/learn/nature/belted-kingfisher.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wet bridges closed linen lanes; ground remains banded."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad overlaps connected body and tail."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Pressure taper made a pointed bill; crest spikes remained stiff."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Broad pale overlaps filled the breast and separated blue wing."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Shoulder overlap only partly absorbed regular feather bars."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Toe curves joined perch, but bracket shanks remain."
+    },
+    {
+      "afterStroke": 57,
+      "text": "Four-pixel eye light almost invisible; optimistic live note corrected by later review."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Narrow pale breast pass left a ledge rather than smooth transition."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Broader tapered bellies widened hanging leaves; soft tips remain."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Bark light unintentionally crossed tail base."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Blue cover removed bark overshoot, leaving raised patch; short contact shadow seated bird."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Reed leaves gained body but seedheads appeared detached."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Crossing stems attached seedheads; revised compact eye light became visible."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Final collar turn and tail join retained separate planes. Repeated whole/close review supported stopping before covers enlarged patches. Stiff crest, bracket feet, pale ledge, banded ground and regular relief remain."
+    }
+  ],
+  "evidence": [
+    "examples/a-blue-pause-above-water.json",
+    "examples/previews/a-blue-pause-above-water.png",
+    "artifacts/a-blue-pause-above-water/096-final-whole.jpg",
+    "artifacts/a-blue-pause-above-water/096-final-close.jpg",
+    "artifacts/a-blue-pause-above-water/057-upper-pan.jpg"
+  ],
+  "inspectionEvidence": "25 distinct stroke boundaries: 4, 8, 12 through 56 by fours, 57, 60 through 96 by fours. Settled whole and 2.0x close screenshots after every batch; boundary8 initial pair misframed and corrected before12. Default close crops crest; upper camera57 includes complete crest. Final96 pair repeated. Full-page screenshot fallback retained after framing issue. Camera zoom badges checked after850ms settling. Actual browser-exported900x620PNG inspected.",
+  "engineRevision": "5cab91cd2eb38c0043c205689a62e8884bdef4df",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette bird-head calibration: compare4px and7px eye lights against the same dark blue field; compare broad and narrow shoulder covers, assessing color coverage and relief separately. Fresh subject next.",
+  "assessment": {
+    "source": "Live easel notes, paired screenshots, upper review, actual PNG and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study connected body, pale collar and revised eye light observed; correction failures retained. No controlled comparison or human rating."
+  }
 }
 ]

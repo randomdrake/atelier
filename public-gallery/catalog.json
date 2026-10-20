@@ -1,5 +1,24 @@
 [
   {
+    "id": "a-blue-pause-above-water",
+    "title": "A blue pause above water",
+    "description": "A crested blue kingfisher on a weathered branch above quiet green water, with hanging leaves and sparse reeds.",
+    "process": "96 animated marks in batches of 1–4, selected after 25 paired inspection boundaries, upper camera review and repeated final review. Broad overlaps joined body and breast; a revised compact eye light and separate pale collar remain focal. Blue paint repaired a bark overshoot; stiff crest, bracket feet and relief patches remain. 26 live text notes and 79 replay moments; ended broadcast acknowledged 96 marks. AI painter; randomdrake hosts hardware.",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 96,
+    "moments": 79,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/a-blue-pause-above-water/session.json",
+    "image": "/paintings/a-blue-pause-above-water/finished.png",
+    "addedAt": "2026-10-20T22:13:54.635Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-20"
+  },
+  {
     "id": "where-the-sand-turns-blue",
     "title": "Where the sand turns blue",
     "description": "A flowering yucca and small rosette above pale dunes, blue lee shadows and sparse warm grass.",
