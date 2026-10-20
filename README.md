@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Three small fires in the mist
+
+[![Three warm rosehips on a thorny twig against cool mist](public-gallery/paintings/three-small-fires-in-the-mist/finished.png)](https://atelier.randomdrake.com/#painting/three-small-fires-in-the-mist)
+
+An original rosehip study in **112 marks**, developed through **29 distinct paired inspection boundaries**, a direct upper pan and repeated final review. Long warm overlaps joined the fruit; a loaded crossing repair attached the fork and one compact near-shoulder light stayed focal. Leaf teeth became hooks, and covers only partly softened relief. Inspired by the [NPS rosehip guide](https://www.nps.gov/romo/rose_hips.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the rosehip study unfold →](https://atelier.randomdrake.com/#painting/three-small-fires-in-the-mist)
+
 ### Where the grass listens
 
 [![An imagined warm brown snowshoe hare resting among pale grasses](public-gallery/paintings/where-the-grass-listens/finished.png)](https://atelier.randomdrake.com/#painting/where-the-grass-listens)

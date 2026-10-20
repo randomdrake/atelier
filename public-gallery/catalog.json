@@ -1,5 +1,24 @@
 [
   {
+    "id": "three-small-fires-in-the-mist",
+    "title": "Three small fires in the mist",
+    "description": "Three warm rosehips on an arching thorny twig against cool mist.",
+    "process": "112 animated marks in batches of 1–4, chosen after 29 paired whole-and-close inspections, an upper pan and repeated final review. All 31 easel notes and camera moments recorded live. Long overlaps joined fruit; a loaded crossing repair attached the fork and one compact shoulder light held the focus. Leaf teeth became hooks; covers partly softened relief. The ended public feed acknowledged 112 marks and 90 moments. Actual browser PNG and replay exported; no engine changes.",
+    "media": [
+      "acrylic",
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 90,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/three-small-fires-in-the-mist/session.json",
+    "image": "/paintings/three-small-fires-in-the-mist/finished.png",
+    "addedAt": "2026-10-20T20:09:03.385Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-20"
+  },
+  {
     "id": "where-the-grass-listens",
     "title": "Where the grass listens",
     "description": "An imagined warm brown snowshoe hare resting among pale grasses.",

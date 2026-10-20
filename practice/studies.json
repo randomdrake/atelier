@@ -3644,5 +3644,140 @@
     "humanRating": null,
     "improvementClaim": "Joined body and compact light observed within study; cover attempts partly failed. No controlled comparison or human rating."
   }
+},
+{
+  "id": "three-small-fires-in-the-mist",
+  "title": "Three small fires in the mist",
+  "date": "2026-10-20",
+  "session": "examples/three-small-fires-in-the-mist.json",
+  "finishedImage": "examples/previews/three-small-fires-in-the-mist.png",
+  "media": [
+    "acrylic",
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join rounded rosehips with long warm planes and reserve one compact light on the nearest hip.",
+  "inspiration": {
+    "url": "https://www.nps.gov/romo/rose_hips.htm",
+    "description": "Original imagined three rosehips on an arching thorny twig against cool mist, sparked by the NPS Rocky Mountain rosehip guide. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wet bridges closed linen lanes; soft horizontal mist bands remained."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Long twig gestures read clearly, but the right fork missed the main branch."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad warm overlaps made a solid near hip with a dark ridged right turn."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Three unequal hips joined without hollows; first two fork repairs widened a loose end."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Crossing join finally attached the right fork; leaf read as a banana-shaped ribbon."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Broad tapered belly fills widened leaves; right tip remained blunt. Tiny dried crown clarified near hip."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Warm shoulder planes stayed inside fruit silhouettes; sepals small and unequal."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Middle red partly softened near crescent; small upper hip acquired narrow dark seam."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Matched upper cover partly softened seam; tip additions barely changed blunt leaves. Fine vein stayed quiet."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Wet verticals changed mist bands only subtly."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Sparse thorns tapered into air; branch light subdued."
+    },
+    {
+      "afterStroke": 61,
+      "text": "Single short near-shoulder light stayed compact but subdued at whole view."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Warm support joined around light. Direct upper pan showed complete calyces and contained light; regular ridges remained."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Small attempted teeth landed inside blade and read as veins."
+    },
+    {
+      "afterStroke": 72,
+      "text": "External leaf teeth became hooks and crosswise bars."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Broad low-body covers only partly softened those bars."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Loaded matched paint unified fork collar more clearly; leaf relief persisted. Comparison uncontrolled."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Near skin fold became a hard slash; right fold quieter."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Matched warm cover removed most of near slash. Fruit-to-stem attachments joined."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Acrylic/wet mist barely softened bare twig tip; leaf-temperature marks stayed subtle."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Dry warm crown edges remained subtle."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Middle-value lower turns kept fruit solid with some raised patches."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Wet top pass covered exposed linen strip; mist bands remained."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Muted crown joins made narrow warm rings."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Broader fruit planes partly absorbed ring edges; hips remained joined and near light compact. Repeated final pair supported stopping before further covers enlarged patches. Blunt leaf tips, hooks, crown rings, mist bands and regular simulated relief remain."
+    }
+  ],
+  "evidence": [
+    "examples/three-small-fires-in-the-mist.json",
+    "examples/previews/three-small-fires-in-the-mist.png",
+    "artifacts/three-small-fires-in-the-mist/112-final-whole.jpg",
+    "artifacts/three-small-fires-in-the-mist/112-final-close.jpg",
+    "artifacts/three-small-fires-in-the-mist/064-upper-pan.jpg"
+  ],
+  "inspectionEvidence": "29 distinct completed-stroke boundaries inspected as settled whole and 2.0x close pairs, including isolated light61; repeated final112 pair and direct upper pan64. All pairs saved with unique explicit filenames. Whole views show the complete canvas; default close crops crowns, upper pan includes complete calyces. Camera badges confirmed after settling; batches waited for animation and completed count. Actual 900x620 browser PNG visually inspected.",
+  "engineRevision": "3f89d26c8f070bec541fc3447bbeb59987906f4c",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette twig-and-leaf calibration: compare a detached fork repaired with one crossing join versus repeated parallel extensions, then identical matched leaf covers at two oil body settings. Assess attachment, color coverage and relief separately. Fresh subject next.",
+  "assessment": {
+    "source": "Live easel notes, paired screenshots, upper pan, actual PNG and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Joined fruit, attached fork and compact light observed within study. Leaf-edge and mist-cover attempts partly failed; no controlled comparison or human rating."
+  }
 }
 ]
