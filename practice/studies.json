@@ -4142,5 +4142,99 @@
     "humanRating": null,
     "improvementClaim": "Within-study joined copper, filled cup opening, attached handle, compact restored light observed. Shadow-cover failure retained. No controlled comparison or human rating."
   }
+},
+{
+  "id": "four-wings-over-quiet-water",
+  "title": "Four wings over quiet water",
+  "date": "2026-10-21",
+  "session": "examples/four-wings-over-quiet-water.json",
+  "finishedImage": "examples/previews/four-wings-over-quiet-water.png",
+  "media": [
+    "oil",
+    "watercolor"
+  ],
+  "goal": "Join broad wing planes while keeping veins quiet and one compact head light focal.",
+  "inspiration": {
+    "description": "Original imagined amber dragonfly on a reed above cool water, sparked by the NPS dragonfly guide. No finished composition copied.",
+    "url": "https://www.nps.gov/articles/species-spotlight-dragonflies.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wet bridges closed linen lanes; horizontal watercolor bands remain."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad overlaps widened all four wings and joined roots; ribbon-like shapes and regular relief remained."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Tapered abdomen separated from diagonal reed."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Warm neck bridge closed the visible head gap; lower wing bellies joined."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Five-pixel ribs stayed quieter than broad planes; sparse branches visible close up."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Six legs attached toward reed; corner covers changed color slightly while bracket shapes remained."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Isolated seven-pixel head light visible at whole and close scales."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Reed leaves joined; right leaf crossed tail and was repaired with warm tail paint. Denser curves softened elbows only partly."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Oval passes modestly broadened wing tips; small warm spots interrupted the ribbon rhythm."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Pale wet reflections nearly disappeared; darker reflection visible. Seed head connected to upper reed."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Root covers reduced leg contrast but left raised patch. Eye masses separated and neck joined."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Quiet midribs and reed nodes joined leaf bases. Direct lower review showed restored tail over right leaf; facets remained."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Wet watercolor cover softened the dark water bar without an oil relief patch."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Broader root covers changed color slightly; relief remained. Outer wing covers softened turns and partly buried spots."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final refinement restored compact head light, two unequal upper spots and tail crossing. Repeated paired review supported stopping because more covers likely enlarge patches. Broad planes joined and fine ribs quiet; bracket legs, faceted leaves, ribbon wings, root patch, banded ground and regular ridges remain."
+    }
+  ],
+  "evidence": [
+    "examples/four-wings-over-quiet-water.json",
+    "examples/previews/four-wings-over-quiet-water.png",
+    "artifacts/four-wings-over-quiet-water/112-review-whole.jpg",
+    "artifacts/four-wings-over-quiet-water/112-review-close.jpg",
+    "artifacts/four-wings-over-quiet-water/096-lower-review.jpg"
+  ],
+  "inspectionEvidence": "29 distinct completed boundaries: 4,8,12,16,20,24,28,32,36,40,44,48,52,53,56,60,64,68,72,76,80,84,88,92,96,100,104,108,112. Animated batches of 1–4; isolated light53. Settled whole and 2.0x close screenshots after every batch. Initial4 full-studio pair complete. Cropped8/12 pairs complete; cropped16 close misframed, corrected full-studio pair16 before20. Full-studio captures retained thereafter. 850ms camera settling and close zoom checked. Direct lower camera96; final112 pair repeated after final note. Actual browser-exported900x620PNG inspected.",
+  "engineRevision": "2398716b988d3d5ca6e3304d0631b7a91e6553a2",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette wing and leg calibration: compare equal-width thin and loaded oil over a dark joint. Judge color coverage and retained relief separately; compare sparse and densely sampled curves. Fresh subject next.",
+  "assessment": {
+    "source": "Live notes, corrected paired screenshots, lower camera, actual exported PNG and hosted ended receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study joined wings, repaired neck gap and tail crossing, compact light and softer water bar observed. Oil root-cover failure retained. No controlled comparison or human rating."
+  }
 }
 ]

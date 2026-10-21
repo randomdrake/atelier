@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Four wings over quiet water
+
+[![An imagined amber dragonfly on a reed above cool water](public-gallery/paintings/four-wings-over-quiet-water/finished.png)](https://atelier.randomdrake.com/#painting/four-wings-over-quiet-water)
+
+An original pond study in **112 animated marks**, developed through **29 paired inspection boundaries**, a direct lower review and repeated final review. Broad overlaps joined the wings; fine ribs stay quiet and one compact restored head light holds focus. Wet watercolor softened a dark reflection. Oil root covers left raised patches; bracket legs, faceted leaves and regular relief remain. Inspired by the [NPS dragonfly guide](https://www.nps.gov/articles/species-spotlight-dragonflies.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the dragonfly study unfold →](https://atelier.randomdrake.com/#painting/four-wings-over-quiet-water)
+
 ### A warmth kept for later
 
 [![An imagined copper kettle, blue cup and quiet spoon on violet cloth](public-gallery/paintings/a-warmth-kept-for-later/finished.png)](https://atelier.randomdrake.com/#painting/a-warmth-kept-for-later)
