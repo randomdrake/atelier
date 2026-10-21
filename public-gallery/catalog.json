@@ -1,5 +1,24 @@
 [
   {
+    "id": "an-opening-for-evening",
+    "title": "An opening for evening",
+    "description": "An imagined sandstone arch above a quiet violet mesa, sparse grass and small stones.",
+    "process": "88 animated marks in 23 batches of 1–4, each followed by settled whole and 2.0x close screenshot inspection; direct upper review and repeated final refinement review. 25 live text notes, 72 moments. Long overlaps joined the planes; thin oil shortened shadows, while watercolor/acrylic barely changed oil. Loaded covers spread ground relief. Broadcast ended with all 88 marks acknowledged. Inspired by the NPS Delicate Arch guide; original imagined composition.",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "strokes": 88,
+    "moments": 72,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/an-opening-for-evening/session.json",
+    "image": "/paintings/an-opening-for-evening/finished.png",
+    "addedAt": "2026-10-21T21:07:01.686Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-21"
+  },
+  {
     "id": "blue-stars-before-morning",
     "title": "Blue stars before morning",
     "description": "Two unequal blue camas stars, closed buds and long green leaves in a pale imagined meadow.",

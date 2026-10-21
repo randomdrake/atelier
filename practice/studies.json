@@ -4642,5 +4642,136 @@
     "humanRating": null,
     "improvementClaim": "Within-study joined planes, reduced misplaced green and softened interior turns observed. Cover failures retained. No controlled comparison or human rating."
   }
+},
+{
+  "id": "an-opening-for-evening",
+  "title": "An opening for evening",
+  "date": "2026-10-21",
+  "session": "examples/an-opening-for-evening.json",
+  "finishedImage": "examples/previews/an-opening-for-evening.png",
+  "media": [
+    "acrylic",
+    "oil",
+    "watercolor"
+  ],
+  "goal": "Join long warm sandstone planes around a clear opening; reserve one compact crown light.",
+  "inspiration": {
+    "title": "NPS Delicate Arch guide; imagined composition, not a copied photograph",
+    "url": "https://www.nps.gov/arch/planyourvisit/delicate-arch.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Four wash lanes leave bright linen gaps. I will bridge them with broad damp gestures before placing the stone."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Damp bridges closed the pale lanes; the sky remains quiet. A distant violet mesa and broad ochre ledge will establish depth."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The ledge has a bright gap between raised bands. Broad overlapping sand will join the ground before the arch."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The arch opening is clear and the ledge joined. The stone is too uniform; cool inner turns and warmer outer planes should give it thickness."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Inner violet shadow gives thickness, but it ends in dark straight prongs. I will join their feet into broader sloping rock and warm the right pier."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The feet are joined; their raised repair patches remain. I will test denser curves across the faceted crown and add uneven warm strata."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The sampled curve softened the left crown, while the right shoulder keeps a facet. Fine strata are quiet; a diagonal cool shadow will anchor the light direction."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Watercolor barely altered the oil ground shadow. I will compare a thin oil shadow and short dry fissures, judging color separately from relief."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Thin oil made visible curved shadows; the acrylic fissures remain almost invisible. The long shadow is too ribbon-like, so I will broaden its near end and place sparse grass."
+    },
+    {
+      "afterStroke": 40,
+      "text": "The grass reads as three unequal blades, and the near shadow widened but still has a blunt tail. Small stones can interrupt the empty ledge without competing with the arch."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Foreground stones stay quiet. The arch face still reads evenly brown; I will test loaded warm planes while keeping the violet inner wall visible."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Loaded warm oil made the left face lighter; the inner violet wall survives. I will break the long uniform light with shorter strata and a subdued right-foot plane."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Short strata interrupt the left face, though their edges are still ridged. I will test one short eight-pixel crown light alone."
+    },
+    {
+      "afterStroke": 53,
+      "text": "The short crown light is visible at whole view and stays compact. I will give the grass a few fine tips and clarify the larger stone lip."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Upper review: keep the short light separate from the broad plane, and leave the uneven crown visible."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Upper view confirms the compact light and persistent right facet. I will break the long shadow tail with matching thin sand, comparing its color change with the raised surface."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Thin sand reduced shadow-tail contrast while relief remains. I will soften sky bands and vary the distant mesa without sharpening it against the arch."
+    },
+    {
+      "afterStroke": 64,
+      "text": "The distant violet ridge strengthened but stays soft; sky changed only slightly. I will vary the foreground planes and keep a lighter path through the opening."
+    },
+    {
+      "afterStroke": 68,
+      "text": "The path is lighter but made a raised low mound; the bottom plane became a conspicuous patch. I will soften that patch with a longer matching pass and narrow the hard right inner stripe."
+    },
+    {
+      "afterStroke": 72,
+      "text": "The long bottom cover spread the patch; it did not flatten relief. The right inner stripe narrowed slightly. I will retain that failed cover and add sparse broken oil fissures."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Oil fissures show clearly, but the left hook is too strong. I will shorten it with matching warm paint and soften one grass tip without burying the crown light."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Small warm covers reduced the fissure contrasts only partly; a short hook remains. I will test a denser right-shoulder curve and reconnect its warm face into the foot."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Refinement: the opening stays clear and long warm planes are joined. Further broad covers mostly add relief, so I will shorten the hook, soften the left foot, clarify one stone lip and restore the compact light."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Finished at 88 completed marks. Long warm planes join around a clear opening, violet inner walls separate thickness, and one short crown light stays focal. Thin oil shortened shadow tails; watercolor and acrylic barely changed oil. Covers left raised ground patches, shoulder facets and a short fissure fragment remain. I am stopping before more covers enlarge them."
+    }
+  ],
+  "evidence": [
+    "examples/an-opening-for-evening.json",
+    "examples/previews/an-opening-for-evening.png",
+    "artifacts/an-opening-for-evening/088-review-whole.png",
+    "artifacts/an-opening-for-evening/088-review-close.png",
+    "artifacts/an-opening-for-evening/056-upper-review.png"
+  ],
+  "inspectionEvidence": "Animated batches of 1\u20134; at-rest count checks, settled whole and 2.0x close screenshot pairs after every batch; 900ms camera settling and badge verification. Direct upper 56; deliberate85\u201388 refinement and repeated final 88 pair. At 8 two camera clicks timed out but changed whole view; fresh DOM confirmed 8 at rest, paired screenshots recovered before 12. Pair helper then skipped already-pressed camera buttons. All screenshot pairs use DOM-derived count and unique filenames. Cropped actual full-page screenshots; upper 56 full studio.",
+  "engineRevision": "4ece079ab515782717242cf23ecfb26527d4a39d",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette stone calibration: equal-width watercolor, acrylic and thin oil over oil ground; compare color coverage and relief separately. Compare 6 versus 18 point crown gestures from the outset; reserve one 8px compact light and avoid bottom-plane cover loops. Fresh subject next.",
+  "assessment": {
+    "source": "Live notes, 23 paired inspection boundaries, direct upper review, actual browser PNG, hosted ended 88 receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study joined ground, warm/cool wall separation, softened left crown and shortened shadow tails observed. Failed covers retained; no controlled comparison or human rating."
+  }
 }
 ]

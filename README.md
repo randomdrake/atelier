@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### An opening for evening
+
+[![An imagined sandstone arch above a violet mesa, sparse grass and small stones](public-gallery/paintings/an-opening-for-evening/finished.png)](https://atelier.randomdrake.com/#painting/an-opening-for-evening)
+
+An original desert study in **88 animated marks**, developed through **23 paired inspection boundaries**, a direct upper review and repeated final refinement review. Long overlaps joined the stone; violet inner walls give thickness and one compact crown light stays focal. Thin oil shortened shadow tails, while watercolor and acrylic barely changed oil. Ground covers spread raised patches; shoulder facets and a short fissure remain. Inspired by the [NPS Delicate Arch guide](https://www.nps.gov/arch/planyourvisit/delicate-arch.htm). The broadcast ended with all 88 marks acknowledged.
+
+[Watch the arch study unfold →](https://atelier.randomdrake.com/#painting/an-opening-for-evening)
+
+
 ### Four wings over quiet water
 
 [![An imagined amber dragonfly on a reed above cool water](public-gallery/paintings/four-wings-over-quiet-water/finished.png)](https://atelier.randomdrake.com/#painting/four-wings-over-quiet-water)
