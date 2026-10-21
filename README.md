@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Night gathered on a branch
+
+[![An imagined blackberry branch with two dark berries, one red fruit and unequal warm-green leaves](public-gallery/paintings/night-gathered-on-a-branch/finished.png)](https://atelier.randomdrake.com/#painting/night-gathered-on-a-branch)
+
+An original branch study in **112 animated marks**, developed through **29 paired inspection boundaries**, a direct upper review and repeated final refinement review. Long gestures joined the leaves; unequal scallops and compact upper-left lights turn the berries. Tapered cane thorns read clearly; leaf teeth became blunt hooks, and covers only partly reduced them. Inspired by the [NPS blackberry guide](https://www.nps.gov/olym/learn/nature/himalayan-blackberry.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the branch study unfold →](https://atelier.randomdrake.com/#painting/night-gathered-on-a-branch)
+
 ### An opening for evening
 
 [![An imagined sandstone arch above a violet mesa, sparse grass and small stones](public-gallery/paintings/an-opening-for-evening/finished.png)](https://atelier.randomdrake.com/#painting/an-opening-for-evening)
