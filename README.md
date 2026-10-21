@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A warmth kept for later
+
+[![An imagined copper kettle, blue cup and quiet spoon on violet cloth](public-gallery/paintings/a-warmth-kept-for-later/finished.png)](https://atelier.randomdrake.com/#painting/a-warmth-kept-for-later)
+
+An original still life in **84 animated marks**, developed through **22 paired inspection boundaries**, a lower camera review and repeated final review. Broad overlaps joined the copper; one compact restored shoulder light holds the focus. Violet shadow covers enlarged raised pads, and acrylic barely changed them: retained failed experiments. Faceted handle, cup and spoon edges and regular relief remain. Inspired by [The Met’s copper teakettle](https://www.metmuseum.org/art/collection/search/2536). The broadcast ended with all 84 marks acknowledged.
+
+[Watch the kettle study unfold →](https://atelier.randomdrake.com/#painting/a-warmth-kept-for-later)
+
 ### Five petals the tide remembers
 
 [![A pale sand dollar, small shell and loose bladderwrack on wet blue-grey sand](public-gallery/paintings/five-petals-the-tide-remembers/finished.png)](https://atelier.randomdrake.com/#painting/five-petals-the-tide-remembers)

@@ -4043,5 +4043,104 @@
     "humanRating": null,
     "improvementClaim": "Within-study closed gaps, joined shell, absorbed underside band and compact restored light observed. Shadow covers partly failed. No controlled comparison or human rating."
   }
+},
+{
+  "id": "a-warmth-kept-for-later",
+  "title": "A warmth kept for later",
+  "date": "2026-10-21",
+  "session": "examples/a-warmth-kept-for-later.json",
+  "finishedImage": "examples/previews/a-warmth-kept-for-later.png",
+  "media": [
+    "acrylic",
+    "oil",
+    "watercolor"
+  ],
+  "goal": "Join broad curved copper planes while keeping one compact shoulder light; judge color coverage separately from raised relief.",
+  "inspiration": {
+    "description": "Original imagined copper kettle, blue cup and quiet spoon on violet cloth, sparked by The Met copper teakettle object record. No finished composition copied.",
+    "url": "https://www.metmuseum.org/art/collection/search/2536"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wet bridges closed pale linen lanes; ground retained quiet bands."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad copper overlaps filled the center and connected rising spout; angular silhouette and regular relief remained."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Right handle leg connected to copper; lid knob and dark spout mouth established."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Knob filled and warm left plane separated; body remained faceted."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Loaded violet covers enlarged cast-shadow pads instead of softening them: failed correction."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Acrylic barely changed the far shadow. Broader copper shoulder was lighter."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Tea plane filled cup opening, left handle joined, and low contact seated it."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Spout light and underside separated. Broad central cover left raised ridge."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Denser handle turns partly softened corners; arch remained angular. Cool reflected crescent became too distinct."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Isolated short shoulder light visible but subdued by oil relief."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Surrounding broad warm passes kept shoulder joined without extending the light."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Long cloth folds gave direction; spoon bowl filled and joined to handle. Direct lower view shows spoon/base, cup partly cropped."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Cup foot less pointed; spoon light quiet, facets remain."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Lid seam and attachments joined. Lower copper cover rounded color but left a raised rim."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Warm cover partly absorbed cool crescent but relief remained. Wet cloth accents nearly invisible."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Final refinement restored compact shoulder light, joined lid break, rounded left cup rim and sharpened spoon neck. Repeated whole/close review supported stopping before further covers enlarged patches. Faceted handle/cup/spoon, narrow reflected crescent, raised shadow pads and regular relief remain."
+    }
+  ],
+  "evidence": [
+    "examples/a-warmth-kept-for-later.json",
+    "examples/previews/a-warmth-kept-for-later.png",
+    "artifacts/a-warmth-kept-for-later/084-review-whole.jpg",
+    "artifacts/a-warmth-kept-for-later/084-review-close.jpg",
+    "artifacts/a-warmth-kept-for-later/064-lower-review.jpg"
+  ],
+  "inspectionEvidence": "22 distinct completed boundaries: 4,8,12,16,20,24,28,32,36,40,44,48,52,53,56,60,64,68,72,76,80,84. Animated batches of 1–4. Whole and 2.0x close screenshots after every batch with 850ms camera settling and visible zoom checks. Initial cropped pair4 cut off the left side; corrected full-studio pair4 before8. Full-studio captures retained thereafter. Direct lower camera64 shows spoon and kettle base; cup partly cropped. Final84 pair repeated after final note. Actual browser-exported900x620PNG inspected.",
+  "engineRevision": "f7929027107b57192b3803e5f48970e86a28eb2a",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette copper and shadow calibration: compare equal-width thin and loaded violet oil covers plus acrylic over the same blue oil stripe; assess color and relief separately. Compare rounded multi-point handle with sparse polygon path. Fresh subject next.",
+  "assessment": {
+    "source": "Live easel notes, corrected paired screenshots, lower camera, actual PNG and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study joined copper, filled cup opening, attached handle, compact restored light observed. Shadow-cover failure retained. No controlled comparison or human rating."
+  }
 }
 ]
