@@ -4236,5 +4236,119 @@
     "humanRating": null,
     "improvementClaim": "Within-study joined wings, repaired neck gap and tail crossing, compact light and softer water bar observed. Oil root-cover failure retained. No controlled comparison or human rating."
   }
+},
+{
+  "id": "a-slow-gold-through-the-moss",
+  "title": "A slow gold through the moss",
+  "date": "2026-10-21",
+  "session": "examples/a-slow-gold-through-the-moss.json",
+  "finishedImage": "examples/previews/a-slow-gold-through-the-moss.png",
+  "media": [
+    "oil",
+    "watercolor"
+  ],
+  "goal": "Join a tapering gold body, unequal feeler curves and one compact wet highlight; assess color coverage separately from raised relief.",
+  "inspiration": {
+    "description": "Original imagined banana slug crossing damp bark beneath a fern, sparked by the NPS forest-floor guide. No finished composition copied.",
+    "url": "https://www.nps.gov/redw/learn/nature/banana-slug-and-millipede.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wet bridges closed linen lanes; horizontal bands remain."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad gold overlaps joined without a hollow center; tail tapered left, regular ridges remained."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Head joined body; two long feelers curved unequally. Centered close view cropped tips."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Broad mantle plane lighter than tail; small dark feeler tips restrained."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Broader fern bellies joined, but ribbon-like turns and upper gap remained."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Mantle seam nearly invisible; fallen leaf had blue slit."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Isolated seven-pixel light visible close up, subdued at whole view."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Broad interior fill closed leaf slit; small breathing pore visible."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Oblique wet veils interrupted bands, left pale vertical starts. Bark end covers changed color more than relief."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Direct head view showed joined roots, unequal feelers and bulbous upper root. Spots subtle, fern base joined."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Root cover reduced bulb but left cool feeler interruption."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Narrow gold bridge restored feeler join; flank warmed but new tail endpoint blunt."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Taper changed endpoint partly; thin bark grain more visible than pale trail."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Warm cover scarcely reduced bright bark line; leaf stem connected."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Broader fern roots and upper tip connected; ribbon leaflets remained."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Broad bark light became raised patch; leaf contact quiet."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Long wet pass covered top linen edge; bands remained."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Mantle edge cover left pale ledge; bark patch remained raised."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Broader flank softened ledge only partly; head turns joined."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final refinement restored compact mantle light, joined fern tip, rounded leaf shoulder and closed short head turn. Repeated paired review supported stopping before covers enlarged patches. Joined gold body and unequal feelers retained; blunt tail, ribbon leaflets, raised flank/bark patches, regular ridges and wash bands remain."
+    }
+  ],
+  "evidence": [
+    "examples/a-slow-gold-through-the-moss.json",
+    "examples/previews/a-slow-gold-through-the-moss.png",
+    "artifacts/a-slow-gold-through-the-moss/112-review-whole.jpg",
+    "artifacts/a-slow-gold-through-the-moss/112-review-close.jpg",
+    "artifacts/a-slow-gold-through-the-moss/064-head-review.jpg"
+  ],
+  "inspectionEvidence": "29 distinct completed boundaries: 4,8,12,16,20,24,28,32,36,40,44,48,52,53,56,60,64,68,72,76,80,84,88,92,96,100,104,108,112. Animated batches of 1\u20134, isolated light53. Full-studio whole and 2.0x close screenshots after every batch, 850ms camera settling and visible zoom checked. Camera click after8 timed out; DOM confirmed8/At rest, then paired review completed before12. Unique explicit count filenames; no overwritten pairs. Direct head camera64 screenshot showed2.0x target and both tips but note playback still active; waited for completion before68. Final112 paired review repeated after final note. Actual900x620 browser PNG inspected.",
+  "engineRevision": "b2c4723428328171cdb0e12b3b62369335165858",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette taper and cover calibration: compare the same long flank at decreasing versus constant pressure, plus equal-width thin and loaded covers over a dark oil line. Judge silhouette, color coverage and relief separately. Compare seven- and eight-pixel short lights. Fresh subject next.",
+  "assessment": {
+    "source": "Live notes, paired screenshots, direct head review, actual exported PNG and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study joined body, closed leaf slit, connected fern tip and repaired feeler join observed. Cover failures retained. No controlled comparison or human rating."
+  }
 }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": "a-slow-gold-through-the-moss",
+    "title": "A slow gold through the moss",
+    "description": "A banana slug carries a little gold across damp bark beneath a fern.",
+    "process": "112 animated marks in 29 small batches, each followed by settled whole and close screenshot inspection. Thirty easel notes, one live head-review note and camera moves accompany the study. Broad overlaps joined the body and closed a leaf gap; fine oil covers left raised seams. Final refinement restored a compact mantle light. Broadcast ended with all 112 marks acknowledged.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 90,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/a-slow-gold-through-the-moss/session.json",
+    "image": "/paintings/a-slow-gold-through-the-moss/finished.png",
+    "addedAt": "2026-10-21T18:14:37.506Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-21"
+  },
+  {
     "id": "four-wings-over-quiet-water",
     "title": "Four wings over quiet water",
     "description": "An imagined amber dragonfly resting on a reed above cool water.",
