@@ -4350,5 +4350,151 @@
     "humanRating": null,
     "improvementClaim": "Within-study joined body, closed leaf slit, connected fern tip and repaired feeler join observed. Cover failures retained. No controlled comparison or human rating."
   }
+},
+{
+  "id": "blue-shells-returning-tide",
+  "title": "Blue shells, returning tide",
+  "date": "2026-10-21",
+  "session": "examples/blue-shells-returning-tide.json",
+  "finishedImage": "examples/previews/blue-shells-returning-tide.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join dark mussel shell planes with long curves and retain one compact cool reflection; assess color coverage separately from raised relief.",
+  "inspiration": {
+    "description": "Original imagined three unequal mussels on wet rock with small seaweed and barnacles, sparked by the NPS California mussel record. No finished composition copied.",
+    "url": "https://www.nps.gov/places/california-mussel.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wet bridges closed linen lanes; soft horizontal bands remained."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Rock block-in had a pale hollow."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad overlapping interior passes closed rock hollow; regular relief remained."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Near shell filled mostly, with pale interior slit and faceted shoulder."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Wide interior sweep closed near-shell slit; smaller left-leaning shell joined root."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Three unequal filled shells read at whole view."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Long slate planes separated three forms, but raised ribbons remained."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Five-pixel growth curves visible without taking over near shell."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Overlap seam became a hard dark smile."
+    },
+    {
+      "afterStroke": 44,
+      "text": "First broad seam cover changed little; weed right blade detached."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Crossing blade bases joined seaweed; seam still conspicuous."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Small barnacles quiet; threads barely visible."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Isolated eight-pixel short cool reflection visible at both scales."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Small barnacle mouths read as recesses; reflection stayed compact."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Wet veils softened water bands only slightly."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Dense shoulder passes softened interior turns modestly; outer facets and root seam remained."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Warm edge marks became three conspicuous crescents."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Loaded broad blue covers reduced all three crescent contrasts, while raised patches remained."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Wet foam almost invisible; rock crack subdued."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Opaque foam segments visible; new lower blue shell rim too pale."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Broad lower-shell cover reduced pale rim; raised seam survived. Direct lower review showed broken foam and subordinate barnacles."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Brown shell patches became more conspicuous than intended."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Blue covers quieted brown spots; patch relief remained. Upper turns modestly rounder, still faceted."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Long wet top pass covered linen border; bands remained."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Rock end covers changed ends and left textured patches."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Quiet weed midribs and connected foot; short dark root hook remained."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Wider shell belly reduced seam contrast but retained hook and raised patch."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final refinement restored compact reflection, closed crown turn, connected weed tip and kept barnacle lip small. Repeated paired review supported stopping before more covers enlarged patches. Filled shells and short reflection retained; faceted shoulders, root hook, stone pads, regular relief and banded water remain."
+    }
+  ],
+  "evidence": [
+    "examples/blue-shells-returning-tide.json",
+    "examples/previews/blue-shells-returning-tide.png",
+    "artifacts/blue-shells-returning-tide/112-review-whole.png",
+    "artifacts/blue-shells-returning-tide/112-review-close.png",
+    "artifacts/blue-shells-returning-tide/084-lower-review.jpg"
+  ],
+  "inspectionEvidence": "29 distinct boundaries: 4,8,12,16,20,24,28,32,36,40,44,48,52,53,56,60,64,68,72,76,80,84,88,92,96,100,104,108,112. Every animated batch had settled whole and 2.0x close screenshot inspection with 850ms camera settling and visible badge check. Isolated reflection53; direct lower84 and repeated final112pair. Camera click8 timed out; fresh DOM confirmed8/At rest and paired retry completed before12. Full-studio pairs4\u201348; clip option did not crop them but complete canvas was visible. Cropping helper52 initially failed on Uint8Array before images; Buffer conversion fixed it and pair52 completed before53. Cropped actual full-page screenshots52\u2013112 saved with explicit unique counts. Earlier whole/close images remain local. Final pair and lower review committed. Actual900x620 browser PNG inspected.",
+  "engineRevision": "583300b2867af2b716ffce557f7481825b333f1b",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette shell/cover calibration: compare equal-width thin and loaded blue covers over the same warm crescent. Assess color coverage and relief separately; test the same shoulder curve with 6 versus 16 points. Keep one 8 px short reflection. Fresh subject next.",
+  "assessment": {
+    "source": "Live easel notes, paired screenshots, direct lower review, actual browser PNG and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study closed rock hollow and shell slit, connected weed and reduced bright crescents observed. Correction failures retained. No controlled comparison or human rating."
+  }
 }
 ]
