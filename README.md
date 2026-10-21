@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Five petals the tide remembers
+
+[![A pale sand dollar, small shell and loose bladderwrack on wet blue-grey sand](public-gallery/paintings/five-petals-the-tide-remembers/finished.png)](https://atelier.randomdrake.com/#painting/five-petals-the-tide-remembers)
+
+An original shore study in **84 animated marks**, developed through **22 paired inspection boundaries** and repeated final review. Broad overlaps joined the shell and absorbed an internal band; five petals and one short restored rim light hold the focus. Shadow covers changed color but enlarged relief patches, retained as a failed correction. Crown facets, stiff wrack bends and a pale repair patch remain. Inspired by the [NPS Secrets of the Sand wayside](https://www.nps.gov/places/axs_214.htm). The broadcast ended with all 84 marks acknowledged.
+
+[Watch the shore study unfold →](https://atelier.randomdrake.com/#painting/five-petals-the-tide-remembers)
+
 ### A blue pause above water
 
 [![A crested blue kingfisher on a weathered branch above quiet water](public-gallery/paintings/a-blue-pause-above-water/finished.png)](https://atelier.randomdrake.com/#painting/a-blue-pause-above-water)

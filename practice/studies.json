@@ -3954,5 +3954,94 @@
     "humanRating": null,
     "improvementClaim": "Within-study connected body, pale collar and revised eye light observed; correction failures retained. No controlled comparison or human rating."
   }
+},
+{
+  "id": "five-petals-the-tide-remembers",
+  "title": "Five petals the tide remembers",
+  "date": "2026-10-21",
+  "session": "examples/five-petals-the-tide-remembers.json",
+  "finishedImage": "examples/previews/five-petals-the-tide-remembers.png",
+  "media": [
+    "oil",
+    "watercolor"
+  ],
+  "goal": "Join broad shell planes while keeping the five-petal pattern quieter than one short rim light.",
+  "inspiration": {
+    "description": "Original imagined sand dollar, smaller warm shell and loose bladderwrack on wet blue-grey sand, sparked by the NPS Secrets of the Sand wayside. No finished composition copied.",
+    "url": "https://www.nps.gov/places/axs_214.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wet bridging passes closed pale linen lanes; ground remains a quiet gradient."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad curved overlaps joined shell mass; crown facets and strong regular relief remained."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Small shell lower-center fill closed the opening; cool underside became an unwanted dark internal band."
+    },
+    {
+      "afterStroke": 31,
+      "text": "Five petal loops read at whole view. Broad pale covers absorbed most of the internal underside band without crossing the petals."
+    },
+    {
+      "afterStroke": 39,
+      "text": "Tapered ribbons gave wrack mass; angular elbows remained."
+    },
+    {
+      "afterStroke": 47,
+      "text": "Sand covers shortened blue shadow color but enlarged raised green-grey patches. Color coverage and relief changed separately; correction partly failed."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Single short upper-left rim light visible at whole view."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Pale crown overlaps lightened the shelf but partly covered the earlier rim light. Right shoulder ledge remained."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Thin watercolor reflections almost invisible at whole view; retained quiet."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Pale small-shell ribs separated the dark grooves."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Petal edge breaks subtle; tiny center joined the pattern."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Float lights stayed small and stem join connected."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Contact accent seated the low edge; three unequal fragments stayed sparse."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Final refinement restored short rim light, softened small shell crown and rounded one wrack elbow. Lower-left cover left a pale patch. Repeated paired review supported stopping before covers enlarged relief. Faceted crown, stiff wrack bends, bracket shadow, raised repair patches and regular simulated ridges remain."
+    }
+  ],
+  "evidence": [
+    "examples/five-petals-the-tide-remembers.json",
+    "examples/previews/five-petals-the-tide-remembers.png",
+    "artifacts/five-petals-the-tide-remembers/084-review-whole.jpg",
+    "artifacts/five-petals-the-tide-remembers/084-review-close.jpg"
+  ],
+  "inspectionEvidence": "22 distinct completed boundaries: 4,8,12,16,20,24,27,31,35,39,43,47,48,52,56,60,64,68,72,76,80,84. Animated batches of1\u20134; settled whole and2.0x close screenshots after every batch. Initial4 camera clicks timed out; state read and keyboard camera controls succeeded before8. Initial8 pair misframed and corrected before12. Reliable capture first takes a full-page screenshot to reset scroll, then computes document bounds and captures canvas. All later pairs correctly framed. Camera badges checked after850ms settling. Final84 pair repeated after final note. Actual browser-exported900x620PNG visually inspected.",
+  "engineRevision": "494f5d9f13613f210ede359b389555e11f836fd3",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette shell calibration: compare equal-width thin and loaded sand covers over the same blue oil shadow, measuring color coverage and relief separately; compare a rounded crown block-in with a faceted one. Fresh subject next.",
+  "assessment": {
+    "source": "Live easel notes, corrected whole/close screenshots, actual browser PNG and ended hosted receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study closed gaps, joined shell, absorbed underside band and compact restored light observed. Shadow covers partly failed. No controlled comparison or human rating."
+  }
 }
 ]
