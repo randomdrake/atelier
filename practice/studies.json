@@ -4496,5 +4496,151 @@
     "humanRating": null,
     "improvementClaim": "Within-study closed rock hollow and shell slit, connected weed and reduced bright crescents observed. Correction failures retained. No controlled comparison or human rating."
   }
+},
+{
+  "id": "blue-stars-before-morning",
+  "title": "Blue stars before morning",
+  "date": "2026-10-21",
+  "session": "examples/blue-stars-before-morning.json",
+  "finishedImage": "examples/previews/blue-stars-before-morning.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join camas petal bases with broad gestures, keep unequal long leaves and one compact flower light; assess color coverage separately from raised relief.",
+  "inspiration": {
+    "description": "Original imagined camas stem with two unequal blue blossoms and closed buds in a pale meadow, sparked by the NPS common camas guide. No finished composition copied.",
+    "url": "https://home.nps.gov/lecl/learn/nature/common-camas.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wet bridges closed linen lanes; horizontal bands remain."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Both unequal leaves joined at the foot, with angular bends."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Inner leaf planes separated; regular relief remained."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Four broad petals met without a hole but leaned right like a fan."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Six upper petals joined; smaller flower began as a V."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Two filled blue stars read separately; tips touched."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Lilac interior planes visible without pale borders."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Lower contrast small-flower planes; broad ridged ribbons remain."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Three closed buds formed stiff forked ribbons; direct upper review."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Bud interior color changed more than silhouette; fine stamen visible."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Unequal five-pixel filaments quiet at whole view."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Warm anther dashes small and visible."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Isolated eight-pixel throat light visible close and subdued whole."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Green calyx crossed small flower face, forming a hook: failed placement."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Blue covered most green intrusion, leaving raised patch and lower fragment; stem light floated."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Leaf ribs subordinate; floating line not yet joined to foot."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Narrow leaf connected to foot; green fragment mostly blue, raised patch remained."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Wet ground gestures softened bands only slightly."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Dense curves modestly softened interior turns; outer facets remain. Filaments and light buried."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Remaining blue planes joined; centers lacked warmth."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Two selected filaments and anthers restored and compact."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Low shadow seated foot but became horizontal pad; grasses quiet."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Long leaf curves softened interiors; outer elbows remained."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Wet covers barely changed oil shadow pad."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Bud interiors cooler; forked silhouette remained."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Loaded covers broadened raised shadow pads: failed relief correction. Leaf foot joined."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Small flower filaments restored and quieter than main bloom."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Deliberate refinement restored compact throat light, joined bud neck, softened left leaf tip and connected main underside. Repeated paired review supported stopping before more covers enlarged patches. Faceted petals, forked buds, leaf elbows, raised ground pads, wash bands and regular relief remain."
+    }
+  ],
+  "evidence": [
+    "examples/blue-stars-before-morning.json",
+    "examples/previews/blue-stars-before-morning.png",
+    "artifacts/blue-stars-before-morning/112-review-whole.png",
+    "artifacts/blue-stars-before-morning/112-review-close.png",
+    "artifacts/blue-stars-before-morning/040-upper-review.png"
+  ],
+  "inspectionEvidence": "29 distinct boundaries: 4,8,12,16,20,24,28,32,36,40,44,48,52,53,56,60,64,68,72,76,80,84,88,92,96,100,104,108,112. Each batch had settled whole and 2.0x close screenshot review, with 850ms settling. Direct upper40, isolated light53 and repeated final112pair. Initial unsupported disabled-state wait failed after first score began; fresh DOM confirmed four marks at rest before inspection. Camera8 timed out; fresh DOM confirmed eight marks at rest and paired retry completed before12. Sharp import attempts failed before image manipulation; createRequire resolved bundled Sharp before12. Screenshot helper initially captured stale counter (8 labeled4,12/16 labeled8); label-distinct files were preserved and renamed to actual boundaries before commit. From20, local DOM-derived counts gave correct unique names. Full studio pairs4/8 and cropped actual full-page screenshots12 onward. Fixed crop framing shifts slightly with note length but whole canvas visible. Final pair and upper review committed; earlier pairs local. Actual900x620 browser PNG inspected.",
+  "engineRevision": "b4b0f28118584324faccad1fc49355d3953bbd0f",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette petal and shadow calibration: compare equal-width wet watercolor, thin oil and loaded oil covers; judge color and relief separately. Compare6 versus14 point curves, keeping initial filaments outside later plane passes and one short8px throat light. Fresh subject next.",
+  "assessment": {
+    "source": "Live easel notes, paired screenshots, direct upper review, actual browser PNG and ended public receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study joined planes, reduced misplaced green and softened interior turns observed. Cover failures retained. No controlled comparison or human rating."
+  }
 }
 ]
