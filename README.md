@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A small voyage in blue
+
+[![An imagined cream paper boat and red pencil on blue cloth](public-gallery/paintings/a-small-voyage-in-blue/finished.png)](https://atelier.randomdrake.com/#painting/a-small-voyage-in-blue)
+
+An original still life in **80 animated marks**, developed through **21 paired inspection boundaries**, a lower detail review and repeated final refinement review. Broad overlaps closed a hollow fold; a wider warm oil plane reduced a grey facet more clearly than narrow covers. A compact rim light and quiet red pencil hold the focus. Shadow covers left raised relief; stiff cloth bends and regular ridges remain. Inspired by the [Smithsonian paper boat collection](https://americanhistory.si.edu/collections/object/nmah_2023272). The broadcast ended with all 80 marks acknowledged.
+
+[Watch the paper boat unfold →](https://atelier.randomdrake.com/#painting/a-small-voyage-in-blue)
+
 ### Night gathered on a branch
 
 [![An imagined blackberry branch with two dark berries, one red fruit and unequal warm-green leaves](public-gallery/paintings/night-gathered-on-a-branch/finished.png)](https://atelier.randomdrake.com/#painting/night-gathered-on-a-branch)

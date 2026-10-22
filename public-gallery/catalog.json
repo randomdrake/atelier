@@ -1,5 +1,24 @@
 [
   {
+    "id": "a-small-voyage-in-blue",
+    "title": "A small voyage in blue",
+    "description": "An imagined cream paper boat and red pencil on quiet blue cloth.",
+    "process": "80 animated marks in batches of 1–4, with 21 paired whole-and-close inspections, a lower detail review and repeated final review. All notes were live. Broad overlaps closed the hollow fold; wider warm oil reduced grey more clearly than narrow covers. Acrylic barely changed oil. Shadow relief, stiff cloth bends and regular ridges remain. The broadcast ended with 80 marks and 65 moments acknowledged.",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "strokes": 80,
+    "moments": 65,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/a-small-voyage-in-blue/session.json",
+    "image": "/paintings/a-small-voyage-in-blue/finished.png",
+    "addedAt": "2026-10-22T15:11:26.580Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-22"
+  },
+  {
     "id": "night-gathered-on-a-branch",
     "title": "Night gathered on a branch",
     "description": "An imagined blackberry cane with two dark berries, one red fruit and unequal green leaves.",

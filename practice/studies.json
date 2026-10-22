@@ -4931,5 +4931,128 @@
     "humanRating": null,
     "improvementClaim": "Within-study joined long leaves, scalloped berries, compact lights and rounded stalks observed. Blunt teeth and failed covers retained; no controlled comparison or human rating."
   }
+},
+{
+  "id": "a-small-voyage-in-blue",
+  "title": "A small voyage in blue",
+  "date": "2026-10-22",
+  "session": "examples/a-small-voyage-in-blue.json",
+  "finishedImage": "examples/previews/a-small-voyage-in-blue.png",
+  "media": [
+    "acrylic",
+    "oil",
+    "watercolor"
+  ],
+  "goal": "Join broad warm and cool folded planes, preserve a clear interior opening, and reserve one short rim light.",
+  "inspiration": {
+    "title": "Smithsonian origami paper boat collection; imagined composition",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_2023272"
+  },
+  "observations": [
+    {
+      "afterStroke": 0,
+      "text": "A small voyage in blue: an original cream paper boat on a quiet blue tabletop, inspired by the Smithsonian origami paper boat collection. Goal: join broad warm and cool folded planes, preserve a clear interior opening, and reserve one short rim light. The AI agent paints; randomdrake hosts this laptop and feed."
+    },
+    {
+      "afterStroke": 4,
+      "text": "Four broad washes leave pale horizontal lanes. Four damp bridging gestures will join the blue field before I place the boat; the lower blue should stay darker."
+    },
+    {
+      "afterStroke": 8,
+      "text": "The bridges closed the pale lanes; wash bands remain quietly visible. I will place a long cool cast shadow and two warm hull planes, keeping the boat low enough for air above it."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The hull has a blue slit at its left join and a dark shadow that reads as a rail. I will close the slit and raise the central folded triangle before adjusting the shadow."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The left hull slit is mostly closed, but the central triangle is hollow. Overlapping descending strokes will fill that blue hole; a narrow cooler right plane should keep the fold visible."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The triangle is joined and the central seam stays narrow. The hull and raised fold still merge into one cream mass; two cool interior seams and a warmer near face should separate their depth."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The left interior seam reads, while the right remains too quiet. The tabletop shadow is unnaturally even. I will cool the right folded plane, strengthen its opening and soften the shadow with two wider, thinner blue passes."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The cooler plane turns slightly, but shadow covers broadened a ridged pad instead of dissolving it. I will leave that failed relief test and add a red drawing pencil at lower right to establish tabletop scale and an unequal diagonal."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The pencil gives the boat scale and a quiet red counterpoint. Its wooden point lacks graphite, and the hull still looks too uniformly ochre. I will finish the point and split the near hull into light and cool lower planes."
+    },
+    {
+      "afterStroke": 36,
+      "text": "The thin lower hull is cooler only subtly. I will compare fully loaded cream and grey planes against those thin passages, using long strokes and leaving some older ridges visible."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Loaded cream is visibly stronger; the loaded grey became a dark patch. A warmer grey replacement should reconnect that right facet. I will also make the interior opening uneven rather than one straight slot."
+    },
+    {
+      "afterStroke": 44,
+      "text": "The warmer replacement shortened the dark facet but left a lower grey tail. I will test one acrylic cover on that tail alone and judge color coverage separately from relief."
+    },
+    {
+      "afterStroke": 45,
+      "text": "The single acrylic cover barely changed the oil tail. I will keep that result as evidence, join the facet with loaded warm oil, and add one short cream rim light plus a quieter bow accent."
+    },
+    {
+      "afterStroke": 48,
+      "text": "The rim light stays small, and the right facet still contains a grey fragment. The blue setting is too evenly striped. I will introduce two broad diagonal cloth folds and two quieter returning planes, away from the boat silhouette."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Lower review: the pencil reads as a red line but needs a bevel, a darker underside and a small end cap. These details should remain quieter than the boat."
+    },
+    {
+      "afterStroke": 56,
+      "text": "The pencil bevel and dark end cap stay subordinate. Paper folds need a few quiet directional creases; I will use tapered warm-grey strokes rather than outlining the whole boat."
+    },
+    {
+      "afterStroke": 60,
+      "text": "The fine creases are mostly close-view detail and do little for the whole composition. The right facet fragment still attracts attention. I will replace its lower half with one wider warm plane and strengthen the broad near hull, then reassess before adding detail."
+    },
+    {
+      "afterStroke": 64,
+      "text": "The wider warm facet reduced the grey tail more clearly than the narrow covers. The boat floats slightly above the shadow. A short contact seam should seat it, while thin blue can quiet the long shadow ends without repeated broad repainting."
+    },
+    {
+      "afterStroke": 68,
+      "text": "The contact seam joins the base slightly; shadow-end covers lowered contrast but retained their ridges. I will keep those limits, soften the left interior slot end and make the two pointed ends unequal in warmth."
+    },
+    {
+      "afterStroke": 72,
+      "text": "The left slot now ends more softly; the right point extended slightly and I will retain that asymmetry. The two cloth creases are stiff. A damp watercolor pass beside each bend can test softening without disturbing the oil boat."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Refinement: damp cloth passes made only a small change, so I will retain their uneven bands. The broad planes are joined and both openings remain clear. Four final marks will restore the short rim light, quiet the central seam, join the lower hull edge and sharpen the pencil point."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Finished at 80 completed marks. Long overlapping planes closed the hollow fold; a wider warm oil plane reduced the grey facet more effectively than narrow oil or acrylic covers. The short rim light stays compact and the red pencil stays secondary. Shadow covers left a ridged pad, cloth bends remain stiff, and regular bristle relief remains. More covers would enlarge patches; this quiet subject does not need extra marks to reach a larger count."
+    }
+  ],
+  "evidence": [
+    "examples/a-small-voyage-in-blue.json",
+    "examples/previews/a-small-voyage-in-blue.png",
+    "artifacts/a-small-voyage-in-blue/080-final-whole.png",
+    "artifacts/a-small-voyage-in-blue/080-final-close.png",
+    "artifacts/a-small-voyage-in-blue/052-lower-review.png"
+  ],
+  "inspectionEvidence": "21 settled whole and 2.0x close boundaries with 950ms camera settling and zoom badge checks; direct lower52 review and repeated final80 pair. Actual full-page screenshots cropped to canvas-wrap DOM bounds, DOM-derived unique filenames. Initial screenshot conversion failed before output; Buffer conversion fixed it before the first pair and next batch. Final pair and lower review committed; other pairs local.",
+  "engineRevision": "4dc894259a1e45965cb64d53ea5170116af86bd3",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette paper-fold calibration: compare one44px loaded cover against two24px covers on equal grey patches. Judge color and relief separately. Compare thin and loaded blue shadow edges; preserve one8px rim light until broad corrections finish. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Live easel notes,21paired boundaries,lower52 review,actualPNG and ended80markreceipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study closed hollow fold,joined broad planes and reduced grey facet observed. Narrow covers and acrylic test failed;shadow relief retained.No controlled comparison or human rating."
+  }
 }
 ]
