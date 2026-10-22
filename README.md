@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A turn kept in stone
+
+[![An imagined amber ammonite on cool slate with two quiet pebbles](public-gallery/paintings/a-turn-kept-in-stone/finished.png)](https://atelier.randomdrake.com/#painting/a-turn-kept-in-stone)
+
+An original fossil study in **88 animated marks**, developed through **23 settled paired inspection boundaries**, a lower camera review and repeated final refinement review. Broad overlaps joined the shell; loaded warm planes turned the ribs more clearly than thin passes, and a short repair restored the spiral. One compact rim light holds focus. Shadow and seam covers left raised patches; hooked rib ends and regular relief remain. Inspired by the [NPS fossil mollusk guide](https://www.nps.gov/articles/000/fossil-mollusks.htm). The broadcast ended with all 88 marks acknowledged.
+
+[Watch the fossil study unfold →](https://atelier.randomdrake.com/#painting/a-turn-kept-in-stone)
+
 ### A small voyage in blue
 
 [![An imagined cream paper boat and red pencil on blue cloth](public-gallery/paintings/a-small-voyage-in-blue/finished.png)](https://atelier.randomdrake.com/#painting/a-small-voyage-in-blue)

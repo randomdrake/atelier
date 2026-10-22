@@ -5054,5 +5054,136 @@
     "humanRating": null,
     "improvementClaim": "Within-study closed hollow fold,joined broad planes and reduced grey facet observed. Narrow covers and acrylic test failed;shadow relief retained.No controlled comparison or human rating."
   }
+},
+{
+  "id": "a-turn-kept-in-stone",
+  "title": "A turn kept in stone",
+  "date": "2026-10-22",
+  "session": "examples/a-turn-kept-in-stone.json",
+  "finishedImage": "examples/previews/a-turn-kept-in-stone.png",
+  "media": [
+    "watercolor",
+    "oil",
+    "pencil"
+  ],
+  "goal": "Join long warm shell planes, turn a clear inward spiral, vary rib spacing, and preserve one short upper rim light.",
+  "inspiration": {
+    "title": "NPS fossil mollusk guide; imagined ammonite on slate, original composition",
+    "url": "https://www.nps.gov/articles/000/fossil-mollusks.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 0,
+      "text": "An imagined amber ammonite resting on blue slate, inspired by the NPS fossil mollusk guide. Goal: join long warm shell planes, turn a clear inward spiral, vary the rib spacing and preserve one short upper rim light. The AI agent paints; randomdrake hosts the live easel."
+    },
+    {
+      "afterStroke": 4,
+      "text": "The cool washes leave three pale linen lanes. Four damp bridges will join the slate field before any shell paint, keeping the lowest band darker."
+    },
+    {
+      "afterStroke": 8,
+      "text": "The bridges joined the slate field and left quiet bands. I will place a cool cast shadow, then build the shell from broad overlapping amber gestures rather than outlining a hollow circle."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The broad shell has a blue slit across its middle and faceted shoulders. I will close the slit and join the side curves before cutting a spiral. The straight cast shadow will need later softening."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Overlaps closed the slit and the outer curve is more continuous. The disk is still flat. Three connected dark turns will establish the recessed whorl; a wider lower-right opening will give the shell a direction."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The spiral is clear but reads like a drawn line on a flat disk. A warm raised bank beside the recess and cooler lower shell planes should turn the form. I will keep the dark center small."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The warm bank now separates from the recess, although the lower ring is too even. I will begin four unequal upper ribs, curving them from the whorl toward the outside rather than drawing straight spokes."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The ribs bend around the crown, but their inner ends are hooks. I will continue the right and lower spacing with shorter uneven marks, then soften selected roots with broad shell color."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The right ribs follow the outer turn; lower marks interrupt the light ring usefully. I will complete the lower-left spacing with quieter grooves and leave a broad unmarked patch by the aperture."
+    },
+    {
+      "afterStroke": 36,
+      "text": "The complete rib rhythm is recognizable but too diagrammatic. Broad warm facets beside the upper grooves will test whether loaded paint can soften their hooked roots while keeping the outer ends."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Thin warm rib planes changed the shell only slightly. I will compare loaded warm planes beside two upper grooves, and break the lower ring with a cooler broad patch. Color coverage and raised relief will be judged separately."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Loaded planes are visibly stronger but crossed the spiral at upper left, leaving a break. The lower ring is less uniform. I will test the focal rim light alone before repairing the crossing with a short recess segment."
+    },
+    {
+      "afterStroke": 45,
+      "text": "The 8px upper rim light survives whole view without dominating. I will restore the broken recess, turn the aperture lip with warm paint and place one muted inner-whorl bank."
+    },
+    {
+      "afterStroke": 48,
+      "text": "The restored whorl is continuous; the aperture has a warm edge but still looks blunt. The cast shadow is a dark rail. Two damp passes will test its edge, while two long slate seams will give the setting direction."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Watercolor barely softened the oil shadow. The slate seams are too sharp and regular. Thin blue oil will shorten the right shadow tail and soften both seam ends; a small pebble mass will balance the empty lower right."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Thin oil spread ridged patches instead of erasing the shadow or seam tails. I will retain that failed test and fill the hollow pebble with two broad planes, adding a quieter second stone to keep the setting asymmetrical."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Both pebbles are filled. The larger one needs a top plane; the shell shadow still projects too far right. I will add quiet stone planes and test one opaque slate cover on the shadow end, leaving the central contact dark."
+    },
+    {
+      "afterStroke": 64,
+      "text": "The opaque cover lightened the shadow tail but kept its raised pad; stone highlights remain secondary. I will return to the fossil: load two warmer crown planes, cool one lower plane and add a short aperture shadow."
+    },
+    {
+      "afterStroke": 68,
+      "text": "The loaded crown ribs turn more visibly but end as bright prongs. I will shorten those roots with broad warm arcs, leaving their upper curves intact, then soften the square left shoulder."
+    },
+    {
+      "afterStroke": 72,
+      "text": "The warm arc shortened bright rib roots and rounded the left shoulder. The surrounding seams remain too prominent. I will compare watercolor softening on their straight parts, then add two tiny branch fractures to reduce their uniform line quality."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Watercolor again barely changed the oil seams; pencil branches are almost invisible at whole view. I will avoid further tiny detail. Broader blue-grey oil passages will reduce seam contrast; two short contact accents will seat the pebbles."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Opaque seam covers reduced the central line contrast but made conspicuous raised patches. I will keep them as failed corrections. The center whorl is plain beside the outer ribs; four short curved chamber divisions should link the two scales without filling every space."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Lower review: pebbles are filled and quiet, but their contact lines are stiff. Shadow and seam covers changed color while retaining raised relief. I will leave those limits; four final shell marks will restore the compact rim light, soften one inner division, join the lower edge and taper the aperture lip."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Finished: A turn kept in stone, 88 completed marks. Broad overlaps joined the shell; loaded warm planes turned the ribs more clearly than thin passes, and a short cover repaired the interrupted spiral. One compact rim light stays focal. Shadow and seam covers left raised patches, hooked rib ends and regular bristle relief remain. Fine chamber lines added little at whole view. I will stop before more covers enlarge those patches; the study does not need extra marks to reach a larger count."
+    }
+  ],
+  "evidence": [
+    "examples/a-turn-kept-in-stone.json",
+    "examples/previews/a-turn-kept-in-stone.png",
+    "artifacts/a-turn-kept-in-stone/088-final-whole.png",
+    "artifacts/a-turn-kept-in-stone/088-final-close.png",
+    "artifacts/a-turn-kept-in-stone/084-lower-review.png"
+  ],
+  "inspectionEvidence": "23 settled whole and 2.0x close inspection boundaries, 950ms camera settling and badge checks; lower84 camera review and repeated final88 pair. Actual full-page screenshots cropped to canvas-wrap DOM bounds. At8 a camera timeout applied the view; fresh DOM and paired review recovered before12. At20 an initial idle check read stale16 count and overwrote16 screenshots with partly completed20 images; settled20 pair recovered before24, and subsequent batches required expected completed count plus At rest. Final pair and lower84 committed; remaining pairs local.",
+  "engineRevision": "b47c6bb2fad91a3d509bf5180c2584b9e5d97acd",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette fossil calibration: compare initial broad filled rib planes with later thin grooves; compare loaded and thin root covers on equal patches. Judge color coverage and relief separately. Protect an8px rim light; choose a fresh subject next.",
+  "assessment": {
+    "source": "Live notes,23 settled paired boundaries,lower84 review,actualPNG and ended88markreceipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study gap closure,continuous spiral and clearer loaded rib planes observed. Shadow/seam covers left raised patches;no controlled comparison or human rating."
+  }
 }
 ]

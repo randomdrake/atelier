@@ -1,5 +1,24 @@
 [
   {
+    "id": "a-turn-kept-in-stone",
+    "title": "A turn kept in stone",
+    "description": "An imagined amber ammonite on cool slate with two quiet pebbles.",
+    "process": "88 animated strokes in small inspected batches. 23 settled whole-and-close boundaries, lower camera review and repeated final refinement review. All text notes shared live; ended broadcast acknowledged88marks. Broad overlaps joined the shell; loaded warm planes turned ribs more visibly than thin passes. Shadow and seam covers left raised patches. Title assigned after export; metadata records one recovered stale-count inspection and camera timeout.",
+    "media": [
+      "watercolor",
+      "oil",
+      "pencil"
+    ],
+    "strokes": 88,
+    "moments": 71,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/a-turn-kept-in-stone/session.json",
+    "image": "/paintings/a-turn-kept-in-stone/finished.png",
+    "addedAt": "2026-10-22T16:13:30.323Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-22"
+  },
+  {
     "id": "a-small-voyage-in-blue",
     "title": "A small voyage in blue",
     "description": "An imagined cream paper boat and red pencil on quiet blue cloth.",
