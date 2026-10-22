@@ -5521,5 +5521,120 @@
     "humanRating": null,
     "improvementClaim": "Within-study holes closed and hard seams reduced. Covers added relief; leaf-tail correction remains a raised patch. No controlled comparison or human rating."
   }
+},
+{
+  "id": "a-hush-on-the-old-perch",
+  "title": "A hush on the old perch",
+  "date": "2026-10-22",
+  "session": "examples/a-hush-on-the-old-perch.json",
+  "finishedImage": "examples/previews/a-hush-on-the-old-perch.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad pale face and breast planes before quiet feather marks, reserving one compact eye light.",
+  "inspiration": {
+    "title": "NPS Big Bend owl guide; original imagined barn owl on weathered perch with low reeds",
+    "url": "https://home.nps.gov/bibe/learn/nature/owls.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wash bridges joined background lanes; soft bands remain."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad overlapping interior strokes filled hollow body."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Broad facial bridge closed blue pinhole and joined folded wings."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Long loaded strokes turned wings; breast retained a hard vertical seam."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Warm shoulder bridge reduced dark wedge; pale cheek arcs read."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Broad diagonal breast passes reduced seam contrast but retained relief."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Single7px eye light visible at whole view."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Sampled crown curve rounder but stiff; pale brows separated sockets in upper review."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Matching covers muted bright wing groups but left relief."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Reed curves gentler than three-point elbows; leaves stiff and blunt."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Broad cheeks brighter but narrowed eyes and covered light."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Controlled dark strokes restored eyes; hooked beak remains."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Lower review confirmed blunt toe pads and visible broken bark."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Sparse breast flecks and unequal wing divisions readable without ladder pattern."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Crown curve changed little; belly passes added relief; upper wing tick quieted."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Left facial plane brighter but lower edge a hard ledge."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Matching broad bridges reduced some value seams but left raised patches."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Reed-tip passes barely changed silhouette; low leaves quiet."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Short overlaps joined legs; toe ticks blunt."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Restored compact eye light, joined brow, lowered wing accent and softened neck. Retained faceted crown, hooked beak, blunt feet, stiff reeds, wash bands and raised cover seams. Stopped before further relief accumulated."
+    }
+  ],
+  "evidence": [
+    "examples/a-hush-on-the-old-perch.json",
+    "examples/previews/a-hush-on-the-old-perch.png",
+    "artifacts/a-hush-on-the-old-perch/112-whole.png",
+    "artifacts/a-hush-on-the-old-perch/112-close.png",
+    "artifacts/a-hush-on-the-old-perch/048-upper-review.png",
+    "artifacts/a-hush-on-the-old-perch/080-lower-review.png"
+  ],
+  "inspectionEvidence": "29 settled paired whole/2.0x close inspection boundaries with 950ms camera settling; upper48/lower80 reviews and repeated final112 pair. Initial whole-view click at4 timed out; fresh DOM and recovered complete pair preceded later marks. Final pair and direct reviews retained in Git; other pairs local.",
+  "engineRevision": "ed595e0d1e34c56698f00d07596cd4b8b8f93202",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette owl calibration: fill facial planes before eyes, compare broad diagonal breast bridges with narrow vertical passes, judging color separately from relief. Compare continuous toe arcs with short contact ticks; protect one7px eye light. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Live notes,29 paired boundaries,upper48/lower80 reviews,actualPNG and ended112mark receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study holes closed, eye shapes repaired and some seam contrast reduced. Covers added relief; blunt feet and stiff reeds remain. No controlled comparison or human rating."
+  }
 }
 ]

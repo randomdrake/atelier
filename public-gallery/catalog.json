@@ -1,5 +1,23 @@
 [
   {
+    "id": "a-hush-on-the-old-perch",
+    "title": "A hush on the old perch",
+    "description": "An imagined pale barn owl on a weathered perch, with sparse low reeds against cool blue.",
+    "process": "Painted live in 112 animated marks with 29 settled whole-and-close inspection boundaries, upper and lower camera reviews and repeated final refinement. Broad overlaps joined face and breast; sparse feather marks and one compact restored eye light hold focus. Matching covers reduced some value seams but left relief. Faceted crown, hooked beak, blunt feet and stiff reeds remain. All easel notes were shared live; the broadcast ended with all 112 marks acknowledged.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 91,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/a-hush-on-the-old-perch/session.json",
+    "image": "/paintings/a-hush-on-the-old-perch/finished.png",
+    "addedAt": "2026-10-22T20:13:52.703Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-22"
+  },
+  {
     "id": "two-embers-on-blue-linen",
     "title": "Two embers on blue linen",
     "description": "Two unequal orange persimmons and a curled leaf on quiet blue linen.",

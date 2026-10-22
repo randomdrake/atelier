@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A hush on the old perch
+
+[![An imagined pale barn owl on a weathered perch with low reeds](public-gallery/paintings/a-hush-on-the-old-perch/finished.png)](https://atelier.randomdrake.com/#painting/a-hush-on-the-old-perch)
+
+An original owl study in **112 animated marks**, developed through **29 settled paired inspection boundaries**, upper and lower camera reviews and repeated final refinement review. Broad overlaps filled the body and face; pale cheek planes separated the mask, and one compact restored eye light holds focus. Covers reduced some seam contrast but left raised patches. Faceted crown, hooked beak, blunt feet and stiff reeds remain. Inspired by the [NPS owl guide](https://home.nps.gov/bibe/learn/nature/owls.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the owl study unfold →](https://atelier.randomdrake.com/#painting/a-hush-on-the-old-perch)
+
 ### Two embers on blue linen
 
 [![Two unequal orange persimmons and a curled leaf on quiet blue linen](public-gallery/paintings/two-embers-on-blue-linen/finished.png)](https://atelier.randomdrake.com/#painting/two-embers-on-blue-linen)
