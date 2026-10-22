@@ -5185,5 +5185,163 @@
     "humanRating": null,
     "improvementClaim": "Within-study gap closure,continuous spiral and clearer loaded rib planes observed. Shadow/seam covers left raised patches;no controlled comparison or human rating."
   }
+},
+{
+  "id": "a-house-for-still-water",
+  "title": "A house for still water",
+  "date": "2026-10-22",
+  "session": "examples/a-house-for-still-water.json",
+  "finishedImage": "examples/previews/a-house-for-still-water.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad warm dome planes, vary long branch gestures, keep water quiet and preserve one short crown light.",
+  "inspiration": {
+    "title": "NPS Voyageurs beaver guide; original imagined lodge in misty pond",
+    "url": "https://www.nps.gov/voya/learn/nature/beavers.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 0,
+      "text": "An imagined beaver lodge in a misty pond, inspired by the NPS Voyageurs beaver guide. Goal: join broad warm dome planes, vary long branch gestures, keep the water quiet and preserve one short crown light. The AI agent paints; randomdrake hosts the easel."
+    },
+    {
+      "afterStroke": 4,
+      "text": "Four washes leave pale linen lanes. Damp bridges will join sky and pond before the lodge; the cooler lower band will stay darker."
+    },
+    {
+      "afterStroke": 8,
+      "text": "The bridges joined the field. I will establish a low distant bank and uneven mist-soft trees, leaving open water around the lodge."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The soft distant trees sit above open water. I will block the lodge as overlapping warm bands over a cool reflection, keeping its crown left of center."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The block-in is solid but stepped at both shoulders. Two long sloping planes will join those steps; warmer crown and cooler right face should turn the dome before branch detail."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The left shoulder joins more clearly; the right has a dark diagonal patch. Long unequal branch axes will give the smooth dome structure, with lighter upper faces and dark undersides kept apart."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The axes read as clean bars, especially the dark crossing. Shorter warm crossing sticks will interrupt that regularity; two will extend just beyond the dome to break its smooth silhouette."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The overlapping branches now suggest a built structure, but their straight ends are blunt. I will add tapered forks and a darker lower tangle, leaving a broad quiet mud patch in the middle."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Tapered forks project more lightly than the thick sticks. The lodge still floats above a straight dark base. Broken warm-brown reflected planes below it will connect it to the pond without mirroring every branch."
+    },
+    {
+      "afterStroke": 36,
+      "text": "The reflection is quiet but separated by a blue gap. I will bridge only two small contact areas and add long horizontal water breaks; the lodge should remain the warmest mass."
+    },
+    {
+      "afterStroke": 40,
+      "text": "The damp water breaks barely register at whole view, which keeps the setting quiet. A small foreground reed group at right will give scale; I will taper each gesture and avoid a picket-fence rhythm."
+    },
+    {
+      "afterStroke": 44,
+      "text": "The reed ends taper clearly, although the bases are stiff. I will test the focal crown light alone: a short warm stroke should be enough to pull attention back from the plants."
+    },
+    {
+      "afterStroke": 45,
+      "text": "The 8px crown test is too quiet at whole view. I will widen it slightly with a loaded short stroke, then add two broad muted mud planes to break the dark crossing without burying every branch."
+    },
+    {
+      "afterStroke": 48,
+      "text": "The loaded 12px light survives whole view. Mud planes interrupted the crossing but left raised patches. The reed base needs a small water seat, and two unequal lily pads will balance the lower-left space."
+    },
+    {
+      "afterStroke": 52,
+      "text": "The pads are bent ribbons with hollow undersides. Broad overlapping green planes will close them, then a tiny dark notch can suggest a split without outlining each leaf."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Overlaps filled both pads and the notch stays small. The lodge base remains a horizontal slab. I will break it with two unequal diagonal root sticks and add narrow blue water intrusions between them."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Thin blue oil cut the base but left raised cyan rails. I will compare a broader loaded water cover at one end, and soften a bright crossing root with warm mud. Color and relief may respond differently."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Loaded blue covers enlarged the water rails instead of removing relief; that experiment stays visible. I will return to the lodge with two broader warm upper planes and two short dark overlap shadows, leaving the focal light untouched."
+    },
+    {
+      "afterStroke": 68,
+      "text": "The warm planes turn the upper left more clearly; overlap shadows became detached dashes. Warm sticks laid beside them should make their purpose legible. I will vary length and bend rather than cover the whole center."
+    },
+    {
+      "afterStroke": 72,
+      "text": "The sticks attach some dark dashes but their elbow turns remain stiff. I will test denser sampled curves on two reed leaves and a finer lodge fork; one muted seed head will complete the plant silhouette."
+    },
+    {
+      "afterStroke": 76,
+      "text": "The denser reed curves bend more gently. The seed head floats above its stem; I will join that gap with one continuous taper. A quiet second head and two tiny branch cut ends will add scale without spreading highlights."
+    },
+    {
+      "afterStroke": 80,
+      "text": "The seed head now connects; the small cut ends stay subordinate. The far bank is a uniform stripe. Unequal soft gaps and two vertical reflections will separate tree groups while preserving the mist."
+    },
+    {
+      "afterStroke": 84,
+      "text": "The tree reflections are soft vertical anchors; the bank gaps changed little. The crown remains too flat. Two short curved overlapping sticks can break that edge, while two muted long gestures will link the lower branch tangle."
+    },
+    {
+      "afterStroke": 88,
+      "text": "The crown now has a slight irregular break, but most warm and cool planes remain close in value. I will strengthen a broad upper-left amber plane and a muted right plane, then reconnect two branch segments over them."
+    },
+    {
+      "afterStroke": 92,
+      "text": "The loaded amber plane reads more clearly than the earlier thin sticks; the cool right face recedes. I will add two partially buried sticks across the left plane and soften the long dark diagonal with one wider mud overlap, preserving its outer ends."
+    },
+    {
+      "afterStroke": 96,
+      "text": "The wide mud overlap shortened the dark diagonal, leaving its ends visible and a raised patch. I will add sparse long watercolor ripples away from the oil rails, then review the lower pond directly before final refinement."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Lower review: the pads are filled, reed tips taper and reflected planes stay quiet. The blue oil rails remain conspicuous relief, and the contact edge is stiff. Further covers would enlarge them; I will keep that failed correction and refine only selected lodge attachments."
+    },
+    {
+      "afterStroke": 104,
+      "text": "The tall branch now joins the dome through a warm root, although its crossing remains angular. I will soften two detached dark dashes with short broad mud strokes and add two quiet split-bark accents along existing sticks."
+    },
+    {
+      "afterStroke": 108,
+      "text": "The broad mud strokes reduced two detached shadows; the fine bark accents matter mainly close up. Final refinement: restore the short crown light, round one warm shoulder, quiet a cool side patch and reconnect the left seed-head stem. No more water-rail covers."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Finished: A house for still water, 112 completed marks. Broad loaded planes joined and turned the warm dome; overlapping paint filled the lily pads. Sampled curves softened reed bends and one compact crown light holds focus. Thin blue oil cut the base but loaded covers enlarged raised water rails; stiff crossings and regular bristle relief remain. I will stop before further covers enlarge those patches."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Postexport review of the actual PNG: the left seed-head stem remains segmented despite attempted joins. Retained as unresolved; the broadcast had ended. Regular bristle relief, blue water rails, stiff crossings and a faceted dome remain."
+    }
+  ],
+  "evidence": [
+    "examples/a-house-for-still-water.json",
+    "examples/previews/a-house-for-still-water.png",
+    "artifacts/a-house-for-still-water/112-whole.png",
+    "artifacts/a-house-for-still-water/112-close.png",
+    "artifacts/a-house-for-still-water/100-lower-review.png"
+  ],
+  "inspectionEvidence": "29 settled whole/2.0x close inspection boundaries with 950ms camera settling; direct lower100 camera review and repeated final112 pair. Camera timeouts at4/8 applied their changes; fresh DOM and recovered paired views preceded later marks. A stale helper count caused duplicate004 filenames for the8 pair and misleading completion checks at12, without additional painting; replaced with explicit expected counts and recovered12 pair. Lower100 screenshot renamed from004-lower-review. Finalpair and lower100 committed; other pairs remain local.",
+  "engineRevision": "2ef53f46c5ca2ac9f4cb1949863f28a12b2d905e",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette lodge calibration: compare initial broad mud planes with later narrow branch overlays; judge color and relief separately on equal water-cover swatches. Compare 3-point and 12-point reed curves and continuous full-length stems; retain one loaded 12px crown light. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Live notes,29paired boundaries,lower100review,actualPNG and ended112markreceipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study filled pads,warmer joined dome and gentler sampled reeds observed. Watercovers enlarged relief;left seedstem remains segmented;no controlled comparison or human rating."
+  }
 }
 ]

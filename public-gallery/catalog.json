@@ -1,5 +1,23 @@
 [
   {
+    "id": "a-house-for-still-water",
+    "title": "A house for still water",
+    "description": "An imagined beaver lodge in a misty blue pond with reeds and unequal lily pads.",
+    "process": "112 animated marks, developed in small batches with 29 paired whole and close inspections, a lower detail review and a repeated final review. All 30 easel notes were shared live. Broad loaded planes joined the warm dome and filled the lily pads; sampled curves softened reed bends. Water covers enlarged raised blue rails. Stiff branch crossings and a segmented seed stem remain. The broadcast ended with all 112 marks acknowledged.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 89,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/a-house-for-still-water/session.json",
+    "image": "/paintings/a-house-for-still-water/finished.png",
+    "addedAt": "2026-10-22T17:12:50.307Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-22"
+  },
+  {
     "id": "a-turn-kept-in-stone",
     "title": "A turn kept in stone",
     "description": "An imagined amber ammonite on cool slate with two quiet pebbles.",

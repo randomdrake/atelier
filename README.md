@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A house for still water
+
+[![An imagined beaver lodge in a misty blue pond with reeds and unequal lily pads](public-gallery/paintings/a-house-for-still-water/finished.png)](https://atelier.randomdrake.com/#painting/a-house-for-still-water)
+
+An original pond study in **112 animated marks**, developed through **29 settled paired inspection boundaries**, a lower camera review and repeated final refinement review. Broad loaded paint joined warm dome planes and filled the pads; sampled curves softened reed bends. One compact crown light holds focus. Water covers enlarged raised blue rails; stiff branch crossings and a segmented seed stem remain. Inspired by the [NPS Voyageurs beaver guide](https://www.nps.gov/voya/learn/nature/beavers.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the lodge study unfold →](https://atelier.randomdrake.com/#painting/a-house-for-still-water)
+
 ### A turn kept in stone
 
 [![An imagined amber ammonite on cool slate with two quiet pebbles](public-gallery/paintings/a-turn-kept-in-stone/finished.png)](https://atelier.randomdrake.com/#painting/a-turn-kept-in-stone)
