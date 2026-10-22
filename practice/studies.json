@@ -5636,5 +5636,123 @@
     "humanRating": null,
     "improvementClaim": "Within-study holes closed, eye shapes repaired and some seam contrast reduced. Covers added relief; blunt feet and stiff reeds remain. No controlled comparison or human rating."
   }
+},
+{
+  "id": "rooms-the-sea-once-held",
+  "title": "Rooms the sea once held",
+  "date": "2026-10-22",
+  "session": "examples/rooms-the-sea-once-held.json",
+  "finishedImage": "examples/previews/rooms-the-sea-once-held.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad warm shell planes before unequal quiet ribs, reserving one compact rim light.",
+  "inspiration": {
+    "title": "Aquarium of the Pacific chambered nautilus guide; original imagined shell, pebbles and kelp on dark sand",
+    "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/chambered_nautilus"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wash bridges joined pale lanes; faint bands remain."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Broad shell outline left a large blue center and aperture pinhole."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Crossed broad planes filled most center, leaving two blue flecks and raised seams."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Dark aperture and pale lip read; one center fleck survived cover."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Spiral readable but faceted; broad crown light established."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Unequal warm ribs read as spokes with blunt roots."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Curved broad planes shortened ribs but left ledges."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Smaller sampled coil gentler; broad old spiral still angular."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Two quiet stones balanced the shell; right center hollow."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Single9px rim light survived whole view."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Broad fills closed stone centers."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Initial kelp leaves read as stiff prongs."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Sampled leaf curves gentler; old elbows remained."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Thin blue oil spread the cast shadow into wider rails, a failed correction."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Matching covers only partly changed color and left relief; warm lower plane joined."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Aperture lip clearer; covers shortened upper stripes but left patches."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Stone planes and veins quiet. Lower review confirmed raised blue rails and stiff kelp fork."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Loaded cover changed color only slightly and retained ridges; short kelp overlaps joined forks."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Broad shell bridges reduced some seam contrast but broke upper-left spiral."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Thin sampled repair reconnected spiral more gently."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Restored compact light, joined neighbor plane, quieted aperture and kelp accents. Retained cool center fleck, faceted crown, blunt stripe roots, stiff kelp elbows, regular bristles and raised shadow covers. Stopped before more relief accumulated."
+    }
+  ],
+  "evidence": [
+    "examples/rooms-the-sea-once-held.json",
+    "examples/previews/rooms-the-sea-once-held.png",
+    "artifacts/rooms-the-sea-once-held/088-whole.png",
+    "artifacts/rooms-the-sea-once-held/088-close.png",
+    "artifacts/rooms-the-sea-once-held/072-lower-review.png"
+  ],
+  "inspectionEvidence": "23 settled paired whole/2.0x close inspection boundaries, 950ms settling and exact completed-count/At rest guards; lower72 review and repeated final88 pair. An initial upper48 viewport screenshot showed controls rather than the canvas; no upper screenshot evidence is claimed. All paired reviews were correctly cropped. Final pair and lower review retained in Git; remaining pairs local.",
+  "engineRevision": "a7b5d777fc07a6393129dd444c3bf11fbc2ec3a0",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette shell calibration: fill shape before outline; compare dense sampled spiral and ribs against sparse paths. Test shadow-cover swatches first, judging color separately from relief. Protect one8px rim light. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Live notes,23 settled paired inspections,lower72 review,actualPNG and ended88mark receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study gaps mostly filled, stones closed and broken spiral repaired. Covers left raised patches and ribs remain blunt. No controlled comparison or human rating."
+  }
 }
 ]

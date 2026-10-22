@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Rooms the sea once held
+
+[![An imagined warm nautilus shell, two pebbles and sparse kelp on dark sand](public-gallery/paintings/rooms-the-sea-once-held/finished.png)](https://atelier.randomdrake.com/#painting/rooms-the-sea-once-held)
+
+An original shell study in **88 animated marks**, developed through **23 settled paired inspection boundaries**, a lower camera review and repeated final refinement review. Broad overlaps filled most of the shell; a thin sampled repair reconnected the spiral and one compact rim light holds focus. Shadow covers spread raised blue rails, retained as a failed experiment. Faceted crown, blunt ribs and stiff kelp elbows remain. Inspired by the [Aquarium of the Pacific nautilus guide](https://www.aquariumofpacific.org/onlinelearningcenter/species/chambered_nautilus). The broadcast ended with all 88 marks acknowledged.
+
+[Watch the shell study unfold →](https://atelier.randomdrake.com/#painting/rooms-the-sea-once-held)
+
 ### A hush on the old perch
 
 [![An imagined pale barn owl on a weathered perch with low reeds](public-gallery/paintings/a-hush-on-the-old-perch/finished.png)](https://atelier.randomdrake.com/#painting/a-hush-on-the-old-perch)

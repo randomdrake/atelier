@@ -1,4 +1,22 @@
 [
+{
+  "id": "rooms-the-sea-once-held",
+  "title": "Rooms the sea once held",
+  "description": "An imagined warm nautilus shell, two unequal pebbles and sparse kelp on dark sand.",
+  "process": "88 animated strokes in batches of 1–4, with 23 settled whole-and-close inspection boundaries, lower detail camera review and repeated final refinement review. All notes posted live. Broad overlaps filled most of the shell; a sampled repair reconnected the spiral and a compact rim light holds focus. Shadow covers spread raised blue rails; faceted crown, blunt ribs and stiff kelp elbows remain. The public broadcast ended with all 88 marks acknowledged. Actual finished PNG and replay exported from the studio; title assigned afterward.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 71,
+  "engine": "2ad7d2d8000e658a",
+  "session": "/paintings/rooms-the-sea-once-held/session.json",
+  "image": "/paintings/rooms-the-sea-once-held/finished.png",
+  "addedAt": "2026-10-22T21:09:46.903Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-22"
+},
   {
     "id": "a-hush-on-the-old-perch",
     "title": "A hush on the old perch",
