@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Blue cups for the late light
+
+[![Three imagined blue gentians with tapered leaves and sparse meadow grasses](public-gallery/paintings/blue-cups-for-the-late-light/finished.png)](https://atelier.randomdrake.com/#painting/blue-cups-for-the-late-light)
+
+An original meadow study in **112 animated marks**, developed through **29 settled paired inspection boundaries**, upper and lower camera reviews and repeated final refinement review. Broad overlaps joined the blue cups; tapered leaf extensions sharpened silhouettes, and one compact restored rim light holds focus. Matching covers barely changed heavy rim bars and left raised patches. Inspired by the [NPS meadow gentian guide](https://www.nps.gov/cebr/learn/nature/meadow-gentian.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the gentian study unfold →](https://atelier.randomdrake.com/#painting/blue-cups-for-the-late-light)
+
 ### Rooms the sea once held
 
 [![An imagined warm nautilus shell, two pebbles and sparse kelp on dark sand](public-gallery/paintings/rooms-the-sea-once-held/finished.png)](https://atelier.randomdrake.com/#painting/rooms-the-sea-once-held)

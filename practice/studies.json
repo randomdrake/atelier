@@ -5754,5 +5754,156 @@
     "humanRating": null,
     "improvementClaim": "Within-study gaps mostly filled, stones closed and broken spiral repaired. Covers left raised patches and ribs remain blunt. No controlled comparison or human rating."
   }
+},
+{
+  "id": "blue-cups-for-the-late-light",
+  "title": "Blue cups for the late light",
+  "date": "2026-10-22",
+  "session": "examples/blue-cups-for-the-late-light.json",
+  "finishedImage": "examples/previews/blue-cups-for-the-late-light.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join blue flower planes with long gestures before quiet veins, preserving one compact rim light.",
+  "inspiration": {
+    "title": "NPS Cedar Breaks meadow gentian guide; original imagined three blue flowers with sparse meadow grasses",
+    "url": "https://www.nps.gov/cebr/learn/nature/meadow-gentian.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Four separated wash lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Overlaps joined lanes, leaving horizontal bands."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Three unequal stems and blunt low arc."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Filled V-shaped cups read as two lobes."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Cross planes joined main cup; small side flecks remained."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Dark openings gave depth but formed bars; front pale wedge."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Broad fills closed side flecks; constant-pressure leaves blunt."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Tapered sampled leaves had gentler tips."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Unequal rim lobes broke square horns; upper review confirmed heavy opening rail."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Front planes and dark seam quiet at whole view."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Side lobes less symmetric."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Single8px light remained tiny at whole view."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Calyx joins read as blunt tabs."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Tapered extensions sharpened first leaves without background covers."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Basal leaves interrupted low rail; regular ridges remain."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Matching rim covers barely changed dark rails and added relief."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Sparse grass gestures quiet."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Leaf lights subtle dotted ridges."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Long sepals attached flowers; lower review showed blunt roots and basal crossings."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Fine basal veins barely visible at whole view."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Unequal seed heads quiet; open meadow retained."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Sparse petal divisions subordinate."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Blue overlaps reduced green tabs but left raised rings."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Broad diagonal petal planes joined front; side wedges became bright."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Side covers slightly quieted wedges; basal stub partly absorbed."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Selective stem lights subtle."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Final petal bridges reduced seam contrast but left raised patches."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Two tip extensions visibly sharper; leaf roots joined."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Restored compact rim light, supported neighboring plane, quieted root patch and side wedge. Retained heavy opening bars, faceted lobes, blunt sepal roots, raised repair patches, regular bristles and wash bands. Stopped before more covers accumulated relief."
+    }
+  ],
+  "evidence": [
+    "examples/blue-cups-for-the-late-light.json",
+    "examples/previews/blue-cups-for-the-late-light.png",
+    "artifacts/blue-cups-for-the-late-light/112-whole.png",
+    "artifacts/blue-cups-for-the-late-light/112-close.png",
+    "artifacts/blue-cups-for-the-late-light/036-upper-review.png",
+    "artifacts/blue-cups-for-the-late-light/072-lower-review.png"
+  ],
+  "inspectionEvidence": "29 settled paired whole/2.0x close inspection boundaries; upper36 and lower72 camera reviews; repeated final112 pair. 950ms camera settling and exact completed-count/At rest checks. Initial camera click timeouts recovered with fresh DOM and keyboard activation before further marks. Four-stroke initial review was completed separately. Helpers then used explicit numeric boundaries to avoid closure counter capture. All review screenshots retained locally; final pair and direct upper/lower reviews committed.",
+  "engineRevision": "eeb010325eebcd718c4446f29cc6c32428df1b7f",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette gentian calibration: compare constant-pressure and tapered sampled leaves from the outset. Build broad diagonal petal planes before dark openings; test short shadow and cover swatches, judging color separately from relief. Protect one8px rim light. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Live notes,29 paired settled boundaries,upper/lower reviews,actualPNG and ended112mark receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study gaps closed, tapered leaf extensions sharpened silhouettes and calyx tabs reduced. Heavy rim bars and raised cover patches persist. No controlled comparison or human rating."
+  }
 }
 ]
