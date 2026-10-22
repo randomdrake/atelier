@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Fans for the October wind
+
+[![Golden ginkgo fans on a diagonal branch, with a small drifting leaf against cool blue](public-gallery/paintings/fans-for-the-october-wind/finished.png)](https://atelier.randomdrake.com/#painting/fans-for-the-october-wind)
+
+An original autumn study in **112 animated marks**, developed through **29 settled paired inspection boundaries**, direct upper and lower camera reviews and repeated final refinement review. Broad overlaps filled the fan shapes; unequal curved veins stay quiet beneath one compact restored rim light. Matching covers reduced stripe contrast but left raised seams, with faceted silhouettes and hooked veins retained. Inspired by the [Smithsonian Gardens ginkgo collection](https://gardens.si.edu/collections/explore/object/ofeo-sg_2013-0618A). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the ginkgo study unfold →](https://atelier.randomdrake.com/#painting/fans-for-the-october-wind)
+
 ### A house for still water
 
 [![An imagined beaver lodge in a misty blue pond with reeds and unequal lily pads](public-gallery/paintings/a-house-for-still-water/finished.png)](https://atelier.randomdrake.com/#painting/a-house-for-still-water)

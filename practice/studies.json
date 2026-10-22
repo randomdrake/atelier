@@ -5343,5 +5343,80 @@
     "humanRating": null,
     "improvementClaim": "Within-study filled pads,warmer joined dome and gentler sampled reeds observed. Watercovers enlarged relief;left seedstem remains segmented;no controlled comparison or human rating."
   }
+},
+{
+  "id": "fans-for-the-october-wind",
+  "title": "Fans for the October wind",
+  "date": "2026-10-22",
+  "session": "examples/fans-for-the-october-wind.json",
+  "finishedImage": "examples/previews/fans-for-the-october-wind.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join curved fan planes with long gestures, keep unequal veins quieter than golden planes, reserve one compact focal light.",
+  "inspiration": {
+    "title": "Smithsonian Gardens Ginkgo biloba collection; original imagined golden branch and drifting leaf",
+    "url": "https://gardens.si.edu/collections/explore/object/ofeo-sg_2013-0618A"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Four wash bridges joined pale horizontal gaps; subtle background bands remain."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Broad inward overlaps filled two holes and shortened largest fan cleft."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Correctly placed cover closed lower fan pinhole after two misplaced attempts."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Single short 10px warm rim light survived whole view."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Thin veins barely changed whole view; loaded veins remained quiet, while broad ochre foot gave a small value turn."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Broader golden plane read more clearly than fine veins; lower veins left hooked relief."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Olive foot darkened; light stayed subordinate. Fine drifting veins and rim corrections made little whole-view change."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Stronger lower shadow became a blunt stripe."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Middle-tone covers reduced stripe contrast but kept relief. Intrusive upper stem line shortened with a broad cover. Four fans filled; facets and stiff turns remain."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final light restored. Broad covers reduced crossing contrast but left raised seams; hooked forks and regular bristles remain. Stopped because more covers were enlarging relief, not solving it."
+    }
+  ],
+  "evidence": [
+    "examples/fans-for-the-october-wind.json",
+    "examples/previews/fans-for-the-october-wind.png",
+    "artifacts/fans-for-the-october-wind/112-whole.png",
+    "artifacts/fans-for-the-october-wind/112-close.png",
+    "artifacts/fans-for-the-october-wind/048-upper-review.png",
+    "artifacts/fans-for-the-october-wind/100-lower-review.png"
+  ],
+  "inspectionEvidence": "29 settled paired whole/2.0x close inspection boundaries with 950ms camera settling; upper48 and lower100 camera reviews; repeated final112 pair. Initial screenshot cropping failed before inspection4; corrected Buffer conversion and recovered complete pair before any later marks. Final pair and both direct reviews retained in Git; remaining pairs local.",
+  "engineRevision": "fbe74af6d2280c03e555582717dfdc4a0df52061",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette fan calibration: compare filled radial planes before rim gestures; compare equal-width thin and loaded vein curves and assess color separately from relief. Use one continuous petiole stopping at the leaf foot, and protect one short 10px light. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Live notes,29 paired boundaries,upper48/lower100 reviews,actualPNG and ended112mark receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study holes closed and some stripe contrast reduced. Facets, hooked veins and raised seams remain. No controlled comparison or human rating."
+  }
 }
 ]
