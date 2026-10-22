@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Two embers on blue linen
+
+[![Two unequal orange persimmons and a curled leaf on quiet blue linen](public-gallery/paintings/two-embers-on-blue-linen/finished.png)](https://atelier.randomdrake.com/#painting/two-embers-on-blue-linen)
+
+An original still life in **88 animated marks**, developed through **23 settled paired inspection boundaries**, a direct lower review and repeated final refinement review. Broad overlaps filled the fruit; wider diagonal bridges reduced hard middle seams, with one compact restored shoulder light. Covers left raised patches, while faceted shoulders, blunt stalks and a stiff leaf tail remain. Inspired by the [NPS woodland tree guide](https://www.nps.gov/mana/learn/nature/trees-and-shrubs.htm). The broadcast ended with all 88 marks acknowledged.
+
+[Watch the persimmon study unfold →](https://atelier.randomdrake.com/#painting/two-embers-on-blue-linen)
+
 ### Fans for the October wind
 
 [![Golden ginkgo fans on a diagonal branch, with a small drifting leaf against cool blue](public-gallery/paintings/fans-for-the-october-wind/finished.png)](https://atelier.randomdrake.com/#painting/fans-for-the-october-wind)

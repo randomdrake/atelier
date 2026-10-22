@@ -5419,4 +5419,107 @@
     "improvementClaim": "Within-study holes closed and some stripe contrast reduced. Facets, hooked veins and raised seams remain. No controlled comparison or human rating."
   }
 }
+,
+{
+  "id": "two-embers-on-blue-linen",
+  "title": "Two embers on blue linen",
+  "date": "2026-10-22",
+  "session": "examples/two-embers-on-blue-linen.json",
+  "finishedImage": "examples/previews/two-embers-on-blue-linen.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad warm fruit planes before quiet calyx lines, preserving one compact highlight.",
+  "inspiration": {
+    "title": "NPS Manassas woodland tree guide; original imagined persimmon still life with a curled leaf",
+    "url": "https://www.nps.gov/mana/learn/nature/trees-and-shrubs.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Wash bridges joined pale horizontal lanes; soft bands remain."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad overlapping interior strokes closed hollow main fruit and separated warm left from deeper right."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Crossing gestures filled smaller fruit without open center."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Loaded long curves made light-side bulge clearer; regular ridges remain."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Sampled right arc rounded main shoulder; narrow contact shadows remained quiet."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Wider calyx planes softened prongs; central stalk blunt."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Single9px light survives whole view as compact fleck."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Fine calyx veins barely changed whole view; one dark root line too strong."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Leaf narrow warm fold visible; tail curve barely changed; damp cloth folds quiet."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Loaded middle tones brighter but narrow ends left hard seams."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Broader diagonal bridges reduced hard middle seam; relief remains."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Wider small-calyx lobes improve attachment; stalk blunt."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Damp blue softened cast-shadow ends only slightly without raised oil pads."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Leaf lip warmer; blue tail cover left small raised patch, retained failed correction."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Shoulder arcs left hard small-fruit seam and pale lower crescent."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Broad matching planes reduced seam and crescent but added raised patches."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Restored compact light, joined neighbor plane, softened calyx root and kept leaf quiet. Retained facets, blunt stalks, regular bristles, cover patches and stiff leaf tail. Stopped before further covers enlarged patches."
+    }
+  ],
+  "evidence": [
+    "examples/two-embers-on-blue-linen.json",
+    "examples/previews/two-embers-on-blue-linen.png",
+    "artifacts/two-embers-on-blue-linen/088-whole.png",
+    "artifacts/two-embers-on-blue-linen/088-close.png",
+    "artifacts/two-embers-on-blue-linen/052-lower-review.png"
+  ],
+  "inspectionEvidence": "23 settled paired whole/2.0x close inspection boundaries with 950ms camera settling; direct lower52 review and repeated final88 pair. At8 a camera click timed out; fresh DOM and complete recovered pair preceded all later marks. Final pair and lower52 review retained in Git; remaining pairs local.",
+  "engineRevision": "6dbfd310eb24a1404d60ecf940934d778280330b",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette persimmon calibration: filled crossing planes before contour; compare narrow vertical middle-tone passes with broad diagonal bridges, judging color separately from relief. Compare sampled shoulder arcs with filled silhouette planes, and reserve one9px light. Choose a fresh subject next.",
+  "assessment": {
+    "source": "24 live notes,23paired boundaries,lower52review,actualPNG and ended88mark receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study holes closed and hard seams reduced. Covers added relief; leaf-tail correction remains a raised patch. No controlled comparison or human rating."
+  }
+}
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": "two-embers-on-blue-linen",
+    "title": "Two embers on blue linen",
+    "description": "Two unequal orange persimmons and a curled leaf on quiet blue linen.",
+    "process": "88 animated marks in 23 batches of 1–4, selected after 23 settled whole and close screenshot boundaries; a lower detail review and repeated final refinement review. All 24 easel notes were shared live. Broad overlaps filled the fruit; diagonal bridges reduced hard seams. Covers left raised patches. Broadcast ended with all 88 marks acknowledged. No engine changes; human ratings unset.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 88,
+    "moments": 71,
+    "engine": "2ad7d2d8000e658a",
+    "session": "/paintings/two-embers-on-blue-linen/session.json",
+    "image": "/paintings/two-embers-on-blue-linen/finished.png",
+    "addedAt": "2026-10-22T19:10:20.483Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-22"
+  },
+  {
     "id": "fans-for-the-october-wind",
     "title": "Fans for the October wind",
     "description": "Golden ginkgo fans on a diagonal branch with a small drifting leaf against cool blue.",
