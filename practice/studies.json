@@ -5905,5 +5905,132 @@
     "humanRating": null,
     "improvementClaim": "Within-study gaps closed, tapered leaf extensions sharpened silhouettes and calyx tabs reduced. Heavy rim bars and raised cover patches persist. No controlled comparison or human rating."
   }
+},
+{
+  "id": "the-kettle-keeps-the-morning",
+  "title": "The kettle keeps the morning",
+  "date": "2026-10-23",
+  "session": "examples/the-kettle-keeps-the-morning.json",
+  "finishedImage": "examples/previews/the-kettle-keeps-the-morning.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build broad joined copper planes before short dark seams, preserving one compact shoulder glint.",
+  "inspiration": {
+    "title": "Met copper kettle collection; original imagined round copper kettle, blue cloth and teaspoon, without copying its composition",
+    "url": "https://www.metmuseum.org/art/collection/search/207823"
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Four separated wash lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Bridges joined wash lanes; horizontal bands remain."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Long cloth diagonal and rail-like contact shadow."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Mostly filled copper body with cool central hole and faceted shoulder."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Diagonal bridge closed the central hole; lid stepped."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Handle arch and spout read; right handle end floated."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Warm fitting joined floating handle. Spout mouth read. Left reflection was a separate patch."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Long diagonal copper planes reduced separate reflection patch; regular ridges remain."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Thin inset handle light and brighter spout top. Upper view confirmed faceted arch, stepped lid and hooked knob."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Overlapping short arcs rounded knob; lid seam quieter."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Unequal diagonal cloth planes interrupted parallel rails."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Single9px shoulder glint compact and visible at whole view."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Supporting plane joined; cool base reflection became raised rail."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Teaspoon diagonal balanced long spout but bowl was too small."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Broad warm overlaps absorbed cool base rail but left seams. Shoulder cover buried glint."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Unequal cloth folds and broken angular hem read."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Broadened spoon bowl filled and read at whole view."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Unequal handle tabs attached clearly; rivets stayed small."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Blue overlaps interrupted blunt shadow block. Lower view confirmed raised folds, angular hem and grounded base."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Short lid seam helped; narrow base reflection made another stripe."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Broad warm overlap absorbed new base stripe; compact spout mouth darker."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Spout root joined. Cloth tip turned upward with raised ridges; spoon dull."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Restored8px shoulder glint and supporting plane; quieted lid patch and cloth corner. Retained faceted handle/lid, angular hem, wash bands, regular bristles and raised seams. Stopped before more covers added relief."
+    }
+  ],
+  "evidence": [
+    "examples/the-kettle-keeps-the-morning.json",
+    "examples/previews/the-kettle-keeps-the-morning.png",
+    "artifacts/the-kettle-keeps-the-morning/088-whole.png",
+    "artifacts/the-kettle-keeps-the-morning/088-close.png",
+    "artifacts/the-kettle-keeps-the-morning/036-upper-review.png",
+    "artifacts/the-kettle-keeps-the-morning/072-lower-review.png"
+  ],
+  "inspectionEvidence": "23 settled paired whole/2.0x close inspection boundaries; upper 36 and lower 72 direct camera reviews; repeated final 88 pair. 950ms camera settling, completed-count and At rest checks. Initial camera timeouts recovered through fresh DOM and forced locator clicks after making browser visible; no subsequent marks before successful paired inspections. The second batch count wait timed out but fresh DOM confirmed 8 marks/At rest before review. Explicit numeric screenshot filenames. Browser automatically returns whole before each new batch; exported history contains 51 events, 26 text notes. All review screenshots retained locally; final pair and direct upper/lower reviews committed.",
+  "engineRevision": "6bb6fd2153963b93c7875086b3e47177d0a2d2ab",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette copper kettle calibration: broad diagonal planes before dark seams; compare one broad warm base repair with a narrow reflected stripe, judging color separately from relief. Protect 8 px glint until final pass. Use a sampled smooth handle curve from outset. Choose fresh subject next.",
+  "assessment": {
+    "source": "Live notes, 23 paired settled boundaries, upper/lower review, actual PNG and ended 88-mark receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study central hole closed, handle attached, knob rounded and narrow base stripes absorbed. Facets and raised repair seams persist. No controlled comparison or human rating."
+  }
 }
 ]

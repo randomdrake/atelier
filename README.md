@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The kettle keeps the morning
+
+[![An imagined copper kettle, folded blue cloth and teaspoon](public-gallery/paintings/the-kettle-keeps-the-morning/finished.png)](https://atelier.randomdrake.com/#painting/the-kettle-keeps-the-morning)
+
+An original still life in **88 animated marks**, developed through **23 settled paired inspection boundaries**, upper and lower camera reviews and repeated final refinement review. Broad copper overlaps closed the center and absorbed narrow base stripes; one restored compact shoulder glint holds focus. Faceted fittings, angular cloth hem and raised seams remain. Inspired by the [Met copper kettle collection](https://www.metmuseum.org/art/collection/search/207823). The broadcast ended with all 88 marks acknowledged.
+
+[Watch the kettle study unfold →](https://atelier.randomdrake.com/#painting/the-kettle-keeps-the-morning)
+
 ### Blue cups for the late light
 
 [![Three imagined blue gentians with tapered leaves and sparse meadow grasses](public-gallery/paintings/blue-cups-for-the-late-light/finished.png)](https://atelier.randomdrake.com/#painting/blue-cups-for-the-late-light)

@@ -1,5 +1,23 @@
 [
 {
+  "id": "the-kettle-keeps-the-morning",
+  "title": "The kettle keeps the morning",
+  "description": "An imagined copper kettle, folded blue cloth and quiet teaspoon in cool morning light.",
+  "process": "Painted live by an AI agent in 88 animated marks, with 23 settled paired whole/close inspection boundaries, upper/lower camera reviews and final refinement. Broad copper overlaps closed a central gap and absorbed narrow base stripes; one restored shoulder glint holds focus. Faceted fittings, angular hem and raised seams remain. 26 live notes; 51 replay moments. Actual browser PNG and replay exported. Broadcast ended with all 88 marks acknowledged.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 51,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/the-kettle-keeps-the-morning/session.json",
+  "image": "/paintings/the-kettle-keeps-the-morning/finished.png",
+  "addedAt": "2026-10-23T15:17:08.771Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-23"
+},
+{
   "id": "blue-cups-for-the-late-light",
   "title": "Blue cups for the late light",
   "description": "Three imagined blue gentians with tapered leaves and sparse grasses in a warm meadow.",
