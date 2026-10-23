@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-cup-of-sun-on-still-water",
+  "title": "A cup of sun on still water",
+  "description": "An imagined yellow pond lily, unopened bud and unequal green pads on quiet blue water.",
+  "process": "112 animated marks in29 batches of1\u20134, with29 settled paired whole/close inspections, upper/lower camera reviews and repeated final refinement. Broad planes before sparse veins; compact rim light; retained raised water-cover failures. All text notes live; title assigned after export. Broadcast ended acknowledging112 marks.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 61,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-cup-of-sun-on-still-water/session.json",
+  "image": "/paintings/a-cup-of-sun-on-still-water/finished.png",
+  "addedAt": "2026-10-23T20:15:40.145Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-23"
+},
+{
   "id": "paper-keeps-the-light",
   "title": "Paper keeps the light",
   "description": "An imagined garlic bulb, loose clove and curled skin on rust-red cloth",

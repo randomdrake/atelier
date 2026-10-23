@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A cup of sun on still water
+
+[![An imagined yellow pond lily, unopened bud and unequal pads on quiet blue water](public-gallery/paintings/a-cup-of-sun-on-still-water/finished.png)](https://atelier.randomdrake.com/#painting/a-cup-of-sun-on-still-water)
+
+An original pond study in **112 animated marks**, developed through **29 settled paired inspections**, upper and lower camera reviews and repeated final refinement review. Broad loaded planes filled the pads before sparse veins; a compact rim light holds the golden cup. Blunt notches, reed elbows and raised water-cover repairs remain. Inspired by the [NPS Denali pond-lily guide](https://www.nps.gov/dena/learn/nature/pondlily.htm). The broadcast ended with all112 marks acknowledged.
+
+[Watch the pond study unfold →](https://atelier.randomdrake.com/#painting/a-cup-of-sun-on-still-water)
+
 ### Paper keeps the light
 
 [![An imagined garlic bulb, loose clove and curled skin on rust-red cloth](public-gallery/paintings/paper-keeps-the-light/finished.png)](https://atelier.randomdrake.com/#painting/paper-keeps-the-light)
