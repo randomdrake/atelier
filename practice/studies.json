@@ -6719,5 +6719,157 @@
     "humanRating": null,
     "improvementClaim": "Pads filled before veins; small slit closed; compact glint survived. Green notch corrections narrowed openings but left relief. Thinblue contact covers widened raised rails. Crown rounder; blunt bud, faceted pads and reed elbows remain. No controlled comparison or human rating."
   }
+},
+{
+  "id": "a-red-hull-at-rest",
+  "title": "A red hull at rest",
+  "date": "2026-10-23",
+  "session": "examples/a-red-hull-at-rest.json",
+  "finishedImage": "examples/previews/a-red-hull-at-rest.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad loaded hull planes before plank lines; one compact bow light; judge color and raised relief separately.",
+  "inspiration": {
+    "title": "NPS Commodore Perry\u2019s Longboat",
+    "url": "https://www.nps.gov/places/perryslongboat.htm",
+    "interpretation": "Original imagined red rowboat, ochre interior, diagonal oar and sparse shore reeds; not a copy of the reference composition."
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "The first washes leave wide linen lanes. Bridge them with soft water and shore color before the hull; keep the distant band light."
+    },
+    {
+      "afterStroke": 8,
+      "text": "The bridges joined the water without hard relief. Block the hull as overlapping red planes, with its bow pointing right and the opening reserved above."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The hull is mostly filled, but a narrow blue gap remains at the top. A broad ochre interior will close it and establish the opening above the red side."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Ochre filled the gap, while the opening reads as a flat polygon. Add unequal dark interior recesses and warm transverse seats to give depth without outlining everything."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The recesses became dark bars and the seats muted. First turn the hull with broad warmer upper paint and a cooler lower plane; keep its existing irregular edges."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The warm upper plane separates from the darker keel, though the lower stroke ends as a bar. Set a distant uneven bank and soft reflection before judging the boat\u2019s contact."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The watercolor reflection stays soft and subordinate. The dark interior bars are too isolated; broad ochre overlaps will reduce their width, then loaded seat tops can read as wood."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The recesses narrowed and the left bench is clearer; regular ridges remain. Add a long diagonal oar over the right gunwale, keeping its blade separate on the shore."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Upper review: the oar reads as one long diagonal and the blade is blunt. The far rim remains angular; a sampled arc can soften it while leaving the interior quiet."
+    },
+    {
+      "afterStroke": 40,
+      "text": "The far rim softened slightly but kept facets; the right bow is fuller. Add only broken plank seams across the side, avoiding a complete dark outline."
+    },
+    {
+      "afterStroke": 44,
+      "text": "The plank seams read strongly and crossed the oar. Test one compact loaded bow light alone before repairing the crossing; a small light should survive whole view."
+    },
+    {
+      "afterStroke": 45,
+      "text": "The 14px bow light survives at whole view. Repair the two oar crossings with one continuous loaded pass; support the light with a warm neighboring plane, then quiet the longest plank seam."
+    },
+    {
+      "afterStroke": 48,
+      "text": "The shaft is continuous again and the seam is quieter. The warm support partly buried the bow glint, so reserve its restoration for refinement. Add sparse shore reeds on the left to balance the long oar."
+    },
+    {
+      "afterStroke": 52,
+      "text": "The reeds taper but have firm elbows, and their roots float above sand. Two unequal stones and short root shadows can anchor them without filling the quiet foreground."
+    },
+    {
+      "afterStroke": 56,
+      "text": "The stones remain quiet, but the hull floats above the reflection. Test broken watercolor contacts below the keel and a soft shore ripple, keeping oil away from the water."
+    },
+    {
+      "afterStroke": 60,
+      "text": "The watercolor contacts barely register at whole view, but they kept the water flat. Add a warm red reflection broken by blue water, and a small dark recess under the oar crossing."
+    },
+    {
+      "afterStroke": 64,
+      "text": "The reflection now shows a soft red echo. The oar recess became a long dark bar; shorten it with warm hull paint and reconnect the shaft, then shape the blade tip."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Lower review: the oar blade remains blunt but has a lighter face; the red echo is soft. The reed roots still end above the left stone. Join them with short unequal roots and quiet sand shadows."
+    },
+    {
+      "afterStroke": 72,
+      "text": "The roots now connect, though their crossing is angular. The hull\u2019s lower shadow is still a broad stripe; break its top edge with broad red diagonal neighbors rather than another thin line."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Broad red neighbors reduced the keel stripe but covered a short oar section: a clear ordering mistake. Reconnect that section, then add small bench end shadows away from the shaft."
+    },
+    {
+      "afterStroke": 80,
+      "text": "The shaft is restored; the bench end shadows are too bracket-like. Broader ochre tops should absorb those small bars without covering the oar."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Broad ochre reduced the brackets, leaving raised patches. The far rim is still a polygon; a sampled warm arc and a softer left stern transition can vary the edge."
+    },
+    {
+      "afterStroke": 88,
+      "text": "The rim curve softened its left shoulder but still has long flat sections. The distant bank is too uniform; watercolor gaps and one quiet low clump can vary its rhythm."
+    },
+    {
+      "afterStroke": 92,
+      "text": "The distant changes are nearly invisible; leave them quiet. Break the reflection at unequal intervals and connect the wet shore to the oar blade with a soft shadow."
+    },
+    {
+      "afterStroke": 96,
+      "text": "The blade shadow is soft and the reflection remains understated. Refine the blade\u2019s lighter face and taper the two tallest reeds, preserving their useful unevenness."
+    },
+    {
+      "afterStroke": 100,
+      "text": "The blade face is lighter and reeds stay uneven. The right bow is blunt; use a short tapered red crest and a warm rim neighbor, leaving the oar untouched."
+    },
+    {
+      "afterStroke": 104,
+      "text": "The bow crest is slightly sharper but still blunt at the end. Before restoring its light, quiet the isolated lower red seam and link the rim into the right bench without enlarging the silhouette."
+    },
+    {
+      "afterStroke": 108,
+      "text": "The lower seam is quieter, with raised warm repairs retained. Final refinement: restore the compact bow glint, a short warm rim join, the oar grip light and the reed root junction."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Finished at 112 marks: joined red hull planes, a continuous long oar and one compact bow light hold against quiet water. Broad ochre reduced interior bars; red covers twice buried the shaft and required repair. Retained faceted rim, blunt blade, angular reed roots and raised patches. Stop because more covers add relief faster than clarity."
+    }
+  ],
+  "evidence": [
+    "examples/a-red-hull-at-rest.json",
+    "examples/previews/a-red-hull-at-rest.png",
+    "artifacts/a-red-hull-at-rest/112-whole.png",
+    "artifacts/a-red-hull-at-rest/112-close.png",
+    "artifacts/a-red-hull-at-rest/036-upper-review.png",
+    "artifacts/a-red-hull-at-rest/068-lower-review.png"
+  ],
+  "inspectionEvidence": "All29 unique pairs retained locally with explicit count filenames; final112 pair and upper36/lower68 reviews committed. Cameras settled1000ms, displayed2.0x checked, completed count and At rest guarded. First4/8 camera clicks timed out; freshDOM and keyboard Enter recovered paired inspections before further painting. Batch helper replaced to pass inspection helper explicitly, avoiding stale closure.",
+  "engineRevision": "090da2a9b4f89f0ec406bf50473b1b92c04b93bd",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette rowboat: finish broad hull corrections before the oar; compare reserved shaft versus repaint repair, broad ochre recess neighbors versus dark bars, and watercolor contact strength without oil relief. Keep14px focal light; sample rim curve from outset. Choose a fresh subject next.",
+  "assessment": {
+    "source": "30live notes,29paired inspection boundaries,actual900x620PNG and ended112mark receipt.",
+    "humanRating": null,
+    "improvementClaim": "Broad planes filled hull before seams; ochre closed blue gap/reduced dark bars; 14px glint survived/restored; watercolor red reflection stayed soft. Red covers twice buried oar and needed restoration. Retain faceted rim, blunt blade, angular reed roots, regular bristles and raised patches. No controlled comparison or human rating."
+  }
 }
 ]

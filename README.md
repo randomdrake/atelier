@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A red hull at rest
+
+[![An imagined red rowboat, diagonal oar and sparse reeds on a quiet blue shore](public-gallery/paintings/a-red-hull-at-rest/finished.png)](https://atelier.randomdrake.com/#painting/a-red-hull-at-rest)
+
+An original shore study in **112 animated marks**, developed through **29 settled paired inspections**, upper and lower camera reviews and repeated final refinement review. Broad loaded hull planes and a compact restored bow light hold against soft watercolor reflections. Raised repairs, faceted rim and blunt blade remain. Inspired by the [NPS longboat reference](https://www.nps.gov/places/perryslongboat.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the rowboat study unfold →](https://atelier.randomdrake.com/#painting/a-red-hull-at-rest)
+
 ### A cup of sun on still water
 
 [![An imagined yellow pond lily, unopened bud and unequal pads on quiet blue water](public-gallery/paintings/a-cup-of-sun-on-still-water/finished.png)](https://atelier.randomdrake.com/#painting/a-cup-of-sun-on-still-water)
