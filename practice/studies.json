@@ -6437,5 +6437,132 @@
     "humanRating": null,
     "improvementClaim": "Within study, rays joined, dark slits and notch repaired, compact light restored. Raised patches, angular ribbon and wet-edge hooks persist. No controlled comparison or human rating."
   }
+},
+{
+  "id": "paper-keeps-the-light",
+  "title": "Paper keeps the light",
+  "date": "2026-10-23",
+  "session": "examples/paper-keeps-the-light.json",
+  "finishedImage": "examples/previews/paper-keeps-the-light.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad ivory planes before short clove creases, protecting one compact shoulder light.",
+  "inspiration": {
+    "description": "Kew garlic collection; original imagined bulb, loose clove and curled skin on rust-red cloth, without copying a finished composition.",
+    "url": "https://www.kew.org/plants/garlic"
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Four separate wash lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Bridges joined wash lanes; cast shadow reads as a pad."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Broad outline left hollow center."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Diagonal ivory filled center, mass grey and flat."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Curved clove planes joined, still muted."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Loaded ivory gave clearer left light; root plate small."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Loose clove compact but blocky."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Cloth folds read as isolated wedges."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Upper review showed two angular dry neck strands."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Short creases became dark brackets."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Broad ivory overlaps partly reduced bracket contrast, left raised edges; skin curl angular."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Single10px shoulder light nearly disappears in whole view."
+    },
+    {
+      "afterStroke": 48,
+      "text": "14px light survives; sampled skin curl gentler."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Sparse root fibers quiet."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Broader cloth overlaps joined some color but enlarged raised patches."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Warm flank and cool base became isolated strips."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Broad diagonals reduced strip contrast, retained raised seams."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Loose clove back rounder, tip blunt."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Lower review confirmed raised shadow rails; thin cloth pass covered skin curl."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Sampled crest restored; blunt tail retained."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Broad pale diagonals absorbed most dark brackets, kept relief."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Two broad planes joined; neck still angular, clove tip slightly sharper."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Compact shoulder light restored and supported; lower-right strip quieted and skin tail connected. Filled bulb and gentle skin crest hold. Raised seams, regular bristles, angular dry neck, large cloth patches and shadow rails remain. Stopped before more covers added relief."
+    }
+  ],
+  "evidence": [
+    "examples/paper-keeps-the-light.json",
+    "examples/previews/paper-keeps-the-light.png",
+    "artifacts/paper-keeps-the-light/088-whole.png",
+    "artifacts/paper-keeps-the-light/088-close.png",
+    "artifacts/paper-keeps-the-light/036-upper-review.png",
+    "artifacts/paper-keeps-the-light/072-lower-review.png"
+  ],
+  "inspectionEvidence": "23 settled paired whole/2.0x close screenshot boundaries, upper36/lower72 direct reviews and repeated final88 pair. Actual full-page screenshots cropped to DOM canvas-wrap, unique numeric filenames, 950ms camera settling and 2.0x guard. All batches complete and At rest. First camera clicks at4/8 timed out; fresh DOM and keyboard controls recovered before further marks. Count12 arrived before At rest; waited and reviewed before continuing. All pairs local; final pair and upper/lower reviews committed.",
+  "engineRevision": "bd05922d5dffe492d087b225ad108157368f5f75",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette garlic: compare loaded ivory from outset against repeated thin passes; broad planes before very short creases; sampled dry-neck/skin curves from outset. Compare thin and broad cloth covers, judging color and relief separately; protect skin from cloth corrections. Choose fresh subject next.",
+  "assessment": {
+    "source": "27 live notes,23 paired boundaries,upper/lower reviews,actual PNG and ended88-mark receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within study center filled, bracket contrast reduced and skin restored. Raised patches and angular neck persist. No controlled comparison or human rating."
+  }
 }
 ]

@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Paper keeps the light
+
+[![An imagined garlic bulb, loose clove and curled skin on rust-red cloth](public-gallery/paintings/paper-keeps-the-light/finished.png)](https://atelier.randomdrake.com/#painting/paper-keeps-the-light)
+
+An original still life in **88 animated marks**, developed through **23 settled paired inspections**, upper and lower camera reviews and repeated final refinement review. Broad ivory planes filled the bulb and absorbed dark creases; a sampled skin curve and compact shoulder light hold the focus. Raised repairs, angular dry neck and large cloth patches remain. Inspired by [Kew’s garlic collection](https://www.kew.org/plants/garlic). The broadcast ended with all 88 marks acknowledged.
+
+[Watch the garlic study unfold →](https://atelier.randomdrake.com/#painting/paper-keeps-the-light)
+
 ### A star in the retreating tide
 
 [![An imagined ochre sea star on a wet slate rock with seaweed and quiet teal water](public-gallery/paintings/a-star-in-the-retreating-tide/finished.png)](https://atelier.randomdrake.com/#painting/a-star-in-the-retreating-tide)

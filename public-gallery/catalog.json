@@ -1,5 +1,23 @@
 [
-  {
+{
+  "id": "paper-keeps-the-light",
+  "title": "Paper keeps the light",
+  "description": "An imagined garlic bulb, loose clove and curled skin on rust-red cloth",
+  "process": "88 animated marks in 23 small batches, each followed by settled whole and close screenshot inspections; upper and lower camera reviews, 27 live notes and repeated final review. Broad ivory overlaps filled the bulb and reduced dark creases; sampled skin curl restored after cloth overlap. Raised repairs, angular dry neck and cloth patches remain. Broadcast ended with all 88 marks acknowledged.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 52,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/paper-keeps-the-light/session.json",
+  "image": "/paintings/paper-keeps-the-light/finished.png",
+  "addedAt": "2026-10-23T19:06:20.849Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-23"
+},
+{
     "id": "a-star-in-the-retreating-tide",
     "title": "A star in the retreating tide",
     "description": "An imagined ochre sea star on a wet slate rock, with seaweed and quiet teal water.",
