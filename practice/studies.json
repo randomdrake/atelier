@@ -6032,5 +6032,156 @@
     "humanRating": null,
     "improvementClaim": "Within-study central hole closed, handle attached, knob rounded and narrow base stripes absorbed. Facets and raised repair seams persist. No controlled comparison or human rating."
   }
+},
+{
+  "id": "green-armor-violet-cloth",
+  "title": "Green armor, violet cloth",
+  "date": "2026-10-23",
+  "session": "examples/green-armor-violet-cloth.json",
+  "finishedImage": "examples/previews/green-armor-violet-cloth.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build broad tapered bract planes before short dark seams, protecting one compact focal light.",
+  "inspiration": {
+    "description": "NC State artichoke plant guide; original imagined artichoke with detached leaf on violet cloth, without copying a finished composition.",
+    "url": "https://plants.ces.ncsu.edu/plants/cynara-cardunculus-scolymus-group/"
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Violet wash bands separated by bare lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Bridges joined lanes; horizontal bands remain."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Low contact shadow reads; diagonal cloth quiet."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad mass mostly filled with left-center violet hole."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Diagonal plane closed hole and stalk attached."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Joined crown bracts but tips disappeared in mass."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Unequal tapered extensions produced two visible crown points."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Front bracts overlap; central planes merge."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Short dark seams too blunt; upper review confirmed rounded central crown."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Central tips break crown, broader middle bracts joined."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Unequal folds interrupted cloth rails but angular."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Single 8px light compact, faint at whole scale."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Neighbor supports light; low bracts read as overlapping plates."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Crossplanes break central column; restrained purple tips."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Matching root covers barely reduced contrast and added relief."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Detached long leaf balances stalk."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Outer planes widened base but tips blunt."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Tapered extensions made clear outer points; warm cut face small."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Oblique cloth overlaps interrupt rails; lower review confirms attached stalk, filled leaf, raised angular folds."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Curved overlap shadows became explicit smile-like bars."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Broad diagonal overlaps absorbed most curved bars, leaving relief."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Leaf midrib reads; side veins quiet."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Cool broad lights only subtly changed right planes."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Loaded paint changed color more clearly but right light became isolated pale wedge."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Broad neighbor reduced isolated wedge; cool patch remains."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Refined crown points clearer but faceted; unequal purple accents."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Wider diagonal fold connects isolated cloth pad; raised folds remain."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Broad repairs absorbed upper seam roots and joined stalk shoulder."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Restored compact 8px focal light and supporting plane; quieted cool wedge and connected leaf stem. Retained crown facets, raised repairs, angular folds, wash bands and regular bristles. Stopped before more covering increased relief."
+    }
+  ],
+  "evidence": [
+    "examples/green-armor-violet-cloth.json",
+    "examples/previews/green-armor-violet-cloth.png",
+    "artifacts/green-armor-violet-cloth/112-whole.png",
+    "artifacts/green-armor-violet-cloth/112-close.png",
+    "artifacts/green-armor-violet-cloth/036-upper-review.png",
+    "artifacts/green-armor-violet-cloth/072-lower-review.png"
+  ],
+  "inspectionEvidence": "29 settled paired whole/2.0x close inspection boundaries, upper 36 and lower 72 direct camera reviews, repeated final 112 pair. 950ms camera settling and visible zoom guards. Initial camera control timeouts recovered with fresh DOM and keyboard controls after making browser visible; no next marks before complete paired review. Batch 8 count wait timed out; fresh DOM confirmed 8 marks and At rest. Initial crop helper used x/y instead of left/top, then a stale closure; corrected before the first successful pair. Explicit numeric screenshot filenames throughout. Automatic whole return precedes batches. All pairs retained locally; final pair and upper/lower reviews committed.",
+  "engineRevision": "5b78673d1bf87a24ac1621a09e9f32b8a9fb6244",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette artichoke calibration: compare narrow root cover against one broad diagonal overlap; judge color separately from relief. Use staggered tapered bracts from outset and keep dark overlaps shorter. Protect compact 8px light until final pass. Choose a fresh subject next.",
+  "assessment": {
+    "source": "31 live notes, 29 paired settled boundaries, upper/lower review, actual PNG and ended 112-mark receipt.",
+    "humanRating": null,
+    "improvementClaim": "Within-study center hole closed, silhouette tips sharpened and broad diagonal overlaps absorbed seam bars. Facets and raised patches persist. No controlled comparison or human rating."
+  }
 }
 ]

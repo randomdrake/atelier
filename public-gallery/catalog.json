@@ -1,5 +1,23 @@
 [
 {
+  "id": "green-armor-violet-cloth",
+  "title": "Green armor, violet cloth",
+  "description": "An imagined green artichoke and detached leaf on quiet violet cloth.",
+  "process": "112 animated strokes in 29 batches of 1–4, each followed by settled whole and close screenshot inspection, plus upper and lower camera reviews and repeated final review. Broad diagonal planes closed the center and absorbed seam bars; tapered tips and a compact restored light clarify the form. Raised repairs, crown facets and angular cloth folds remain. All 31 easel notes were live. The broadcast ended with 112 marks acknowledged. Title added to exports afterward; browser storage warning mitigated by actual PNG and full replay downloads. No engine changes.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 62,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/green-armor-violet-cloth/session.json",
+  "image": "/paintings/green-armor-violet-cloth/finished.png",
+  "addedAt": "2026-10-23T16:16:34.695Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-23"
+},
+{
   "id": "the-kettle-keeps-the-morning",
   "title": "The kettle keeps the morning",
   "description": "An imagined copper kettle, folded blue cloth and quiet teaspoon in cool morning light.",

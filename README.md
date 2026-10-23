@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Green armor, violet cloth
+
+[![An imagined green artichoke and detached leaf on violet cloth](public-gallery/paintings/green-armor-violet-cloth/finished.png)](https://atelier.randomdrake.com/#painting/green-armor-violet-cloth)
+
+An original still life in **112 animated marks**, developed through **29 settled paired inspection boundaries**, upper and lower camera reviews and repeated final refinement review. Broad diagonal overlaps filled the center and absorbed heavy seam bars; tapered tips clarify the silhouette and a compact restored bract light holds focus. Crown facets, raised green repairs and angular cloth folds remain. Inspired by the [NC State artichoke plant guide](https://plants.ces.ncsu.edu/plants/cynara-cardunculus-scolymus-group/). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the artichoke study unfold →](https://atelier.randomdrake.com/#painting/green-armor-violet-cloth)
+
 ### The kettle keeps the morning
 
 [![An imagined copper kettle, folded blue cloth and teaspoon](public-gallery/paintings/the-kettle-keeps-the-morning/finished.png)](https://atelier.randomdrake.com/#painting/the-kettle-keeps-the-morning)
