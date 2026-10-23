@@ -1,6 +1,7 @@
 import {replayMomentDuration} from '/pacing.js';
 import {renderThought} from '/thought-links.js';
 import {renderGalleryTimestamp} from './date-time.js';
+import {prepareCameraForPainting} from '/camera.js';
 const $=id=>document.getElementById(id),dialog=$('viewer'),wrap=$('surface'),canvas=$('replay-canvas'),ctx=canvas.getContext('2d',{alpha:false});
 let catalog=[],selected=null,player=null,tour=null,camera=null,surface=null,pixels=null,paused=false,running=false,last=0,epoch=0;
 let currentEvents=[];
@@ -53,7 +54,7 @@ async function replay(){
 }
 function frame(now,token){
   if(!running||token!==epoch)return;const dt=Math.min(.25,(now-last)/1000);last=now;
-  if(!paused){const seconds=dt*Number($('speed').value),holding=tour.advance(seconds,player.strokes.length);if(!holding&&player.busy){player.advance(seconds,tour.running);surface.render(pixels.data);ctx.putImageData(pixels,0,0);}
+  if(!paused){const seconds=dt*Number($('speed').value);let holding=tour.advance(seconds,player.strokes.length);if(!holding&&player.busy)holding=!prepareCameraForPainting(camera);if(!holding&&player.busy){player.advance(seconds,tour.running);surface.render(pixels.data);ctx.putImageData(pixels,0,0);}
     if(camera.advance(seconds)){const {zoom,x,y}=camera.value,w=wrap.clientWidth,h=w*620/900;wrap.style.height=`${h}px`;canvas.style.width=`${zoom*100}%`;wrap.scrollLeft=Math.max(0,x*w*zoom-w/2);wrap.scrollTop=Math.max(0,y*h*zoom-h/2);}
     const active=player.active,mark=active?.playback.drawn.at(-1);$('contact').hidden=!mark||holding;if(mark){const c=$('contact');c.style.left=`${mark[0]*canvas.offsetWidth}px`;c.style.top=`${mark[1]*canvas.offsetHeight}px`;c.style.width=c.style.height=`${active.stroke.size*(mark[2]??.7)*canvas.offsetWidth/900}px`;}
     if(!player.busy&&!tour.running){running=false;$('pause').hidden=true;$('contact').hidden=true;$('progress').textContent=`${player.strokes.length} marks · replay complete`;$('play').textContent='Watch again';return;}

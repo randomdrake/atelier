@@ -1,5 +1,17 @@
 export const WHOLE_VIEW=Object.freeze({zoom:1,x:.5,y:.5});
 
+export function canPaintAtCamera(camera){
+  return camera.value.zoom===1&&camera.target.zoom===1&&camera.elapsed>=camera.duration;
+}
+
+// Inspection can omit an explicit return cue. Step back and wait for the
+// transition to finish before advancing any pigment simulation.
+export function prepareCameraForPainting(camera){
+  if(canPaintAtCamera(camera))return true;
+  if(camera.target.zoom!==1)camera.move(WHOLE_VIEW,.5);
+  return false;
+}
+
 export function validateCamera(value){
   const {zoom,x,y}=value??{};
   if(!Number.isFinite(zoom)||zoom<1||zoom>3||![x,y].every(v=>Number.isFinite(v)&&v>=0&&v<=1))throw new Error('Camera views need zoom 1–3 and normalized x/y coordinates');

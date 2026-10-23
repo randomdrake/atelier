@@ -5,6 +5,7 @@ import {PaintingLibrary} from './library.js';
 import {PaintingGallery} from './gallery.js';
 import {renderThought} from './thought-links.js';
 import {LiveBroadcast} from './live-broadcast.js';
+import {canPaintAtCamera,prepareCameraForPainting} from './camera.js';
 const $=id=>document.getElementById(id);
 const canvas=$('canvas'),wrap=canvas.parentElement,ctx=canvas.getContext('2d',{alpha:false});
 const surface=new PaintSurface(canvas.width,canvas.height),pixels=ctx.createImageData(canvas.width,canvas.height);
@@ -138,7 +139,7 @@ function showMoment(event,recorded=false){
     }
   }
   $('moment-count').textContent=recorded?`RECORDED MOMENT ${tour.index+1} / ${tour.events.length}`:'LIVE STUDIO NOTE';
-  if(event.camera){camera.move(event.camera,window.matchMedia('(prefers-reduced-motion: reduce)').matches ? .01 : (recorded ? .5 : .8));manualCamera=!recorded;}
+  if(event.camera){endPointer();camera.move(event.camera,window.matchMedia('(prefers-reduced-motion: reduce)').matches ? .01 : (recorded ? .5 : .8));manualCamera=!recorded;}
   status(kind==='look'||kind==='notice'?'Let’s take a look together.':'A little thought at the easel.');updateButtons();
 }
 function recordMoment(event){
@@ -158,6 +159,7 @@ function applyCamera(){
   $('camera-badge').textContent=label;$('view-description').textContent=label;
 }
 function setView(close){
+  endPointer();
   const target=close?{zoom:2,x:.5,y:.5}:{zoom:1,x:.5,y:.5};
   if(camera.elapsed>=camera.duration&&Math.abs(camera.value.zoom-target.zoom)<.005&&Math.abs(camera.value.x-target.x)<.002&&Math.abs(camera.value.y-target.y)<.002)return;
   camera.move(target,.8);manualCamera=true;
@@ -177,12 +179,14 @@ wrap.addEventListener('scroll',()=>{
 window.addEventListener('resize',applyCamera);
 canvas.onpointerdown=e=>{
   if(busy())return;
+  if(!canPaintAtCamera(camera)){status('Return to the whole painting before making a mark.');return;}
   if(replaySource&&player.strokes.length<replaySource.strokes.length)paintingId=crypto.randomUUID();
   surfaceReady=true;replaySource=null;canvas.setPointerCapture(e.pointerId);checkpoint();const p=point(e);
   pointer={...brush,points:[p],duration:0};pointerStarted=performance.now();manualReservoir=new BrushReservoir(pointer);
   surface.dab(...p,pointer,0,manualReservoir);dirty=true;updateButtons();status('There’s our first little gesture…');
 };
 canvas.onpointermove=e=>{
+  if(!canPaintAtCamera(camera)){$('brush-cursor').style.display='none';return;}
   if(busy())return;const r=canvas.getBoundingClientRect(),cursor=$('brush-cursor');cursor.style.display='block';
   cursor.style.left=e.clientX-r.left+'px';cursor.style.top=e.clientY-r.top+'px';
   cursor.style.width=cursor.style.height=brush.size*r.width/canvas.width+'px';
@@ -294,6 +298,7 @@ function frame(now){
     if(speechActive&&now>speechDeadline){speechEpoch++;speechActive=false;if('speechSynthesis' in window)window.speechSynthesis.cancel();}
     const spokenHold=speechActive&&tour.active&&tour.elapsed+seconds*1000>=tour.activeDuration;
     holding=tour.advance(spokenHold?0:seconds,player.strokes.length);
+    if(!holding&&player.busy)holding=!prepareCameraForPainting(camera);
     if(!holding&&player.advance(seconds,tour.running))dirty=true;
   }
   if(!player.paused||manualCamera){if(camera.advance(seconds))applyCamera();if(camera.elapsed>=camera.duration)manualCamera=false;}
