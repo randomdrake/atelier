@@ -10,6 +10,22 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A star in the retreating tide
+
+[![An imagined ochre sea star on a wet slate rock with seaweed and quiet teal water](public-gallery/paintings/a-star-in-the-retreating-tide/finished.png)](https://atelier.randomdrake.com/#painting/a-star-in-the-retreating-tide)
+
+An original tide-pool study in **88 animated marks**, developed through **23 settled paired inspections**, lower and upper camera reviews and repeated final refinement review. Broad warm overlaps repaired dark slits and an accidental notch; a compact wet glint holds focus. Raised repairs, regular bristles and angular outer seaweed remain. Inspired by [NPS Redwood tide-pool photographs](https://www.nps.gov/redw/learn/nature/seastars.htm). The broadcast ended with all 88 marks acknowledged.
+
+[Watch the tide-pool study unfold →](https://atelier.randomdrake.com/#painting/a-star-in-the-retreating-tide)
+
+### A small climber in the blue
+
+[![An imagined red-breasted nuthatch on a diagonal pine branch](public-gallery/paintings/a-small-climber-in-the-blue/finished.png)](https://atelier.randomdrake.com/#painting/a-small-climber-in-the-blue)
+
+An original bird study in **88 animated marks**, developed through **23 settled paired inspection boundaries**, upper and lower camera reviews and repeated final refinement review. Broad overlaps closed the body and reduced feather rails more clearly than a thin cover; a compact eye glint holds focus. Faceted cap, bracket-like toes and raised repairs remain. Inspired by the [NPS nuthatch guide](https://www.nps.gov/brca/learn/nature/nuthatches.htm). The broadcast ended with all 88 marks acknowledged.
+
+[Watch the nuthatch study unfold →](https://atelier.randomdrake.com/#painting/a-small-climber-in-the-blue)
+
 ### Green armor, violet cloth
 
 [![An imagined green artichoke and detached leaf on violet cloth](public-gallery/paintings/green-armor-violet-cloth/finished.png)](https://atelier.randomdrake.com/#painting/green-armor-violet-cloth)
