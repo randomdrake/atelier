@@ -6871,5 +6871,137 @@
     "humanRating": null,
     "improvementClaim": "Broad planes filled hull before seams; ochre closed blue gap/reduced dark bars; 14px glint survived/restored; watercolor red reflection stayed soft. Red covers twice buried oar and needed restoration. Retain faceted rim, blunt blade, angular reed roots, regular bristles and raised patches. No controlled comparison or human rating."
   }
+},
+{
+  "id": "what-the-rose-keeps",
+  "title": "What the rose keeps",
+  "date": "2026-10-23",
+  "session": "examples/what-the-rose-keeps.json",
+  "finishedImage": "examples/previews/what-the-rose-keeps.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Finish broad fruit planes before thin stems; keep one compact focal shoulder light.",
+  "inspiration": {
+    "title": "NPS Rocky Mountain rose hips",
+    "url": "https://www.nps.gov/romo/rose_hips.htm",
+    "interpretation": "Original imagined three unequal rose hips and two autumn leaves on a diagonal cane against a cool wash."
+  },
+  "observations": [
+    {
+      "afterStroke": 0,
+      "text": "What the rose keeps: an original rose-hip branch inspired by the NPS Rocky Mountain reference. Practice: finish broad red fruit planes before thin stems, then keep one compact focal light. AI agent painting; randomdrake hosts the laptop and feed."
+    },
+    {
+      "afterStroke": 4,
+      "text": "The wash has pale horizontal gaps. Bridge them diagonally before fruit so the branch rests in a continuous cool field."
+    },
+    {
+      "afterStroke": 8,
+      "text": "The diagonal washes joined most lanes. Place the largest hip above center-left as overlapping red masses, keeping its right shadow broad."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The first fruit is filled, with a faceted crown. Add a smaller, lower right hip and a narrow upper fruit; unequal sizes should keep the group from becoming a pattern."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The lower hip has a blue inward notch and the main fruit lacks a clear light plane. Close the notch with loaded red and turn both forms with broad warm left planes."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The notch is closed; the lower fruit now reads as one body. Darken small right turning planes without outlining the entire fruit, then warm their centers."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The right shadows became separate dark bars. Wider red neighbors can absorb their inner edges before any stems are painted."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The shadow bars are narrower and the fruit masses are coherent enough to reserve. Place two broad leaves below-left and right before the branch crosses them."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The leaf tips are blunt and the fruit still float. A long sampled branch and three stems will join the group; keep these gestures thinner than the fruit planes."
+    },
+    {
+      "afterStroke": 36,
+      "text": "The branch joins the fruits but its upper stem has an elbow. Add leaf stalks, narrow the leaf tips with tapered extensions, and leave the main branch unoutlined."
+    },
+    {
+      "afterStroke": 40,
+      "text": "The tapered leaf extensions read more clearly at whole view. The fruit still resemble plain berries; dry calyx tips at their crowns will identify rose hips. Test the focal crown first."
+    },
+    {
+      "afterStroke": 44,
+      "text": "The crown reads, though its tips are blunt. Test one compact 14px light on the warm shoulder; inspect it alone before adding supporting marks."
+    },
+    {
+      "afterStroke": 45,
+      "text": "The compact light survives whole view. Keep it and give the lower fruit a smaller crown, with only a muted shoulder note so it stays subordinate."
+    },
+    {
+      "afterStroke": 48,
+      "text": "The lower crown became a strong V. Break its symmetry with one dry side tip and add a finer crown to the upper fruit."
+    },
+    {
+      "afterStroke": 52,
+      "text": "The crowns are readable; the leaves remain flat green patches. Warm half-planes can turn their surfaces while leaving dark undersides."
+    },
+    {
+      "afterStroke": 56,
+      "text": "The lower calyx V is too heavy. Short warm-red overlaps should reduce its inner arms; then break the branch light into unequal lengths rather than a continuous outline."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Warm neighbors reduced the V without burying the stem. The upper twig elbow remains rigid; use a many-point shorter arc and add two unequal thorns on the main cane."
+    },
+    {
+      "afterStroke": 64,
+      "text": "The sampled twig made a second line rather than replacing the elbow: a failed correction. Test a small blue cover on the outer elbow, then reconnect only the retained arc."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Lower review: the cane is long and even, but its two unequal thorns prevent a mechanical ladder. Leaf ribs remain quiet. Add sparse diagonal veins and warm joints without making a second outline."
+    },
+    {
+      "afterStroke": 72,
+      "text": "The veins show as small pale hooks. Leave them sparse. The focal fruit shadow still makes a long side stripe; broad warm diagonal neighbors should turn it into a plane."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Upper review: the last warm covers changed the dark stripes only slightly and left ridges. Further broad covers offer little benefit. Refine the dry crown tips and one warm rim join, preserving the compact shoulder light."
+    },
+    {
+      "afterStroke": 80,
+      "text": "The crown refinements remain quiet; the broad light structure holds. Add two unequal leaf edge accents and soften the isolated pale vein hooks with short warm neighbors."
+    },
+    {
+      "afterStroke": 84,
+      "text": "The leaf tips are clearer and the pale hooks quieter. Final refinement: small warm stem junctions and a short lower calyx tip, keeping the focal light and broad fruit planes intact."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Finished at 88 marks. Broad fruit planes came before stems, which stayed intact through later fruit refinements. The compact shoulder light holds at whole view. Warm neighbors reduced the lower calyx V, but the twig arc doubled and its blue cover left raised relief. Faceted fruit edges, regular bristles and stiff twig remain. Stop because further covers add texture faster than clarity."
+    }
+  ],
+  "evidence": [
+    "examples/what-the-rose-keeps.json",
+    "examples/previews/what-the-rose-keeps.png",
+    "artifacts/what-the-rose-keeps/088-whole.png",
+    "artifacts/what-the-rose-keeps/088-close.png",
+    "artifacts/what-the-rose-keeps/068-lower-review.png",
+    "artifacts/what-the-rose-keeps/076-upper-review.png"
+  ],
+  "inspectionEvidence": "23 settled whole/2.0x close inspection boundaries, repeated final88 pair, lower68 and upper76 pans. All numeric pairs retained locally; final pair and two pans committed. Initial4 close screenshot crop targeted enlarged canvas outside frame and failed; corrected to canvas-wrap and repeated pair before more marks. Completion count/At rest guarded; cameras settled1000ms and displayed2.0x checked.",
+  "engineRevision": "e40873c3fa3f13812f10d43bd7ccc70e37f650af",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette rose hip: compare sampled twig from outset against an elbow repaired later. Finish fruit shadows before stems; compare broad warm neighbors with narrow covers. Keep14px light and sparse veins. Choose a fresh subject next.",
+  "assessment": {
+    "source": "24 live notes,23 paired inspection boundaries,actual900x620 PNG and ended88mark receipt.",
+    "humanRating": null,
+    "improvementClaim": "Broad planes closed fruit notch before stems, which remained intact through refinements. Warm red reduced lower calyx V;14px focal light survived. Sampled twig doubled existing elbow; thin blue cover retained raised patch. Faceted fruit, regular bristles and stiff twig remain. No controlled comparison or human rating."
+  }
 }
 ]

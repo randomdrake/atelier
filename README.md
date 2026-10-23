@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### What the rose keeps
+
+[![Three imagined red rose hips and autumn leaves on a diagonal cane](public-gallery/paintings/what-the-rose-keeps/finished.png)](https://atelier.randomdrake.com/#painting/what-the-rose-keeps)
+
+An original botanical study in **88 animated marks**, developed through **23 settled paired inspections**, lower and upper camera reviews and repeated final refinement review. Broad fruit planes preceded thin stems; one compact shoulder light holds focus. A twig correction doubled the line and left raised relief, retained as evidence. Inspired by the [NPS rose-hip reference](https://www.nps.gov/romo/rose_hips.htm). The broadcast ended with all 88 marks acknowledged.
+
+[Watch the rose-hip study unfold →](https://atelier.randomdrake.com/#painting/what-the-rose-keeps)
+
 ### A red hull at rest
 
 [![An imagined red rowboat, diagonal oar and sparse reeds on a quiet blue shore](public-gallery/paintings/a-red-hull-at-rest/finished.png)](https://atelier.randomdrake.com/#painting/a-red-hull-at-rest)

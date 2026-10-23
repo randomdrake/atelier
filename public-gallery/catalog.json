@@ -1,5 +1,23 @@
 [
 {
+  "id": "what-the-rose-keeps",
+  "title": "What the rose keeps",
+  "description": "Three unequal red rose hips and autumn leaves on a diagonal cane against a cool wash.",
+  "process": "88 animated strokes in 23 batches of 1\u20134, selected after settled whole and close screenshots, lower and upper camera reviews, and repeated final paired refinement review. Live easel notes recorded throughout. Broad fruit planes preceded thin stems; compact shoulder light retained. Twig repair doubled a line and left raised relief. Broadcast ended with all 88 marks acknowledged.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 51,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/what-the-rose-keeps/session.json",
+  "image": "/paintings/what-the-rose-keeps/finished.png",
+  "addedAt": "2026-10-23T22:05:09.454Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-23"
+},
+{
   "id": "a-red-hull-at-rest",
   "title": "A red hull at rest",
   "description": "An imagined red rowboat, ochre interior, long diagonal oar and sparse reeds on a quiet blue shore.",
