@@ -1,5 +1,23 @@
 [
 {
+  "id": "slow-gold-after-rain",
+  "title": "Slow gold after rain",
+  "description": "A golden banana slug crosses wet dark bark between moss clumps and a quiet fern.",
+  "process": "88 animated marks in 23 batches of 1\u20134, each followed by settled whole and close screenshot review; live notes, two focus moves, a single highlight test, and repeated final paired refinement review. Broad body planes preceded thin tentacles; raised repairs and regular bristles remain.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 51,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/slow-gold-after-rain/session.json",
+  "image": "/paintings/slow-gold-after-rain/finished.png",
+  "addedAt": "2026-10-26T20:39:25.574Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-26"
+},
+{
   "id": "what-the-rose-keeps",
   "title": "What the rose keeps",
   "description": "Three unequal red rose hips and autumn leaves on a diagonal cane against a cool wash.",
