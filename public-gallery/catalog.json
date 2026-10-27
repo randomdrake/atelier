@@ -1,5 +1,23 @@
 [
-  {
+{
+  "id": "a-rattle-above-the-river",
+  "title": "A rattle above the river",
+  "description": "An imagined blue kingfisher on a weathered branch above quiet river water, framed by sparse reeds.",
+  "process": "112 animated marks in 29 screenshot-guided batches of 1\u20134; settled whole/2.0x close pairs throughout, upper/lower reviews, live easel notes and deliberate final refinement. Broad joined forms before details; blue neighbors broke a pale wing rail and warm overlaps joined the perch stripe. Angular legs, pale water breaks and raised seams retained. Full ended feed acknowledged112marks/66moments. Initial wait/REPL guard errors resolved against actual DOM counts before more painting; no duplicate strokes. Exported title assigned afterward.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 66,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-rattle-above-the-river/session.json",
+  "image": "/paintings/a-rattle-above-the-river/finished.png",
+  "addedAt": "2026-10-27T18:18:56.566Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-27"
+},
+{
     "id": "what-the-oak-leaves-behind",
     "title": "What the oak leaves behind",
     "description": "Two unequal warm acorns and a curled oak leaf on cool cloth.",

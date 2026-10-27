@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A rattle above the river
+
+[![An imagined blue kingfisher on a weathered perch above quiet river water](public-gallery/paintings/a-rattle-above-the-river/finished.png)](https://atelier.randomdrake.com/#painting/a-rattle-above-the-river)
+
+An original bird study in **112 animated marks**, developed through **29 settled paired inspection boundaries**, upper and lower camera reviews and deliberate final refinement. Broad body and collar planes preceded details; blue neighbors broke a pale wing rail and warm overlaps joined the perch underside. A compact eye light holds the gaze; angular legs and raised repairs remain. Inspired by the [NPS river guide](https://home.nps.gov/miss/learn/nature/birdsking.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the kingfisher study unfold →](https://atelier.randomdrake.com/#painting/a-rattle-above-the-river)
+
 ### What the oak leaves behind
 
 [![Two warm acorns and a curled oak leaf on cool cloth](public-gallery/paintings/what-the-oak-leaves-behind/finished.png)](https://atelier.randomdrake.com/#painting/what-the-oak-leaves-behind)

@@ -7774,5 +7774,80 @@
       "humanRating": null,
       "improvementClaim": "Broad overlaps closed small nut slit and leaf holes. Warm neighbors broke dark vein bar but retained relief. Tapered extensions clarified tips. Cap facets, small-tip hook, stiff stalk and regular bristles remain. No controlled comparison or human rating."
     }
+  },
+{
+  "id": "a-rattle-above-the-river",
+  "title": "A rattle above the river",
+  "date": "2026-10-27",
+  "session": "examples/a-rattle-above-the-river.json",
+  "finishedImage": "examples/previews/a-rattle-above-the-river.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad blue body and pale collar planes before fine feather details; reserve one compact eye light.",
+  "inspiration": {
+    "source": "NPS Mississippi National River kingfisher guide; original imagined perched composition",
+    "url": "https://home.nps.gov/miss/learn/nature/birdsking.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Broad overlaps joined head and body into solid masses; angular crown and narrow neck remain."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Pale collar continuous and broader breast stockier; belly retains a faceted bend."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Broad blue bases joined initially detached crest spikes into ragged crown."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Pale neighbors narrowed a uniform breast-band bar; toe grips remain angular."
+    },
+    {
+      "afterStroke": 45,
+      "text": "First5px eye light almost lost; modest8px light visible in whole and close."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Broad warm pass joined perch underside; transparent washes softened pale river lanes."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Blue neighbors interrupted long pale wing rail; seed stems reconnected to floating heads."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Sampled curves eased breast facet and warm overlaps joined left branch end, retaining relief."
+    },
+    {
+      "afterStroke": 97,
+      "text": "Broader pale planes quieted heavy band end and joined belly. Marginal reeds remain regular forks."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final refinement joined wing root, reduced twig seam, restored compact eye light and supported cheek/belly. Stop with faceted crown, elbow legs, regular bristles and raised repairs retained."
+    }
+  ],
+  "evidence": [
+    "examples/a-rattle-above-the-river.json",
+    "examples/previews/a-rattle-above-the-river.png",
+    "artifacts/a-rattle-above-the-river/112-whole.png",
+    "artifacts/a-rattle-above-the-river/112-close.png",
+    "artifacts/a-rattle-above-the-river/069-lower-review.png",
+    "artifacts/a-rattle-above-the-river/live-receipt.json"
+  ],
+  "inspectionEvidence": "Initial four-mark playback wait timed out after completion; DOM verified count before inspection, no duplicate submission. An eight-mark guard failed because REPL state rolled back after exception; actual count verified and paired inspection completed before further marks. Initial partial screenshots replaced by full-page canvas crops; every boundary inspected before next batch. Browser storage full warning; actual exports preserved before ending. 29 settled paired boundaries, upper28 and lower69 camera reviews; final pair after refinement and final note.",
+  "engineRevision": "9efadfbb9e8244885f089e7eb2a811db1665dc48",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette bird calibration: compare sampled breast curves from outset with later covers, pale wing groups separated by blue gaps, and short curved legs against sparse elbow paths. Compare coverage and relief separately; choose a fresh subject next run.",
+  "assessment": {
+    "source": "Actual900x620PNG,29 settled paired inspection boundaries,live notes and acknowledged112mark ended feed.",
+    "humanRating": null,
+    "improvementClaim": "Within-study repairs narrowed breast bar, broke wing rail and joined perch stripe. Raised seams, facets and regular reeds remain. No controlled comparison or human rating."
   }
+}
 ]
