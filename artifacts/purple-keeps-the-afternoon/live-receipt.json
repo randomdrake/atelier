@@ -1,0 +1,9 @@
+{
+  "status": "ended",
+  "confirmedLiveBeforeOpening": true,
+  "sessionId": "ab63dfe6-68a1-4765-a2dc-e6c1858cd42a",
+  "sequence": 191,
+  "acknowledgedStrokes": 112,
+  "acknowledgedEvents": 61,
+  "matchesBrowserExport": true
+}

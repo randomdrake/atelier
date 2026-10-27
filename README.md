@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Purple keeps the afternoon
+
+[![Two unequal purple coneflowers in a quiet green field](public-gallery/paintings/purple-keeps-the-afternoon/finished.png)](https://atelier.randomdrake.com/#painting/purple-keeps-the-afternoon)
+
+An original botanical study in **112 animated marks**, with **29 paired screenshot boundaries**, upper and lower focus reviews and deliberate final refinement. Joined warm cones support long tapered petals and a compact crown light. Rose neighbors reduced crossings but widened roots and retained raised seams. The first close screenshot was inspected retrospectively after a tool-output failure; later pairs guided each next batch. Inspired by the [NPS coneflower guide](https://www.nps.gov/chat/learn/nature/purple-coneflower.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the coneflowers unfold →](https://atelier.randomdrake.com/#painting/purple-keeps-the-afternoon)
+
 ### Blue keeps a little rain
 
 [![An imagined blue watering can, terracotta pot and cut sprig on a warm bench](public-gallery/paintings/blue-keeps-a-little-rain/finished.png)](https://atelier.randomdrake.com/#painting/blue-keeps-a-little-rain)
