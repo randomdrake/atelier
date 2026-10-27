@@ -1,0 +1,164 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    45,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    92,
+    96,
+    100,
+    104,
+    108,
+    112
+  ],
+  "inspectionEvidence": "29 settled whole/2.0x close screenshot pairs at [4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 45, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84, 88, 92, 96, 100, 104, 108, 112]; single-mark glint review at45, upper36 and lower68 focus reviews. At-rest/count guards and 1000ms camera settling. All pairs retained locally; final pair and focus reviews committed.",
+  "notes": [
+    {
+      "afterStroke": 0,
+      "text": "I am painting an imagined blue watering can on a warm potting bench, inspired by Smithsonian Gardens’ watering-can collection. Goal: broad joined body planes before the narrow handle and spout, with one compact metal glint. Begin with quiet warm washes."
+    },
+    {
+      "afterStroke": 4,
+      "text": "The four washes leave pale horizontal gaps. Cross the center diagonally to join the warm field, then lay a soft cool shadow beneath the future can."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Diagonal washes joined the center while pale outer breaks remain. Place the can as broad blue overlapping planes: a cylindrical body with a gently bowed bottom, leaving room above for the loop handle."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Two narrow warm gaps remain inside the blue body. Close them with broad crossing blue planes before adding attachments, and join the lower edge in one bowed gesture."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad overlaps closed the long gaps; one small warm pinhole remains near the shoulder. Fill it, then define a dark elliptical opening with quieter blue rim planes."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The opening reads as a faceted ring with a bright interior island. Darken that island. Add a single rising spout and a sampled loop handle, keeping the warm negative space open."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The spout joins without a gap and the handle keeps its open center, though both are angular. Give the spout a broad oval sprinkler head and a pale upper plane; turn the body with a wider light-side blue."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The light-side patch turns the body but stops abruptly near the base. Bridge its right edge with medium blue, add a cooler shadow-side plane, and give the sprinkler a warm worn face."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The cylinder has a hard vertical light-to-shadow seam and a bright lower band. A broader middle blue can soften the seam; keep the lower band quieter. Then give the handle an uneven upper light."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Upper review: check whether the handle light follows its bends and whether the rim opening stays dark before refining those attachments."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Upper review confirms the opening is dark, but a pale wash gap crosses the handle interior and the lower-left bend remains blunt. Join that wash softly and add two short attachment plates, leaving the outline irregular."
+    },
+    {
+      "afterStroke": 40,
+      "text": "The handle interior is quieter; attachment plates read as dark tabs. Keep them small. Add a low empty terracotta pot to the left, built from broad warm planes and a dark opening, as a subordinate warm counterweight."
+    },
+    {
+      "afterStroke": 44,
+      "text": "The small pot reads but has a bright island in its dark opening. Before correcting it, test one compact can-shoulder glint alone; it should survive whole view without becoming a long stripe."
+    },
+    {
+      "afterStroke": 45,
+      "text": "The compact glint is visible at whole view and stays subordinate to the silhouette. Keep it. Darken the pot interior, fill its central body gap and give it a softer lower contact."
+    },
+    {
+      "afterStroke": 48,
+      "text": "The pot is joined and its opening is dark. The bench’s right foreground is empty; add a loose cut sprig with one long curved stem and three unequal tapered leaves, keeping it below the spout."
+    },
+    {
+      "afterStroke": 52,
+      "text": "The sprig’s leaves taper but the upward blade is stiff. Keep the unequal spacing. Pale wash gaps still divide the background behind the can; soften them with long warm washes and join the bench beneath the objects."
+    },
+    {
+      "afterStroke": 56,
+      "text": "The warm washes connected the field without covering the oil can. The sprinkler face is a plain warm stripe. Test three unequal dark pores and a short warm upper edge; keep their contrast below the shoulder glint."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Three sprinkler pores are visible and remain quieter than the can light. The can still floats slightly above its broad wash shadow. Add a short dark contact under the base and two long bench-grain gestures away from the focal body."
+    },
+    {
+      "afterStroke": 64,
+      "text": "The contact anchors the can but became a raised blue rail. Shorten its outer ends with thin warm paint; turn the sprig blades with two unequal broad green neighbors before adding any veins."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Lower review: inspect the raised base contact, the small pot’s join and the cut sprig’s tapered blades before the next material pass."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Lower review shows the warm contact covers made two conspicuous raised pads. Broader warm neighbors can reduce their isolated color, though relief will remain. Keep the sprig planes and turn its stiff upper blade with a tapered diagonal."
+    },
+    {
+      "afterStroke": 72,
+      "text": "The larger covers enlarged the warm pads instead of hiding them. Join them into one deliberate broad bench plane, then keep further repairs sparse. The sprig’s upper leaf is fuller; its short midrib remains a bar."
+    },
+    {
+      "afterStroke": 76,
+      "text": "The bench is now a continuous plane, with two raised repair patches still visible. Stop covering them. The can’s main light is too narrow and flat; use a broad loaded blue-green plane beneath the glint, then a middle-blue neighbor to turn it."
+    },
+    {
+      "afterStroke": 80,
+      "text": "The loaded blue-green pass gives the can a clearer lit side, but the spout-root light became a hooked stripe. Shorten that hook with neighboring body blue; add two tiny attachment rivets and one broken enamel scar below the light."
+    },
+    {
+      "afterStroke": 84,
+      "text": "The hooked spout light is shorter and rivets remain small. The sprig has a dark right midrib bar and blunt upper tip. Use a green neighbor to reduce the bar, two tapered leaf continuations and one short stem-side light."
+    },
+    {
+      "afterStroke": 88,
+      "text": "The sprig tips are narrower and its midrib is quieter. The can rim is still a sharp polygon. Try densely sampled shallow arcs on the front and rear rims, with one quiet body neighbor beneath each attachment."
+    },
+    {
+      "afterStroke": 92,
+      "text": "The sampled front arc is visibly rounder, while the rear rim still has a crown facet. The shoulder neighbor buried the small glint; restore it after broad work. Give the pot a quieter rounded front lip and uneven clay planes."
+    },
+    {
+      "afterStroke": 96,
+      "text": "The pot lip is rounder and its darker right plane turns the small form. Final broad can pass: ease the light-side seam with a diagonal neighbor, quiet the bottom band and soften two handle corners with closely sampled bends."
+    },
+    {
+      "afterStroke": 100,
+      "text": "The body seam is quieter and the handle bends changed only slightly. The large light patch ends abruptly at its lower edge. Add a quieter blue neighbor there, a subtle warm reflected base and two restrained sprig vein fragments."
+    },
+    {
+      "afterStroke": 104,
+      "text": "The lower light edge blends more gently and leaf veins stay quiet. Restore the compact shoulder glint now, add one short supporting blue light and reduce the brightest sprinkler rim so the focus returns to the can."
+    },
+    {
+      "afterStroke": 108,
+      "text": "The focal glint is restored, but its supporting light is a separate small dash. Final refinement: join that dash into the blue plane, quiet the right rim, taper the sprig’s cut end and soften one spout-root seam."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Blue keeps a little rain — finished at 112 marks. Broad overlaps closed the body before the thin spout and handle, which survived refinement. Sampled rim arcs became rounder; one compact shoulder glint holds focus. Keep the faceted handle, stiff upper leaf, regular bristles and raised bench repairs. Stop because additional covers add relief faster than clarity."
+    }
+  ]
+}

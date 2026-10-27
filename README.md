@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Blue keeps a little rain
+
+[![An imagined blue watering can, terracotta pot and cut sprig on a warm bench](public-gallery/paintings/blue-keeps-a-little-rain/finished.png)](https://atelier.randomdrake.com/#painting/blue-keeps-a-little-rain)
+
+An original still life in **112 animated marks**, developed through **29 settled paired inspections**, upper and lower reviews and deliberate final refinement. Broad overlaps closed the body before thin attachments; sampled rim arcs became rounder and a compact restored glint holds focus. Faceted handle, stiff leaf and raised bench repairs remain. Inspired by the [Smithsonian Gardens watering-can collection](https://gardens.si.edu/collections/explore/object/hac_2017.001.009). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the watering-can study unfold →](https://atelier.randomdrake.com/#painting/blue-keeps-a-little-rain)
+
 ### Small harvest on blue linen
 
 [![Three unequal red-and-ivory radishes with loose green leaves on blue linen](public-gallery/paintings/small-harvest-on-blue-linen/finished.png)](https://atelier.randomdrake.com/#painting/small-harvest-on-blue-linen)
