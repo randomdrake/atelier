@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Violet resting on ochre
+
+[![An imagined aubergine and detached leaf on warm cloth](public-gallery/paintings/violet-resting-on-ochre/finished.png)](https://atelier.randomdrake.com/#painting/violet-resting-on-ochre)
+
+An original still life in **80 animated marks**, developed through **21 settled paired inspections**, upper and lower reviews and deliberate final refinement. Broad curved overlaps kept the body continuous; one compact reflection holds the focus. Later lower-curve repairs changed the outline slightly but retained raised joins. Inspired by [NC State’s eggplant reference](https://plants.ces.ncsu.edu/plants/solanum-melongena/common-name/eggplant/). The broadcast ended with all 80 marks acknowledged.
+
+[Watch the aubergine study unfold →](https://atelier.randomdrake.com/#painting/violet-resting-on-ochre)
+
 ### Blue thread, warm wood
 
 [![Blue thread on a wooden spool with loose strand and needle](public-gallery/paintings/blue-thread-warm-wood/finished.png)](https://atelier.randomdrake.com/#painting/blue-thread-warm-wood)

@@ -1,5 +1,23 @@
 [
 {
+  "id": "violet-resting-on-ochre",
+  "title": "Violet resting on ochre",
+  "description": "An imagined dark violet aubergine with a bent green stem and detached leaf on warm ochre cloth.",
+  "process": "80 animated marks in21 batches of1\u20134, chosen after21 settled whole-and-close screenshot pairs, upper/lower reviews and deliberate final refinement. Broad curved overlaps kept the body continuous; a compact reflection holds focus. Later repairs eased the bottom curve slightly but retained relief. Live notes and camera moments accompany the replay. Stopped when more body covers were unlikely to improve form. Broadcast ended with80marks acknowledged.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 80,
+  "moments": 46,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/violet-resting-on-ochre/session.json",
+  "image": "/paintings/violet-resting-on-ochre/finished.png",
+  "addedAt": "2026-10-27T22:11:13.908Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-27"
+},
+{
   "id": "blue-thread-warm-wood",
   "title": "Blue thread, warm wood",
   "description": "An imagined blue thread spool, warm wooden disks, loose strand and needle on quiet cloth.",
