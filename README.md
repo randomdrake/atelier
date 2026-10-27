@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Small harvest on blue linen
+
+[![Three unequal red-and-ivory radishes with loose green leaves on blue linen](public-gallery/paintings/small-harvest-on-blue-linen/finished.png)](https://atelier.randomdrake.com/#painting/small-harvest-on-blue-linen)
+
+An original still life in **112 animated marks**, developed through **29 settled paired inspection boundaries**, upper and lower camera reviews and a deliberate final refinement. Broad root planes preceded fine tails; broad red neighbors reduced dark crown brackets, and a restored compact shoulder light holds focus. Fan-like foliage, a right-tail elbow and raised repairs remain. Inspired by [Kew’s cultivated radish collection](https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77159305-1/general-information). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the radish study unfold →](https://atelier.randomdrake.com/#painting/small-harvest-on-blue-linen)
+
 ### What the rose keeps
 
 [![Three imagined red rose hips and autumn leaves on a diagonal cane](public-gallery/paintings/what-the-rose-keeps/finished.png)](https://atelier.randomdrake.com/#painting/what-the-rose-keeps)
