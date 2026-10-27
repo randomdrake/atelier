@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Blue thread, warm wood
+
+[![Blue thread on a wooden spool with loose strand and needle](public-gallery/paintings/blue-thread-warm-wood/finished.png)](https://atelier.randomdrake.com/#painting/blue-thread-warm-wood)
+
+An original still life in **80 animated marks**, developed through **21 settled paired inspections**, upper and lower reviews and deliberate final refinement. Broad overlaps closed the cylinder before thin thread; blue neighbors shortened winding rails. A sampled loop became rounder but gained a second strand. Raised joins, a notched rim and far loop facets remain. Inspired by the [Smithsonian spool collection](https://americanhistory.si.edu/collections/object/nmah_1093975). The broadcast ended with all 80 marks acknowledged. Stopped because further covers added relief with little form improvement.
+
+[Watch the spool study unfold →](https://atelier.randomdrake.com/#painting/blue-thread-warm-wood)
+
 ### A key for the quiet room
 
 [![An imagined brass key and red cord on folded teal cloth](public-gallery/paintings/a-key-for-the-quiet-room/finished.png)](https://atelier.randomdrake.com/#painting/a-key-for-the-quiet-room)

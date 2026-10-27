@@ -1,5 +1,23 @@
 [
 {
+  "id": "blue-thread-warm-wood",
+  "title": "Blue thread, warm wood",
+  "description": "An imagined blue thread spool, warm wooden disks, loose strand and needle on quiet cloth.",
+  "process": "80 animated strokes in 21 batches of 1\u20134 chosen after settled whole and close screenshot inspections, with live notes, upper and lower camera reviews and deliberate final refinement. Broad overlaps closed the body slots; blue neighbors shortened winding rails. A sampled loop became rounder but gained a second strand. Initial screenshot framing was corrected before more marks; replay coalesces most boundary cameras to close views. Final broadcast acknowledged all 80 marks. Stopped because further covers added relief with little form improvement.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 80,
+  "moments": 49,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/blue-thread-warm-wood/session.json",
+  "image": "/paintings/blue-thread-warm-wood/finished.png",
+  "addedAt": "2026-10-27T21:16:44.402Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-27"
+},
+{
   "id": "a-key-for-the-quiet-room",
   "title": "A key for the quiet room",
   "description": "An imagined old brass key, red cord and soft folded teal cloth, with a compact bow glint.",
