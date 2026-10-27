@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Paper skins, violet shadows
+
+[![Garlic bulb and two loose cloves on violet cloth](public-gallery/paintings/paper-skins-violet-shadows/finished.png)](https://atelier.randomdrake.com/#painting/paper-skins-violet-shadows)
+
+An ivory garlic bulb and two unequal cloves in **88 animated marks**, developed through **23 whole-and-close inspection boundaries**. Broad overlaps closed the bulb and filled the cloves before fine skin and roots. Pale neighbors quieted a dark seam; raised repairs and regular bristles remain. Live notes and camera moments travel with the replay.
+
+[Watch the garlic study unfold →](https://atelier.randomdrake.com/#painting/paper-skins-violet-shadows)
+
 ### A rattle above the river
 
 [![An imagined blue kingfisher on a weathered perch above quiet river water](public-gallery/paintings/a-rattle-above-the-river/finished.png)](https://atelier.randomdrake.com/#painting/a-rattle-above-the-river)

@@ -1,5 +1,23 @@
 [
 {
+  "id": "paper-skins-violet-shadows",
+  "title": "Paper skins, violet shadows",
+  "description": "An ivory garlic bulb and two unequal loose cloves on muted violet cloth, with a bent papery neck and restrained warm shoulder light.",
+  "process": "88 animated marks in 23 batches of 1\u20134, each followed by settled whole and 2.0\u00d7 close screenshots before choosing the next batch. A single light test, upper and lower camera reviews, final refinement and repeated paired review shaped the work. 26 live notes explain visible changes. Broad overlaps filled forms; pale neighbors reduced a dark seam, while repairs retained raised texture. Broadcast ended acknowledging all 88 marks and 51 moments. Early playback guards recovered without duplicate strokes; replay camera moments coalesce at most boundaries.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 51,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/paper-skins-violet-shadows/session.json",
+  "image": "/paintings/paper-skins-violet-shadows/finished.png",
+  "addedAt": "2026-10-27T19:16:40.040Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-27"
+},
+{
   "id": "a-rattle-above-the-river",
   "title": "A rattle above the river",
   "description": "An imagined blue kingfisher on a weathered branch above quiet river water, framed by sparse reeds.",

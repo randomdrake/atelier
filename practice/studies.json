@@ -7849,5 +7849,106 @@
     "humanRating": null,
     "improvementClaim": "Within-study repairs narrowed breast bar, broke wing rail and joined perch stripe. Raised seams, facets and regular reeds remain. No controlled comparison or human rating."
   }
+},
+{
+  "id": "paper-skins-violet-shadows",
+  "title": "Paper skins, violet shadows",
+  "date": "2026-10-27",
+  "session": "examples/paper-skins-violet-shadows.json",
+  "finishedImage": "examples/previews/paper-skins-violet-shadows.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad curved ivory bulb planes before papery seams and root fibers; keep cool violet shadows distinct and reserve one compact shoulder light.",
+  "inspiration": {
+    "source": "Kew garlic collection; original imagined bulb and two unequal loose cloves on muted violet cloth",
+    "url": "https://www.kew.org/plants/garlic"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Diagonal washes joined central cloth lanes; pale gaps remained."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Curved bulb masses left a narrow central violet hole."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad central overlap closed hole; neck established as bent ribbon."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Inner overlaps filled loose clove ribbons into unequal wedges."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Curved pale planes separated lobes; violet seam too continuous."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Pale neighboring pass quieted dark seam while retaining relief; sparse root fibers stayed small."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Contact shadow became a continuous dark basal rail."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Single15px shoulder light faint at whole view, clearer close up."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Broad warm shoulder plane lifted bulb but retained regular bristle edge."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Soft washes reduced pale right cloth gaps."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Sampled curves eased contour slightly; earlier stepped ridge remained."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Clove shadows softened outward; basal rail and stiff neck remained."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Loaded warm cover broke rail color but made raised basal pad; skin flap too bright."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Broad cool neighbor reduced flap brightness; basal relief persisted."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Left cloth gap quieter and central ivory planes joined."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final refinement restored restrained shoulder light, quieted neck junction and shortened bright flap edge. Stop at88: filled forms and warm/cool separation hold; further covers add relief faster than clarity. Retain angular flap, stiff neck, regular bristles and raised basal patch."
+    }
+  ],
+  "evidence": [
+    "examples/paper-skins-violet-shadows.json",
+    "examples/previews/paper-skins-violet-shadows.png",
+    "artifacts/paper-skins-violet-shadows/088-whole.png",
+    "artifacts/paper-skins-violet-shadows/088-close.png",
+    "artifacts/paper-skins-violet-shadows/036-upper-review.png",
+    "artifacts/paper-skins-violet-shadows/068-lower-review.png",
+    "artifacts/paper-skins-violet-shadows/inspection-log.json",
+    "artifacts/paper-skins-violet-shadows/live-receipt.json"
+  ],
+  "inspectionEvidence": "First four-mark wait returned before UI completion; actual4 verified without resubmitting. Initial screenshot selector failed before capture; corrected to observed canvas-wrap bounds and inspected pair before more marks. Eight-mark completion guard returned early; actual8 verified and paired screenshots inspected before continuing. From12 explicit count arguments, 8-second animation wait, exact completed count/At rest guards and1000ms camera settling. Every boundary guided next batch. Replay retains coalesced close camera moments at most boundaries, plus upper36/lower68 and final whole/close. All23pairs saved locally; final pair and upper/lower review retained in Git.",
+  "engineRevision": "f21421f1569fb06c614f5c896c0dc822229bdc48",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette garlic calibration: sampled filled curves from outset versus later covers; short broken low-contrast seams versus continuous arcs. Compare color coverage and relief separately; preserve shoulder light until broad planes finish. Choose fresh subject next.",
+  "assessment": {
+    "source": "Actual900x620PNG,23 settled paired boundaries,26live text notes and acknowledged88mark ended public feed.",
+    "humanRating": null,
+    "improvementClaim": "Broad overlaps closed bulb hole and filled cloves; pale neighbors reduced dark seam. Basal covers changed color while adding raised texture. No controlled improvement comparison or human rating."
+  }
 }
 ]
