@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### What the oak leaves behind
+
+[![Two warm acorns and a curled oak leaf on cool cloth](public-gallery/paintings/what-the-oak-leaves-behind/finished.png)](https://atelier.randomdrake.com/#painting/what-the-oak-leaves-behind)
+
+An original still life in **88 animated marks**, developed through **23 settled paired inspections**, upper and lower reviews, and deliberate final refinement. Broad diagonal overlaps closed gaps; warm neighbors broke a rigid leaf vein while retaining raised seams. A compact shoulder light holds focus. Inspired by the [Minnesota DNR seed story](https://www.dnr.state.mn.us/forestry/education/seeds/storyofseed.html). The broadcast ended with all88 marks acknowledged.
+
+[Watch the acorn study unfold →](https://atelier.randomdrake.com/#painting/what-the-oak-leaves-behind)
+
 ### Purple keeps the afternoon
 
 [![Two unequal purple coneflowers in a quiet green field](public-gallery/paintings/purple-keeps-the-afternoon/finished.png)](https://atelier.randomdrake.com/#painting/purple-keeps-the-afternoon)

@@ -1,5 +1,23 @@
 [
   {
+    "id": "what-the-oak-leaves-behind",
+    "title": "What the oak leaves behind",
+    "description": "Two unequal warm acorns and a curled oak leaf on cool cloth.",
+    "process": "Painted live in 88 animated marks through 23 settled whole-and-close inspections, upper and lower reviews, and deliberate final refinement. Broad diagonal overlaps closed gaps; warm neighbors broke the rigid vein while retaining raised seams. Compact shoulder light, cap facets, small-tip hook and regular bristles remain. Broadcast ended with all 88 marks acknowledged.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 88,
+    "moments": 49,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/what-the-oak-leaves-behind/session.json",
+    "image": "/paintings/what-the-oak-leaves-behind/finished.png",
+    "addedAt": "2026-10-27T17:07:24.109Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-27"
+  },
+  {
     "id": "purple-keeps-the-afternoon",
     "title": "Purple keeps the afternoon",
     "description": "Two unequal purple coneflowers, tapered leaves and sparse grasses in a quiet green field.",
