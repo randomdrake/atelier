@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-key-for-the-quiet-room",
+  "title": "A key for the quiet room",
+  "description": "An imagined old brass key, red cord and soft folded teal cloth, with a compact bow glint.",
+  "process": "An original study in 88 animated marks, painted in 23 batches of one to four. Each next batch followed settled whole and close screenshot inspections, with upper and lower reviews, a single-mark glint test, and a deliberate final refinement. Twenty-six live notes travel with the replay. Broad crossing washes quieted cloth gaps; filled tooth masses replaced loops. Sampled repairs partly eased the bow but added cord strands. Raised shaft joins and regular bristles remain. The broadcast ended with all 88 marks acknowledged. Human rating is unset. Most replay camera boundaries coalesce to close views; actual paired screenshots guided the painting.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 49,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-key-for-the-quiet-room/session.json",
+  "image": "/paintings/a-key-for-the-quiet-room/finished.png",
+  "addedAt": "2026-10-27T20:04:26.886Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-27"
+},
+{
   "id": "paper-skins-violet-shadows",
   "title": "Paper skins, violet shadows",
   "description": "An ivory garlic bulb and two unequal loose cloves on muted violet cloth, with a bent papery neck and restrained warm shoulder light.",

@@ -7950,5 +7950,134 @@
     "humanRating": null,
     "improvementClaim": "Broad overlaps closed bulb hole and filled cloves; pale neighbors reduced dark seam. Basal covers changed color while adding raised texture. No controlled improvement comparison or human rating."
   }
+},
+{
+  "id": "a-key-for-the-quiet-room",
+  "title": "A key for the quiet room",
+  "date": "2026-10-27",
+  "session": "examples/a-key-for-the-quiet-room.json",
+  "finishedImage": "examples/previews/a-key-for-the-quiet-room.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join a rounded open bow and long brass shaft with broad warm/cool planes before teeth and red cord; reserve one compact bow glint.",
+  "inspiration": {
+    "source": "Smithsonian key collection; original imagined brass key and red cord on folded teal cloth",
+    "url": "https://asia.si.edu/explore-art-culture/collections/search/edanmdm%3Afsg_FSC-M-81a-h/"
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Long teal washes left pale horizontal lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Diagonal crossings joined most lanes."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Open brass bow and shaft continuous, but bow strongly faceted."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Sampled warm arc turned bow slightly; teeth hollow loops."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad fills warmed teeth but left small holes."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Crosswise fills reduced holes; red loops angular."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Sampled cord correction added inner strand rather than replacing outer loop."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Joined cord end; cool green-gold reflection connects lower bow and shaft."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Unequal warm tooth planes; dark full-width collar; knot crosses bow."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Diagonal washes quieted pale cloth slots."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Broad watery fold stayed subdued."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Single13px bow glint visible at whole view."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Warm shaft neighbors broke continuous reflection while leaving raised joins."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Tooth centers dark; cord tail tapered."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Sparse worn accents quiet, regular bristles remain."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Separated watery contacts deepen quietly without continuous hard rail."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Warm bridge shortened collar but retained relief; bend repair added third cord strand."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Joined new strand; teeth solid with dark recesses and narrow notch."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Sampled broad neighbors softened right bow slightly; flat crown persists."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Pale spot beside shaft quieter and ground more connected."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Wider warm shaft planes changed color but left raised pads."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Tail fibers tapered and collar edge quieter."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Restored compact bow glint, warmed neighbor, quieted collar and far tooth light. Stop at88 because further covers add relief faster than clarity. Retain crown facets, multiple cord strands, regular bristles and raised shaft joins."
+    }
+  ],
+  "evidence": [
+    "examples/a-key-for-the-quiet-room.json",
+    "examples/previews/a-key-for-the-quiet-room.png",
+    "artifacts/key-for-the-quiet-room/088-whole.png",
+    "artifacts/key-for-the-quiet-room/088-close.png",
+    "artifacts/key-for-the-quiet-room/036-upper-review.png",
+    "artifacts/key-for-the-quiet-room/068-lower-review.png",
+    "artifacts/key-for-the-quiet-room/inspection-log.json",
+    "artifacts/key-for-the-quiet-room/live-receipt.json"
+  ],
+  "inspectionEvidence": "23 settled whole/2.0x close screenshot pairs inspected before the next batch; exact completed count and At rest guards, 1000ms camera settling. Numeric screenshot files unique. Cropped screenshot bytes are JPEG despite .png suffix; actual artwork export is PNG. Upper36/lower68 full-page reviews inspected; lower review clips far tooth at right. Replay coalesces most boundary camera events to close views; actual whole/close screenshots guided all batches. Final paired review after refinement85\u201388; final note records stop decision. All pairs local; final pair, upper/lower reviews and log retained in Git.",
+  "engineRevision": "89d086a4006a29e940c6ee0e14c631198ee29ad8",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed-palette key calibration: sampled broad bow from outset versus late neighbor repairs; initial smooth cord versus offset repair strands. Compare silhouette and relief separately. Fresh subject next.",
+  "assessment": {
+    "source": "Actual900x620PNG,23 paired boundaries, live notes and acknowledged ended88mark feed.",
+    "humanRating": null,
+    "improvementClaim": "Broad crossing washes quieted cloth gaps; filled tooth masses changed loops to solid shapes. Sampled bow repairs partly softened curve; cord repairs added strands and shaft covers retained raised joins. No controlled comparison or human rating."
+  }
 }
 ]

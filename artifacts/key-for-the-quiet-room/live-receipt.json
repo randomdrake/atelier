@@ -1,0 +1,10 @@
+{
+  "activity": "ended",
+  "sessionId": "b07ef3a4-0dc9-40e1-ae7b-0e4500a9af0b",
+  "sequence": 140,
+  "marks": 88,
+  "events": 49,
+  "matchesBrowserExport": true,
+  "confirmedLiveBeforeOpening": true,
+  "confirmation": "Local relay inactive and final accepted snapshot matches exports; public UI ended88 verified."
+}

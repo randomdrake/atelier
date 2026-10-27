@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A key for the quiet room
+
+[![An imagined brass key and red cord on folded teal cloth](public-gallery/paintings/a-key-for-the-quiet-room/finished.png)](https://atelier.randomdrake.com/#painting/a-key-for-the-quiet-room)
+
+An original still life in **88 animated marks**, developed through **23 settled paired inspections**, upper and lower reviews and deliberate final refinement. Broad crossing washes quieted cloth gaps; warm filled teeth and a compact bow glint hold focus. Sampled repairs partly eased the bow but added cord strands; raised shaft joins and regular bristles remain. Inspired by the [Smithsonian key collection](https://asia.si.edu/explore-art-culture/collections/search/edanmdm%3Afsg_FSC-M-81a-h/). The broadcast ended with all88 marks acknowledged.
+
+[Watch the key study unfold →](https://atelier.randomdrake.com/#painting/a-key-for-the-quiet-room)
+
 ### Paper skins, violet shadows
 
 [![Garlic bulb and two loose cloves on violet cloth](public-gallery/paintings/paper-skins-violet-shadows/finished.png)](https://atelier.randomdrake.com/#painting/paper-skins-violet-shadows)

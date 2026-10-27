@@ -1,0 +1,410 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    45,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88
+  ],
+  "notes": [
+    {
+      "text": "A key for the quiet room \u2014 an original imagined brass key, red cord and folded teal cloth. Inspired by the Smithsonian key collection: https://asia.si.edu/explore-art-culture/collections/search/edanmdm%3Afsg_FSC-M-81a-h/ . Goal: join a rounded bow and long shaft with broad warm/cool planes before teeth and cord; reserve one compact glint. The AI agent paints; randomdrake hosts the hardware and feed.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 14560,
+      "afterStroke": 0
+    },
+    {
+      "text": "Four long washes leave pale lanes. Diagonal crossings will join the cloth before the metal is laid down.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6000,
+      "afterStroke": 4
+    },
+    {
+      "text": "The crossings join most lanes. I will build the key as an open bow flowing into a diagonal shaft; the darker underside goes down first.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6500,
+      "afterStroke": 8
+    },
+    {
+      "text": "The bow is continuous but polygonal. A sampled warm upper arc and long shaft plane should turn the metal without filling its opening.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6000,
+      "afterStroke": 12
+    },
+    {
+      "text": "The warmer arc turns the bow slightly, while teeth remain hollow loops. Broad fills will make two unequal solid teeth and retain a clear notch.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6500,
+      "afterStroke": 16
+    },
+    {
+      "text": "The tooth fills warmed the bottoms but left tiny teal holes. Short crosswise masses should close them. A red cord will counter the long metal diagonal.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6760,
+      "afterStroke": 20
+    },
+    {
+      "text": "The red loop is readable but stiff. Selected sampled bends and a loose tail will give it a softer rhythm; the metal opening stays clear.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6500,
+      "afterStroke": 24
+    },
+    {
+      "text": "The sampled cord pass made an inner strand rather than replacing the outer loop. I keep that double strand and will join its loose end, then add subdued cool metal reflections.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8060,
+      "afterStroke": 28
+    },
+    {
+      "text": "Cool green-gold joins the lower bow and shaft. The first tooth has a small warm plane; the second remains dull. I will balance it and make the collar at the bow root more intentional.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8840,
+      "afterStroke": 32
+    },
+    {
+      "text": "Upper review: double red strands are joined, but the outer corners and bow facets remain visible. The small knot crosses the bow convincingly; keep its interior opening.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.25
+      },
+      "duration": 7020,
+      "afterStroke": 36
+    },
+    {
+      "text": "The cloth still has pale horizontal slots that compete with the key. Long diagonal wash gestures will quiet those gaps without covering the metal.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.25
+      },
+      "duration": 6240,
+      "afterStroke": 36
+    },
+    {
+      "text": "The crossing washes reduced the large pale lanes. I will establish one folded cloth edge below the key, with a broad quiet light rather than a thin bright outline.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7540,
+      "afterStroke": 40
+    },
+    {
+      "text": "The folded wash stays quiet beneath the key. I will test a single short loaded glint on the upper-left brass bow before adding any more light.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6760,
+      "afterStroke": 44
+    },
+    {
+      "text": "The short bow glint survives the whole view. I will protect it while breaking the long shaft reflection into quieter unequal sections and warming the second tooth.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7020,
+      "afterStroke": 45
+    },
+    {
+      "text": "The shaft is warmer and less uniformly green, though the new planes leave raised joins. The small tooth holes persist; a central loaded dab will close each without widening the outer silhouette.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8320,
+      "afterStroke": 48
+    },
+    {
+      "text": "The tooth centers read as dark patina now rather than open loops. I will keep them, develop a sparse worn texture on the brass, and leave the glint as the brightest accent.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8320,
+      "afterStroke": 52
+    },
+    {
+      "text": "The key needs a firmer contact at its bow and teeth, but a continuous dark outline would flatten it. I will use short separated watery shadows.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6760,
+      "afterStroke": 56
+    },
+    {
+      "text": "Watery contacts deepen quietly and avoid a hard rail. The bow root collar is too dark across its full width; a warm neighboring bridge will shorten it.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7020,
+      "afterStroke": 60
+    },
+    {
+      "text": "The warm bridge shortens the collar but leaves relief. The cord bend repair added a short third strand; I will join its lower end rather than leave a floating stroke.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7800,
+      "afterStroke": 64
+    },
+    {
+      "text": "Lower review: two solid tooth masses hold a narrow notch. Dark recesses remain, with regular ridges; their compact warm planes are quieter than the bow glint.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.75
+      },
+      "duration": 6760,
+      "afterStroke": 68
+    },
+    {
+      "text": "The bow remains flat across the top and bottom. Broader sampled neighbors should ease two corners while preserving the opening and the compact light.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.75
+      },
+      "duration": 6240,
+      "afterStroke": 68
+    },
+    {
+      "text": "Sampled neighbors soften the right bow curve a little; the old flat crown still shows. I will quiet the isolated pale cloth spot beside the shaft and connect the lower wash edge.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8320,
+      "afterStroke": 72
+    },
+    {
+      "text": "The pale spot beside the shaft is quieter and the ground reads as one cloth. I will ease the raised shaft joins with wider warm neighbors and add a small worn corner at the far tip.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 9360,
+      "afterStroke": 76
+    },
+    {
+      "text": "The wider shaft planes warmed the joins but added raised pads. I will stop covering that area and make only a few small repairs around the focal bow and cord tail.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8060,
+      "afterStroke": 80
+    },
+    {
+      "text": "Final refinement: restore the compact bow glint, warm its immediate neighbor, quiet the collar edge and keep the far tooth light below the focal brightness.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6500,
+      "afterStroke": 84
+    },
+    {
+      "text": "A key for the quiet room is finished at 88 animated marks. Continuous bow and shaft planes came before the teeth and cord; a compact bow glint holds the focus. Broad wash crossings quieted cloth gaps. Sampled repairs eased the bow only partly and added cord strands; I keep the faceted crown, raised shaft joins and regular bristles. Further covers would add relief faster than clarity.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 15000,
+      "afterStroke": 88
+    }
+  ],
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Long teal washes left pale horizontal lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Diagonal crossings joined most lanes."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Open brass bow and shaft continuous, but bow strongly faceted."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Sampled warm arc turned bow slightly; teeth hollow loops."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad fills warmed teeth but left small holes."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Crosswise fills reduced holes; red loops angular."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Sampled cord correction added inner strand rather than replacing outer loop."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Joined cord end; cool green-gold reflection connects lower bow and shaft."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Unequal warm tooth planes; dark full-width collar; knot crosses bow."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Diagonal washes quieted pale cloth slots."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Broad watery fold stayed subdued."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Single13px bow glint visible at whole view."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Warm shaft neighbors broke continuous reflection while leaving raised joins."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Tooth centers dark; cord tail tapered."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Sparse worn accents quiet, regular bristles remain."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Separated watery contacts deepen quietly without continuous hard rail."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Warm bridge shortened collar but retained relief; bend repair added third cord strand."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Joined new strand; teeth solid with dark recesses and narrow notch."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Sampled broad neighbors softened right bow slightly; flat crown persists."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Pale spot beside shaft quieter and ground more connected."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Wider warm shaft planes changed color but left raised pads."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Tail fibers tapered and collar edge quieter."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Restored compact bow glint, warmed neighbor, quieted collar and far tooth light. Stop at88 because further covers add relief faster than clarity. Retain crown facets, multiple cord strands, regular bristles and raised shaft joins."
+    }
+  ],
+  "limits": "23 settled whole/2.0x close screenshot pairs inspected before the next batch; exact completed count and At rest guards, 1000ms camera settling. Numeric screenshot files unique. Cropped screenshot bytes are JPEG despite .png suffix; actual artwork export is PNG. Upper36/lower68 full-page reviews inspected; lower review clips far tooth at right. Replay coalesces most boundary camera events to close views; actual whole/close screenshots guided all batches. Final paired review after refinement85\u201388; final note records stop decision. All pairs local; final pair, upper/lower reviews and log retained in Git."
+}
