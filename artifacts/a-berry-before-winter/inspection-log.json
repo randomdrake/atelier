@@ -1,0 +1,51 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    48,
+    49,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    92,
+    96,
+    100,
+    104,
+    108,
+    112
+  ],
+  "batches": 29,
+  "wholeClosePairs": 29,
+  "settleMs": 1000,
+  "focusReviews": [
+    {
+      "afterStroke": 48,
+      "view": "upper"
+    },
+    {
+      "afterStroke": 76,
+      "view": "lower"
+    },
+    {
+      "afterStroke": 112,
+      "view": "upper-final"
+    }
+  ],
+  "notes": "First whole screenshot saved before close crop failed; crop corrected to visible canvas-wrap before first paired inspection. Sharp loaded with createRequire. At8 initial not-at-rest guard rejected; waited and inspected before more marks. All later pairs used exact counts and settled displayed2.0x."
+}

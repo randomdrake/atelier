@@ -1,0 +1,10 @@
+{
+  "active": false,
+  "sessionId": "4e128d1f-8559-444c-9bed-e8f28e0e14cc",
+  "sequence": 167,
+  "lastAcceptedAt": 1793211019978,
+  "completedMarks": 112,
+  "events": 65,
+  "rawExportMatchesAcknowledgedStrokesAndEvents": true,
+  "publicAPI": "ended; live false;112marks65events; session and sequence match"
+}

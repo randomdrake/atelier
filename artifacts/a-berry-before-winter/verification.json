@@ -1,0 +1,29 @@
+{
+  "tests": 97,
+  "syntax": true,
+  "build": true,
+  "privacyArtifactPaintings": 85,
+  "priorCatalogUnchanged": 84,
+  "priorPracticeUnchanged": 81,
+  "actualPNGEqualsGallery": true,
+  "rawReplayMatchesAcknowledgedStrokesAndEvents": true,
+  "finishedImage": [
+    900,
+    620
+  ],
+  "replay": {
+    "openingNote": true,
+    "recordedCamera": true,
+    "brushSettings": true,
+    "paused": 8,
+    "stableAfter1200ms": 8,
+    "resumedAfter9000ms": 14,
+    "returnFinished": true
+  },
+  "phone": {
+    "viewport": 390,
+    "document": 390,
+    "dialog": 350,
+    "scroll": 350
+  }
+}

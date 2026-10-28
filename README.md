@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A berry before winter
+
+[![An imagined cedar waxwing on a diagonal berry branch](public-gallery/paintings/a-berry-before-winter/finished.png)](https://atelier.randomdrake.com/#painting/a-berry-before-winter)
+
+An original bird study in **112 animated marks**, developed through **29 settled paired inspections**, upper and lower reviews and deliberate final refinement. Broad overlaps kept the body filled and crossing passes filled the berries. Warm belly, grey wing and a compact crown light hold focus; a loaded eye glint survives. Faceted crown, bracket feet, throat notch and raised joins remain. Inspired by the [NPS bird guide](https://home.nps.gov/dino/learn/nature/birds.htm). The broadcast ended with all112 marks acknowledged.
+
+[Watch the waxwing study unfold →](https://atelier.randomdrake.com/#painting/a-berry-before-winter)
+
 ### Three petals for the shade
 
 [![A white trillium above three broad green leaves](public-gallery/paintings/three-petals-for-the-shade/finished.png)](https://atelier.randomdrake.com/#painting/three-petals-for-the-shade)
