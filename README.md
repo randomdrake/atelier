@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Hearts held above the shade
+
+[![Four pink bleeding-heart flowers on an arching stem](public-gallery/paintings/hearts-held-above-the-shade/finished.png)](https://atelier.randomdrake.com/#painting/hearts-held-above-the-shade)
+
+An original botanical study in **112 animated marks**, developed through **29 paired inspections**, upper and lower focus reviews and deliberate final refinement. Broad overlaps closed flower holes before pale tips; a compact shoulder light holds focus. A misplaced stem rail became a narrow leaflet. Faceted arch, stylized hearts and raised leaf joins remain. Inspired by [Mount Rainier’s forest wildflowers](https://www.nps.gov/mora/learn/nature/forest-wildflowers-red.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the bleeding-heart study unfold →](https://atelier.randomdrake.com/#painting/hearts-held-above-the-shade)
+
 ### A red roof for rain
 
 [![An imagined red umbrella above wet blue pavement](public-gallery/paintings/a-red-roof-for-rain/finished.png)](https://atelier.randomdrake.com/#painting/a-red-roof-for-rain)
