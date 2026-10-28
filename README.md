@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Plums keep the afternoon
+
+[![Two purple plums, a golden cut half and a loose green leaf](public-gallery/paintings/plums-keep-the-afternoon/finished.png)](https://atelier.randomdrake.com/#painting/plums-keep-the-afternoon)
+
+An original still life in **88 animated marks**, developed through **24 settled paired inspections**, upper and lower focus reviews and deliberate final refinement. Broad overlaps filled fruit and flesh; a short loaded reflection holds the focus. Late shoulder covers added raised tabs, so those irregularities remain. Inspired by the [UMN plum collection](https://mnhardy.umn.edu/plums). The broadcast ended with all 88 marks acknowledged.
+
+[Watch the plum study unfold →](https://atelier.randomdrake.com/#painting/plums-keep-the-afternoon)
+
 ### A berry before winter
 
 [![An imagined cedar waxwing on a diagonal berry branch](public-gallery/paintings/a-berry-before-winter/finished.png)](https://atelier.randomdrake.com/#painting/a-berry-before-winter)

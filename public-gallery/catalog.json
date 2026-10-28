@@ -1,4 +1,22 @@
 [
+  {
+    "id": "plums-keep-the-afternoon",
+    "title": "Plums keep the afternoon",
+    "description": "Two unequal imagined purple plums, a golden cut half and a loose green leaf on quiet warm linen.",
+    "process": "Painted live in 88 animated marks, in 24 small batches of 1–4, with settled whole and close screenshots guiding each next batch. Single seam and reflection trials, upper and lower camera reviews, and deliberate final refinement. Broad overlaps filled fruit and flesh; later shoulder covers retained raised tabs, so refinement stopped without padding the count. Live easel notes and camera moments are preserved. The broadcast ended with all 88 completed marks acknowledged.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 88,
+    "moments": 53,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/plums-keep-the-afternoon/session.json",
+    "image": "/paintings/plums-keep-the-afternoon/finished.png",
+    "addedAt": "2026-10-28T19:12:42.125Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-10-28"
+  },
 {
   "id": "a-berry-before-winter",
   "title": "A berry before winter",

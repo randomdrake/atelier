@@ -1,0 +1,10 @@
+{
+  "tests": 97,
+  "syntax": "passed",
+  "workerBuild": "passed",
+  "artifactPrivacy": "86 paintings checked",
+  "actualPngMatchesGallery": true,
+  "replayMatchesGallery": true,
+  "localBrowserQA": "Blocked by browser net::ERR_BLOCKED_BY_CLIENT; no workaround attempted; verify on published custom domain",
+  "priorCatalogAndPracticeEntries": "semantically unchanged and original formatting preserved"
+}
