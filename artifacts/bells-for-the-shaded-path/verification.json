@@ -1,0 +1,23 @@
+{
+  "tests": 97,
+  "syntax": "passed",
+  "fullWorkerBuild": "passed;87 paintings;privacy artifact check passed",
+  "galleryCopies": "PNG bytes and replay JSON equal saved originals",
+  "previousEntriesUnchanged": {
+    "catalog": 86,
+    "practice": 83
+  },
+  "localBrowser": {
+    "finished": "112 marks,67 moments,900x620 actual image,final note,process and replay download verified",
+    "replay": "opening note/source link,camera and brush settings verified;paused8 stable1200ms;resumed12;returned finished",
+    "phone": {
+      "viewport": 390,
+      "document": 390,
+      "dialog": 350,
+      "dialogScroll": 350,
+      "horizontalOverflow": false,
+      "screenshot": "local-phone.jpg"
+    }
+  },
+  "inspectionLimits": "At12 camera click timed out; settled pair repeated before16. Repeated final pair images were not returned because subsequent disabled-end click threw, but original final pair was visually inspected; actual PNG reviewed. End clicked successfully after upload settled."
+}

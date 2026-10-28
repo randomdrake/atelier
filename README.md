@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Bells for the shaded path
+
+[![Four pink foxglove bells in cool green shade](public-gallery/paintings/bells-for-the-shaded-path/finished.png)](https://atelier.randomdrake.com/#painting/bells-for-the-shaded-path)
+
+An original botanical study in **112 animated marks**, developed through **31 settled paired inspections**, upper and lower focus reviews and deliberate final refinement. Filled tubes preceded dark mouths; broad pink neighbors reduced shadow rails and a compact pale lip holds focus. Raised repairs, near-touching upper bells and mottled wash patches remain. Inspired by the [Royal Botanic Garden Edinburgh reference](https://www.rbge.org.uk/science-and-conservation/library-and-archives/ladies-botany-women-illustrators-of-scottish-native-species/foxglove/). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the foxglove study unfold →](https://atelier.randomdrake.com/#painting/bells-for-the-shaded-path)
+
 ### Plums keep the afternoon
 
 [![Two purple plums, a golden cut half and a loose green leaf](public-gallery/paintings/plums-keep-the-afternoon/finished.png)](https://atelier.randomdrake.com/#painting/plums-keep-the-afternoon)
