@@ -1,0 +1,36 @@
+{
+  "tests": 97,
+  "syntax": "passed",
+  "workerBuild": "passed",
+  "artifactPrivacyCheck": "88 paintings passed",
+  "rawExportMatchesEndedReceipt": true,
+  "finishedImage": {
+    "width": 900,
+    "height": 620
+  },
+  "localGallery": {
+    "finished": true,
+    "finalNote": true,
+    "process": true,
+    "download": true,
+    "guidedOpeningNote": true,
+    "camera": true,
+    "brushSettings": true,
+    "pause": {
+      "mark1": 8,
+      "mark2": 8,
+      "intervalMs": 1200
+    },
+    "resumedMark": 16,
+    "returnToFinished": true,
+    "expandedNotes": true,
+    "phone": {
+      "viewport": 390,
+      "document": 390,
+      "dialog": 350,
+      "dialogScroll": 350,
+      "screenshotInspected": true
+    }
+  },
+  "scope": "No engine changes; human rating unset"
+}

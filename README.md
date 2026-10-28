@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A silver pause in the current
+
+[![A rainbow trout above soft river stones](public-gallery/paintings/a-silver-pause-in-the-current/finished.png)](https://atelier.randomdrake.com/#painting/a-silver-pause-in-the-current)
+
+An original river study in **112 animated marks**, developed through **30 settled paired inspections**, a lower focus review and deliberate final refinement. Broad overlaps kept the body filled and closed fin windows; sparse spots and compact silver lights hold the focus. Facets, strong gill relief and uneven water passages remain. Inspired by the [Nevada wildlife guide](https://www.ndow.org/species/rainbow-trout/). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the trout study unfold →](https://atelier.randomdrake.com/#painting/a-silver-pause-in-the-current)
+
 ### Bells for the shaded path
 
 [![Four pink foxglove bells in cool green shade](public-gallery/paintings/bells-for-the-shaded-path/finished.png)](https://atelier.randomdrake.com/#painting/bells-for-the-shaded-path)
