@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A red roof for rain
+
+[![An imagined red umbrella above wet blue pavement](public-gallery/paintings/a-red-roof-for-rain/finished.png)](https://atelier.randomdrake.com/#painting/a-red-roof-for-rain)
+
+An original study in **112 animated marks**, developed through **29 paired inspection boundaries**, upper and lower focus reviews and deliberate final refinement. Broad overlaps joined the canopy before sparse ribs; red neighbors shortened mixed dark scallop bars, and a restored compact crown light holds focus. Raised joins, angular ribs and faint rain remain. The eight-mark inspection had partial framing; later pairs used corrected canvas crops. Inspired by the [Smithsonian umbrella collection](https://americanhistory.si.edu/collections/object/nmah_368171). The broadcast ended with all112 marks acknowledged.
+
+[Watch the umbrella study unfold →](https://atelier.randomdrake.com/#painting/a-red-roof-for-rain)
+
 ### Violet resting on ochre
 
 [![An imagined aubergine and detached leaf on warm cloth](public-gallery/paintings/violet-resting-on-ochre/finished.png)](https://atelier.randomdrake.com/#painting/violet-resting-on-ochre)
