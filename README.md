@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Red passenger on a green road
+
+[![A red ladybird on a diagonal green leaf with two unequal dew drops](public-gallery/paintings/red-passenger-on-a-green-road/finished.png)](https://atelier.randomdrake.com/#painting/red-passenger-on-a-green-road)
+
+An original imagined ladybird in **88 animated marks**, developed through **23 settled whole-and-close inspection boundaries**. Broad overlaps filled the shell and leaf; restoring two covered legs placed their feet on the widened leaf. A compact reflection anchors the red dome. Raised joins, a small escaped vein and regular bristles remain. The broadcast ended with all 88 marks confirmed.
+
+[Watch the leaf study unfold →](https://atelier.randomdrake.com/#painting/red-passenger-on-a-green-road)
+
 ### A silver pause in the current
 
 [![A rainbow trout above soft river stones](public-gallery/paintings/a-silver-pause-in-the-current/finished.png)](https://atelier.randomdrake.com/#painting/a-silver-pause-in-the-current)

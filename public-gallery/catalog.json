@@ -1,5 +1,24 @@
 [
 {
+  "id": "red-passenger-on-a-green-road",
+  "title": "Red passenger on a green road",
+  "description": "An imagined red ladybird on a broad diagonal green leaf with two unequal dew drops and a tapering petiole.",
+  "process": "88 animated marks in 23 batches of 1\u20134, chosen after 23 settled whole-and-close screenshot inspection pairs. Live easel notes and camera moves throughout, one-stroke reflection trial, lower-leaf focus, deliberate final refinement and paired review. Broadcast ended with all 88 marks acknowledged. Actual browser PNG and complete replay; no engine changes. Raised joins, angular legs, a small escaped vein and regular bristles retained.",
+  "media": [
+    "watercolor",
+    "oil",
+    "acrylic"
+  ],
+  "strokes": 88,
+  "moments": 48,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/red-passenger-on-a-green-road/session.json",
+  "image": "/paintings/red-passenger-on-a-green-road/finished.png",
+  "addedAt": "2026-10-28T22:14:07.096Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-28"
+},
+{
   "id": "a-silver-pause-in-the-current",
   "title": "A silver pause in the current",
   "description": "An imagined rainbow trout above soft river stones and flowing plants in muted blue-green water.",

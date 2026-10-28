@@ -1,0 +1,28 @@
+{
+  "finishedImage": {
+    "width": 900,
+    "height": 620
+  },
+  "marks": 88,
+  "moments": 48,
+  "pausedMark": 8,
+  "stableForMs": 1200,
+  "resumedMark": 12,
+  "returnedToFinished": true,
+  "phone": {
+    "viewport": 390,
+    "document": 390,
+    "dialog": 352,
+    "scroll": 350,
+    "screenshotDimensions": {
+      "width": 390,
+      "height": 219
+    },
+    "visualVerification": "Screenshot scaled to390x219 despite844requested height; DOM overflow check passed, full phone visual review unverified."
+  },
+  "notesExpanded": true,
+  "tests": 97,
+  "syntax": true,
+  "build": true,
+  "artifactPrivacy": true
+}
