@@ -1,5 +1,23 @@
 [
 {
+  "id": "three-petals-for-the-shade",
+  "title": "Three petals for the shade",
+  "description": "An imagined white trillium with three broad green leaves against cool mottled forest shade.",
+  "process": "112 animated marks in 29 batches of 1–4, chosen after 29 settled whole/close screenshot pairs. Live easel notes, upper/lower focus reviews and deliberate final refinement. Broad overlaps kept petals filled and closed the lower leaf slit; warm/cool planes and a short shoulder light hold focus. Misplaced leaf veins were mostly covered with relief retained. Faceted crown, stiff center and raised tip joins remain. Broadcast ended acknowledging all 112 marks.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 64,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/three-petals-for-the-shade/session.json",
+  "image": "/paintings/three-petals-for-the-shade/finished.png",
+  "addedAt": "2026-10-28T17:14:52.566Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-28"
+},
+{
   "id": "hearts-held-above-the-shade",
   "title": "Hearts held above the shade",
   "description": "Four imagined pink bleeding-heart flowers on an arching stem above divided foliage and a mottled green ground.",

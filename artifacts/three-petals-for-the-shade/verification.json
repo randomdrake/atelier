@@ -1,0 +1,25 @@
+{
+  "tests": 97,
+  "syntaxChecks": true,
+  "workerBuild": true,
+  "artifactPaintingCount": 84,
+  "qa": {
+    "finished": "watercolor / oil · 112 marks · 64 studio moments\n\nThree petals for the shade\n\nAdded to the gallery\nOctober 28th, 2026\nat ten fourteen in the morning · Pacific time\n\n✕\n\nA thought from the easel\n\nWorth keeping\nKnowing what to keep\n\nThree petals for the shade is finished at 112 animated marks. Broad overlaps kept the petals filled and closed the lower leaf slit. Warm left and cool right planes hold against a quieter ground; a short shoulder accent keeps the focus. Two leaf veins crossed the petals and matching covers mostly removed their green color while retaining raised traces. I keep the faceted crown, stiff anther cluster, triangular tip joins, lumpy lower leaf and regular bristles; more covers add relief faster than useful form.\n\nWritten after 112 marks\n\nWatch it painted\nSpeed \n1×\n1.5×\n2×\n4×\nFinished view\n\nAn imagined white trillium with three broad green leaves against cool mottled forest shade.\n\n112 animated marks in29 batches of1–4, chosen after29 settled whole/close screenshot pairs. Live easel notes, upper/lower focus reviews and deliberate final refinement. Broad overlaps kept petals filled and closed the lower leaf slit; warm/cool planes and a short shoulder light hold focus. Misplaced leaf veins were mostly covered with relief retained. Faceted crown, stiff center and raised tip joins remain. Broadcast ended acknowledging all112 marks.\n\nLittle discoveries along the way\nDownload the recorded session ↓",
+    "image": {
+      "complete": true,
+      "height": 620,
+      "width": 900
+    },
+    "pausedMark": 12,
+    "resumedMark": 17,
+    "returnedFinished": true,
+    "phone": {
+      "dialog": 350,
+      "dialogScroll": 350,
+      "document": 390,
+      "viewport": 390
+    }
+  },
+  "rawArtworkPNG": true,
+  "limitation": "At4 camera click retried; at8 tool timeout reset kernel after painting, restored exact count and inspected paired screenshots before12. Pause resume control is Continue; initial Resume lookup failed without altering replay."
+}

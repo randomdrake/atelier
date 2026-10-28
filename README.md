@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Three petals for the shade
+
+[![A white trillium above three broad green leaves](public-gallery/paintings/three-petals-for-the-shade/finished.png)](https://atelier.randomdrake.com/#painting/three-petals-for-the-shade)
+
+An original forest study in **112 animated marks**, developed through **29 settled paired inspections**, upper and lower reviews and deliberate final refinement. Broad overlaps kept petals filled and closed the lower leaf slit; warm/cool planes and a short shoulder accent hold focus. Misplaced veins were mostly covered while relief remains. Faceted crown, stiff center and raised joins retained. Inspired by [Mount Rainier’s white forest wildflowers](https://www.nps.gov/mora/learn/nature/forest-wildflowers-white.htm). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the trillium study unfold →](https://atelier.randomdrake.com/#painting/three-petals-for-the-shade)
+
 ### Hearts held above the shade
 
 [![Four pink bleeding-heart flowers on an arching stem](public-gallery/paintings/hearts-held-above-the-shade/finished.png)](https://atelier.randomdrake.com/#painting/hearts-held-above-the-shade)
