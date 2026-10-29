@@ -1,0 +1,21 @@
+{
+  "tests": 97,
+  "syntax": true,
+  "workerBuild": true,
+  "paintings": 93,
+  "imageDimensions": [
+    900,
+    620
+  ],
+  "pauseStable": true,
+  "replayAdvancedToMark6": true,
+  "returnToFinished": true,
+  "expandedNotes": true,
+  "mobile": {
+    "dialogScroll": 350,
+    "dialogWidth": 352,
+    "document": 390,
+    "viewport": 390
+  },
+  "rawDocumentMatchesAcceptedFeed": true
+}

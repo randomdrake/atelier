@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A small sound before supper
+
+[![A brass handbell with a wooden handle on blue cloth](public-gallery/paintings/a-small-sound-before-supper/finished.png)](https://atelier.randomdrake.com/#painting/a-small-sound-before-supper)
+
+An original still life in **76 animated marks**, developed through **20 settled whole-and-close inspection pairs**, upper and lower focus reviews and deliberate final refinement. Broad overlaps closed the body windows; a sampled arc joined the rim and a compact loaded glint holds focus. Gold neighbors absorbed a grey patch and broke a dark rail while retaining raised seams. Inspired by the [Smithsonian dinner-bell record](https://americanhistory.si.edu/collections/object/nmah_310841). The broadcast ended with all 76 marks acknowledged. Further covers added relief faster than form, so the study stops without padding its count.
+
+[Watch the handbell study unfold →](https://atelier.randomdrake.com/#painting/a-small-sound-before-supper)
+
 ### Violet flags above the water
 
 [![A violet iris and unopened bud above quiet green-blue water](public-gallery/paintings/violet-flags-above-the-water/finished.png)](https://atelier.randomdrake.com/#painting/violet-flags-above-the-water)

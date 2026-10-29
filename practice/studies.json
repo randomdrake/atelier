@@ -10068,5 +10068,66 @@
     "humanRating": null,
     "improvementClaim": "Broad20 overlap closed upright slit; loaded36 throat planes brightened where32 pale paint mixed down. Broad64 repair absorbed escaped60 vein but widened petal.84 neighbors reduced80 underside spurs while retaining relief.96 short throat light holds focus. Keep broad tips, angular base, straight leaf ridges, mottled wash and regular bristles. Stop96 because more contour covers add relief faster than useful form; no controlled improvement claim."
   }
+},
+{
+  "id": "a-small-sound-before-supper",
+  "title": "A small sound before supper",
+  "date": "2026-10-29",
+  "session": "examples/a-small-sound-before-supper.json",
+  "finishedImage": "examples/previews/a-small-sound-before-supper.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build filled flaring brass planes before rim details, using broad warm/cool reflections and one compact bright accent.",
+  "inspiration": {
+    "source": "Smithsonian dinner handbell record; original imagined brass handbell and wooden handle on blue cloth",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_310841"
+  },
+  "observations": [
+    {
+      "afterStroke": 16,
+      "text": "Broad connecting passes closed two blue triangular body windows."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Sampled shallow arc joined the scalloped lower edge into a continuous rim."
+    },
+    {
+      "afterStroke": 37,
+      "text": "One compact loaded ivory-gold glint survives whole view; restored at76."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Broad gold transition absorbed a grey reflection patch but retained raised relief."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Short olive-gold neighbors broke the continuous dark right rail while retaining raised seams."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Warm handle and compact glint read against quieter cloth folds. Slight rim point, stiff shaft, regular bristles, raised joins and mottled wash remain. Stop because further covers add relief faster than form; no stroke padding."
+    }
+  ],
+  "evidence": [
+    "examples/a-small-sound-before-supper.json",
+    "examples/previews/a-small-sound-before-supper.png",
+    "artifacts/a-small-sound-before-supper/076-whole.jpg",
+    "artifacts/a-small-sound-before-supper/076-close.jpg",
+    "artifacts/a-small-sound-before-supper/056-upper.jpg",
+    "artifacts/a-small-sound-before-supper/064-lower.jpg",
+    "artifacts/a-small-sound-before-supper/inspection-log.json",
+    "artifacts/a-small-sound-before-supper/live-receipt.json"
+  ],
+  "inspectionEvidence": "20 settled paired screenshot inspections, upper56 and lower64 focus reviews, actual900×620 PNG inspected.",
+  "engineRevision": "db5d747ae0af71f3cb6db5964275061e0306939c",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "At fixed palette compare sampled curved rim at block-in with later arc repair; judge silhouette and relief separately. Compare broad brass neighbors versus narrow reflection rails. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual PNG,20 settled inspection pairs, live notes and ended76-mark receipt.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }
 ]

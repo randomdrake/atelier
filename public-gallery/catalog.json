@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-small-sound-before-supper",
+  "title": "A small sound before supper",
+  "description": "An imagined brass handbell with a warm wooden handle on quiet blue cloth.",
+  "process": "76 animated strokes chosen in20 batches of1–4 after20 settled whole-and-close screenshot pairs, upper56/lower64 focus reviews and deliberate69–76 refinement. Live notes throughout. Broad overlaps closed body windows; sampled rim arc joined scalloped ends. A compact loaded glint survives; gold neighbors absorbed a grey patch and broke a dark rail while retaining raised relief. Broadcast ended with all76 marks acknowledged. Stopped because more contour covers add relief faster than form, without padding the count.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 76,
+  "moments": 43,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-small-sound-before-supper/session.json",
+  "image": "/paintings/a-small-sound-before-supper/finished.png",
+  "addedAt": "2026-10-29T18:06:36.949Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-29"
+},
+{
   "id": "violet-flags-above-the-water",
   "title": "Violet flags above the water",
   "description": "An imagined violet iris and unopened bud above quiet green-blue water.",
