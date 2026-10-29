@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A pause between stitches
+
+[![Open steel scissors and loose red thread on teal cloth](public-gallery/paintings/a-pause-between-stitches/finished.png)](https://atelier.randomdrake.com/#painting/a-pause-between-stitches)
+
+An original still life in **84 animated marks**, developed through **22 settled whole-and-close inspection pairs**, a lower focus review and deliberate final refinement. Loaded blade faces establish warm and cool steel; clear handle openings and a compact reflection hold focus. A sampled thread repair rounded the coil but retained a second strand. Raised joins and regular bristles remain. The broadcast ended with all 84 marks acknowledged.
+
+[Watch the scissors study unfold →](https://atelier.randomdrake.com/#painting/a-pause-between-stitches)
+
 ### One boot waits for rain
 
 [![A yellow rain boot on muted blue cloth](public-gallery/paintings/one-boot-waits-for-rain/finished.png)](https://atelier.randomdrake.com/#painting/one-boot-waits-for-rain)

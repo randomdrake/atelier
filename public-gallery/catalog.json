@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-pause-between-stitches",
+  "title": "A pause between stitches",
+  "description": "Open steel scissors with two unequal handles and a loose red thread on muted teal cloth.",
+  "process": "84 animated marks selected in 22 batches of 1\u20134, each followed by settled whole/2.0\u00d7close screenshots. Single 41 reflection test, lower 64 focus, deliberate 77\u201384 refinement and final paired review. Live easel notes throughout; broadcast ended 84 marks acknowledged. Loaded blade faces brightened the metal, broad washes quieted cloth rails; sampled thread repair rounded the loop but retained a second strand. Regular bristles, angular thread bends and lumpy lower join remain. Actual PNG and replay exported through browser; no engine changes. Human rating unset.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 84,
+  "moments": 47,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-pause-between-stitches/session.json",
+  "image": "/paintings/a-pause-between-stitches/finished.png",
+  "addedAt": "2026-10-29T16:14:13.037Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-29"
+},
+{
   "id": "one-boot-waits-for-rain",
   "title": "One boot waits for rain",
   "description": "An imagined yellow rain boot with hollow cuff and pull tab on muted blue cloth.",

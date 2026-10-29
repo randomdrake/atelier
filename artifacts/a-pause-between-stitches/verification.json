@@ -1,0 +1,34 @@
+{
+  "completedMarks": 84,
+  "pairedInspections": 22,
+  "actualPngVisuallyInspected": true,
+  "acceptedEndedFeed84": true,
+  "tests": 97,
+  "syntax": "passed",
+  "workerBuild": "passed",
+  "artifactPrivacyChecks": 91,
+  "gallery": {
+    "finishedImage": true,
+    "guidedOpeningAndSource": true,
+    "recordedBrushSettings": true,
+    "recordedCamera": true,
+    "pauseMark8Stable1200ms": true,
+    "resumedToMark12": true,
+    "returnToFinished": true,
+    "allNotesExpanded": true,
+    "phone": {
+      "viewport": 390,
+      "document": 390,
+      "dialog": 352,
+      "scroll": 350,
+      "noHorizontalOverflow": true,
+      "screenshot": "gallery-phone.png",
+      "visuallyInspected": true,
+      "fullpageScreenshotUnavailable": true
+    }
+  },
+  "limitations": [
+    "Fullpage phone screenshot returned no data; viewport screenshot390x844 succeeded and was visually inspected.",
+    "Final live default title An open possibility; exported painting title assigned afterward."
+  ]
+}
