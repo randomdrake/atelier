@@ -1,0 +1,56 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    41,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    92,
+    96
+  ],
+  "pairedInspections": 25,
+  "camera": "Whole/2.0\u00d7close; displayed zoom confirmed and 1100ms settled before capture",
+  "guards": "Exact visible completed count and At rest checked before camera moves",
+  "focusReviews": [
+    {
+      "afterStroke": 20,
+      "view": "upper",
+      "saved": false
+    },
+    {
+      "afterStroke": 64,
+      "view": "lower",
+      "saved": true
+    },
+    {
+      "afterStroke": 72,
+      "view": "upper",
+      "saved": true
+    },
+    {
+      "afterStroke": 96,
+      "view": "upper",
+      "saved": true
+    }
+  ],
+  "finalPairRepeatedAfterFinalNote": true,
+  "actualPNGVisuallyInspected": true
+}

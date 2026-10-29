@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Violet flags above the water
+
+[![A violet iris and unopened bud above quiet green-blue water](public-gallery/paintings/violet-flags-above-the-water/finished.png)](https://atelier.randomdrake.com/#painting/violet-flags-above-the-water)
+
+An original botanical study in **96 animated marks**, developed through **25 settled whole-and-close inspection pairs**, upper and lower focus reviews and deliberate final refinement. Broad overlaps closed the upright petals before sparse veins; loaded throat paint and a compact yellow-white accent hold focus. Broad repairs absorbed an escaped vein and dark spurs but widened the tips and retained relief. Inspired by the [University of Florida iris reference](https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/iris/). The broadcast ended with all 96 marks acknowledged.
+
+[Watch the iris study unfold →](https://atelier.randomdrake.com/#painting/violet-flags-above-the-water)
+
 ### A pause between stitches
 
 [![Open steel scissors and loose red thread on teal cloth](public-gallery/paintings/a-pause-between-stitches/finished.png)](https://atelier.randomdrake.com/#painting/a-pause-between-stitches)

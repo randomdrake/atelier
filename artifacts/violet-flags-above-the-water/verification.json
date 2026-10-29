@@ -1,0 +1,37 @@
+{
+  "tests": 97,
+  "syntax": true,
+  "workerBuild": true,
+  "artifactPaintings": 92,
+  "priorCatalogUnchanged": 91,
+  "priorPracticeUnchanged": 88,
+  "pngByteEqual": true,
+  "replayEqual": true,
+  "finishedImage": [
+    900,
+    620
+  ],
+  "finishedMarks": 96,
+  "moments": 56,
+  "openingNoteAndSource": true,
+  "recordedCamera": true,
+  "recordedBrushSettings": true,
+  "pause": {
+    "mark": 12,
+    "stableMs": 1200
+  },
+  "resumedMark": 20,
+  "returnFinished": true,
+  "allNotesExpanded": true,
+  "phone": {
+    "dialog": 352,
+    "document": 390,
+    "scroll": 350,
+    "viewport": 390,
+    "visualScreenshot": [
+      390,
+      844
+    ],
+    "visualReview": "Settled viewport screenshot inspected; dialog scrolled to final note/process/download area. Initial scaled frame replaced."
+  }
+}
