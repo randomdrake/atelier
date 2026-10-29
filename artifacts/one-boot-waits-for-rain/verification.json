@@ -1,0 +1,31 @@
+{
+  "tests": 97,
+  "syntax": "passed",
+  "workerBuild": "passed",
+  "privacyArtifactPaintings": 90,
+  "finishedImage": [
+    900,
+    620
+  ],
+  "replay": {
+    "openingNoteSourceCameraBrushSettings": true,
+    "pausedMark": 8,
+    "stableMilliseconds": 1200,
+    "resumedMark": 12,
+    "returnToFinished": true,
+    "allNotesExpanded": true
+  },
+  "previousEntriesUnchanged": {
+    "catalog": 89,
+    "practice": 86
+  },
+  "actualExportEqualsGallery": true,
+  "phone": {
+    "viewport": 390,
+    "documentWidth": 390,
+    "dialogWidth": 352,
+    "dialogScrollWidth": 350,
+    "horizontalOverflow": false,
+    "visualVerification": "Incomplete: viewport screenshot returned a scaled390x219frame; full-page retry returned no data. DOM dimensions verified. Override reset."
+  }
+}

@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### One boot waits for rain
+
+[![A yellow rain boot on muted blue cloth](public-gallery/paintings/one-boot-waits-for-rain/finished.png)](https://atelier.randomdrake.com/#painting/one-boot-waits-for-rain)
+
+An original still life in **80 animated marks**, developed through **21 settled whole-and-close inspections**, upper and lower focus reviews, and deliberate final refinement. Broad overlaps filled the shaft and connected the heel; a compact reflection holds the light. A fuller toe cover reduced seam color while retaining relief. The broadcast ended with all 80 marks acknowledged.
+
+[Watch the boot study unfold →](https://atelier.randomdrake.com/#painting/one-boot-waits-for-rain)
+
 ### Red passenger on a green road
 
 [![A red ladybird on a diagonal green leaf with two unequal dew drops](public-gallery/paintings/red-passenger-on-a-green-road/finished.png)](https://atelier.randomdrake.com/#painting/red-passenger-on-a-green-road)
