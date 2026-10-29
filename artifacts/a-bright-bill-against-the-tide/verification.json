@@ -1,0 +1,12 @@
+{
+  "tests": 97,
+  "syntax": "passed",
+  "fullWorkerBuild": "passed",
+  "privacyArtifactCheck": "94 paintings, no private files or publisher credential",
+  "galleryExports": "PNG byte-equal actual export, replay equals actual score/events plus metadata",
+  "desktop": "Finished900x620 PNG,112marks64moments/finalnote/process/download present; screenshot inspected",
+  "replay": "Opening source note/camera/brush settings; pauseMark8 stable1300ms, Continue advancedMark12; returnfinished and expandednotes passed",
+  "phone": "390x844 viewport, document390/dialog350/scroll350; screenshot inspected; override reset",
+  "priorEntries": "93 prior catalog and90 prior practice entries semantically unchanged",
+  "humanRating": null
+}

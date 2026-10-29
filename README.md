@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A bright bill against the tide
+
+[![A black oystercatcher on a wet rock with three mussels](public-gallery/paintings/a-bright-bill-against-the-tide/finished.png)](https://atelier.randomdrake.com/#painting/a-bright-bill-against-the-tide)
+
+An original bird study in **112 animated marks**, developed through **29 settled whole-and-close inspection boundaries**, upper and lower focus reviews and deliberate final refinement. Broad overlaps closed the body slit; fuller bill paint stayed orange. Dim neighbors connected an isolated breast light and shortened the foot shadow. Warm wing and cool breast planes separate; long neck, faceted crown and raised joins remain. Inspired by the [NPS bird guide](https://www.nps.gov/chis/learn/nature/oystercatcher.htm). The broadcast ended with all112 marks acknowledged.
+
+[Watch the oystercatcher study unfold →](https://atelier.randomdrake.com/#painting/a-bright-bill-against-the-tide)
+
 ### A small sound before supper
 
 [![A brass handbell with a wooden handle on blue cloth](public-gallery/paintings/a-small-sound-before-supper/finished.png)](https://atelier.randomdrake.com/#painting/a-small-sound-before-supper)

@@ -10129,5 +10129,70 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "a-bright-bill-against-the-tide",
+  "title": "A bright bill against the tide",
+  "date": "2026-10-29",
+  "session": "examples/a-bright-bill-against-the-tide.json",
+  "finishedImage": "examples/previews/a-bright-bill-against-the-tide.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Filled warm and cool dark planes before feather details; reserve a compact eye light.",
+  "inspiration": {
+    "source": "NPS Channel Islands black oystercatcher guide; original imagined composition",
+    "url": "https://www.nps.gov/chis/learn/nature/oystercatcher.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 20,
+      "text": "Broad center overlap closed the blue body slit."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Fuller bill paint stayed orange where24 mixed down to brown."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Broad warm neighbors absorbed most of the56 dark wing stripe while retaining relief."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Restored splayed front toes sit above the dark foot contact; pale shell faces turn."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Dim broad neighbors connected the isolated80 breast light while preserving cool/warm separation."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Short rock neighbors reduced the strong44 foot bar; shadow remains compact."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Eye and short bill accents retain focus. Long stiff neck, faceted crown, irregular wing edges, bristle relief, raised repairs and mottled water remain; further detail would compete with the bill."
+    }
+  ],
+  "evidence": [
+    "examples/a-bright-bill-against-the-tide.json",
+    "examples/previews/a-bright-bill-against-the-tide.png",
+    "artifacts/a-bright-bill-against-the-tide/112-whole.jpg",
+    "artifacts/a-bright-bill-against-the-tide/112-close.jpg",
+    "artifacts/a-bright-bill-against-the-tide/112-upper.jpg",
+    "artifacts/a-bright-bill-against-the-tide/064-lower.jpg",
+    "artifacts/a-bright-bill-against-the-tide/inspection-log.json",
+    "artifacts/a-bright-bill-against-the-tide/live-receipt.json"
+  ],
+  "inspectionEvidence": "29 unique whole/2.0\u00d7close pairs including single37 pupil test; repeated final112 pair, upper52/112 and lower64 focus reviews. Upper52 seen but not saved separately.",
+  "engineRevision": "065ba6e4da4d55aa78dda30984e083fbe4df56e0",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "At fixed palette compare broad initial dark planes versus thin feather stripes and repairs; compare fuller short bill loads with thin paint. Judge silhouette, value and relief separately. Try a shorter-neck shorebird pose from the start.",
+  "assessment": {
+    "source": "Actual900\u00d7620 PNG,29 unique settled inspection pairs, live notes and ended112-mark receipt.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }
 ]
