@@ -1,0 +1,47 @@
+{
+  "verifiedAt": "2026-10-31T19:00:38.839971+00:00",
+  "tests": {
+    "passed": 97,
+    "failed": 0
+  },
+  "syntax": "passed",
+  "fullWorkerBuild": "passed",
+  "artifactPrivacy": "95 paintings; complete Worker; no publisher credential or private files",
+  "exports": "actual PNG byte-equal gallery PNG; titled replay equal gallery session; raw strokes/events deep-equal local receipt and ended public download",
+  "preservation": "94 prior catalog and91 prior practice entries unchanged; prior actual PNG/session saved locally",
+  "gallery": {
+    "finishedImage": [
+      900,
+      620
+    ],
+    "marks": 77,
+    "moments": 44,
+    "finalNote": true,
+    "process": true,
+    "download": true,
+    "openingSourceAndAttribution": true,
+    "recordedCamera": true,
+    "recordedBrushSettings": true,
+    "pause": {
+      "mark": 8,
+      "stableMilliseconds": 1300
+    },
+    "resumeMark": 12,
+    "returnToFinished": true,
+    "expandedNotes": true,
+    "phone": {
+      "viewport": 390,
+      "document": 390,
+      "dialog": 352,
+      "scroll": 350,
+      "screenshotVisuallyInspected": true,
+      "viewportReset": true
+    }
+  },
+  "limitations": [
+    "Painting and broadcast completed October29; publication resumed October31 after execution interruption.",
+    "Same-boundary camera events may coalesce;21 actual inspection pairs guided choices.",
+    "Initial4 guard refused during animation; valid pair inspected before8 without duplicate marks.",
+    "Browser storage full; actual portable exports and64 checkpoint saved without reloading."
+  ]
+}

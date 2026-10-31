@@ -10194,5 +10194,73 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "the-turn-before-stillness",
+  "title": "The turn before stillness",
+  "date": "2026-10-29",
+  "session": "examples/the-turn-before-stillness.json",
+  "finishedImage": "examples/previews/the-turn-before-stillness.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build a filled rounded wood body before curved colored bands, reserving one compact shoulder reflection.",
+  "inspiration": {
+    "source": "Smithsonian wooden painted toy top record; original imagined composition",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_317057"
+  },
+  "observations": [
+    {
+      "afterStroke": 16,
+      "text": "Sampled oval joined the four scalloped brush starts into a continuous crown; lower taper was already filled."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Red and green arcs turn with the taper; band endpoints remain blunt."
+    },
+    {
+      "afterStroke": 37,
+      "text": "One compact loaded ivory-gold shoulder reflection survives whole view; restored at76."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Densely sampled local curves rounded two outer cord bends but added raised paint; angular inner bends remain."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Narrow52 oil cloth cover made a hard rail. Broad56 neighbors reduced its contrast but enlarged a ridged patch; water barely changed relief."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Short broad wood neighbors connected the isolated spindle root."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Filled middle wood turn stays within the silhouette; green endpoint shortened by52 wood neighbor while retaining relief."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Single cloth neighbor dimmed the final L-shaped contact bar but retained its raised bend. Stop77 because more cover or decoration would add relief faster than useful form; no padding toward112."
+    }
+  ],
+  "evidence": [
+    "examples/the-turn-before-stillness.json",
+    "examples/previews/the-turn-before-stillness.png",
+    "artifacts/the-turn-before-stillness/077-whole.jpg",
+    "artifacts/the-turn-before-stillness/077-close.jpg",
+    "artifacts/the-turn-before-stillness/077-lower.jpg",
+    "artifacts/the-turn-before-stillness/inspection-log.json",
+    "artifacts/the-turn-before-stillness/live-receipt.json"
+  ],
+  "inspectionEvidence": "21 settled whole/2.0\u00d7close screenshot pairs; single37 reflection and single77 contact correction; lower44/77 focus reviews; actual900\u00d7620 PNG visually inspected.",
+  "engineRevision": "79115d26a3243c3b3cf0bd4464a66d303f89dc32",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "At fixed palette compare a filled sampled oval crown from the start with separate stroke starts plus oval repair. Compare densely sampled cord bends initially versus local late repairs. Compare watercolor cloth shaping with oil cover/neighbors, judging color, silhouette and relief separately. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual PNG,21 settled inspection pairs, live notes and ended77-mark public receipt.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }
 ]

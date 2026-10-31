@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The turn before stillness
+
+[![A painted wooden spinning top and loose cord on teal cloth](public-gallery/paintings/the-turn-before-stillness/finished.png)](https://atelier.randomdrake.com/#painting/the-turn-before-stillness)
+
+An original still life in **77 animated marks**, developed through **21 settled whole-and-close inspection pairs** and lower focus reviews. Broad wood planes filled the taper before curved bands; a sampled oval joined the scalloped crown. One compact shoulder reflection holds focus. Local cord repairs rounded two bends, while cloth and contact corrections retained raised relief. Inspired by a [Smithsonian toy record](https://americanhistory.si.edu/collections/object/nmah_317057). The broadcast ended with all 77 marks acknowledged. Painting completed October 29; gallery publication resumed October 31 after an execution interruption.
+
+[Watch the spinning-top study unfold →](https://atelier.randomdrake.com/#painting/the-turn-before-stillness)
+
 ### A bright bill against the tide
 
 [![A black oystercatcher on a wet rock with three mussels](public-gallery/paintings/a-bright-bill-against-the-tide/finished.png)](https://atelier.randomdrake.com/#painting/a-bright-bill-against-the-tide)

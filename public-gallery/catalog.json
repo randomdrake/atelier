@@ -1,5 +1,23 @@
 [
 {
+  "id": "the-turn-before-stillness",
+  "title": "The turn before stillness",
+  "description": "An imagined painted wooden spinning top with curved red and green bands and an unequal loose cord on quiet teal cloth.",
+  "process": "Painted live in 77 animated marks across 21 batches of 1\u20134, each followed by settled whole-view and 2.0\u00d7close screenshots. Single reflection and contact trials, lower focus reviews, live notes and recorded camera moves guided development. Broad overlapping wood planes preceded bands; a sampled oval joined the scalloped crown. Cord repairs rounded outer bends; cloth oil repairs retained raised texture. Final refinement and paired review preceded actual PNG/replay exports; ended broadcast confirmed all77 marks and44 moments. No engine changes. Painting completed October29; publication resumed October31 after an execution interruption.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 77,
+  "moments": 44,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/the-turn-before-stillness/session.json",
+  "image": "/paintings/the-turn-before-stillness/finished.png",
+  "addedAt": "2026-10-31T18:58:25.350Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-10-31"
+},
+{
   "id": "a-bright-bill-against-the-tide",
   "title": "A bright bill against the tide",
   "description": "An imagined black oystercatcher on a wet rock with three mussels against quiet blue-green tide.",
