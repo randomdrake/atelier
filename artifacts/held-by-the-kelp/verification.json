@@ -1,0 +1,45 @@
+{
+  "verifiedAt": "2026-11-02T19:15:00.913996+00:00",
+  "tests": {
+    "passed": 97,
+    "failed": 0
+  },
+  "syntax": "passed",
+  "fullWorkerBuild": "passed; repeated during packaging after catalog format restoration",
+  "artifactPrivacy": "96 paintings; complete Worker; no publisher credential or private files",
+  "exports": "Actual PNG byte-equal gallery PNG; raw strokes/events deep-equal ended local receipt and downloaded public replay",
+  "preservation": "95 prior gallery entries and92 prior practice entries unchanged; previous finished PNG and browser session preserved locally",
+  "gallery": {
+    "finishedImage": [
+      900,
+      620
+    ],
+    "marks": 92,
+    "moments": 51,
+    "finalNote": true,
+    "openingGoalSourceAttribution": true,
+    "recordedCameraAndBrushSettings": true,
+    "pauseStableMilliseconds": 1300,
+    "pauseMarks": [
+      4,
+      20
+    ],
+    "resume": "advanced beyond4 to12 and20; one Pause command missed dispatch deadline, state reinspected then successful pause",
+    "returnToFinished": true,
+    "expandedNotes": true,
+    "phone": {
+      "viewport": 390,
+      "document": 390,
+      "dialog": 352,
+      "scroll": 350,
+      "screenshotVisuallyInspected": true,
+      "viewportReset": true
+    }
+  },
+  "limitations": [
+    "Initial8 guard refused while animating; settled pair completed before next batch.",
+    "Upper32 focus screenshot captured before full camera settling; all24 paired boundaries were settled and viewed.",
+    "Browser storage full; checkpoint64 and final actual exports preserved without reload.",
+    "Portable export title assigned afterward; studio title remained An open possibility."
+  ]
+}

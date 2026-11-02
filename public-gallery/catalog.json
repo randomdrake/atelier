@@ -1,5 +1,23 @@
 [
 {
+  "id": "held-by-the-kelp",
+  "title": "Held by the kelp",
+  "description": "An imagined sea otter floating among unequal kelp blades in blue-green water.",
+  "process": "Original browser-painted study in 92 animated marks and 24 settled whole-and-close inspections, with live notes, camera moves, single-mark brow light test, upper/lower reviews and deliberate final refinement. Broad body planes preceded sparse fur; sampled kelp curves and broad water washes developed after inspection. Ended public 92-mark replay matches export. Raised joins and elongated body retained; no engine changes.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 92,
+  "moments": 51,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/held-by-the-kelp/session.json",
+  "image": "/paintings/held-by-the-kelp/finished.png",
+  "addedAt": "2026-11-02T19:13:07.505Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-02"
+},
+{
   "id": "the-turn-before-stillness",
   "title": "The turn before stillness",
   "description": "An imagined painted wooden spinning top with curved red and green bands and an unequal loose cord on quiet teal cloth.",

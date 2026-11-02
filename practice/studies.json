@@ -10262,5 +10262,82 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "held-by-the-kelp",
+  "title": "Held by the kelp",
+  "date": "2026-11-02",
+  "session": "examples/held-by-the-kelp.json",
+  "finishedImage": "examples/previews/held-by-the-kelp.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad brown body planes before sparse fur, keeping one compact face light and quieter water.",
+  "inspiration": {
+    "source": "NPS sea-otter guide; original imagined floating otter and kelp composition",
+    "url": "https://www.nps.gov/places/sea-otter.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Broad overlapping passes filled the dark body without interior gaps; head was too small."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broader crown/cheek passes enlarged the head and balanced the silhouette."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Inward flipper passes filled thin hooks while preserving triangular water gap."
+    },
+    {
+      "afterStroke": 37,
+      "text": "Single short loaded brow light remains compact at whole view."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Sampled curved kelp blades bend more gradually than the first elbow; tips still blunt."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Broad watercolor crossings substantially quieted lower pale gap without oil relief."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Tapered extensions lengthened kelp tips while retaining raised joins."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Broader dim neighbors widened flipper lights and reduced dark paw bracket."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Muzzle cover changed angular mouth endpoint little; sparse whiskers and eye lights remain restrained."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Final water washes dimmed flipper wedge; warm throat neighbor reduced contrast while retaining relief. Stop92 because more covers add relief faster than useful form; no padding toward112."
+    }
+  ],
+  "evidence": [
+    "examples/held-by-the-kelp.json",
+    "examples/previews/held-by-the-kelp.png",
+    "artifacts/held-by-the-kelp/092-whole.jpg",
+    "artifacts/held-by-the-kelp/092-close.jpg",
+    "artifacts/held-by-the-kelp/092-upper.jpg",
+    "artifacts/held-by-the-kelp/072-lower.jpg",
+    "artifacts/held-by-the-kelp/inspection-log.json",
+    "artifacts/held-by-the-kelp/live-receipt.json"
+  ],
+  "inspectionEvidence": "24 settled whole/2.0\u00d7close screenshot pairs, single37 brow-light test, upper32/92 and lower72 focus reviews; actual900\u00d7620 PNG visually inspected.",
+  "engineRevision": "e3073997a579cf0f90752ced56cd52529f62d1c0",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "At fixed palette/renderer compare densely sampled kelp curves initially versus late local repairs. Compare broad transparent water crossings with narrow oil covers on isolated swatches; judge color and relief separately. Try a shorter body pose from the start. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual PNG,24 settled inspection pairs, live notes and ended92-mark public download matching export.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }
 ]

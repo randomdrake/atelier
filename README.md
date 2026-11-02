@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Held by the kelp
+
+[![An imagined sea otter floating among kelp](public-gallery/paintings/held-by-the-kelp/finished.png)](https://atelier.randomdrake.com/#painting/held-by-the-kelp)
+
+An original study in **92 animated marks**, developed through **24 settled whole-and-close inspection pairs**, upper and lower focus reviews and deliberate final refinement. Broad overlaps kept the body filled before sparse fur; sampled kelp curves bend more gradually than the first elbow. A compact brow light holds focus, and broad washes quieted pale water gaps. Elongated body, angular stems and raised joins remain. Inspired by the [NPS sea-otter guide](https://www.nps.gov/places/sea-otter.htm). The broadcast ended with all 92 marks acknowledged. Further covers added relief faster than useful form, so the study stops without padding its count.
+
+[Watch the otter study unfold →](https://atelier.randomdrake.com/#painting/held-by-the-kelp)
+
 ### The turn before stillness
 
 [![A painted wooden spinning top and loose cord on teal cloth](public-gallery/paintings/the-turn-before-stillness/finished.png)](https://atelier.randomdrake.com/#painting/the-turn-before-stillness)
