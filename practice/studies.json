@@ -10420,5 +10420,102 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "green-silence-on-cedar",
+  "title": "Green silence on cedar",
+  "date": "2026-11-02",
+  "session": "examples/green-silence-on-cedar.json",
+  "finishedImage": "examples/previews/green-silence-on-cedar.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build continuous broad wing planes before sparse veins, with gently sampled tail curves and one compact body light.",
+  "inspiration": {
+    "source": "Missouri Department of Conservation luna-moth guide; original imagined moth on weathered cedar",
+    "url": "https://mdc.mo.gov/discover-nature/field-guide/luna-moth"
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Crosswise washes dimmed pale ground lanes."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Loaded round forewing overlaps gave continuous filled planes."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Inward overlaps filled hooked lower-wing wedges."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Densely sampled tails curved gently and tapered; roots retained relief."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Plum margins became interior rails because initial wing spread extended above them."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Small cream centers left restrained olive eyespot rims."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Green neighbors muted border color little while retaining relief."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Four sparse veins stayed visible without dominating, but crossed lower eyespots."
+    },
+    {
+      "afterStroke": 73,
+      "text": "Single short thorax light survived subtly against full pale body."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Broad watercolor neighbors dimmed peripheral gaps without new oil relief."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Unequal antenna gestures and bent legs clarified resting pose; legs were too strong."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Direct upper-right wash removed bright corner gap."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Green neighbors and small centers partly separated lower eyespots from veins."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Sampled lower neighbors softened color transitions while faceted relief remained."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final neighbors softened leg ends and balanced cedar; compact head light, filled planes and tail curves hold. Further covers unlikely to improve shape."
+    }
+  ],
+  "evidence": [
+    "examples/green-silence-on-cedar.json",
+    "examples/previews/green-silence-on-cedar.png",
+    "artifacts/green-silence-on-cedar/112-whole.jpg",
+    "artifacts/green-silence-on-cedar/112-close.jpg",
+    "artifacts/green-silence-on-cedar/112-lower.jpg",
+    "artifacts/green-silence-on-cedar/088-upper.jpg",
+    "artifacts/green-silence-on-cedar/inspection-log.json",
+    "artifacts/green-silence-on-cedar/live-receipt.json"
+  ],
+  "inspectionEvidence": "29 settled whole/2.0\u00d7close screenshot pairs, single73 thorax-light test, upper88 and lower112 focus reviews; actual900\u00d7620 PNG visually inspected.",
+  "engineRevision": "934dbec0ee82d02cf03baa781ec0d16ea59d785a",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "At fixed palette and renderer compare densely sampled initial wing outlines and tails against later contour repairs. Place leading borders at measured outer edges; compare lower-contrast sparse veins with broad filled planes. Judge color, silhouette and relief separately. Fresh subject next.",
+  "assessment": {
+    "source": "Actual PNG,29 settled paired inspections, live notes and ended112-mark public replay matching export.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }
 ]

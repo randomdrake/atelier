@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Green silence on cedar
+
+[![An imagined green luna moth resting on weathered cedar](public-gallery/paintings/green-silence-on-cedar/finished.png)](https://atelier.randomdrake.com/#painting/green-silence-on-cedar)
+
+An original moth study in **112 animated marks**, developed through **29 settled whole-and-close inspection pairs**, upper and lower focus reviews and deliberate final refinement. Broad overlaps filled the wings before sparse veins; densely sampled tails curve gently. Compact head light and restrained eyespots hold focus. Transparent washes quieted bright cedar gaps; faceted shoulders, strong plum borders and raised joins remain. Inspired by the [Missouri conservation field guide](https://mdc.mo.gov/discover-nature/field-guide/luna-moth). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the luna-moth study unfold →](https://atelier.randomdrake.com/#painting/green-silence-on-cedar)
+
 ### Wood keeps the blue
 
 [![A wooden clothespin clasping a loose blue ribbon](public-gallery/paintings/wood-keeps-the-blue/finished.png)](https://atelier.randomdrake.com/#painting/wood-keeps-the-blue)

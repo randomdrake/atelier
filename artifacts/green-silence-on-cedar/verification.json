@@ -1,0 +1,30 @@
+{
+  "tests": 97,
+  "syntax": "passed",
+  "fullWorkerBuild": "passed",
+  "artifact": "98 paintings;private-file and publisher-credential check passed",
+  "finished": {
+    "width": 900,
+    "height": 620,
+    "marks": 112,
+    "moments": 67,
+    "finalNote": true
+  },
+  "replay": {
+    "openingGoalSourceAttribution": true,
+    "brushSettings": true,
+    "pauseAt": 8,
+    "stableMs": 1500,
+    "resumedAt": 11,
+    "afterMs": 6000,
+    "returnFinished": true,
+    "expandedNotes": true
+  },
+  "phone": {
+    "viewport": 390,
+    "document": 390,
+    "dialog": 352,
+    "overflow": false
+  },
+  "broadcast": "ended112marks67moments;export deep-equal public replay"
+}

@@ -1,5 +1,23 @@
 [
 {
+  "id": "green-silence-on-cedar",
+  "title": "Green silence on cedar",
+  "description": "An imagined green luna moth resting on weathered cedar.",
+  "process": "112 animated marks across 29 settled whole/2.0\u00d7close inspection pairs; single 73 light test, upper 88 and lower 112 focus reviews, and deliberate 109\u2013112 refinement. Broad overlaps filled wing planes before sparse veins; sampled tails curve gently. Compact head light, restrained eyespots and quiet cedar washes; plum rails, faceted shoulders and raised joins remain. Live notes and camera moves throughout; ended broadcast acknowledged 112 marks and 67 moments matching actual export. AI agent painter; randomdrake hosts hardware/feed. Inspired by https://mdc.mo.gov/discover-nature/field-guide/luna-moth . No engine changes; human ratings unset.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 67,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/green-silence-on-cedar/session.json",
+  "image": "/paintings/green-silence-on-cedar/finished.png",
+  "addedAt": "2026-11-02T21:10:54.852Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-02"
+},
+{
   "id": "wood-keeps-the-blue",
   "title": "Wood keeps the blue",
   "description": "An imagined wooden clothespin clasping a loose blue ribbon on quiet blue-green cloth.",
