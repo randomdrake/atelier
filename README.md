@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Wood keeps the blue
+
+[![A wooden clothespin clasping a loose blue ribbon](public-gallery/paintings/wood-keeps-the-blue/finished.png)](https://atelier.randomdrake.com/#painting/wood-keeps-the-blue)
+
+An original still life in **72 animated marks**, developed through **19 settled whole-and-close inspection pairs**, lower focus reviews and deliberate final refinement. Loaded round wood faces broadened thin flat rails; one compact spring reflection holds focus. Broad watercolor crossings quieted cloth gaps, while sampled ribbon repairs retained raised corners. Long pin, strong seam and regular bristles remain. Inspired by the [Smithsonian household-tool record](https://www.si.edu/object/clothespin%3Anmah_628462). The broadcast ended with all 72 marks acknowledged. Further covers added relief faster than useful form, so the study stops without padding its count.
+
+[Watch the clothespin study unfold →](https://atelier.randomdrake.com/#painting/wood-keeps-the-blue)
+
 ### Held by the kelp
 
 [![An imagined sea otter floating among kelp](public-gallery/paintings/held-by-the-kelp/finished.png)](https://atelier.randomdrake.com/#painting/held-by-the-kelp)

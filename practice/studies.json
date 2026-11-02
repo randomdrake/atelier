@@ -10339,5 +10339,86 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "wood-keeps-the-blue",
+  "title": "Wood keeps the blue",
+  "date": "2026-11-02",
+  "session": "examples/wood-keeps-the-blue.json",
+  "finishedImage": "examples/previews/wood-keeps-the-blue.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Establish broad warm and cool wood planes before fine grain, keeping one compact spring reflection.",
+  "inspiration": {
+    "source": "Smithsonian household-tool record; original imagined wooden clothespin and loose blue ribbon composition",
+    "url": "https://www.si.edu/object/clothespin%3Anmah_628462"
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Broad crossing washes dimmed white lanes; cool diagonal shadow anchored placement."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Flat tips made thin rails rather than broad wooden arms."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Loaded round overlaps broadened and filled wooden faces around spring seat."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Broken seam and tension arms made clasp structure legible; seam remained strong."
+    },
+    {
+      "afterStroke": 37,
+      "text": "One short loaded spring reflection survived whole view as a compact accent."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Sampled right ribbon bend softened outline but retained old angular relief."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Fine grain became stronger rails than intended."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Broad warm neighbors muted grain color while retaining raised grooves; jaw overlapped blue ribbon."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Transparent contact shadows seated ribbon without new oil relief; broad lower wash dimmed bright gaps."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Warm neighbor broke heavy lower ring; three unequal turns made spring less washer-like."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Final warm seam neighbor shortened its left end; wood end grain and blue attachment refined. Stop72 because further covers add relief faster than useful form."
+    }
+  ],
+  "evidence": [
+    "examples/wood-keeps-the-blue.json",
+    "examples/previews/wood-keeps-the-blue.png",
+    "artifacts/wood-keeps-the-blue/072-whole.jpg",
+    "artifacts/wood-keeps-the-blue/072-close.jpg",
+    "artifacts/wood-keeps-the-blue/072-lower.jpg",
+    "artifacts/wood-keeps-the-blue/044-lower.jpg",
+    "artifacts/wood-keeps-the-blue/inspection-log.json",
+    "artifacts/wood-keeps-the-blue/live-receipt.json"
+  ],
+  "inspectionEvidence": "19 settled whole/2.0\u00d7close inspection pairs, single37 spring-glint test, lower44/72 focus reviews; actual900\u00d7620 PNG visually inspected.",
+  "engineRevision": "ede3da087d297770049bc54408420e4d426c3402",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "At fixed palette and renderer compare broad round wood faces from the start against thin flat rails plus covers. Compare densely sampled ribbon curves initially with late repairs; judge color, silhouette and relief separately. Test sparse grain at lower contrast. Fresh subject next.",
+  "assessment": {
+    "source": "Actual PNG,19 settled whole-and-close pairs, live notes and ended72-mark public receipt.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }
 ]
