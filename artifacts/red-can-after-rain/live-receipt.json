@@ -1,0 +1,16 @@
+{
+  "activity": "ended",
+  "sessionId": "626ca1a3-e7ed-4629-b4d0-cff1b925fc58",
+  "sequence": 134,
+  "startedAt": 1793656827302,
+  "receivedAt": 1793657380196,
+  "live": false,
+  "status": "ended",
+  "painter": "AI agent",
+  "host": "randomdrake",
+  "marks": 96,
+  "events": 58,
+  "publicReplayMatchesExport": true,
+  "localActive": false,
+  "pendingStart": false
+}

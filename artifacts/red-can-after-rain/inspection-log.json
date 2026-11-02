@@ -1,0 +1,104 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    37,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    92,
+    96
+  ],
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Diagonal washes loosened the pale grid left by horizontal and vertical passes."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Overlapping broad round oil faces filled the body, but starts made scalloped shoulders."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Sampled shoulder ellipse and base connected starts into a continuous vessel."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Densely sampled handle curve stayed smoothly open; upper end initially floated."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Connector joined upper handle; dark oval opening established depth."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Broad warm left and cool right neighbors joined the pale middle patch."
+    },
+    {
+      "afterStroke": 37,
+      "text": "Single compact loaded rim reflection survived whole view."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Broad overlaps filled pale holes left by circular leaf sweeps."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Compact flower throat separated petals, though overall flower stayed round."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Broad watercolor quieted lower gaps without new oil relief."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Thin stamped seam became a strong continuous rail."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Broad warm neighbors interrupted seam color while retaining raised joins."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Sparse leaf veins stayed subordinate; right pan showed sharp stem elbows."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Sampled stem neighbor softened color slightly but retained original angular relief; petal extensions broke symmetry."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Broad upper washes reduced pale peripheral gaps."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Shoulder light clarified warm face, but attachment shadow became an isolated dark slash."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Broader loaded warm neighbors removed isolated slash at whole view and joined spout root."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Final leaf edges and ground wash settled plant; filled metal planes and compact rim glint hold. Regular bristles, raised joins, blunt flower and mottled ground remain."
+    }
+  ],
+  "limitations": "Initial4 screenshot clip was incorrect and corrected before further marks with full-viewport screenshots cropped using actual canvas bounds. Subsequent pairs used1100ms camera and700ms scroll settling. Extra lower44 screenshot showed notebook rather than canvas; lower72/96 and right pans later inspected actual passage. Whole/close button views and screenshot labels showed2.0\u00d7. Browser storage full; checkpoint64 and actual final exports saved withoutreload. Previous actual published112mark moth PNG preserved separately from browser stored88mark session; no prior canvas rerender used. Same-boundary camera events may coalesce."
+}

@@ -1,0 +1,22 @@
+{
+  "tests": {
+    "passed": 97,
+    "failed": 0
+  },
+  "syntaxCheck": "passed",
+  "workerBuild": "passed;99painting artifact privacy checks passed",
+  "galleryImage": "PNG byte-equal actual export;900x620",
+  "replay": "96marks58events;matches ended public document",
+  "opening": "goal/source/AI-painter attribution visible",
+  "pause": "Mark8 stable1400ms;Continue advanced to12",
+  "finishedReturn": "passed",
+  "notesExpanded": "passed;finalnote/source/download visible",
+  "phone": {
+    "viewport": 390,
+    "document": 390,
+    "dialog": 352,
+    "dialogScroll": 350,
+    "overflow": false
+  },
+  "humanRating": null
+}

@@ -10517,5 +10517,113 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "red-can-after-rain",
+  "title": "Red can after rain",
+  "date": "2026-11-02",
+  "session": "examples/red-can-after-rain.json",
+  "finishedImage": "examples/previews/red-can-after-rain.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build broad rounded red metal planes before sparse seams, with one compact rim light and unequal trailing nasturtium.",
+  "inspiration": {
+    "source": "Smithsonian Gardens watering-can collection; original imagined red can with trailing nasturtium",
+    "url": "https://gardens.si.edu/collections/explore/object/hac_2017.001.020"
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Diagonal washes loosened the pale grid left by horizontal and vertical passes."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Overlapping broad round oil faces filled the body, but starts made scalloped shoulders."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Sampled shoulder ellipse and base connected starts into a continuous vessel."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Densely sampled handle curve stayed smoothly open; upper end initially floated."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Connector joined upper handle; dark oval opening established depth."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Broad warm left and cool right neighbors joined the pale middle patch."
+    },
+    {
+      "afterStroke": 37,
+      "text": "Single compact loaded rim reflection survived whole view."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Broad overlaps filled pale holes left by circular leaf sweeps."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Compact flower throat separated petals, though overall flower stayed round."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Broad watercolor quieted lower gaps without new oil relief."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Thin stamped seam became a strong continuous rail."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Broad warm neighbors interrupted seam color while retaining raised joins."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Sparse leaf veins stayed subordinate; right pan showed sharp stem elbows."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Sampled stem neighbor softened color slightly but retained original angular relief; petal extensions broke symmetry."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Broad upper washes reduced pale peripheral gaps."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Shoulder light clarified warm face, but attachment shadow became an isolated dark slash."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Broader loaded warm neighbors removed isolated slash at whole view and joined spout root."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Final leaf edges and ground wash settled plant; filled metal planes and compact rim glint hold. Regular bristles, raised joins, blunt flower and mottled ground remain."
+    }
+  ],
+  "evidence": [
+    "examples/red-can-after-rain.json",
+    "examples/previews/red-can-after-rain.png",
+    "artifacts/red-can-after-rain/096-whole.jpg",
+    "artifacts/red-can-after-rain/096-close.jpg",
+    "artifacts/red-can-after-rain/096-right.png",
+    "artifacts/red-can-after-rain/inspection-log.json",
+    "artifacts/red-can-after-rain/live-receipt.json"
+  ],
+  "inspectionEvidence": "25 settled whole/2.0\u00d7close pairs, single37 rim-light test, lower72/96 and right pans; actual900\u00d7620 PNG visually inspected.",
+  "engineRevision": "346c5fd7c469d63a93deec9a6d3ffef31ee172e8",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "At fixed palette and renderer compare initial densely sampled handle/stem curves with late contour repairs. Compare lower-contrast stamped seams initially against broad covering neighbors; judge color, silhouette and relief separately. Fresh subject next.",
+  "assessment": {
+    "source": "Actual PNG,25 settled whole-and-close pairs, live notes and ended96-mark public replay matching export.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }
 ]

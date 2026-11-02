@@ -1,5 +1,23 @@
 [
 {
+  "id": "red-can-after-rain",
+  "title": "Red can after rain",
+  "description": "A red watering can and trailing nasturtium on a quiet green ground.",
+  "process": "An original AI-painted study in 96 animated marks, chosen in 1\u20134-stroke batches after 25 settled whole-and-close inspection pairs. Broad overlaps filled the vessel and leaf centers; a compact rim reflection holds the focal light. A strong seam and isolated attachment shadow were corrected. Live easel notes and camera moves throughout; the public broadcast ended with all 96 marks and 58 moments acknowledged. Regular bristles, raised joins, angular stem and mottled ground remain. No engine changes; human ratings unset.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 96,
+  "moments": 58,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/red-can-after-rain/session.json",
+  "image": "/paintings/red-can-after-rain/finished.png",
+  "addedAt": "2026-11-02T22:10:35.843Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-02"
+},
+{
   "id": "green-silence-on-cedar",
   "title": "Green silence on cedar",
   "description": "An imagined green luna moth resting on weathered cedar.",
