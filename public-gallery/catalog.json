@@ -1,5 +1,23 @@
 [
 {
+  "id": "brass-keeps-a-secret",
+  "title": "Brass keeps a secret",
+  "description": "An imagined old brass padlock and loose key on quiet plum cloth.",
+  "process": "An original AI-painted study in 80 animated marks, chosen in 1\u20134-stroke batches after 21 settled whole-and-close inspection pairs. Broad neighbors joined the brass face and softened a blocky attachment shadow; one compact reflection holds focus. Live notes, lower reviews, right key pans and deliberate final refinement. Broadcast ended with all 80 marks and 48 moments confirmed. Faceted key bow, blunt teeth and raised seams remain. No engine changes; human ratings unset.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 80,
+  "moments": 48,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/brass-keeps-a-secret/session.json",
+  "image": "/paintings/brass-keeps-a-secret/finished.png",
+  "addedAt": "2026-11-02T23:10:19.201Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-02"
+},
+{
   "id": "red-can-after-rain",
   "title": "Red can after rain",
   "description": "A red watering can and trailing nasturtium on a quiet green ground.",

@@ -1,0 +1,18 @@
+{
+  "marks": 80,
+  "moments": 48,
+  "pause": {
+    "progress1": "Mark 3 of 80 · Watercolor",
+    "progress2": "Mark 3 of 80 · Watercolor",
+    "stable": true
+  },
+  "resumedTo": "Mark 4 of 80",
+  "finished": true,
+  "notesExpanded": true,
+  "mobile": {
+    "dialog": 352,
+    "dialogScroll": 350,
+    "docWidth": 390,
+    "width": 390
+  }
+}

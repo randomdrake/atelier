@@ -10625,5 +10625,114 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
-}
+},
+  {
+    "id": "brass-keeps-a-secret",
+    "title": "Brass keeps a secret",
+    "date": "2026-11-02",
+    "session": "examples/brass-keeps-a-secret.json",
+    "finishedImage": "examples/previews/brass-keeps-a-secret.png",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Build continuous broad warm and cool brass planes before sparse seams, with one compact shoulder reflection.",
+    "inspiration": {
+      "source": "Smithsonian brass padlock record; original imagined lock and loose key on plum cloth",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1868415"
+    },
+    "observations": [
+      {
+        "afterStroke": 12,
+        "text": "Diagonal washes softened the pale grid but left lanes."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Broad overlapping round oil faces filled the body; starts made scalloped crown."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Sampled shoulder and base joined scalloped starts into continuous vessel."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Densely sampled shackle stayed open and smoothly curved; left attachment shadow became blocky."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Broad warm shoulder neighbor removed the dark attachment boot at whole view."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Keyhole sweep left a pale center; loose key bow retained faceting."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Single interior pass filled keyhole; unequal teeth and watercolor contact established key."
+      },
+      {
+        "afterStroke": 37,
+        "text": "Single compact loaded shoulder reflection survived whole view."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Overlapping midtones joined striped face while retaining regular bristle relief."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Patina stayed quiet; upper rivet reads darker than lower."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Direct broad watercolor across pale cloth lanes reduced competition without oil relief."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Broad interiors filled key teeth; actual right pan showed blunt two-step end and faceted bow."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Small cloth notch separated key teeth; sampled bow neighbor changed color more than original faceting."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Thin broken lower seam still became a strong arc."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Broad brass neighbors reduced seam contrast while retaining relief."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Upper and lower periphery washes quieted pale background bars."
+      },
+      {
+        "afterStroke": 76,
+        "text": "Further broad brass neighbors quieted lower-left seam; dim rivet light stayed subordinate."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Final key and contact touches seated the loose key. Compact shoulder light and continuous brass planes hold; faceted bow, blunt teeth, raised lower seam and regular bristles remain. Stop: further covers unlikely to improve form."
+      }
+    ],
+    "evidence": [
+      "examples/brass-keeps-a-secret.json",
+      "examples/previews/brass-keeps-a-secret.png",
+      "artifacts/brass-keeps-a-secret/080-whole.jpg",
+      "artifacts/brass-keeps-a-secret/080-close.jpg",
+      "artifacts/brass-keeps-a-secret/080-lower.png",
+      "artifacts/brass-keeps-a-secret/080-key.png",
+      "artifacts/brass-keeps-a-secret/inspection-log.json",
+      "artifacts/brass-keeps-a-secret/live-receipt.json"
+    ],
+    "inspectionEvidence": "21 settled whole/2.0\u00d7close screenshot pairs, single 37 reflection test, lower 56/80 and right key pans; actual 900\u00d7620 PNG visually inspected.",
+    "engineRevision": "a65d77f50a326aef14af57a0e4b470b2a439970e",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer compare sampled shackle and key bow curves initially against later local repairs. Compare broad initial brass planes and a lower-contrast broken seam with late broad covers; judge color, silhouette and relief separately. Fresh subject next.",
+    "assessment": {
+      "source": "Actual PNG, 21 settled paired inspections and ended 80-mark public replay matching export.",
+      "humanRating": null,
+      "improvementClaim": "Observed corrections only; no controlled improvement claim."
+    }
+  }
 ]
