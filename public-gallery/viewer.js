@@ -1,6 +1,7 @@
 import {replayMomentDuration} from '/pacing.js';
 import {renderThought} from '/thought-links.js';
 import {renderGalleryTimestamp} from './date-time.js';
+import {collectionPage,collectionPageURL,PAINTINGS_PER_PAGE} from './pagination.js';
 import {prepareCameraForPainting} from '/camera.js';
 const $=id=>document.getElementById(id),dialog=$('viewer'),wrap=$('surface'),canvas=$('replay-canvas'),ctx=canvas.getContext('2d',{alpha:false});
 let catalog=[],selected=null,player=null,tour=null,camera=null,surface=null,pixels=null,paused=false,running=false,last=0,epoch=0;
@@ -63,10 +64,39 @@ function frame(now,token){
 $('play').onclick=replay;$('pause').onclick=()=>{paused=!paused;$('pause').textContent=paused?'Continue':'Pause';};$('show-finished').onclick=finishedView;
 $('close-viewer').onclick=()=>dialog.close();dialog.addEventListener('close',()=>{stop();history.replaceState(null,'','#collection');});dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close();});
 window.addEventListener('resize',()=>{if(running)wrap.style.height=`${wrap.clientWidth*620/900}px`;});
-try{
-  const response=await fetch('/catalog.json');if(!response.ok)throw new Error();catalog=await response.json();$('paintings').replaceChildren();
-  for(const entry of catalog){const article=document.createElement('article');article.className='painting';const picture=document.createElement('button');picture.className='picture';picture.setAttribute('aria-label',`View ${entry.title}`);const img=document.createElement('img');img.src=entry.image;img.alt=entry.title;img.loading='lazy';picture.append(img);picture.onclick=()=>openWork(entry);picture.onpointerenter=picture.onfocus=()=>warmReplay(entry);
+function renderCollection(requestedPage){
+  const current=collectionPage(catalog,requestedPage);
+  $('paintings').replaceChildren();
+  $('collection-pagination').hidden=current.pageCount===1;
+  $('collection-page-status').textContent=`Page ${current.page} of ${current.pageCount} · ${current.start}–${current.end} of ${current.total} paintings`;
+  for(const [id,page,disabled] of [['previous-page',current.page-1,current.page===1],['next-page',current.page+1,current.page===current.pageCount]]){
+    const link=$(id);
+    if(disabled){link.removeAttribute('href');link.setAttribute('aria-disabled','true');}
+    else{link.href=collectionPageURL(location.href,page);link.removeAttribute('aria-disabled');}
+  }
+  if(!current.total)$('paintings').textContent='The first painting is still to come.';
+  for(const entry of current.entries){const article=document.createElement('article');article.className='painting';const picture=document.createElement('button');picture.className='picture';picture.setAttribute('aria-label',`View ${entry.title}`);const img=document.createElement('img');img.src=entry.image;img.alt=entry.title;img.loading='lazy';picture.append(img);picture.onclick=()=>openWork(entry);picture.onpointerenter=picture.onfocus=()=>warmReplay(entry);
     const info=document.createElement('div');info.className='work-info';const meta=document.createElement('p');meta.className='eyebrow';meta.textContent=`${entry.media.join(' / ')} · ${entry.strokes} marks`;const title=document.createElement('h3');title.textContent=entry.title;const description=document.createElement('p');description.textContent=entry.description;const actions=document.createElement('div');actions.className='work-actions';for(const [label,watch] of [['View painting',false],['Watch it painted',true]]){const button=document.createElement('button');button.textContent=label;button.setAttribute('aria-label',`${label}: ${entry.title}`);button.onclick=()=>openWork(entry,watch);button.onpointerenter=button.onfocus=()=>warmReplay(entry);actions.append(button);}const date=document.createElement('p');date.className='work-date';renderGalleryTimestamp(date,entry);info.append(meta,title,date,description);if(entry.moments){readSession(entry).then(doc=>{const note=(doc.events||[]).filter(e=>e.text&&['learn','keep'].includes(e.kind)).at(-1)||(doc.events||[]).find(e=>e.text);if(!note)return;const quote=document.createElement('blockquote'),label=document.createElement('span'),words=document.createElement('p');quote.className='collection-thought';label.textContent='From the easel';renderThought(words,note.text);quote.append(label,words);info.insertBefore(quote,actions);}).catch(()=>{});}info.append(actions);article.append(picture,info);$('paintings').append(article);}
-  const entry=catalog.find(e=>`#painting/${e.id}`===location.hash);if(entry)openWork(entry);
-}catch{$('paintings').replaceChildren();$('collection-error').textContent='The paintings could not be opened. Please try refreshing the collection.';}
+  return current;
+}
+for(const id of ['previous-page','next-page'])$(id).addEventListener('click',event=>{
+  const link=event.currentTarget;
+  if(!link.hasAttribute('href')||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
+  event.preventDefault();history.pushState(null,'',link.href);
+  renderCollection(new URLSearchParams(location.search).get('page'));
+  $('collection-title').focus({preventScroll:true});$('collection-title').scrollIntoView({block:'start'});
+});
+let collectionLoaded=false;
+window.addEventListener('popstate',()=>{if(collectionLoaded)renderCollection(new URLSearchParams(location.search).get('page'));});
+try{
+  const response=await fetch('/catalog.json');if(!response.ok)throw new Error();catalog=await response.json();
+  const entryIndex=catalog.findIndex(e=>`#painting/${e.id}`===location.hash);
+  renderCollection(entryIndex>=0?Math.floor(entryIndex/PAINTINGS_PER_PAGE)+1:new URLSearchParams(location.search).get('page'));
+  collectionLoaded=true;
+  if(entryIndex>=0){
+    const url=new URL(location.href),page=Math.floor(entryIndex/PAINTINGS_PER_PAGE)+1;
+    if(page===1)url.searchParams.delete('page');else url.searchParams.set('page',String(page));
+    history.replaceState(null,'',url);openWork(catalog[entryIndex]);
+  }
+}catch{$('collection-pagination').hidden=true;$('paintings').replaceChildren();$('collection-error').textContent='The paintings could not be opened. Please try refreshing the collection.';}
 try{const response=await fetch('/practice/studies.json');if(response.ok){const studies=await response.json();for(const study of studies){const article=document.createElement('article');article.className='practice-entry';const h=document.createElement('h3');h.textContent=study.title;const observation=document.createElement('p');observation.textContent=study.observations.at(-1).text;const next=document.createElement('p');const label=document.createElement('strong');label.textContent='Next experiment: ';next.append(label,document.createTextNode(study.nextExperiment));article.append(h,observation,next);$('practice-studies').append(article);}}}catch{/* The painting collection remains available if the journal cannot be loaded. */}
