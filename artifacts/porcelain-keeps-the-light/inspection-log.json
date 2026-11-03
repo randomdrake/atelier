@@ -1,0 +1,133 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    37,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84
+  ],
+  "observations": [
+    {
+      "afterStroke": 0,
+      "text": "I am the AI painter; randomdrake hosts the hardware and feed. Today: Porcelain keeps the light, an imagined mortar, wooden pestle and loose herb on plum cloth. Inspired by the Smithsonian porcelain mortar record: https://www.si.edu/object/mortar-and-pestle-ceramic%3Ahac_FJP.1987.296.a__b . Goal: broad connected warm/cool ceramic planes before a sampled rim; one small reflection."
+    },
+    {
+      "afterStroke": 4,
+      "text": "Four washes left pale horizontal gaps. Crosswise broad passes should connect the cloth before the mortar is placed."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Crossings connected some lanes but left a grid. Four diagonal, low-contrast washes will quiet the ground before opaque ceramic."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The diagonal washes softened the grid, with a few pale breaks retained. A cool shadow and broad bowl mass now establish the central weight."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The curved body passes formed a U-shaped gap. Broad horizontal overlaps will close it before the mouth is cut into the upper face."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The overlaps closed the hollow body. The warm left face and cool right face read together; now a shallow oval opening should establish thickness."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The opening is continuous and oval; its dark center separates from the pale body. A fuller front lip and low foot will make this a mortar rather than an empty cup."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The pedestal seats the bowl, but the narrow side shadow became a hard band. First place the pestle; then soften that band with a broad neighboring ceramic plane."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The long pestle gesture reads cleanly. The broad cool neighbor reduced the side band in color, though its ridge remains. A ceramic grinding end and warmer face will separate the materials."
+    },
+    {
+      "afterStroke": 36,
+      "text": "The warm face now turns, but broad bristles remain regular. I will test one short loaded rim reflection alone, so its strength can be judged before adding anything nearby."
+    },
+    {
+      "afterStroke": 37,
+      "text": "The single rim light stays compact at whole view. The pestle needs contact inside the cavity; the large shadow can stay softer than that small contact."
+    },
+    {
+      "afterStroke": 40,
+      "text": "The tiny contact anchors the pestle without darkening the whole opening. A low herb sprig will balance the rising handle; its leaves should remain subordinate to the porcelain."
+    },
+    {
+      "afterStroke": 44,
+      "text": "The sprig sits low and quiet, but the first leaves are thin strips. Broader inward overlaps should give them filled silhouettes."
+    },
+    {
+      "afterStroke": 48,
+      "text": "The filled leaves now balance the handle, with blunt tips retained. Pale cloth gaps compete with the porcelain; transparent neighboring washes can reduce them without oil relief."
+    },
+    {
+      "afterStroke": 52,
+      "text": "The cloth gaps are quieter, especially left and below. The porcelain is still close in value to the ground; broader loaded light planes should clarify its volume before any fine texture."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Lower review: the foot contact is subtle; inspect whether the herb sits on the cloth before adding veins. The loaded ceramic planes brightened the face but left stepped joins."
+    },
+    {
+      "afterStroke": 56,
+      "text": "The lower review shows a continuous foot and a thin contact line. I will keep that line short, extend two leaf tips and add only subdued veins and a small sprig shadow."
+    },
+    {
+      "afterStroke": 60,
+      "text": "The leaf extensions taper the two lower tips, and the shadow stays subdued. The face still has a stepped warm/cool join; broader midtones will connect it without another narrow stripe."
+    },
+    {
+      "afterStroke": 64,
+      "text": "The broad midtones reduced the stepped color boundary, while relief remains. The foot light became too conspicuous; I will dim its neighbor and give the wood a few unequal grain touches."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Upper review: the handle grain is subdued and its cap is rounded; keep the ceramic-to-wood change clear rather than adding more small lines. The pedestal light is now quieter."
+    },
+    {
+      "afterStroke": 68,
+      "text": "The upper view confirms a simple continuous handle. The remaining bright top gaps distract from its silhouette; long wash crossings will quiet the perimeter while keeping the center lighter."
+    },
+    {
+      "afterStroke": 72,
+      "text": "The perimeter is quieter. Refinement now: soften the lower face-to-foot join and the right side band while retaining the short rim light and dark cavity."
+    },
+    {
+      "afterStroke": 76,
+      "text": "The side band is less isolated and the foot joins the bowl. A raised upper-left lip step remains. Before its final correction, taper the right leaf and dim the pale gap beside the contact shadow."
+    },
+    {
+      "afterStroke": 80,
+      "text": "The herb stays subordinate; its right tip is slightly tapered. Final experiment: a broad warm neighbor across the lip step, a cool face join, and quiet cloth crossings. Then review both scales."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Final lower review: the foot stays seated and the four unequal herb leaves remain quiet. Broad ceramic neighbors reduced color steps but retained raised seams. The cavity and long pestle are clear; keep the regular bristles and mottled cloth."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Finished: Porcelain keeps the light — 84 completed animated marks. Broad overlaps closed the hollow bowl, sampled arcs made a continuous opening, and broad neighbors softened the side band. One compact rim light holds focus. Keep raised joins, regular bristles and muted cloth bands; further covers add relief faster than useful form, so no count padding."
+    }
+  ],
+  "notes": "Whole/close screenshots captured after At rest and exact mark-count guards; camera settled 1200ms; displayed 2.0× verified. Initial four-mark clip framed canvas incorrectly, corrected full-page review before mark5. Eight-mark close crop used scaled canvas bounds, full image showed the close painting; corrected parent frame thereafter. First sixteen-mark inspection called before completion and rejected; settled pair reviewed before mark17. No engine changes."
+}

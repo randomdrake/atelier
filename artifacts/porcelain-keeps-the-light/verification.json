@@ -1,0 +1,40 @@
+{
+  "time": "2026-11-03T18:15:05.690099+00:00",
+  "tests": {
+    "passed": 101,
+    "failed": 0
+  },
+  "syntax": "passed",
+  "workerBuild": "passed",
+  "artifactVerification": {
+    "paintings": 103,
+    "privateFilesExcluded": true
+  },
+  "exports": {
+    "actualPNGByteEqualGallery": true,
+    "actualSessionEqualPlusCreationMetadata": true,
+    "endedFeedStrokesAndEventsDeepEqualActual": true
+  },
+  "regressions": {
+    "priorCatalogAndPracticeEntriesUnchanged": true
+  },
+  "gallery": {
+    "finished": true,
+    "guidedOpeningGoalSourceAndAttribution": true,
+    "recordedBrushSettings": true,
+    "pauseStable1500msAtMark": 4,
+    "continueAdvancedToMark": 8,
+    "returnFinished": true,
+    "expandedNotes": true,
+    "downloadLink": true
+  },
+  "phone": {
+    "viewport": 390,
+    "document": 390,
+    "dialog": 350,
+    "dialogScroll": 350,
+    "noHorizontalOverflow": true,
+    "viewportReset": true
+  },
+  "engineChanges": false
+}

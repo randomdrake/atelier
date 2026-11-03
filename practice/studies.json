@@ -10968,5 +10968,117 @@
       "humanRating": null,
       "improvementClaim": "Observed corrections only; no controlled improvement claim."
     }
+  },
+{
+  "id": "porcelain-keeps-the-light",
+  "title": "Porcelain keeps the light",
+  "date": "2026-11-03",
+  "session": "examples/porcelain-keeps-the-light.json",
+  "finishedImage": "examples/previews/porcelain-keeps-the-light.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad warm/cool ceramic planes before a sampled rim; preserve one compact focal reflection.",
+  "inspiration": {
+    "description": "Smithsonian porcelain mortar and partly wooden pestle record, interpreted as an original imagined still life on plum cloth with a loose herb sprig.",
+    "url": "https://www.si.edu/object/mortar-and-pestle-ceramic%3Ahac_FJP.1987.296.a__b"
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Diagonal crossings softened the cloth grid but retained pale breaks."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Curved body passes left a hollow U."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad horizontal overlaps closed the hollow bowl; warm and cool planes joined."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Sampled arcs and interior overlaps made a continuous oval cavity."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Pedestal seated the bowl; narrow side shadow became a hard band."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Broad cool neighbor reduced band color while retaining ridge; long pestle continuous."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Ceramic grinding end separates from wood; loaded warm plane turns face."
+    },
+    {
+      "afterStroke": 37,
+      "text": "Single short rim light stays compact at whole view."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Small contact anchors pestle inside cavity."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Broad inward overlaps filled herb leaves; tips blunt."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Transparent washes quieted pale cloth breaks."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Loaded face planes brightened ceramic and left stepped joins; lower review confirmed continuous foot and subtle contact."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Leaf extensions tapered lower tips; sprig shadow subdued."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Broad midtones reduced stepped color boundary but retained relief; foot reflection too bright."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Matching foot neighbor dimmed reflection; upper review confirmed continuous handle and subdued grain."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Perimeter washes reduced competing pale gaps."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Broad neighbors connected bowl to foot and reduced right band; upper-left lip acquired raised step."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Herb stays subordinate and right leaf tip slightly tapered; pale contact gap dimmed."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Final neighbors softened color steps slightly, retaining raised lip and seams. Keep regular bristles and muted cloth bands; further covers add relief faster than form."
+    }
+  ],
+  "evidence": [
+    "examples/porcelain-keeps-the-light.json",
+    "examples/previews/porcelain-keeps-the-light.png",
+    "artifacts/porcelain-keeps-the-light/084-whole.jpg",
+    "artifacts/porcelain-keeps-the-light/084-close.jpg",
+    "artifacts/porcelain-keeps-the-light/084-lower.jpg",
+    "artifacts/porcelain-keeps-the-light/068-upper.jpg",
+    "artifacts/porcelain-keeps-the-light/inspection-log.json",
+    "artifacts/porcelain-keeps-the-light/live-receipt.json"
+  ],
+  "inspectionEvidence": "22 settled whole/2.0×close reviews; separate lower56/84 and upper68; actual900×620PNG inspected.",
+  "engineRevision": "7d80032d96350114b6e89942b22b34d25d90400f",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "At fixed palette compare initially filled ceramic planes with curved outline plus horizontal repairs. Compare broad warm/cool neighbors with narrow shadow bands, judging color and relief separately. Keep foot reflection below rim strength from the start. Fresh subject next.",
+  "assessment": {
+    "source": "Actual exported PNG, paired browser inspections and ended feed matching actual export.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
-]
+}]

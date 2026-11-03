@@ -1,0 +1,12 @@
+{
+  "sessionId": "0eed49ec-447b-41b4-83b6-6d28f33102eb",
+  "sequence": 112,
+  "receivedAt": 1793729516238,
+  "status": "ended",
+  "live": false,
+  "painter": "AI agent",
+  "completedStrokes": 84,
+  "events": 50,
+  "strokesMatchActualExport": true,
+  "eventsMatchActualExport": true
+}
