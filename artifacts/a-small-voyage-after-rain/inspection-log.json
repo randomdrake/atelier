@@ -1,0 +1,28 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    37,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80
+  ],
+  "pairedInspections": 21,
+  "settleMs": 1200,
+  "notes": "Actual whole and 2.0× close views after every animated batch; lower focus reviews at 56 and 80. Initial viewport clipping corrected with 1280×1400 viewport before the first pair."
+}

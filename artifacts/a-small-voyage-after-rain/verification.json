@@ -1,0 +1,19 @@
+{
+  "tests": 101,
+  "syntax": "passed",
+  "workerBuild": "passed",
+  "privacyArtifactPaintings": 102,
+  "finishedView": true,
+  "guidedOpening": true,
+  "pauseStable": "Mark8 for1500ms",
+  "resumed": "Mark15 oil observed",
+  "returnToFinished": true,
+  "expandedNotes": true,
+  "phone": {
+    "dialog": 350,
+    "document": 390,
+    "scroll": 350,
+    "viewport": 390
+  },
+  "limitations": "Second pause timed out during animation; inspected resumed Mark15, then paused and returned successfully. First lower80 clip framed notebook; corrected actual viewport image inspected before exports."
+}

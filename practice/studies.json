@@ -10855,5 +10855,118 @@
       "humanRating": null,
       "improvementClaim": "Observed corrections only; no controlled improvement claim."
     }
+  },
+  {
+    "id": "a-small-voyage-after-rain",
+    "title": "A small voyage after rain",
+    "date": "2026-11-03",
+    "session": "examples/a-small-voyage-after-rain.json",
+    "finishedImage": "examples/previews/a-small-voyage-after-rain.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "goal": "Connect broad warm and cool folded-paper planes before sparse creases, keeping one small reflected edge.",
+    "inspiration": {
+      "source": "Herreshoff Marine Museum paper-boat activity; original imagined boat and fallen leaf on rain-dark pavement.",
+      "url": "https://herreshoff.org/2020/05/paper-boats/"
+    },
+    "observations": [
+      {
+        "afterStroke": 12,
+        "text": "Crossing washes softened pale lanes but retained two dark columns."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Hull mass reads; upright fold initially a curved strip."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Overlaps made a triangular face but left an upper window."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Broad paper passes closed the window; cool right face stayed ridged."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Acrylic test changed existing visible oil relief very little."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Loaded oil restored warm light; lower cover left grey island; seam readable."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Warm neighbors reduced grey island; cool fold separate."
+      },
+      {
+        "afterStroke": 37,
+        "text": "Single short rim light stayed quiet among bristles."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Watercolor reflections remained faint at whole view."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Thin oil fragments became visible under hull, with some relief."
+      },
+      {
+        "afterStroke": 48,
+        "text": "One low warm leaf balances upright fold."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Background crossings reduced upper columns; leaf vein subdued."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Lower review showed heavy contact, isolated reflection bars and bright fold tab."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Broad paper neighbor reduced tab contrast; washes changed shadow margins slightly."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Sampled wet-ground curves stayed very subdued; checkpoint exported."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Central ridge less isolated in color, still raised."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Leaf remains subordinate; perimeter quieter."
+      },
+      {
+        "afterStroke": 76,
+        "text": "Seam ends softened in color but gained raised tabs."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Broader paper neighbors joined tabs slightly. Keep regular bristles, heavy shadow and banded pavement; more covering adds relief faster than form."
+      }
+    ],
+    "evidence": [
+      "examples/a-small-voyage-after-rain.json",
+      "examples/previews/a-small-voyage-after-rain.png",
+      "artifacts/a-small-voyage-after-rain/080-whole.png",
+      "artifacts/a-small-voyage-after-rain/080-close.png",
+      "artifacts/a-small-voyage-after-rain/080-lower.png",
+      "artifacts/a-small-voyage-after-rain/inspection-log.json",
+      "artifacts/a-small-voyage-after-rain/live-receipt.json"
+    ],
+    "inspectionEvidence": "21 settled whole/2.0×close screenshot pairs; lower56/80 reviews; actual 900×620 exported PNG inspected.",
+    "engineRevision": "adc56c2882672416b7c6d2a9fe4f765621deb655",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "On isolated fixed-palette swatches compare acrylic-before-oil and acrylic-over-oil with loaded oil covers; judge visible color and relief separately. Start folded paper planes broader and thinner to avoid late ridge repairs. Fresh subject next.",
+    "assessment": {
+      "source": "Actual exported PNG, paired browser inspections, ended live receipt matching export.",
+      "humanRating": null,
+      "improvementClaim": "Observed corrections only; no controlled improvement claim."
+    }
   }
 ]
