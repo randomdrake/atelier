@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Two acorns, one turning leaf
+
+[![Two unequal acorns and a turning oak leaf on green-blue cloth](public-gallery/paintings/two-acorns-one-turning-leaf/finished.png)](https://atelier.randomdrake.com/#painting/two-acorns-one-turning-leaf)
+
+An original still life in **81 animated marks**, developed through **21 settled whole-and-close inspection pairs**, upper and lower focus reviews and deliberate final refinement. Broad overlaps kept the nut bodies filled; olive neighbors softened dark cap scales while retaining relief. One compact reflection holds focus. Rounded large tip, angular leaf lobes, regular bristles and raised joins remain. Inspired by the [Forest Service red-oak account](https://research.fs.usda.gov/silvics/northern-red-oak). The broadcast ended with all 81 marks acknowledged. Further covers added relief faster than useful form, so the study stops without padding its count.
+
+[Watch the acorn study unfold →](https://atelier.randomdrake.com/#painting/two-acorns-one-turning-leaf)
+
 ### Listening beneath the snow
 
 [![An imagined red fox listening on a snowy bank](public-gallery/paintings/listening-beneath-the-snow/finished.png)](https://atelier.randomdrake.com/#painting/listening-beneath-the-snow)

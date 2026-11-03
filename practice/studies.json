@@ -11442,5 +11442,122 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
-}
+},
+  {
+    "id": "two-acorns-one-turning-leaf",
+    "title": "Two acorns, one turning leaf",
+    "date": "2026-11-03",
+    "session": "examples/two-acorns-one-turning-leaf.json",
+    "finishedImage": "examples/previews/two-acorns-one-turning-leaf.png",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Join broad warm/cool nut planes before sparse cap texture, keeping one compact reflection.",
+    "inspiration": {
+      "description": "US Forest Service northern red-oak account, interpreted as an original imagined pair of unequal acorns and a turning oak leaf on green-blue cloth.",
+      "url": "https://research.fs.usda.gov/silvics/northern-red-oak"
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Crosswise washes softened pale lanes."
+      },
+      {
+        "afterStroke": 12,
+        "text": "First broad nut planes stayed filled but shoulder forked."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Cap bridged fork; smaller nut had a split lower end."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Crossing face closed smaller body and cap read whole."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Leaf connected but angular."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Narrow warm planes made internal light bars."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Broad neighbors softened bar color while retaining relief."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Bent stems clarified caps; unequal rim lights stayed quiet."
+      },
+      {
+        "afterStroke": 37,
+        "text": "Single compact reflection survived whole view."
+      },
+      {
+        "afterStroke": 41,
+        "text": "Sampled fold read clearly; watercolor contacts remained soft."
+      },
+      {
+        "afterStroke": 45,
+        "text": "First cap-scale row too dark, reading as brackets."
+      },
+      {
+        "afterStroke": 49,
+        "text": "Olive neighbors subdued bracket color while retaining ridges; smaller cap quieter."
+      },
+      {
+        "afterStroke": 53,
+        "text": "Branch veins remained subordinate to central fold."
+      },
+      {
+        "afterStroke": 57,
+        "text": "Smaller tip tapered; large end rounded with visible join."
+      },
+      {
+        "afterStroke": 61,
+        "text": "Perimeter washes quieted pale edges."
+      },
+      {
+        "afterStroke": 65,
+        "text": "Leaf lip more irregular but raised joins remain."
+      },
+      {
+        "afterStroke": 69,
+        "text": "Sparse longitudinal grain quiet whole and visible close."
+      },
+      {
+        "afterStroke": 73,
+        "text": "Lower wash softened broad floating shadow without new oil relief."
+      },
+      {
+        "afterStroke": 77,
+        "text": "Final body neighbors changed color modestly but built raised pads."
+      },
+      {
+        "afterStroke": 81,
+        "text": "Leaf neighbors softened color and stem transition joined; stop because more covers add relief faster than useful form."
+      }
+    ],
+    "evidence": [
+      "examples/two-acorns-one-turning-leaf.json",
+      "examples/previews/two-acorns-one-turning-leaf.png",
+      "artifacts/two-acorns-one-turning-leaf/081-whole.jpg",
+      "artifacts/two-acorns-one-turning-leaf/081-close.jpg",
+      "artifacts/two-acorns-one-turning-leaf/049-upper.jpg",
+      "artifacts/two-acorns-one-turning-leaf/069-lower.jpg",
+      "artifacts/two-acorns-one-turning-leaf/inspection-log.json",
+      "artifacts/two-acorns-one-turning-leaf/live-receipt.json"
+    ],
+    "inspectionEvidence": "21 settled whole/2.0\u00d7close pairs; upper49 and lower69 pans; actual900\u00d7620PNG visually inspected.",
+    "engineRevision": "d1f02b45ae4416e66ada7d87b8d540e4f06adc62",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "Fixed palette and renderer: compare initially broad joined nut planes with narrow planes plus repairs; assess color and relief separately. Begin cap scales with the lower contrast used on the smaller cap; densely sample leaf lobes from the outset. Fresh subject next.",
+    "assessment": {
+      "source": "Actual exported PNG, settled screenshot pairs and ended public feed matching browser export.",
+      "humanRating": null,
+      "improvementClaim": "Observed corrections only; no controlled improvement claim."
+    }
+  }
 ]
