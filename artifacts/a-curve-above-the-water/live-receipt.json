@@ -1,0 +1,11 @@
+{
+  "sessionId": "1d65a6f5-8618-43a2-9337-c13093d70407",
+  "sequence": 120,
+  "active": false,
+  "pendingStart": false,
+  "lastAcceptedAt": 1793722556661,
+  "marks": 92,
+  "events": 55,
+  "publicReplayMatchesExport": true,
+  "status": "ended"
+}

@@ -1,4 +1,22 @@
 [
+  {
+    "id": "a-curve-above-the-water",
+    "title": "A curve above the water",
+    "description": "An imagined avocet with a gently upturned bill, unequal reeds and quiet blue-green shallows.",
+    "process": "Painted live in 92 animated marks across 24 batches of one to four, each followed by settled whole and 2× close screenshots. Broad overlaps filled the body before wing markings; an initially sampled bill stayed smoothly curved. A single crown-light test and lower/upper camera reviews guided focused refinement. Broad neighbors softened wing bars and shoulder endpoints, while water covers changed color more than raised oil ripples. Regular bristles and square toe bends remain. Live notes and cameras recorded throughout; broadcast ended with all 92 marks acknowledged. Human ratings remain unset.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 92,
+    "moments": 55,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/a-curve-above-the-water/session.json",
+    "image": "/paintings/a-curve-above-the-water/finished.png",
+    "addedAt": "2026-11-03T16:17:01.873Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-03"
+  },
 {
   "id": "brass-keeps-a-secret",
   "title": "Brass keeps a secret",

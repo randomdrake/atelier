@@ -1,0 +1,19 @@
+{
+  "tests": 97,
+  "syntax": "passed",
+  "workerBuild": "passed",
+  "privacyArtifactPaintings": 101,
+  "finishedView": true,
+  "guidedOpening": true,
+  "pauseStable": "Mark 4 for 1500 ms",
+  "resumed": "Mark 6 then 8",
+  "returnToFinished": true,
+  "expandedNotes": true,
+  "phone": {
+    "dialog": 350,
+    "document": 390,
+    "scroll": 350,
+    "width": 390
+  },
+  "limitations": "First View finished click timed out during animation; inspected state, paused, then successful return."
+}

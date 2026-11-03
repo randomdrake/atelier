@@ -10734,5 +10734,126 @@
       "humanRating": null,
       "improvementClaim": "Observed corrections only; no controlled improvement claim."
     }
+  },
+  {
+    "id": "a-curve-above-the-water",
+    "title": "A curve above the water",
+    "date": "2026-11-03",
+    "session": "examples/a-curve-above-the-water.json",
+    "finishedImage": "examples/previews/a-curve-above-the-water.png",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Join broad body planes before wing markings, then use a carefully sampled continuous curve for the slender upturned bill.",
+    "inspiration": {
+      "source": "Smithsonian American avocet profile; original imagined bird in quiet shallows with unequal reeds",
+      "url": "https://nationalzoo.si.edu/animals/american-avocet"
+    },
+    "observations": [
+      {
+        "afterStroke": 12,
+        "text": "Crosswise washes reduced pale horizontal water lanes."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Broad overlapping oil passes made a filled body with cool belly and scalloped back."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Overlapping neck and head strokes joined the breast cleanly; head remained blocky."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Initially sampled bill made a gentle continuous upturn; long unequal legs reached water but roots floated slightly."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Dark wing mass remained filled; broader belly joined the leg roots."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Cream wing groups read as blunt bars; tapered tail extended silhouette."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Broader cream joins softened bars; small dark eye stayed quiet."
+      },
+      {
+        "afterStroke": 37,
+        "text": "Single compact loaded crown light survived whole view."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Toe gestures seated feet but made square bends."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Broad breast neighbors mixed cooler than expected."
+      },
+      {
+        "afterStroke": 48,
+        "text": "More loaded pale paint survived but left rectangular starts and regular relief."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Wider neighbor dimmed breast step; watercolor reflections spread into lower edge."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Horizontal crossings softened reflection columns; thin oil ripples became raised rails."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Three tapered reeds balanced long bill and stayed subordinate."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Unequal blades broadened reed root; watercolor changed oil ripple bars little."
+      },
+      {
+        "afterStroke": 72,
+        "text": "Grass roots sat in broad washes; actual lower review showed square toe bends and raised ripples."
+      },
+      {
+        "afterStroke": 76,
+        "text": "Slender light clarified far leg; broad water crossing softened surrounding contrast but retained ripple relief."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Upper review confirmed compact crown light and eye; bill curve checked at whole view."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Wing transitions became less bar-like but a rounded dark endpoint remained."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Broad pale shoulder neighbor softened endpoint; peripheral water gaps quieted."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Dim feather plane, warm reed tip and broad water neighbors settled composition. Keep regular bristles, square toes and raised ripple rails; more covers unlikely to improve form."
+      }
+    ],
+    "evidence": [
+      "examples/a-curve-above-the-water.json",
+      "examples/previews/a-curve-above-the-water.png",
+      "artifacts/a-curve-above-the-water/092-whole.jpg",
+      "artifacts/a-curve-above-the-water/092-close.jpg",
+      "artifacts/a-curve-above-the-water/092-lower.png",
+      "artifacts/a-curve-above-the-water/080-upper.png",
+      "artifacts/a-curve-above-the-water/inspection-log.json",
+      "artifacts/a-curve-above-the-water/live-receipt.json"
+    ],
+    "inspectionEvidence": "24 settled whole/2.0×close screenshot pairs, single 37 crown-light test, lower 72/92 and upper 80 focus reviews; actual 900×620 PNG visually inspected.",
+    "engineRevision": "25c3af113a5a9f025044445e13d396c3c776c2af",
+    "model": "GPT-6 (specific variant unavailable)",
+    "nextExperiment": "At fixed palette and renderer compare an initially densely sampled slender curve with later local repairs. On isolated water swatches compare watercolor ripples with thin oil ripples, judging color and relief separately. Keep initial feather markings broad. Fresh subject next.",
+    "assessment": {
+      "source": "Actual PNG, 24 paired inspections and ended 92-mark public replay matching export.",
+      "humanRating": null,
+      "improvementClaim": "Observed corrections only; no controlled improvement claim."
+    }
   }
 ]
