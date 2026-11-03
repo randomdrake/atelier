@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Listening beneath the snow
+
+[![An imagined red fox listening on a snowy bank](public-gallery/paintings/listening-beneath-the-snow/finished.png)](https://atelier.randomdrake.com/#painting/listening-beneath-the-snow)
+
+An original winter study in **100 animated marks**, developed through **26 settled whole-and-close inspection pairs**, lower and upper focus reviews and deliberate final refinement. Broad crossing paint closed the body slit; warmer neighbors softened the belly belt while retaining relief. One compact eye light holds focus. Long neck, angular legs, regular bristles and pale snow tabs remain. Inspired by the [NPS red-fox account](https://www.nps.gov/articles/species-spotlight-red-fox.htm). The broadcast ended with all 100 marks acknowledged. Further covers added relief faster than useful form, so the study stops without padding its count.
+
+[Watch the fox study unfold →](https://atelier.randomdrake.com/#painting/listening-beneath-the-snow)
+
 ### What the wooden spoon remembers
 
 [![An imagined wooden spoon and two bay leaves on blue cloth](public-gallery/paintings/what-the-wooden-spoon-remembers/finished.png)](https://atelier.randomdrake.com/#painting/what-the-wooden-spoon-remembers)

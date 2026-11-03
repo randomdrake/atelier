@@ -1,0 +1,25 @@
+{
+  "tests": 101,
+  "syntax": true,
+  "fullWorkerBuild": true,
+  "artifactPaintings": 106,
+  "actualPNGMatchesGallery": true,
+  "replayMatchesActualPlusMetadata": true,
+  "priorCatalogueUnchanged": 105,
+  "priorPracticeUnchanged": 102,
+  "openingGoalSourceAttributionBrushCamera": true,
+  "pause": {
+    "mark": 8,
+    "heldMs": 1500
+  },
+  "continueMark": 12,
+  "returnFinished": true,
+  "expandedNotes": true,
+  "phone": {
+    "viewport": 390,
+    "documentWidth": 390,
+    "dialogWidth": 352,
+    "dialogScrollWidth": 350
+  },
+  "humanRating": null
+}

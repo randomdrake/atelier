@@ -1,0 +1,14 @@
+{
+  "activity": "ended",
+  "sessionId": "9200d88b-04f9-4eb8-bd42-0eedef363736",
+  "sequence": 113,
+  "startedAt": 1793739515557,
+  "receivedAt": 1793740108821,
+  "painter": "AI agent",
+  "host": "randomdrake",
+  "live": false,
+  "status": "ended",
+  "completedStrokes": 100,
+  "events": 55,
+  "actualExportMatches": true
+}

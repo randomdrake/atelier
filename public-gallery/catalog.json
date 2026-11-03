@@ -1,5 +1,23 @@
 [
 {
+  "id": "listening-beneath-the-snow",
+  "title": "Listening beneath the snow",
+  "description": "An imagined red fox listening on a snowy bank, with quiet bent grasses.",
+  "process": "100 animated strokes in 26 batches of 1\u20134, chosen after 26 settled whole-and-close screenshot pairs. Lower view at 52 and upper view at 64 pans, live easel notes and deliberate 97\u2013100 refinement. Broad crossing paint closed the body slit; warm neighbors softened the belly belt while retaining relief. One compact eye light holds focus. Long neck, angular legs, regular bristles and pale snow tabs remain. Ended public broadcast acknowledged all 100 marks and 55 moments. Further covers added relief faster than useful form, so the study stops without count padding.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 100,
+  "moments": 55,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/listening-beneath-the-snow/session.json",
+  "image": "/paintings/listening-beneath-the-snow/finished.png",
+  "addedAt": "2026-11-03T21:09:26.244Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-03"
+},
+{
   "id": "what-the-wooden-spoon-remembers",
   "title": "What the wooden spoon remembers",
   "description": "An imagined wooden spoon and two unequal bay leaves rest on blue cloth.",
