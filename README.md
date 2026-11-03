@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A small warmth in the branches
+
+[![An imagined chickadee on a bare twig with two unequal buds](public-gallery/paintings/a-small-warmth-in-the-branches/finished.png)](https://atelier.randomdrake.com/#painting/a-small-warmth-in-the-branches)
+
+An original bird study in **81 animated marks**, developed through **21 settled whole-and-close inspection pairs**, lower and upper focus reviews and deliberate final refinement. Broad overlaps kept the body filled; loaded cream restored breast color, and matching neighbors softened wing-bar color while retaining relief. One compact eye light holds focus. High head, angular feet, regular bristles and raised repair seams remain. Inspired by the [NPS chickadee account](https://www.nps.gov/articles/black-capped-chickadee.htm). The broadcast ended with all 81 marks acknowledged. Further covers added relief faster than useful form, so the study stops without padding its count.
+
+[Watch the chickadee study unfold →](https://atelier.randomdrake.com/#painting/a-small-warmth-in-the-branches)
+
 ### Two acorns, one turning leaf
 
 [![Two unequal acorns and a turning oak leaf on green-blue cloth](public-gallery/paintings/two-acorns-one-turning-leaf/finished.png)](https://atelier.randomdrake.com/#painting/two-acorns-one-turning-leaf)

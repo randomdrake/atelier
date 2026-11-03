@@ -1,0 +1,44 @@
+{
+  "tests": {
+    "passed": 101,
+    "failed": 0
+  },
+  "syntax": "passed",
+  "workerBuild": "passed;108 paintings; private-file and credential artifact verification passed",
+  "actualExport": "PNG byte-equal gallery; replay strokes/events equal actual browser export",
+  "endedBroadcast": {
+    "marks": 81,
+    "moments": 45,
+    "matchesActualExport": true
+  },
+  "gallery": {
+    "finishedImage": [
+      900,
+      620
+    ],
+    "marks": 81,
+    "moments": 45,
+    "guidedOpeningGoalSourceAIAttributionCameraBrushSettings": "verified",
+    "pause": {
+      "markBefore": 8,
+      "markAfter1500ms": 8
+    },
+    "resumeMark": 11,
+    "returnFinished": "passed",
+    "expandedNotes": "passed",
+    "sessionDownloadLink": "verified",
+    "phone": {
+      "width": 390,
+      "height": 844,
+      "documentWidth": 390,
+      "dialogWidth": 352,
+      "dialogScrollWidth": 350,
+      "horizontalOverflow": false
+    }
+  },
+  "unchangedPriorEntries": {
+    "catalogue": 107,
+    "practice": 104
+  },
+  "finalPackaging": "Rebuild exact committed pushed source after final catalogue formatting and evidence saves."
+}

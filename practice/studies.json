@@ -11559,5 +11559,126 @@
       "humanRating": null,
       "improvementClaim": "Observed corrections only; no controlled improvement claim."
     }
+  },
+{
+  "id": "a-small-warmth-in-the-branches",
+  "title": "A small warmth in the branches",
+  "date": "2026-11-03",
+  "session": "examples/a-small-warmth-in-the-branches.json",
+  "finishedImage": "examples/previews/a-small-warmth-in-the-branches.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad warm and cool body planes before sparse feather accents; keep one compact eye light.",
+  "inspiration": {
+    "source": "National Park Service black-capped chickadee account; original imagined bird and branch composition.",
+    "url": "https://www.nps.gov/articles/black-capped-chickadee.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Four washes left horizontal pale lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Crossings softened lanes but made a grid."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Broad bridges quieted pale gaps; long diagonal perch established."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Body stayed filled; first head gesture made long neck."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Shoulder joined; cap and tail read but head high."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Tapered bill and bib separated cheek; wing filled."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Bent feet met twig; eye quiet."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Cool breast pass mixed dark grey island."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Loaded cream restored breast color with raised edges; wing accents joined into pale bend."
+    },
+    {
+      "afterStroke": 37,
+      "text": "Single compact eye light survived whole view."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Offshoot and unequal buds balanced tail."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Bib filled from U shape; cheek clear; belly pad raised."
+    },
+    {
+      "afterStroke": 49,
+      "text": "Branch light subordinate; lower review confirmed contact and angular legs."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Belly feather marks subtle; wing direction clearer close."
+    },
+    {
+      "afterStroke": 57,
+      "text": "Bud and bark accents stayed subdued."
+    },
+    {
+      "afterStroke": 61,
+      "text": "Perimeter washes quieted outer gaps."
+    },
+    {
+      "afterStroke": 65,
+      "text": "Broad wing neighbor reduced pale bar color while relief remained; upper review kept eye and bill clear."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Warm flank separated wing but raised island appeared."
+    },
+    {
+      "afterStroke": 73,
+      "text": "Broad neighbors joined flank color; twig endpoint tapered."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Breast turn rounder; shoulder cover added vertical raised edge."
+    },
+    {
+      "afterStroke": 81,
+      "text": "Final washes quieted gaps and bud stem joined; matching shoulder cover changed color modestly while adding relief. Stop before further covers."
+    }
+  ],
+  "evidence": [
+    "examples/a-small-warmth-in-the-branches.json",
+    "examples/previews/a-small-warmth-in-the-branches.png",
+    "artifacts/a-small-warmth-in-the-branches/081-whole.jpg",
+    "artifacts/a-small-warmth-in-the-branches/081-close.jpg",
+    "artifacts/a-small-warmth-in-the-branches/049-lower.jpg",
+    "artifacts/a-small-warmth-in-the-branches/065-upper.jpg",
+    "artifacts/a-small-warmth-in-the-branches/inspection-log.json",
+    "artifacts/a-small-warmth-in-the-branches/live-receipt.json"
+  ],
+  "inspectionEvidence": "21 settled whole/2.0\u00d7close pairs; lower49 and upper65 focus reviews; actual900\u00d7620PNG visually inspected.",
+  "engineRevision": "53e3fa9aa4a298060a7a4df7a2688f40d9611f16",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed palette and renderer: compare initially broad filled bird planes with narrow planes plus repairs; assess color and relief separately. Start head lower and leg bends more densely sampled. Keep wing accents low contrast from the outset. Fresh subject next.",
+  "assessment": {
+    "source": "Actual exported PNG, settled screenshot pairs and ended public feed matching browser export.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+}
 ]

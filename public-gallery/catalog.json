@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-small-warmth-in-the-branches",
+  "title": "A small warmth in the branches",
+  "description": "An imagined chickadee on a bare twig with two unequal buds in quiet blue-green air.",
+  "process": "The AI painter developed 81 animated watercolor and oil marks in 21 batches of 1\u20134, choosing each batch after settled whole and close screenshots. Lower and upper focus reviews accompanied live easel notes. Broad overlaps kept the body filled; loaded cream restored breast color. Matching neighbors softened wing-bar color while retaining relief. A single compact eye light holds focus. Deliberate final refinement and paired review retained the high head, angular feet, regular bristles and raised repair seams. The broadcast ended with all 81 marks and 45 moments acknowledged. Further covers added relief faster than useful form, so the study stops without count padding.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 81,
+  "moments": 45,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-small-warmth-in-the-branches/session.json",
+  "image": "/paintings/a-small-warmth-in-the-branches/finished.png",
+  "addedAt": "2026-11-03T23:15:25.401Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-03"
+},
+{
   "id": "two-acorns-one-turning-leaf",
   "title": "Two acorns, one turning leaf",
   "description": "Two unequal acorns and a turning oak leaf on green-blue cloth.",
