@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A small hoard of light
+
+[![An imagined red squirrel holding a hazelnut on a mossy branch](public-gallery/paintings/a-small-hoard-of-light/finished.png)](https://atelier.randomdrake.com/#painting/a-small-hoard-of-light)
+
+An original woodland study in **112 animated marks**, developed through **29 settled whole-and-close inspection pairs**, upper and lower focus reviews and deliberate final refinement. Broad overlaps kept fur planes filled; warm neighbors softened the arm rail and paw overlaps rounded the held nut. A compact eye light holds focus. Oversized curl, regular bristles, soft woodland bands and raised joins remain. Inspired by the [Forestry and Land Scotland squirrel guide](https://forestryandland.gov.scot/living-and-working/learning-and-education/wildlife/red-squirrel). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the squirrel study unfold →](https://atelier.randomdrake.com/#painting/a-small-hoard-of-light)
+
 ### Green silence on cedar
 
 [![An imagined green luna moth resting on weathered cedar](public-gallery/paintings/green-silence-on-cedar/finished.png)](https://atelier.randomdrake.com/#painting/green-silence-on-cedar)

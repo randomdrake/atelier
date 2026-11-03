@@ -11081,4 +11081,134 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "a-small-hoard-of-light",
+  "title": "A small hoard of light",
+  "date": "2026-11-03",
+  "session": "examples/a-small-hoard-of-light.json",
+  "finishedImage": "examples/previews/a-small-hoard-of-light.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad warm/cool fur planes before sparse accents and preserve one compact eye light.",
+  "inspiration": {
+    "description": "Forestry and Land Scotland red-squirrel guide, interpreted as an original imagined squirrel holding a hazelnut on a mossy fallen branch with two leaves.",
+    "url": "https://forestryandland.gov.scot/living-and-working/learning-and-education/wildlife/red-squirrel"
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Diagonal crossings softened pale windows but retained woodland bands."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Long tail gestures formed a continuous curl with a faceted cap."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Overlapping body planes stayed filled from the start."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Head, muzzle and chest joined without a hollow shape."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Paws reached the nut; upper arm became a dark rail."
+    },
+    {
+      "afterStroke": 37,
+      "text": "Single loaded eye light remained compact in whole view."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Broad warm neighbors reduced arm contrast while retaining raised joins."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Outer light and inner shadow turned the tail, with a blunt back-light tab."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Transparent perimeter washes reduced competing pale gaps."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Broad shoulder neighbor connected the back but widened its silhouette; lower review confirmed seated contact."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Sparse tapered fur gestures made small notches with little change to the broad curl."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Cheek clarified muzzle; whiskers faint and cheek step raised."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Upper review confirmed continuous crown and unequal ears; tufts subtle."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Shaded nut underside and paw overlaps made a rounder held form."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Sampled tail turn rounded the cap but made it too bright."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Matching midtones quieted chest and cap color slightly, retaining relief."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Two muted leaves balanced the large tail; ends blunt and inner slit visible."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Inward overlaps reduced leaf slit slightly; tips remained rounded."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Quiet midribs and a small foot plane clarified structure; foot too bright."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Transparent local washes reduced the pale wedge beneath the tail."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Matching tail and foot covers changed color slightly but retained raised bright ridges."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Cheek, neck and paw planes connected more closely with raised joins remaining."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final back neighbors and surrounding washes joined color slightly. Keep oversized curl, regular bristles, soft bands and raised tail/foot joins; further covers add relief faster than useful form."
+    }
+  ],
+  "evidence": [
+    "examples/a-small-hoard-of-light.json",
+    "examples/previews/a-small-hoard-of-light.png",
+    "artifacts/a-small-hoard-of-light/112-whole.jpg",
+    "artifacts/a-small-hoard-of-light/112-close.jpg",
+    "artifacts/a-small-hoard-of-light/056-lower.jpg",
+    "artifacts/a-small-hoard-of-light/068-upper.jpg",
+    "artifacts/a-small-hoard-of-light/096-lower.jpg",
+    "artifacts/a-small-hoard-of-light/inspection-log.json",
+    "artifacts/a-small-hoard-of-light/live-receipt.json"
+  ],
+  "inspectionEvidence": "29 settled whole/2.0\u00d7close screenshot pairs, lower56/96 and upper68; actual900\u00d7620 exported PNG inspected.",
+  "engineRevision": "8fa385d0115965c8f3a81f9f25bf2b68cc851952",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed palette and renderer: compare initial broad low-body filled fur planes with curved outline plus repairs, then compare broad matching neighbors with narrow bands. Judge color and raised relief separately; keep tail and foot lights below eye contrast from the start. Fresh subject next.",
+  "assessment": {
+    "source": "Actual exported PNG, paired browser inspections and ended feed matching actual export.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }]

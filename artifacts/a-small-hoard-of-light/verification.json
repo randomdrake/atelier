@@ -1,0 +1,36 @@
+{
+  "tests": {
+    "passed": 101,
+    "failed": 0
+  },
+  "syntaxChecks": "passed",
+  "fullWorkerBuild": "passed",
+  "artifactVerification": {
+    "paintings": 104,
+    "privateFilesExcluded": true
+  },
+  "actualPngMatchesGallery": true,
+  "replayStrokesEventsMatchActualExport": true,
+  "priorPracticeEntriesUnchanged": 100,
+  "priorCatalogEntriesUnchanged": 103,
+  "galleryQA": {
+    "finishedImageLoaded": true,
+    "marks": 112,
+    "moments": 62,
+    "openingGoalAndAIAttribution": true,
+    "cameraAndBrushSettings": true,
+    "pauseMark": 8,
+    "pauseHeldMs": 1500,
+    "continueAdvancedToMark": 9,
+    "returnToFinished": true,
+    "expandedNotes": true,
+    "sessionDownloadLink": true,
+    "phone": {
+      "viewport": 390,
+      "document": 390,
+      "dialog": 350,
+      "dialogScroll": 350,
+      "horizontalOverflow": false
+    }
+  }
+}

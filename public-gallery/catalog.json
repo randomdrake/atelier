@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-small-hoard-of-light",
+  "title": "A small hoard of light",
+  "description": "A red squirrel holds a hazelnut on a mossy fallen branch in cool woodland shade.",
+  "process": "AI painter made 112 animated marks in 29 batches of 1\u20134, choosing each after settled whole and close screenshots. Live notes, lower and upper camera reviews, broad fur development and deliberate refinement101\u2013112. Warm neighbors softened an arm rail; shaded nut and paw overlaps clarified the hold. Oversized curl, regular bristles, soft wash bands and raised joins remain. Actual PNG and replay exported; ended public feed acknowledged112 marks and62 moments. No engine changes.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 62,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-small-hoard-of-light/session.json",
+  "image": "/paintings/a-small-hoard-of-light/finished.png",
+  "addedAt": "2026-11-03T19:16:41.139Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-03"
+},
+{
   "id": "porcelain-keeps-the-light",
   "title": "Porcelain keeps the light",
   "description": "An imagined porcelain mortar, wooden pestle and loose herb sprig on plum cloth.",
