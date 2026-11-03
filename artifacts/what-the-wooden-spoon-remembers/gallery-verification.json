@@ -1,0 +1,45 @@
+{
+  "paused": [
+    "The AI is offline · showing the last shared canvas...",
+    "Page 1 of 12 · 1–9 of 105 paintings",
+    "",
+    "160 px",
+    "90%",
+    "75%",
+    "Mark 4 of 80 · Watercolor",
+    ""
+  ],
+  "pausedAfter": [
+    "The AI is offline · showing the last shared canvas...",
+    "Page 1 of 12 · 1–9 of 105 paintings",
+    "",
+    "160 px",
+    "90%",
+    "75%",
+    "Mark 4 of 80 · Watercolor",
+    ""
+  ],
+  "resumed": [
+    "The AI is offline · showing the last shared canvas...",
+    "Page 1 of 12 · 1–9 of 105 paintings",
+    "",
+    "160 px",
+    "90%",
+    "75%",
+    "Mark 5 of 80 · Watercolor",
+    ""
+  ],
+  "mobile": {
+    "dialog": 352,
+    "dialogScroll": 350,
+    "document": 390,
+    "viewport": 390
+  },
+  "notesExpanded": true,
+  "finishedReturned": true,
+  "returnControl": "Keyboard Enter after CDP click timeouts",
+  "tests": 101,
+  "syntax": true,
+  "workerBuild": true,
+  "artifactPaintings": 105
+}

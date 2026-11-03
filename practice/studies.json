@@ -11211,4 +11211,106 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "what-the-wooden-spoon-remembers",
+  "title": "What the wooden spoon remembers",
+  "date": "2026-11-03",
+  "session": "examples/what-the-wooden-spoon-remembers.json",
+  "finishedImage": "examples/previews/what-the-wooden-spoon-remembers.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad warm/cool wood planes before sparse grain, keeping one compact rim light.",
+  "inspiration": {
+    "description": "Smithsonian wooden spoon record, interpreted as an original imagined spoon and two bay leaves on blue cloth.",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_310953"
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Diagonal washes softened the grid while retaining cloth bands."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad overlapping bowl planes stayed filled from the start."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Long handle joined continuously into the shoulder."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Hollow separated from rim but had a triangular top."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Sampled shadow and floor planes rounded lower color while retaining a raised step."
+    },
+    {
+      "afterStroke": 37,
+      "text": "Single loaded rim light stayed compact in whole view."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Softer contact seated the spoon against quieter cloth."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Both leaves filled but met in a bent continuous silhouette."
+    },
+    {
+      "afterStroke": 52,
+      "text": "First midribs too faint to separate leaf directions."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Loaded overlap shadow separated directions but made a dark rail."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Four side veins visible close up; small raised steps."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Broad neighbors reduced rail color and turned hollow while relief remained."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Handle remained continuous with subtle grain knot and terminal join."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Broad perimeter washes quieted bright windows without erasing bands."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Final midtone overlaps connected bowl but made bright raised pads."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Matching neighbors softened pad color slightly; raised lower-rim/wall joins and joined leaf silhouette remain. Further covers add relief faster than useful form."
+    }
+  ],
+  "evidence": [
+    "examples/what-the-wooden-spoon-remembers.json",
+    "examples/previews/what-the-wooden-spoon-remembers.png",
+    "artifacts/what-the-wooden-spoon-remembers/080-whole.jpg",
+    "artifacts/what-the-wooden-spoon-remembers/080-close.jpg",
+    "artifacts/what-the-wooden-spoon-remembers/052-lower.jpg",
+    "artifacts/what-the-wooden-spoon-remembers/068-upper.jpg",
+    "artifacts/what-the-wooden-spoon-remembers/080-lower.jpg",
+    "artifacts/what-the-wooden-spoon-remembers/inspection-log.json",
+    "artifacts/what-the-wooden-spoon-remembers/live-receipt.json"
+  ],
+  "inspectionEvidence": "21 settled whole/2.0\u00d7close pairs, lower52/80 and upper68; actual900\u00d7620PNG inspected.",
+  "engineRevision": "e09de0c6951571d277ada4b0f8697c5551d47ab7",
+  "model": "GPT-6 (specific variant unavailable)",
+  "nextExperiment": "Fixed palette and renderer: compare initial broad filled wood planes against outline plus repairs, and broad matching neighbors against narrow bands. Assess color and relief separately. Keep secondary light subdued from the start; fresh subject next.",
+  "assessment": {
+    "source": "Actual exported PNG, paired screenshots and ended feed matching actual browser export.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }]

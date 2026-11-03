@@ -1,0 +1,738 @@
+[
+  {
+    "n": 4,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 494.3359375
+      },
+      "count": "4 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/004-whole.jpg"
+  },
+  {
+    "n": 4,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 494.3359375
+      },
+      "count": "4 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/004-close.jpg"
+  },
+  {
+    "n": 8,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "8 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/008-whole.jpg"
+  },
+  {
+    "n": 8,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "8 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/008-close.jpg"
+  },
+  {
+    "n": 12,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 451.4453125
+      },
+      "count": "12 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/012-whole.jpg"
+  },
+  {
+    "n": 12,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 451.4453125
+      },
+      "count": "12 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/012-close.jpg"
+  },
+  {
+    "n": 16,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "16 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/016-whole.jpg"
+  },
+  {
+    "n": 16,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "16 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/016-close.jpg"
+  },
+  {
+    "n": 20,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "20 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/020-whole.jpg"
+  },
+  {
+    "n": 20,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "20 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/020-close.jpg"
+  },
+  {
+    "n": 24,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 451.4453125
+      },
+      "count": "24 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/024-whole.jpg"
+  },
+  {
+    "n": 24,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 451.4453125
+      },
+      "count": "24 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/024-close.jpg"
+  },
+  {
+    "n": 28,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "28 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/028-whole.jpg"
+  },
+  {
+    "n": 28,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "28 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/028-close.jpg"
+  },
+  {
+    "n": 32,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "32 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/032-whole.jpg"
+  },
+  {
+    "n": 32,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "32 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/032-close.jpg"
+  },
+  {
+    "n": 36,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "36 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/036-whole.jpg"
+  },
+  {
+    "n": 36,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "36 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/036-close.jpg"
+  },
+  {
+    "n": 37,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 451.4453125
+      },
+      "count": "37 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/037-whole.jpg"
+  },
+  {
+    "n": 37,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 451.4453125
+      },
+      "count": "37 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/037-close.jpg"
+  },
+  {
+    "n": 40,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "40 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/040-whole.jpg"
+  },
+  {
+    "n": 40,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "40 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/040-close.jpg"
+  },
+  {
+    "n": 44,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "44 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/044-whole.jpg"
+  },
+  {
+    "n": 44,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "44 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/044-close.jpg"
+  },
+  {
+    "n": 48,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "48 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/048-whole.jpg"
+  },
+  {
+    "n": 48,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "48 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/048-close.jpg"
+  },
+  {
+    "n": 52,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "52 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/052-whole.jpg"
+  },
+  {
+    "n": 52,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "52 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/052-close.jpg"
+  },
+  {
+    "n": 52,
+    "label": "lower",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "52 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/052-lower.jpg"
+  },
+  {
+    "n": 56,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "56 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/056-whole.jpg"
+  },
+  {
+    "n": 56,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "56 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/056-close.jpg"
+  },
+  {
+    "n": 60,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "60 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/060-whole.jpg"
+  },
+  {
+    "n": 60,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "60 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/060-close.jpg"
+  },
+  {
+    "n": 64,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "64 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/064-whole.jpg"
+  },
+  {
+    "n": 64,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "64 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/064-close.jpg"
+  },
+  {
+    "n": 68,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "68 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/068-whole.jpg"
+  },
+  {
+    "n": 68,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "68 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/068-close.jpg"
+  },
+  {
+    "n": 68,
+    "label": "upper",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "68 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/068-upper.jpg"
+  },
+  {
+    "n": 72,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "72 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/072-whole.jpg"
+  },
+  {
+    "n": 72,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "72 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/072-close.jpg"
+  },
+  {
+    "n": 76,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "76 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/076-whole.jpg"
+  },
+  {
+    "n": 76,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "76 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/076-close.jpg"
+  },
+  {
+    "n": 80,
+    "label": "whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "80 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/080-whole.jpg"
+  },
+  {
+    "n": 80,
+    "label": "close",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 472.890625
+      },
+      "count": "80 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/080-close.jpg"
+  },
+  {
+    "n": 80,
+    "label": "final-whole",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 494.3359375
+      },
+      "count": "80 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Whole painting"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/080-final-whole.jpg"
+  },
+  {
+    "n": 80,
+    "label": "lower",
+    "state": {
+      "box": {
+        "height": 529.75,
+        "width": 769,
+        "x": 271,
+        "y": 494.3359375
+      },
+      "count": "80 marks",
+      "playback": "ROOM FOR POSSIBILITY",
+      "zoom": "Looking closer · 2.0×"
+    },
+    "path": "/Users/randomdrake/Code/ai-painting/artifacts/what-the-wooden-spoon-remembers/080-lower.jpg"
+  }
+]

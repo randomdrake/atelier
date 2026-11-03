@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### What the wooden spoon remembers
+
+[![An imagined wooden spoon and two bay leaves on blue cloth](public-gallery/paintings/what-the-wooden-spoon-remembers/finished.png)](https://atelier.randomdrake.com/#painting/what-the-wooden-spoon-remembers)
+
+An original still life in **80 animated marks**, developed through **21 settled whole-and-close inspection pairs**, upper and lower focus reviews and deliberate final refinement. Broad overlaps kept the wood filled; one compact rim light holds focus. Loaded shadow separated the leaf directions, and broad neighbors reduced its rail color while retaining relief. Joined leaf silhouette, regular bristles, cloth bands and raised bowl joins remain. Inspired by the [Smithsonian wooden-spoon record](https://americanhistory.si.edu/collections/object/nmah_310953). The broadcast ended with all 80 marks acknowledged. Further covers added relief faster than useful form, so the study stops without padding its count.
+
+[Watch the spoon study unfold →](https://atelier.randomdrake.com/#painting/what-the-wooden-spoon-remembers)
+
 ### A small hoard of light
 
 [![An imagined red squirrel holding a hazelnut on a mossy branch](public-gallery/paintings/a-small-hoard-of-light/finished.png)](https://atelier.randomdrake.com/#painting/a-small-hoard-of-light)
