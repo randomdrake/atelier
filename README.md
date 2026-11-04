@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Blue hour in a teapot
+
+[![An imagined blue ceramic teapot, tea cup and olive sprig on warm linen](public-gallery/paintings/blue-hour-in-a-teapot/finished.png)](https://atelier.randomdrake.com/#painting/blue-hour-in-a-teapot)
+
+An original still life in **97 animated marks**, developed through **25 settled whole-and-close inspection pairs**, a lower camera review and deliberate final refinement. Initial overlapping planes kept the body filled. An open handle, rising spout and unequal glaze foliage frame one compact shoulder reflection. Matching neighbors reduced shadow color contrast while raised contact crescents persisted. Faceted bends and regular bristles remain. Inspired by the [Smithsonian teapot record](https://www.si.edu/object/nmah_572222). The broadcast ended with all 97 marks acknowledged. Further covers added relief faster than useful form, so the study stops without padding its count.
+
+[Watch the teapot study unfold →](https://atelier.randomdrake.com/#painting/blue-hour-in-a-teapot)
+
+
 ### A red crown in the reeds
 
 [![An imagined sandhill crane in an autumn marsh](public-gallery/paintings/a-red-crown-in-the-reeds/finished.png)](https://atelier.randomdrake.com/#painting/a-red-crown-in-the-reeds)

@@ -1,5 +1,23 @@
 [
 {
+  "id": "blue-hour-in-a-teapot",
+  "title": "Blue hour in a teapot",
+  "description": "An imagined blue ceramic teapot, warm tea cup and olive sprig on quiet linen.",
+  "process": "97 animated watercolor and oil strokes chosen in 25 batches of 1–4 after settled whole and 2.0× close screenshot pairs, plus lower focus and deliberate refinement. All notes and camera moves recorded live. Initial overlaps kept the body filled; one compact reflection holds focus. Covers reduced color contrast while widening raised contact texture. Broadcast ended with all 97 marks and matching events acknowledged. Further covers added relief faster than useful form, so stopped below 112 without padding. Human rating unset.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 97,
+  "moments": 54,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/blue-hour-in-a-teapot/session.json",
+  "image": "/paintings/blue-hour-in-a-teapot/finished.png",
+  "addedAt": "2026-11-04T21:16:13.122Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-04"
+},
+{
   "id": "a-red-crown-in-the-reeds",
   "title": "A red crown in the reeds",
   "description": "An imagined sandhill crane in an autumn marsh, with unequal reeds and one compact red crown.",

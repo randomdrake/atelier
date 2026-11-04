@@ -12276,5 +12276,115 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "blue-hour-in-a-teapot",
+  "title": "Blue hour in a teapot",
+  "date": "2026-11-04",
+  "session": "examples/blue-hour-in-a-teapot.json",
+  "finishedImage": "examples/previews/blue-hour-in-a-teapot.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Fill rounded body with overlapping planes from the start; distinguish handle opening and rising spout with restrained edges; reserve one compact reflection.",
+  "inspiration": {
+    "title": "Smithsonian ceramic teapot record",
+    "url": "https://www.si.edu/object/nmah_572222",
+    "interpretation": "Original imagined blue teapot, small tea cup and olive sprig on warm linen; no copied composition."
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Diagonal washes reduced bright ground grid."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad overlapping planes kept the rounded body filled without an interior window."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Handle opening and rising spout read; sampled bends remained faceted."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Fuller paint made shoulder light visible, but right shadow became a detached patch and base a belt."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Broader neighboring midtones reduced patch contrast while relief remained."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Inner handle light preserved its opening and a short dark mouth clarified the spout."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Warm cup opening read; contact correction turned the pot shadow into a pedestal."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Transparent linen wash quieted surrounding color without removing oil relief."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Sparse unequal botanical motif followed the belly."
+    },
+    {
+      "afterStroke": 65,
+      "text": "Single compact shoulder reflection survived whole view."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Lid neighbors softened seam contrast but added relief."
+    },
+    {
+      "afterStroke": 73,
+      "text": "Warm tea distinguished the small cup."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Background windows became dimmer."
+    },
+    {
+      "afterStroke": 85,
+      "text": "Pressure taper reduced leaf tips but angular wedges remained."
+    },
+    {
+      "afterStroke": 89,
+      "text": "Spout root and shoulder connected more clearly while cover ridges increased."
+    },
+    {
+      "afterStroke": 93,
+      "text": "Matching linen neighbors reduced contact color separation but widened raised crescents."
+    },
+    {
+      "afterStroke": 97,
+      "text": "Final whole/close review kept filled body, open handle, rising spout, unequal foliage, warm cup and quiet sprig. Final cup correction quieted its face. Facets, regular bristles and raised contact texture remain; further covers unlikely to help."
+    }
+  ],
+  "evidence": [
+    "examples/blue-hour-in-a-teapot.json",
+    "examples/previews/blue-hour-in-a-teapot.png",
+    "artifacts/blue-hour-in-a-teapot/016-whole.jpg",
+    "artifacts/blue-hour-in-a-teapot/016-close.jpg",
+    "artifacts/blue-hour-in-a-teapot/032-whole.jpg",
+    "artifacts/blue-hour-in-a-teapot/032-close.jpg",
+    "artifacts/blue-hour-in-a-teapot/065-whole.jpg",
+    "artifacts/blue-hour-in-a-teapot/065-close.jpg",
+    "artifacts/blue-hour-in-a-teapot/081-lower.jpg",
+    "artifacts/blue-hour-in-a-teapot/097-whole.jpg",
+    "artifacts/blue-hour-in-a-teapot/097-close.jpg",
+    "artifacts/blue-hour-in-a-teapot/inspection-log.json",
+    "artifacts/blue-hour-in-a-teapot/live-receipt.json"
+  ],
+  "engineRevision": "b0283bd50292dd571d2a2c1d6bfe881d6717e88d",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "With fixed teapot palette and renderer, compare initially overlapping filled planes against outline-plus-repairs. Test contact shadow placed against the base during block-in versus later low-body oil and watercolor covers; assess color and relief separately. Use densely sampled curves for handle and spout from the start. Fresh subject next.",
+  "assessment": {
+    "source": "Actual full-resolution PNG, 25 settled whole/close screenshot pairs, lower focus review and exactly matching acknowledged ended feed.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }
 ]

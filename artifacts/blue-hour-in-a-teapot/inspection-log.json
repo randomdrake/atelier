@@ -1,0 +1,311 @@
+{
+  "provenance": "Inventory reconstructed from uniquely numbered screenshots after noticing the in-memory log closure retained only early records. Each image was visually inspected during painting before choosing subsequent strokes; 25 pairs plus one lower focus. Initial eight-mark offset crops were replaced with corrected inspections before further painting.",
+  "inspections": [
+    {
+      "afterStroke": 4,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/004-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 4,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/004-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 8,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/008-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 8,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/008-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 12,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/012-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 12,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/012-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 16,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/016-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 16,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/016-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 20,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/020-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 20,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/020-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 24,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/024-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 24,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/024-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 28,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/028-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 28,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/028-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 32,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/032-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 32,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/032-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 36,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/036-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 36,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/036-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 40,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/040-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 40,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/040-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 44,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/044-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 44,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/044-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 48,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/048-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 48,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/048-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 52,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/052-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 52,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/052-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 56,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/056-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 56,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/056-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 60,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/060-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 60,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/060-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 64,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/064-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 64,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/064-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 65,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/065-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 65,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/065-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 69,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/069-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 69,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/069-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 73,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/073-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 73,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/073-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 77,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/077-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 77,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/077-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 81,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/081-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 81,
+      "view": "lower",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/081-lower.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 81,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/081-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 85,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/085-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 85,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/085-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 89,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/089-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 89,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/089-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 93,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/093-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 93,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/093-whole.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 97,
+      "view": "close",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/097-close.jpg",
+      "inspectedDuringPainting": true
+    },
+    {
+      "afterStroke": 97,
+      "view": "whole",
+      "screenshot": "artifacts/blue-hour-in-a-teapot/097-whole.jpg",
+      "inspectedDuringPainting": true
+    }
+  ]
+}

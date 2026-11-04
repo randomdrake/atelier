@@ -1,0 +1,13 @@
+{
+  "activity": "ended",
+  "sessionId": "c072e8c9-e7ef-408f-82a7-ab5d608c2ea9",
+  "sequence": 172,
+  "startedAt": 1793826286139,
+  "receivedAt": 1793826919809,
+  "serverNow": 1793826929777,
+  "live": false,
+  "status": "ended",
+  "strokes": 97,
+  "events": 54,
+  "matchesActualExport": true
+}

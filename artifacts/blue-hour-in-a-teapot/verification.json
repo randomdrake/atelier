@@ -1,0 +1,28 @@
+{
+  "tests": 103,
+  "syntax": "passed",
+  "workerBuild": "passed",
+  "artifactPaintingCount": 114,
+  "actualPngEqualsGallery": true,
+  "actualReplayEqualsGallery": true,
+  "priorCatalogueEntriesUnchanged": 113,
+  "priorJournalEntriesUnchanged": 110,
+  "finishedImage": {
+    "width": 900,
+    "height": 620
+  },
+  "pauseStableMs": 1500,
+  "pauseMark": 2,
+  "continuedMark": 4,
+  "guidedOpeningNote": true,
+  "brushSettings": true,
+  "returnToFinished": true,
+  "expandedNotes": true,
+  "phone": {
+    "dialog": 350,
+    "dialogScroll": 350,
+    "document": 390,
+    "img": 900,
+    "viewport": 390
+  }
+}
