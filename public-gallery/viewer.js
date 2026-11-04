@@ -1,7 +1,7 @@
 import {replayMomentDuration} from '/pacing.js';
 import {renderThought} from '/thought-links.js';
 import {renderGalleryTimestamp} from './date-time.js';
-import {collectionPage,collectionPageURL,PAINTINGS_PER_PAGE} from './pagination.js';
+import {collectionPage,collectionPageURL,PAINTINGS_PER_PAGE,practicePage,practicePageURL} from './pagination.js';
 import {prepareCameraForPainting} from '/camera.js';
 const $=id=>document.getElementById(id),dialog=$('viewer'),wrap=$('surface'),canvas=$('replay-canvas'),ctx=canvas.getContext('2d',{alpha:false});
 let catalog=[],selected=null,player=null,tour=null,camera=null,surface=null,pixels=null,paused=false,running=false,last=0,epoch=0;
@@ -84,6 +84,7 @@ for(const id of ['previous-page','next-page'])$(id).addEventListener('click',eve
   if(!link.hasAttribute('href')||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
   event.preventDefault();history.pushState(null,'',link.href);
   renderCollection(new URLSearchParams(location.search).get('page'));
+  if(practiceLoaded)renderPractice(new URLSearchParams(location.search).get('practicePage'));
   $('collection-title').focus({preventScroll:true});$('collection-title').scrollIntoView({block:'start'});
 });
 let collectionLoaded=false;
@@ -99,4 +100,26 @@ try{
     history.replaceState(null,'',url);openWork(catalog[entryIndex]);
   }
 }catch{$('collection-pagination').hidden=true;$('paintings').replaceChildren();$('collection-error').textContent='The paintings could not be opened. Please try refreshing the collection.';}
-try{const response=await fetch('/practice/studies.json');if(response.ok){const studies=await response.json();for(const study of studies){const article=document.createElement('article');article.className='practice-entry';const h=document.createElement('h3');h.textContent=study.title;const observation=document.createElement('p');observation.textContent=study.observations.at(-1).text;const next=document.createElement('p');const label=document.createElement('strong');label.textContent='Next experiment: ';next.append(label,document.createTextNode(study.nextExperiment));article.append(h,observation,next);$('practice-studies').append(article);}}}catch{/* The painting collection remains available if the journal cannot be loaded. */}
+let studies=[],practiceLoaded=false;
+function renderPractice(requestedPage){
+  const current=practicePage(studies,requestedPage);
+  $('practice-studies').replaceChildren();
+  $('practice-pagination').hidden=current.pageCount===1;
+  $('practice-page-status').textContent=`Page ${current.page} of ${current.pageCount} · ${current.start}–${current.end} of ${current.total} studies`;
+  for(const [id,page,disabled] of [['previous-practice-page',current.page-1,current.page===1],['next-practice-page',current.page+1,current.page===current.pageCount]]){
+    const link=$(id);
+    if(disabled){link.removeAttribute('href');link.setAttribute('aria-disabled','true');}
+    else{link.href=practicePageURL(location.href,page);link.removeAttribute('aria-disabled');}
+  }
+  for(const study of current.entries){const article=document.createElement('article');article.className='practice-entry';const h=document.createElement('h3');h.textContent=study.title;const observation=document.createElement('p');observation.textContent=study.observations.at(-1).text;const next=document.createElement('p');const label=document.createElement('strong');label.textContent='Next experiment: ';next.append(label,document.createTextNode(study.nextExperiment));article.append(h,observation,next);$('practice-studies').append(article);}
+}
+for(const id of ['previous-practice-page','next-practice-page'])$(id).addEventListener('click',event=>{
+  const link=event.currentTarget;
+  if(!link.hasAttribute('href')||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
+  event.preventDefault();history.pushState(null,'',link.href);
+  renderPractice(new URLSearchParams(location.search).get('practicePage'));
+  if(collectionLoaded)renderCollection(new URLSearchParams(location.search).get('page'));
+  $('practice-title').focus({preventScroll:true});$('practice-title').scrollIntoView({block:'start'});
+});
+window.addEventListener('popstate',()=>{if(practiceLoaded)renderPractice(new URLSearchParams(location.search).get('practicePage'));});
+try{const response=await fetch('/practice/studies.json');if(response.ok){studies=await response.json();renderPractice(new URLSearchParams(location.search).get('practicePage'));practiceLoaded=true;}}catch{/* The painting collection remains available if the journal cannot be loaded. */}
