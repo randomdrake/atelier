@@ -12489,5 +12489,111 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
-}
+},
+  {
+    "id": "a-small-sun-on-indigo",
+    "title": "A small sun on indigo",
+    "date": "2026-11-04",
+    "session": "examples/a-small-sun-on-indigo.json",
+    "finishedImage": "examples/previews/a-small-sun-on-indigo.png",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Build filled warm fruit planes, unequal tapered calyx folds and a quiet loose leaf; reserve one compact reflection.",
+    "inspiration": {
+      "title": "Virginia Tech Japanese persimmon fact sheet",
+      "url": "https://dendro.cnre.vt.edu/dendrology/syllabus/factsheet.cfm?ID=1122",
+      "interpretation": "Original imagined orange persimmon with folded olive calyx and loose leaf on indigo linen; no copied composition."
+    },
+    "observations": [
+      {
+        "afterStroke": 12,
+        "text": "Diagonal veils dimmed the regular grid of linen gaps."
+      },
+      {
+        "afterStroke": 16,
+        "text": "First broad orange overlaps left a narrow blue interior slit."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Crossing broad vertical midtones closed the slit; left/right patches remained."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Neighboring midtones connected the planes while retaining raised texture."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Four unequal tapered calyx lobes met clearly but read as a flat cross."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Short stem lifted the crown; narrow fold lights stayed subtle."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Loose leaf was filled and tapered, but a pale tip window competed."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Transparent linen veils dimmed the competing outer windows."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Loaded shoulder paint made upper-left illumination clearer."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Short watercolor contact sat directly against the base."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Sparse leaf midrib read in whole view; lower focus partly excluded leaf."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Short crown root shadows and olive neighbors distinguished folds."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Background windows became quieter."
+      },
+      {
+        "afterStroke": 65,
+        "text": "Single compact shoulder reflection survived whole view."
+      },
+      {
+        "afterStroke": 69,
+        "text": "Neighboring crown midtones preserved unequal lights; regular bristles persisted."
+      },
+      {
+        "afterStroke": 73,
+        "text": "Final neighboring orange softened lower-join color contrast while raised texture remained. Whole/close review retained filled fruit, tapered calyx, loose leaf and compact light; further covers unlikely to help."
+      }
+    ],
+    "evidence": [
+      "examples/a-small-sun-on-indigo.json",
+      "examples/previews/a-small-sun-on-indigo.png",
+      "artifacts/a-small-sun-on-indigo/020-whole.jpg",
+      "artifacts/a-small-sun-on-indigo/020-close.jpg",
+      "artifacts/a-small-sun-on-indigo/044-whole.jpg",
+      "artifacts/a-small-sun-on-indigo/044-close.jpg",
+      "artifacts/a-small-sun-on-indigo/065-whole.jpg",
+      "artifacts/a-small-sun-on-indigo/065-close.jpg",
+      "artifacts/a-small-sun-on-indigo/073-whole.jpg",
+      "artifacts/a-small-sun-on-indigo/073-close.jpg",
+      "artifacts/a-small-sun-on-indigo/52-lower.jpg",
+      "artifacts/a-small-sun-on-indigo/inspection-log.json",
+      "artifacts/a-small-sun-on-indigo/live-receipt.json"
+    ],
+    "engineRevision": "5120e51439594e65b6d195628a8daec210759a9f",
+    "model": "GPT-6; precise variant unavailable",
+    "nextExperiment": "With fixed palette and renderer compare initial horizontal overlaps versus crossing filled planes. Compare low watercolor contact placed at the base during block-in versus later contact; measure color separation and relief separately. Use denser calyx curves from the start; choose a fresh subject next.",
+    "assessment": {
+      "source": "Actual 900×620 PNG, 19 settled whole/close inspection pairs, lower focus review and exactly matching acknowledged ended feed.",
+      "humanRating": null,
+      "improvementClaim": "Observed corrections only; no controlled improvement claim."
+    }
+  }
 ]

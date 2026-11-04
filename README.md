@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A small sun on indigo
+
+[![An imagined persimmon with folded olive calyx and a loose leaf on indigo linen](public-gallery/paintings/a-small-sun-on-indigo/finished.png)](https://atelier.randomdrake.com/#painting/a-small-sun-on-indigo)
+
+An original still life in **73 animated marks**, developed through **19 settled whole-and-close inspection pairs**, a lower focus review and deliberate final refinement. Crossing midtones closed an early blue slit. Tapered calyx folds, a quiet loose leaf and one compact shoulder reflection hold focus. A short watercolor contact joined the base; neighboring orange softened join color contrast while retaining relief. Inspired by the [Virginia Tech persimmon guide](https://dendro.cnre.vt.edu/dendrology/syllabus/factsheet.cfm?ID=1122). The broadcast ended with all 73 marks acknowledged. Further covers added texture faster than useful form, so the count was not padded.
+
+[Watch the persimmon study unfold →](https://atelier.randomdrake.com/#painting/a-small-sun-on-indigo)
+
 ### Where the fern unfolds
 
 [![An imagined sword fern and curled shoot above damp mossy cedar](public-gallery/paintings/where-the-fern-unfolds/finished.png)](https://atelier.randomdrake.com/#painting/where-the-fern-unfolds)

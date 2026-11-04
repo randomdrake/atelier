@@ -1,0 +1,14 @@
+{
+  "tests": 103,
+  "syntaxChecks": true,
+  "workerBuild": true,
+  "privacyArtifactChecks": 116,
+  "pngMatchesGallery": true,
+  "feedStrokesAndEventsMatch": true,
+  "browserQA": {
+    "finished": "73 marks and 40 moments; finished image and final note",
+    "replay": "Opening note and brush settings; pause stable 1500ms; Continue resumed mark2; View finished restored image; notes expanded",
+    "phone": "390x844; no horizontal overflow"
+  },
+  "limitations": "Initial preview started while build ran and returned404; restarted complete Worker and repeated actual browser QA successfully."
+}

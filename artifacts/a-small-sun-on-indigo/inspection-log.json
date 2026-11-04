@@ -1,0 +1,197 @@
+{
+  "pairs": 19,
+  "shots": [
+    {
+      "afterStroke": 4,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/004-whole.jpg"
+    },
+    {
+      "afterStroke": 4,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/004-close.jpg"
+    },
+    {
+      "afterStroke": 8,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/008-whole.jpg"
+    },
+    {
+      "afterStroke": 8,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/008-close.jpg"
+    },
+    {
+      "afterStroke": 12,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/012-whole.jpg"
+    },
+    {
+      "afterStroke": 12,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/012-close.jpg"
+    },
+    {
+      "afterStroke": 16,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/016-whole.jpg"
+    },
+    {
+      "afterStroke": 16,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/016-close.jpg"
+    },
+    {
+      "afterStroke": 20,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/020-whole.jpg"
+    },
+    {
+      "afterStroke": 20,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/020-close.jpg"
+    },
+    {
+      "afterStroke": 24,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/024-whole.jpg"
+    },
+    {
+      "afterStroke": 24,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/024-close.jpg"
+    },
+    {
+      "afterStroke": 28,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/028-whole.jpg"
+    },
+    {
+      "afterStroke": 28,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/028-close.jpg"
+    },
+    {
+      "afterStroke": 32,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/032-whole.jpg"
+    },
+    {
+      "afterStroke": 32,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/032-close.jpg"
+    },
+    {
+      "afterStroke": 36,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/036-whole.jpg"
+    },
+    {
+      "afterStroke": 36,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/036-close.jpg"
+    },
+    {
+      "afterStroke": 40,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/040-whole.jpg"
+    },
+    {
+      "afterStroke": 40,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/040-close.jpg"
+    },
+    {
+      "afterStroke": 44,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/044-whole.jpg"
+    },
+    {
+      "afterStroke": 44,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/044-close.jpg"
+    },
+    {
+      "afterStroke": 48,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/048-whole.jpg"
+    },
+    {
+      "afterStroke": 48,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/048-close.jpg"
+    },
+    {
+      "afterStroke": 52,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/052-whole.jpg"
+    },
+    {
+      "afterStroke": 52,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/052-close.jpg"
+    },
+    {
+      "afterStroke": 56,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/056-whole.jpg"
+    },
+    {
+      "afterStroke": 56,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/056-close.jpg"
+    },
+    {
+      "afterStroke": 60,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/060-whole.jpg"
+    },
+    {
+      "afterStroke": 60,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/060-close.jpg"
+    },
+    {
+      "afterStroke": 64,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/064-whole.jpg"
+    },
+    {
+      "afterStroke": 64,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/064-close.jpg"
+    },
+    {
+      "afterStroke": 65,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/065-whole.jpg"
+    },
+    {
+      "afterStroke": 65,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/065-close.jpg"
+    },
+    {
+      "afterStroke": 69,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/069-whole.jpg"
+    },
+    {
+      "afterStroke": 69,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/069-close.jpg"
+    },
+    {
+      "afterStroke": 73,
+      "view": "whole",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/073-whole.jpg"
+    },
+    {
+      "afterStroke": 73,
+      "view": "close",
+      "file": "/Users/randomdrake/Code/ai-painting/artifacts/a-small-sun-on-indigo/073-close.jpg"
+    }
+  ],
+  "additionalFocus": "52-lower.jpg",
+  "note": "Each next batch selected after actual settled whole and close screenshots; lower focus partially excludes loose leaf, judged in whole views. Camera click timeout at 12 recovered through fresh DOM before inspection."
+}

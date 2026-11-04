@@ -1,0 +1,2582 @@
+{
+  "version": 2,
+  "width": 900,
+  "height": 620,
+  "title": "A small sun on indigo",
+  "strokes": [
+    {
+      "medium": "watercolor",
+      "color": "#414c70",
+      "size": 160,
+      "points": [
+        [
+          0,
+          0.12,
+          0.8
+        ],
+        [
+          0.33,
+          0.16,
+          0.8
+        ],
+        [
+          0.67,
+          0.1,
+          0.8
+        ],
+        [
+          1,
+          0.16,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#4c5677",
+      "size": 160,
+      "points": [
+        [
+          0,
+          0.38,
+          0.8
+        ],
+        [
+          0.33,
+          0.34,
+          0.8
+        ],
+        [
+          0.68,
+          0.4,
+          0.8
+        ],
+        [
+          1,
+          0.35,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#364666",
+      "size": 160,
+      "points": [
+        [
+          0,
+          0.63,
+          0.8
+        ],
+        [
+          0.33,
+          0.59,
+          0.8
+        ],
+        [
+          0.68,
+          0.65,
+          0.8
+        ],
+        [
+          1,
+          0.61,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#343e5b",
+      "size": 160,
+      "points": [
+        [
+          0,
+          0.89,
+          0.8
+        ],
+        [
+          0.33,
+          0.84,
+          0.8
+        ],
+        [
+          0.68,
+          0.9,
+          0.8
+        ],
+        [
+          1,
+          0.86,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#4d5c80",
+      "size": 160,
+      "points": [
+        [
+          0.12,
+          0,
+          0.8
+        ],
+        [
+          0.17,
+          0.33,
+          0.8
+        ],
+        [
+          0.11,
+          0.67,
+          0.8
+        ],
+        [
+          0.17,
+          1,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#5c6685",
+      "size": 160,
+      "points": [
+        [
+          0.37,
+          0,
+          0.8
+        ],
+        [
+          0.31,
+          0.34,
+          0.8
+        ],
+        [
+          0.39,
+          0.68,
+          0.8
+        ],
+        [
+          0.34,
+          1,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#495778",
+      "size": 160,
+      "points": [
+        [
+          0.65,
+          0,
+          0.8
+        ],
+        [
+          0.61,
+          0.34,
+          0.8
+        ],
+        [
+          0.7,
+          0.67,
+          0.8
+        ],
+        [
+          0.64,
+          1,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#3c4d70",
+      "size": 160,
+      "points": [
+        [
+          0.94,
+          0,
+          0.8
+        ],
+        [
+          0.88,
+          0.33,
+          0.8
+        ],
+        [
+          0.96,
+          0.67,
+          0.8
+        ],
+        [
+          0.9,
+          1,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#52617c",
+      "size": 160,
+      "points": [
+        [
+          0,
+          0.13,
+          0.8
+        ],
+        [
+          0.3,
+          0.3,
+          0.8
+        ],
+        [
+          0.65,
+          0.49,
+          0.8
+        ],
+        [
+          1,
+          0.63,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#4d5a78",
+      "size": 160,
+      "points": [
+        [
+          0,
+          0.45,
+          0.8
+        ],
+        [
+          0.33,
+          0.61,
+          0.8
+        ],
+        [
+          0.65,
+          0.79,
+          0.8
+        ],
+        [
+          1,
+          0.94,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#68718a",
+      "size": 160,
+      "points": [
+        [
+          0.16,
+          0,
+          0.8
+        ],
+        [
+          0.45,
+          0.17,
+          0.8
+        ],
+        [
+          0.76,
+          0.31,
+          0.8
+        ],
+        [
+          1,
+          0.4,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#455675",
+      "size": 160,
+      "points": [
+        [
+          0,
+          0.88,
+          0.8
+        ],
+        [
+          0.32,
+          0.73,
+          0.8
+        ],
+        [
+          0.67,
+          0.56,
+          0.8
+        ],
+        [
+          1,
+          0.4,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#28354c",
+      "size": 90,
+      "points": [
+        [
+          0.32,
+          0.72,
+          0.2
+        ],
+        [
+          0.45,
+          0.74,
+          0.8
+        ],
+        [
+          0.61,
+          0.74,
+          0.8
+        ],
+        [
+          0.75,
+          0.76,
+          0.1
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#b9572f",
+      "size": 135,
+      "points": [
+        [
+          0.38,
+          0.56,
+          0.8
+        ],
+        [
+          0.45,
+          0.64,
+          0.8
+        ],
+        [
+          0.55,
+          0.66,
+          0.8
+        ],
+        [
+          0.63,
+          0.61,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.28,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#d97830",
+      "size": 150,
+      "points": [
+        [
+          0.37,
+          0.47,
+          0.8
+        ],
+        [
+          0.46,
+          0.45,
+          0.8
+        ],
+        [
+          0.57,
+          0.48,
+          0.8
+        ],
+        [
+          0.65,
+          0.51,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.35,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#e28c38",
+      "size": 140,
+      "points": [
+        [
+          0.4,
+          0.4,
+          0.8
+        ],
+        [
+          0.48,
+          0.36,
+          0.8
+        ],
+        [
+          0.57,
+          0.38,
+          0.8
+        ],
+        [
+          0.63,
+          0.43,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.35,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#df7c31",
+      "size": 110,
+      "points": [
+        [
+          0.46,
+          0.42,
+          0.8
+        ],
+        [
+          0.47,
+          0.51,
+          0.8
+        ],
+        [
+          0.49,
+          0.6,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.32,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#d4732f",
+      "size": 110,
+      "points": [
+        [
+          0.55,
+          0.43,
+          0.8
+        ],
+        [
+          0.55,
+          0.53,
+          0.8
+        ],
+        [
+          0.54,
+          0.65,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.32,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#b65c32",
+      "size": 75,
+      "points": [
+        [
+          0.63,
+          0.45,
+          0.8
+        ],
+        [
+          0.66,
+          0.52,
+          0.8
+        ],
+        [
+          0.64,
+          0.62,
+          0.8
+        ],
+        [
+          0.59,
+          0.68,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.27,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#ee9d45",
+      "size": 72,
+      "points": [
+        [
+          0.39,
+          0.42,
+          0.8
+        ],
+        [
+          0.37,
+          0.49,
+          0.8
+        ],
+        [
+          0.39,
+          0.56,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.32,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#df8638",
+      "size": 85,
+      "points": [
+        [
+          0.4,
+          0.51,
+          0.8
+        ],
+        [
+          0.42,
+          0.59,
+          0.8
+        ],
+        [
+          0.47,
+          0.65,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.27,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#d67b34",
+      "size": 85,
+      "points": [
+        [
+          0.58,
+          0.44,
+          0.8
+        ],
+        [
+          0.6,
+          0.51,
+          0.8
+        ],
+        [
+          0.59,
+          0.61,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.27,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#ee9c43",
+      "size": 82,
+      "points": [
+        [
+          0.39,
+          0.4,
+          0.8
+        ],
+        [
+          0.46,
+          0.37,
+          0.8
+        ],
+        [
+          0.52,
+          0.38,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.32,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#c56932",
+      "size": 66,
+      "points": [
+        [
+          0.43,
+          0.66,
+          0.8
+        ],
+        [
+          0.51,
+          0.69,
+          0.8
+        ],
+        [
+          0.59,
+          0.66,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.26,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#53603b",
+      "size": 42,
+      "points": [
+        [
+          0.51,
+          0.355,
+          0.7
+        ],
+        [
+          0.47,
+          0.33,
+          0.9
+        ],
+        [
+          0.44,
+          0.285,
+          0.6
+        ],
+        [
+          0.435,
+          0.25,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#6e7441",
+      "size": 43,
+      "points": [
+        [
+          0.51,
+          0.35,
+          0.7
+        ],
+        [
+          0.55,
+          0.32,
+          0.9
+        ],
+        [
+          0.59,
+          0.3,
+          0.6
+        ],
+        [
+          0.63,
+          0.295,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#737d46",
+      "size": 42,
+      "points": [
+        [
+          0.51,
+          0.355,
+          0.7
+        ],
+        [
+          0.47,
+          0.38,
+          0.9
+        ],
+        [
+          0.43,
+          0.39,
+          0.6
+        ],
+        [
+          0.395,
+          0.38,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#485637",
+      "size": 43,
+      "points": [
+        [
+          0.515,
+          0.36,
+          0.7
+        ],
+        [
+          0.55,
+          0.39,
+          0.9
+        ],
+        [
+          0.58,
+          0.43,
+          0.5
+        ],
+        [
+          0.605,
+          0.445,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#514431",
+      "size": 16,
+      "points": [
+        [
+          0.51,
+          0.35,
+          0.8
+        ],
+        [
+          0.507,
+          0.31,
+          0.8
+        ],
+        [
+          0.518,
+          0.275,
+          0.3
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#a1a065",
+      "size": 17,
+      "points": [
+        [
+          0.506,
+          0.349,
+          0.5
+        ],
+        [
+          0.48,
+          0.342,
+          0.8
+        ],
+        [
+          0.455,
+          0.303,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.25,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#9c9b59",
+      "size": 17,
+      "points": [
+        [
+          0.52,
+          0.349,
+          0.5
+        ],
+        [
+          0.558,
+          0.327,
+          0.8
+        ],
+        [
+          0.604,
+          0.307,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.25,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#859457",
+      "size": 17,
+      "points": [
+        [
+          0.495,
+          0.366,
+          0.4
+        ],
+        [
+          0.461,
+          0.382,
+          0.7
+        ],
+        [
+          0.422,
+          0.382,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.25,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#303f56",
+      "size": 42,
+      "points": [
+        [
+          0.66,
+          0.79,
+          0.15
+        ],
+        [
+          0.75,
+          0.77,
+          0.7
+        ],
+        [
+          0.85,
+          0.72,
+          0.1
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#6d7240",
+      "size": 55,
+      "points": [
+        [
+          0.67,
+          0.79,
+          0.3
+        ],
+        [
+          0.73,
+          0.745,
+          0.9
+        ],
+        [
+          0.79,
+          0.72,
+          0.85
+        ],
+        [
+          0.85,
+          0.72,
+          0.4
+        ],
+        [
+          0.895,
+          0.735,
+          0.02
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#92904d",
+      "size": 42,
+      "points": [
+        [
+          0.67,
+          0.78,
+          0.3
+        ],
+        [
+          0.73,
+          0.78,
+          0.9
+        ],
+        [
+          0.8,
+          0.76,
+          0.8
+        ],
+        [
+          0.85,
+          0.745,
+          0.4
+        ],
+        [
+          0.895,
+          0.735,
+          0.02
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#615238",
+      "size": 8,
+      "points": [
+        [
+          0.665,
+          0.79,
+          0.8
+        ],
+        [
+          0.64,
+          0.81,
+          0.8
+        ],
+        [
+          0.62,
+          0.82,
+          0.05
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.24,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#465675",
+      "size": 100,
+      "points": [
+        [
+          0.82,
+          0.68,
+          0.8
+        ],
+        [
+          0.9,
+          0.73,
+          0.8
+        ],
+        [
+          0.98,
+          0.78,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#566480",
+      "size": 115,
+      "points": [
+        [
+          0,
+          0.43,
+          0.8
+        ],
+        [
+          0.12,
+          0.49,
+          0.8
+        ],
+        [
+          0.24,
+          0.54,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#475775",
+      "size": 110,
+      "points": [
+        [
+          0,
+          0.7,
+          0.8
+        ],
+        [
+          0.1,
+          0.76,
+          0.8
+        ],
+        [
+          0.22,
+          0.8,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#5e6c84",
+      "size": 120,
+      "points": [
+        [
+          0.02,
+          0.16,
+          0.8
+        ],
+        [
+          0.19,
+          0.23,
+          0.8
+        ],
+        [
+          0.34,
+          0.24,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#f8b450",
+      "size": 60,
+      "points": [
+        [
+          0.39,
+          0.415,
+          0.65
+        ],
+        [
+          0.405,
+          0.38,
+          0.9
+        ],
+        [
+          0.45,
+          0.365,
+          0.6
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#f0a145",
+      "size": 60,
+      "points": [
+        [
+          0.375,
+          0.46,
+          0.5
+        ],
+        [
+          0.39,
+          0.51,
+          0.9
+        ],
+        [
+          0.42,
+          0.55,
+          0.3
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.5,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#d27734",
+      "size": 55,
+      "points": [
+        [
+          0.57,
+          0.57,
+          0.6
+        ],
+        [
+          0.6,
+          0.61,
+          0.8
+        ],
+        [
+          0.58,
+          0.65,
+          0.3
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.4,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#a65531",
+      "size": 20,
+      "points": [
+        [
+          0.565,
+          0.41,
+          0.3
+        ],
+        [
+          0.59,
+          0.43,
+          0.7
+        ],
+        [
+          0.613,
+          0.45,
+          0.05
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.4,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#28394f",
+      "size": 42,
+      "points": [
+        [
+          0.4,
+          0.713,
+          0.2
+        ],
+        [
+          0.47,
+          0.735,
+          0.8
+        ],
+        [
+          0.56,
+          0.735,
+          0.8
+        ],
+        [
+          0.63,
+          0.715,
+          0.1
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#34465f",
+      "size": 70,
+      "points": [
+        [
+          0.52,
+          0.75,
+          0.3
+        ],
+        [
+          0.64,
+          0.77,
+          0.8
+        ],
+        [
+          0.76,
+          0.8,
+          0.1
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#596582",
+      "size": 75,
+      "points": [
+        [
+          0.2,
+          0.67,
+          0.3
+        ],
+        [
+          0.28,
+          0.73,
+          0.8
+        ],
+        [
+          0.35,
+          0.78,
+          0.1
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#4b5d79",
+      "size": 75,
+      "points": [
+        [
+          0.29,
+          0.82,
+          0.2
+        ],
+        [
+          0.42,
+          0.84,
+          0.8
+        ],
+        [
+          0.57,
+          0.85,
+          0.1
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#b0a86a",
+      "size": 7,
+      "points": [
+        [
+          0.677,
+          0.786,
+          0.4
+        ],
+        [
+          0.727,
+          0.767,
+          0.7
+        ],
+        [
+          0.78,
+          0.748,
+          0.6
+        ],
+        [
+          0.834,
+          0.736,
+          0.3
+        ],
+        [
+          0.878,
+          0.735,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.5,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#a1a15f",
+      "size": 6,
+      "points": [
+        [
+          0.731,
+          0.766,
+          0.5
+        ],
+        [
+          0.749,
+          0.743,
+          0.5
+        ],
+        [
+          0.767,
+          0.731,
+          0.02
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.4,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#747c48",
+      "size": 6,
+      "points": [
+        [
+          0.786,
+          0.748,
+          0.5
+        ],
+        [
+          0.807,
+          0.766,
+          0.4
+        ],
+        [
+          0.827,
+          0.764,
+          0.02
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.4,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#c0b278",
+      "size": 11,
+      "points": [
+        [
+          0.483,
+          0.344,
+          0.4
+        ],
+        [
+          0.468,
+          0.326,
+          0.7
+        ],
+        [
+          0.454,
+          0.304,
+          0.02
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.55,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#35462f",
+      "size": 12,
+      "points": [
+        [
+          0.505,
+          0.362,
+          0.3
+        ],
+        [
+          0.526,
+          0.377,
+          0.8
+        ],
+        [
+          0.548,
+          0.398,
+          0.05
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.6,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#8c9252",
+      "size": 22,
+      "points": [
+        [
+          0.54,
+          0.375,
+          0.4
+        ],
+        [
+          0.565,
+          0.4,
+          0.9
+        ],
+        [
+          0.588,
+          0.426,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.55,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#a4a062",
+      "size": 15,
+      "points": [
+        [
+          0.532,
+          0.342,
+          0.4
+        ],
+        [
+          0.565,
+          0.324,
+          0.8
+        ],
+        [
+          0.593,
+          0.314,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.55,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#827b4d",
+      "size": 15,
+      "points": [
+        [
+          0.508,
+          0.331,
+          0.4
+        ],
+        [
+          0.507,
+          0.307,
+          0.7
+        ],
+        [
+          0.515,
+          0.285,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.5,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#606b86",
+      "size": 140,
+      "points": [
+        [
+          0.26,
+          0.04,
+          0.8
+        ],
+        [
+          0.43,
+          0.09,
+          0.8
+        ],
+        [
+          0.61,
+          0.14,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#4b597a",
+      "size": 145,
+      "points": [
+        [
+          0.58,
+          0.15,
+          0.8
+        ],
+        [
+          0.76,
+          0.2,
+          0.8
+        ],
+        [
+          0.94,
+          0.24,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#475572",
+      "size": 145,
+      "points": [
+        [
+          0.02,
+          0.94,
+          0.8
+        ],
+        [
+          0.27,
+          0.95,
+          0.8
+        ],
+        [
+          0.49,
+          0.98,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#41516f",
+      "size": 145,
+      "points": [
+        [
+          0.51,
+          0.96,
+          0.8
+        ],
+        [
+          0.74,
+          0.95,
+          0.8
+        ],
+        [
+          0.99,
+          0.98,
+          0.8
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#e9953e",
+      "size": 54,
+      "points": [
+        [
+          0.415,
+          0.45,
+          0.3
+        ],
+        [
+          0.43,
+          0.51,
+          0.8
+        ],
+        [
+          0.454,
+          0.55,
+          0.2
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.35,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#d57833",
+      "size": 55,
+      "points": [
+        [
+          0.59,
+          0.48,
+          0.4
+        ],
+        [
+          0.616,
+          0.53,
+          0.8
+        ],
+        [
+          0.6,
+          0.59,
+          0.2
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.35,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#d88838",
+      "size": 54,
+      "points": [
+        [
+          0.44,
+          0.59,
+          0.3
+        ],
+        [
+          0.48,
+          0.63,
+          0.8
+        ],
+        [
+          0.53,
+          0.64,
+          0.3
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.32,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#81894d",
+      "size": 22,
+      "points": [
+        [
+          0.74,
+          0.755,
+          0.4
+        ],
+        [
+          0.78,
+          0.737,
+          0.8
+        ],
+        [
+          0.82,
+          0.729,
+          0.2
+        ],
+        [
+          0.859,
+          0.735,
+          0.02
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.35,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#fff0ba",
+      "size": 17,
+      "points": [
+        [
+          0.402,
+          0.416,
+          0.15
+        ],
+        [
+          0.409,
+          0.407,
+          0.85
+        ],
+        [
+          0.42,
+          0.405,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.85,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#52617b",
+      "size": 95,
+      "points": [
+        [
+          0.1,
+          0.43,
+          0.3
+        ],
+        [
+          0.18,
+          0.46,
+          0.8
+        ],
+        [
+          0.25,
+          0.49,
+          0.2
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#5c6984",
+      "size": 100,
+      "points": [
+        [
+          0.63,
+          0.23,
+          0.3
+        ],
+        [
+          0.75,
+          0.27,
+          0.8
+        ],
+        [
+          0.85,
+          0.3,
+          0.2
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#7c8550",
+      "size": 22,
+      "points": [
+        [
+          0.455,
+          0.376,
+          0.3
+        ],
+        [
+          0.479,
+          0.367,
+          0.8
+        ],
+        [
+          0.497,
+          0.355,
+          0.1
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.35,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#697245",
+      "size": 19,
+      "points": [
+        [
+          0.55,
+          0.39,
+          0.3
+        ],
+        [
+          0.57,
+          0.414,
+          0.7
+        ],
+        [
+          0.588,
+          0.43,
+          0.02
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.35,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#d78a3b",
+      "size": 60,
+      "points": [
+        [
+          0.417,
+          0.565,
+          0.25
+        ],
+        [
+          0.444,
+          0.603,
+          0.8
+        ],
+        [
+          0.475,
+          0.628,
+          0.2
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#cd7936",
+      "size": 52,
+      "points": [
+        [
+          0.5,
+          0.656,
+          0.2
+        ],
+        [
+          0.547,
+          0.663,
+          0.7
+        ],
+        [
+          0.582,
+          0.643,
+          0.15
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#b57943",
+      "size": 24,
+      "points": [
+        [
+          0.55,
+          0.69,
+          0.15
+        ],
+        [
+          0.59,
+          0.675,
+          0.7
+        ],
+        [
+          0.62,
+          0.65,
+          0.03
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.28,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#8a8d51",
+      "size": 23,
+      "points": [
+        [
+          0.715,
+          0.785,
+          0.3
+        ],
+        [
+          0.755,
+          0.781,
+          0.7
+        ],
+        [
+          0.793,
+          0.764,
+          0.02
+        ]
+      ],
+      "duration": 1300,
+      "flow": 0.92,
+      "water": 0.65,
+      "body": 0.3,
+      "tip": "round"
+    }
+  ],
+  "events": [
+    {
+      "text": "A small sun on indigo. Inspired by Virginia Tech’s persimmon guide, I will imagine one orange fruit, folded olive calyx and a loose leaf on indigo linen. Goal: overlapping filled planes, tapered leaf tips and one restrained reflection; compare color contrast with raised paint texture.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 11700,
+      "afterStroke": 0
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 4
+    },
+    {
+      "text": "Four long washes establish cool linen, but bright bands separate them. Crosswise veils will close those gaps before the fruit is placed.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6000,
+      "afterStroke": 4
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 8
+    },
+    {
+      "text": "The crossing washes still leave a regular light grid. Diagonal veils should break that rhythm; keep the fruit warmer and more opaque than its setting.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6500,
+      "afterStroke": 8
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "text": "The diagonal veils dimmed the grid. I will place the contact shadow directly under the fruit, then fill its lower body with overlapping orange planes.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6500,
+      "afterStroke": 12
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 16
+    },
+    {
+      "text": "The body reads round but the first passes left a narrow blue interior slit. Cross it with broad vertical midtones, then give the right side a quieter warm shadow.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7540,
+      "afterStroke": 16
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 20
+    },
+    {
+      "text": "The slit is closed. Left light and right shadow now separate, though their ends form patches. Broader neighboring planes will connect them before the calyx.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6500,
+      "afterStroke": 20
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 24
+    },
+    {
+      "text": "Neighboring midtones connected the fruit planes; the bristle pattern stays regular. Four unequal tapered calyx lobes will give the crown a botanical shape without outlining the orange.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7020,
+      "afterStroke": 24
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 28
+    },
+    {
+      "text": "The tapered lobes meet clearly, but look like a flat cross. A short stem and selective fold lights should give the crown depth.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6000,
+      "afterStroke": 28
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 32
+    },
+    {
+      "text": "The stem lifts the crown, while the narrow fold lights are subtle. A separate fallen leaf will answer the fruit’s roundness with a long tapered gesture.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6760,
+      "afterStroke": 32
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 36
+    },
+    {
+      "text": "The fallen leaf is filled and tapers, but the pale gap at its tip competes with the fruit. Quiet that window and two left-edge gaps with transparent linen washes.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7540,
+      "afterStroke": 36
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 40
+    },
+    {
+      "text": "The outer windows are dimmer. The fruit still needs clearer upper-left illumination: use a loaded broad shoulder plane and a short warm turn, keeping the lower right subdued.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7280,
+      "afterStroke": 40
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 44
+    },
+    {
+      "text": "Loaded shoulder paint reads more clearly. The fruit floats slightly above the first shadow; connect a short contact directly to its lowest edge, then soften the surrounding cloth.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7280,
+      "afterStroke": 44
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 48
+    },
+    {
+      "text": "The shorter contact now sits against the base instead of forming a distant stripe. Give the loose leaf one broken midrib and two unequal side veins, with a small folded crown light.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8320,
+      "afterStroke": 48
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 52
+    },
+    {
+      "text": "Looking down: the detached leaf carries a quiet midrib. Check that its tip stays pointed and that the contact shadow remains lower in contrast than the orange.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.75
+      },
+      "duration": 7020,
+      "afterStroke": 52
+    },
+    {
+      "text": "The lower focus shows a broad soft contact and a regular fruit rim; the leaf extends beyond this crop, so its full silhouette is judged in whole view. Clarify the calyx fold with short dark roots and olive neighbors.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.75
+      },
+      "duration": 10140,
+      "afterStroke": 52
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 56
+    },
+    {
+      "text": "Short root shadows distinguish the folded crown, with no heavy outline around the fruit. Before the focal reflection, dim the remaining upper and bottom windows so they do not compete.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 7800,
+      "afterStroke": 56
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 60
+    },
+    {
+      "text": "The background is quieter. Refine the light shoulder and the darker right turn with neighboring colors, preserving the fruit’s uneven contour and the leaf’s taper.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6500,
+      "afterStroke": 60
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 64
+    },
+    {
+      "text": "The shoulder remains broad and the right turn subdued. Test a single small warm reflection near the upper-left light; inspect it alone before deciding anything else.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6760,
+      "afterStroke": 64
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 65
+    },
+    {
+      "text": "The single reflection survives whole view. Keep it isolated. The pale window to its left still attracts attention, so veil that area and make the crown’s two lit faces less symmetrical.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 8060,
+      "afterStroke": 65
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 69
+    },
+    {
+      "text": "Final refinement: the lower-left join has more color contrast than the rest of the belly. Use neighboring orange to soften that join, a short reflected underside color, and one quiet leaf midtone. Keep the raised weave and faceted crown.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 10140,
+      "afterStroke": 69
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 73
+    },
+    {
+      "text": "Finished at 73 marks. Final paired review: filled warm fruit, four tapered olive folds, short stem, quiet loose leaf and one compact shoulder reflection. Broad crossings closed the early blue slit; short watercolor contact joined the base. Neighboring orange reduced lower-join color contrast while raised bristles and faceted bends remain. More covers would add texture faster than useful form, so keep these irregularities.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 15000,
+      "afterStroke": 73
+    }
+  ],
+  "creation": {
+    "method": "AI agent painted in the local Atelier browser in animated batches of 1–4 strokes, selecting each next batch after actual settled whole and displayed 2.0× close screenshots.",
+    "inspectionBoundaries": [
+      4,
+      8,
+      12,
+      16,
+      20,
+      24,
+      28,
+      32,
+      36,
+      40,
+      44,
+      48,
+      52,
+      56,
+      60,
+      64,
+      65,
+      69,
+      73
+    ],
+    "inspectionPairs": 19,
+    "refinement": "Neighboring fruit/calyx midtones, quiet background veils, single reflection 65, deliberate final refinement 70–73 and paired review at 73.",
+    "notes": "All easel notes and camera moves live. Confirmed Live from this laptop before opening note. Ended public feed acknowledged 73 marks and 40 events exactly matching actual browser export. Live default title An open possibility; title assigned after export.",
+    "limitations": "Camera click timeout at 12 recovered via fresh DOM before inspection. Lower focus partially excludes loose leaf, which was reviewed in whole views. Regular bristles, faceted crown and raised joins remain. Stopped at 73 because further covers add relief faster than useful form; count not padded.",
+    "engineRevision": "5120e51439594e65b6d195628a8daec210759a9f",
+    "engineChanges": false,
+    "inspiration": {
+      "title": "Virginia Tech Japanese persimmon fact sheet",
+      "url": "https://dendro.cnre.vt.edu/dendrology/syllabus/factsheet.cfm?ID=1122",
+      "interpretation": "Original imagined orange persimmon with folded olive calyx and loose leaf on indigo linen; no copied composition."
+    }
+  }
+}

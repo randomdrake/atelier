@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-small-sun-on-indigo",
+  "title": "A small sun on indigo",
+  "description": "An imagined orange persimmon with folded olive calyx and a loose leaf on indigo linen.",
+  "process": "Painted by the AI agent in 73 animated watercolor and oil strokes, with 19 settled whole/close inspection pairs, a lower focus review and deliberate refinement. Notes and camera moves were live. Crossing midtones closed an early blue slit; one compact reflection holds focus. Ended broadcast acknowledged all 73 marks and 40 moments. Regular bristles, faceted folds and raised joins remain. Further covers would add texture faster than useful form.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 73,
+  "moments": 40,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-small-sun-on-indigo/session.json",
+  "image": "/paintings/a-small-sun-on-indigo/finished.png",
+  "addedAt": "2026-11-04T23:10:58.294Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-04"
+},
+{
   "id": "where-the-fern-unfolds",
   "title": "Where the fern unfolds",
   "description": "Two unequal sword-fern fronds and a curled shoot above damp mossy cedar, with one compact wet glint.",

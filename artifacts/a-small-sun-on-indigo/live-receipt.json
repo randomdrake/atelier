@@ -1,0 +1,12 @@
+{
+  "sessionId": "dd57eb34-482b-407e-81b2-c679499e6360",
+  "sequence": 124,
+  "activity": "ended",
+  "live": false,
+  "status": "ended",
+  "receivedAt": 1793833794741,
+  "completedMarks": 73,
+  "events": 40,
+  "strokesExactlyMatch": true,
+  "eventsExactlyMatch": true
+}
