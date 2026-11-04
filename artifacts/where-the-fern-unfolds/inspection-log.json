@@ -1,0 +1,341 @@
+{
+  "note": "Four-mark pair inspected from separate crops; eight onward captured and inspected with numeric filenames. Camera timeout at twelve recovered via fresh AX. All screenshots are actual browser captures; full-page crops use measured document canvas-parent bounds. First four fullpage screenshots retained separately.",
+  "pairs": [
+    {
+      "afterStroke": 8,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/008-whole.jpg",
+      "inspectedAt": "2026-11-04T21:59:04.448Z"
+    },
+    {
+      "afterStroke": 8,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/008-close.jpg",
+      "inspectedAt": "2026-11-04T21:59:10.881Z"
+    },
+    {
+      "afterStroke": 12,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/012-whole.jpg",
+      "inspectedAt": "2026-11-04T21:59:42.731Z"
+    },
+    {
+      "afterStroke": 12,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/012-close.jpg",
+      "inspectedAt": "2026-11-04T21:59:47.718Z"
+    },
+    {
+      "afterStroke": 16,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/016-whole.jpg",
+      "inspectedAt": "2026-11-04T22:00:04.324Z"
+    },
+    {
+      "afterStroke": 16,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/016-close.jpg",
+      "inspectedAt": "2026-11-04T22:00:06.252Z"
+    },
+    {
+      "afterStroke": 20,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/020-whole.jpg",
+      "inspectedAt": "2026-11-04T22:00:22.233Z"
+    },
+    {
+      "afterStroke": 20,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/020-close.jpg",
+      "inspectedAt": "2026-11-04T22:00:24.121Z"
+    },
+    {
+      "afterStroke": 24,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/024-whole.jpg",
+      "inspectedAt": "2026-11-04T22:00:40.150Z"
+    },
+    {
+      "afterStroke": 24,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/024-close.jpg",
+      "inspectedAt": "2026-11-04T22:00:41.977Z"
+    },
+    {
+      "afterStroke": 28,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/028-whole.jpg",
+      "inspectedAt": "2026-11-04T22:00:56.644Z"
+    },
+    {
+      "afterStroke": 28,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/028-close.jpg",
+      "inspectedAt": "2026-11-04T22:00:58.573Z"
+    },
+    {
+      "afterStroke": 32,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/032-whole.jpg",
+      "inspectedAt": "2026-11-04T22:01:13.752Z"
+    },
+    {
+      "afterStroke": 32,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/032-close.jpg",
+      "inspectedAt": "2026-11-04T22:01:15.584Z"
+    },
+    {
+      "afterStroke": 36,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/036-whole.jpg",
+      "inspectedAt": "2026-11-04T22:01:30.044Z"
+    },
+    {
+      "afterStroke": 36,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/036-close.jpg",
+      "inspectedAt": "2026-11-04T22:01:31.980Z"
+    },
+    {
+      "afterStroke": 40,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/040-whole.jpg",
+      "inspectedAt": "2026-11-04T22:01:46.443Z"
+    },
+    {
+      "afterStroke": 40,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/040-close.jpg",
+      "inspectedAt": "2026-11-04T22:01:48.207Z"
+    },
+    {
+      "afterStroke": 44,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/044-whole.jpg",
+      "inspectedAt": "2026-11-04T22:02:04.865Z"
+    },
+    {
+      "afterStroke": 44,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/044-close.jpg",
+      "inspectedAt": "2026-11-04T22:02:06.697Z"
+    },
+    {
+      "afterStroke": 48,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/048-whole.jpg",
+      "inspectedAt": "2026-11-04T22:02:19.827Z"
+    },
+    {
+      "afterStroke": 48,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/048-close.jpg",
+      "inspectedAt": "2026-11-04T22:02:21.655Z"
+    },
+    {
+      "afterStroke": 52,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/052-whole.jpg",
+      "inspectedAt": "2026-11-04T22:02:35.452Z"
+    },
+    {
+      "afterStroke": 52,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/052-close.jpg",
+      "inspectedAt": "2026-11-04T22:02:37.431Z"
+    },
+    {
+      "afterStroke": 56,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/056-whole.jpg",
+      "inspectedAt": "2026-11-04T22:02:53.220Z"
+    },
+    {
+      "afterStroke": 56,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/056-close.jpg",
+      "inspectedAt": "2026-11-04T22:02:54.957Z"
+    },
+    {
+      "afterStroke": 60,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/060-whole.jpg",
+      "inspectedAt": "2026-11-04T22:03:09.107Z"
+    },
+    {
+      "afterStroke": 60,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/060-close.jpg",
+      "inspectedAt": "2026-11-04T22:03:11.040Z"
+    },
+    {
+      "afterStroke": 64,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/064-whole.jpg",
+      "inspectedAt": "2026-11-04T22:03:27.338Z"
+    },
+    {
+      "afterStroke": 64,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/064-close.jpg",
+      "inspectedAt": "2026-11-04T22:03:29.136Z"
+    },
+    {
+      "afterStroke": 68,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/068-whole.jpg",
+      "inspectedAt": "2026-11-04T22:03:44.031Z"
+    },
+    {
+      "afterStroke": 68,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/068-close.jpg",
+      "inspectedAt": "2026-11-04T22:03:45.962Z"
+    },
+    {
+      "afterStroke": 72,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/072-whole.jpg",
+      "inspectedAt": "2026-11-04T22:03:59.901Z"
+    },
+    {
+      "afterStroke": 72,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/072-close.jpg",
+      "inspectedAt": "2026-11-04T22:04:01.770Z"
+    },
+    {
+      "afterStroke": 73,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/073-whole.jpg",
+      "inspectedAt": "2026-11-04T22:04:12.833Z"
+    },
+    {
+      "afterStroke": 73,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/073-close.jpg",
+      "inspectedAt": "2026-11-04T22:04:14.763Z"
+    },
+    {
+      "afterStroke": 77,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/077-whole.jpg",
+      "inspectedAt": "2026-11-04T22:04:28.612Z"
+    },
+    {
+      "afterStroke": 77,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/077-close.jpg",
+      "inspectedAt": "2026-11-04T22:04:30.543Z"
+    },
+    {
+      "afterStroke": 81,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/081-whole.jpg",
+      "inspectedAt": "2026-11-04T22:04:47.568Z"
+    },
+    {
+      "afterStroke": 81,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/081-close.jpg",
+      "inspectedAt": "2026-11-04T22:04:49.401Z"
+    },
+    {
+      "afterStroke": 85,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/085-whole.jpg",
+      "inspectedAt": "2026-11-04T22:05:10.889Z"
+    },
+    {
+      "afterStroke": 85,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/085-close.jpg",
+      "inspectedAt": "2026-11-04T22:05:12.642Z"
+    },
+    {
+      "afterStroke": 89,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/089-whole.jpg",
+      "inspectedAt": "2026-11-04T22:05:26.868Z"
+    },
+    {
+      "afterStroke": 89,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/089-close.jpg",
+      "inspectedAt": "2026-11-04T22:05:28.701Z"
+    },
+    {
+      "afterStroke": 93,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/093-whole.jpg",
+      "inspectedAt": "2026-11-04T22:05:43.434Z"
+    },
+    {
+      "afterStroke": 93,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/093-close.jpg",
+      "inspectedAt": "2026-11-04T22:05:45.340Z"
+    },
+    {
+      "afterStroke": 97,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/097-whole.jpg",
+      "inspectedAt": "2026-11-04T22:05:59.948Z"
+    },
+    {
+      "afterStroke": 97,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/097-close.jpg",
+      "inspectedAt": "2026-11-04T22:06:01.708Z"
+    },
+    {
+      "afterStroke": 101,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/101-whole.jpg",
+      "inspectedAt": "2026-11-04T22:06:20.932Z"
+    },
+    {
+      "afterStroke": 101,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/101-close.jpg",
+      "inspectedAt": "2026-11-04T22:06:22.661Z"
+    },
+    {
+      "afterStroke": 105,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/105-whole.jpg",
+      "inspectedAt": "2026-11-04T22:06:38.395Z"
+    },
+    {
+      "afterStroke": 105,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/105-close.jpg",
+      "inspectedAt": "2026-11-04T22:06:40.235Z"
+    },
+    {
+      "afterStroke": 109,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/109-whole.jpg",
+      "inspectedAt": "2026-11-04T22:06:56.666Z"
+    },
+    {
+      "afterStroke": 109,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/109-close.jpg",
+      "inspectedAt": "2026-11-04T22:06:58.428Z"
+    },
+    {
+      "afterStroke": 113,
+      "view": "whole",
+      "file": "artifacts/where-the-fern-unfolds/113-whole.jpg",
+      "inspectedAt": "2026-11-04T22:07:12.953Z"
+    },
+    {
+      "afterStroke": 113,
+      "view": "close",
+      "file": "artifacts/where-the-fern-unfolds/113-close.jpg",
+      "inspectedAt": "2026-11-04T22:07:14.787Z"
+    }
+  ]
+}

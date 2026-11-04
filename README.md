@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Where the fern unfolds
+
+[![An imagined sword fern and curled shoot above damp mossy cedar](public-gallery/paintings/where-the-fern-unfolds/finished.png)](https://atelier.randomdrake.com/#painting/where-the-fern-unfolds)
+
+An original woodland study in **113 animated marks**, developed through **29 settled whole-and-close inspection pairs**, upper and lower focus reviews and deliberate final refinement. Unequal tapered leaflets follow two continuous stems; a curled shoot holds one compact glint. Grain-crossed roots were restored. Matching wood neighbors softened color contrast while retaining relief. Faceted bends and regular bristles remain. Inspired by the [NPS Muir Woods fern guide](https://www.nps.gov/muwo/learn/nature/ferns.htm). The broadcast ended with all 113 marks acknowledged.
+
+[Watch the fern study unfold →](https://atelier.randomdrake.com/#painting/where-the-fern-unfolds)
+
 ### Blue hour in a teapot
 
 [![An imagined blue ceramic teapot, tea cup and olive sprig on warm linen](public-gallery/paintings/blue-hour-in-a-teapot/finished.png)](https://atelier.randomdrake.com/#painting/blue-hour-in-a-teapot)

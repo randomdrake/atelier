@@ -12386,5 +12386,108 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "where-the-fern-unfolds",
+  "title": "Where the fern unfolds",
+  "date": "2026-11-04",
+  "session": "examples/where-the-fern-unfolds.json",
+  "finishedImage": "examples/previews/where-the-fern-unfolds.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build a continuous curved stem with unequal tapered leaflets against quieter damp cedar; keep one compact focal glint.",
+  "inspiration": {
+    "title": "NPS Muir Woods fern guide",
+    "url": "https://www.nps.gov/muwo/learn/nature/ferns.htm",
+    "interpretation": "Original imagined sword fern with two unequal open fronds and a curled shoot above damp mossy cedar; no copied composition."
+  },
+  "observations": [
+    {
+      "afterStroke": 16,
+      "text": "Broad overlapping cedar planes kept the form filled; close view showed regular bristle ridges."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Main stem remained continuous but sampled bends and curl were faceted."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Pressure taper made pointed leaf ends; four-point paths retained elbows."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Wood grain crossed the stem roots and broke continuity."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Repainted root joins restored continuity; moss nested the base."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Five-point interleaved leaves softened bends slightly and reduced sparse ladder spacing."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Folded curl segments gave tissue weight but introduced raised tabs."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Transparent veils quieted outer bright windows."
+    },
+    {
+      "afterStroke": 73,
+      "text": "One compact curl glint survived whole view and remained isolated."
+    },
+    {
+      "afterStroke": 81,
+      "text": "Matching grain reduced moss island contrast while relief remained."
+    },
+    {
+      "afterStroke": 89,
+      "text": "Interrupted narrow stem lights supported continuity and roundness."
+    },
+    {
+      "afterStroke": 93,
+      "text": "Watercolor veils dimmed central slivers without erasing oil texture."
+    },
+    {
+      "afterStroke": 101,
+      "text": "Terminal blades closed the exposed stem gestures."
+    },
+    {
+      "afterStroke": 109,
+      "text": "Broader wood neighbors softened grain color contrast while retaining raised relief."
+    },
+    {
+      "afterStroke": 113,
+      "text": "Final curl and lower-leaf midtones quieted joins. Whole/close review retained continuous stems, unequal tapered leaves, quieter lower frond, curl and compact glint; faceted bends and regular bristles remain. Further covers would add thickness, so stopped."
+    }
+  ],
+  "evidence": [
+    "examples/where-the-fern-unfolds.json",
+    "examples/previews/where-the-fern-unfolds.png",
+    "artifacts/where-the-fern-unfolds/020-whole.jpg",
+    "artifacts/where-the-fern-unfolds/020-close.jpg",
+    "artifacts/where-the-fern-unfolds/060-whole.jpg",
+    "artifacts/where-the-fern-unfolds/060-close.jpg",
+    "artifacts/where-the-fern-unfolds/073-whole.jpg",
+    "artifacts/where-the-fern-unfolds/073-close.jpg",
+    "artifacts/where-the-fern-unfolds/113-whole.jpg",
+    "artifacts/where-the-fern-unfolds/113-close.jpg",
+    "artifacts/where-the-fern-unfolds/081-lower.jpg",
+    "artifacts/where-the-fern-unfolds/097-upper.jpg",
+    "artifacts/where-the-fern-unfolds/inspection-log.json",
+    "artifacts/where-the-fern-unfolds/live-receipt.json"
+  ],
+  "engineRevision": "de341baeb8759d9c481b20bdbd63a375613f2a85",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "With fixed palette and renderer compare four-point vs densely sampled curved stems and leaflets from block-in. Place cedar grain before fern roots versus later crossings; compare color contrast and relief separately. Use a fresh subject next.",
+  "assessment": {
+    "source": "Actual 900×620 PNG, 29 settled whole/close pairs, upper/lower focus reviews and exactly matching acknowledged ended feed.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }
 ]

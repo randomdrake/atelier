@@ -1,0 +1,37 @@
+{
+  "painting": "where-the-fern-unfolds",
+  "marks": 113,
+  "moments": 63,
+  "tests": 103,
+  "syntax": "passed",
+  "workerBuild": "passed",
+  "artifactVerification": "115 paintings; complete Worker; no publisher credential/private files",
+  "exportEquality": "PNG bytes and strokes/events match gallery; hosted feed strokes/events match actual export",
+  "finishedImage": {
+    "width": 900,
+    "height": 620
+  },
+  "workerPauseStable": true,
+  "workerPaused": [
+    "160 px",
+    "90%",
+    "65%",
+    "Mark 8 of 113 · Watercolor",
+    ""
+  ],
+  "workerContinued": [
+    "160 px",
+    "90%",
+    "65%",
+    "Mark 9 of 113 · Watercolor",
+    ""
+  ],
+  "phone": {
+    "dialog": 352,
+    "dialogScroll": 350,
+    "document": 390,
+    "viewport": 390
+  },
+  "notes": "Opening/final notes and expanded notebook verified; replay brush controls visible; return-to-finished passed",
+  "humanRating": null
+}

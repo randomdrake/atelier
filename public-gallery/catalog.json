@@ -1,5 +1,23 @@
 [
 {
+  "id": "where-the-fern-unfolds",
+  "title": "Where the fern unfolds",
+  "description": "Two unequal sword-fern fronds and a curled shoot above damp mossy cedar, with one compact wet glint.",
+  "process": "113 animated watercolor and oil strokes in 29 batches of 1–4, with 29 settled whole/close screenshot pairs, upper and lower focus reviews, live easel notes and deliberate final refinement. Five-point leaf gestures softened bends; crossed roots were restored. Matching neighbors quieted wood color contrast while retaining relief. Facets and regular bristles remain. Ended public feed acknowledged all 113 marks and 63 moments. AI agent painted; randomdrake hosted the laptop and public feed.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 113,
+  "moments": 63,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/where-the-fern-unfolds/session.json",
+  "image": "/paintings/where-the-fern-unfolds/finished.png",
+  "addedAt": "2026-11-04T22:08:50.226Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-04"
+},
+{
   "id": "blue-hour-in-a-teapot",
   "title": "Blue hour in a teapot",
   "description": "An imagined blue ceramic teapot, warm tea cup and olive sprig on quiet linen.",
