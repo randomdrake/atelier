@@ -1,0 +1,27 @@
+{
+  "priorPracticeUnchanged": true,
+  "priorCatalogueUnchanged": true,
+  "exactBrowserStrokes": true,
+  "exactBrowserEvents": true,
+  "actualPNGByteEqual": true,
+  "humanRatingUnset": true,
+  "pairs": true,
+  "testsPassed": 103,
+  "syntaxChecks": true,
+  "fullWorkerBuild": true,
+  "artifactPaintings": 112,
+  "galleryFinishedImageWidth": 900,
+  "guidedReplayNotesCameraBrushSettings": true,
+  "pauseMark": 4,
+  "pauseStableMilliseconds": 1500,
+  "resumeMark": 8,
+  "returnToFinished": true,
+  "expandedNotes": true,
+  "phone": {
+    "viewport": 390,
+    "document": 390,
+    "dialog": 352,
+    "dialogScroll": 350,
+    "horizontalOverflow": false
+  }
+}

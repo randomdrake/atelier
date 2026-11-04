@@ -12095,5 +12095,85 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "a-pear-keeps-november",
+  "title": "A pear keeps November",
+  "date": "2026-11-04",
+  "session": "examples/a-pear-keeps-november.json",
+  "finishedImage": "examples/previews/a-pear-keeps-november.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Continuous uneven pear silhouette, warm russet light and cool underside, one compact reflection.",
+  "inspiration": {
+    "title": "Museums Victoria Beurre Hardy pear model",
+    "url": "https://collections.museumsvictoria.com.au/items/402959",
+    "interpretation": "Original imagined pear and curled leaf on plum cloth; no copied composition."
+  },
+  "observations": [
+    {
+      "afterStroke": 20,
+      "text": "Broad crossing planes closed the body window; first base remained scalloped."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Broader warm neighbor softened cool right-rail color while retaining relief."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Long peripheral washes reduced bright cloth windows."
+    },
+    {
+      "afterStroke": 37,
+      "text": "Single compact shoulder reflection survived whole view."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Leaf tip turned upward; petiole joined; fold retained strong seam. Lower focus reviewed."
+    },
+    {
+      "afterStroke": 57,
+      "text": "Matching neighbor absorbed isolated dark skin dash."
+    },
+    {
+      "afterStroke": 61,
+      "text": "Sampled lower overlap filled the base notch, giving continuous weight."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Contact shadow anchored fruit but created a strip; neighboring paint reduced color separation while relief remained."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Neck step softened in color; raised join persisted."
+    },
+    {
+      "afterStroke": 97,
+      "text": "Final paired review: filled uneven silhouette, warm/cool planes, compact reflection, subordinate leaf. Faceted shoulder, regular bristles and raised joins retained; stopped because further covers added relief faster than useful form."
+    }
+  ],
+  "evidence": [
+    "examples/a-pear-keeps-november.json",
+    "examples/previews/a-pear-keeps-november.png",
+    "artifacts/a-pear-keeps-november/020-whole.jpg",
+    "artifacts/a-pear-keeps-november/020-close.jpg",
+    "artifacts/a-pear-keeps-november/061-whole.jpg",
+    "artifacts/a-pear-keeps-november/061-close.jpg",
+    "artifacts/a-pear-keeps-november/097-whole.jpg",
+    "artifacts/a-pear-keeps-november/097-close.jpg",
+    "artifacts/a-pear-keeps-november/045-lower.jpg",
+    "artifacts/a-pear-keeps-november/inspection-log.json",
+    "artifacts/a-pear-keeps-november/live-receipt.json"
+  ],
+  "engineRevision": "81159cd7352759e7bf91af908252fcdbe3b72068",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "With fixed pear palette and renderer, compare initially overlapping filled planes with outline-plus-repairs. Sample the lower silhouette from block-in. Compare broad matching neighbors with narrow shadow rails, assessing color and relief separately. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual exported PNG, 25 settled whole/close screenshot pairs, lower focus and exactly matching acknowledged ended feed.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }
 ]

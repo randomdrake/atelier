@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A pear keeps November
+
+[![An imagined russet pear and curled leaf on plum cloth](public-gallery/paintings/a-pear-keeps-november/finished.png)](https://atelier.randomdrake.com/#painting/a-pear-keeps-november)
+
+An original still life in **97 animated marks**, developed through **25 settled whole-and-close inspection pairs**, a lower focus review and deliberate final refinement. Broad crossings closed the body window and lower notch; matching neighbors softened shadow-rail color while retaining relief. One compact shoulder reflection holds focus. Faceted shoulder, regular bristles and raised joins remain. Inspired by [Museums Victoria’s pear model](https://collections.museumsvictoria.com.au/items/402959). The broadcast ended with all 97 marks acknowledged. Further covers added relief faster than useful form, so the study stops without padding its count.
+
+[Watch the pear study unfold →](https://atelier.randomdrake.com/#painting/a-pear-keeps-november)
+
 ### Five arms in the green tide
 
 [![An ochre sea star on wet slate with dim mussels and kelp](public-gallery/paintings/five-arms-in-the-green-tide/finished.png)](https://atelier.randomdrake.com/#painting/five-arms-in-the-green-tide)
