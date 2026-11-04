@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Copper holds the morning
+
+[![An imagined copper kettle and folded indigo cloth](public-gallery/paintings/copper-holds-the-morning/finished.png)](https://atelier.randomdrake.com/#painting/copper-holds-the-morning)
+
+An original still life in **85 animated marks**, developed through **22 settled whole-and-close inspection pairs**, lower and upper focus reviews and deliberate final refinement. Crossing planes closed the body slit; broad neighbors softened lid-seam color while retaining relief. One compact shoulder reflection holds focus. Faceted handle, rounded cloth, regular bristles and raised shadow repairs remain. Inspired by the [Smithsonian copper kettle record](https://americanhistory.si.edu/collections/object/nmah_658188). The broadcast ended with all 85 marks acknowledged. Further covers added relief faster than useful form, so the study stops without padding its count.
+
+[Watch the kettle study unfold →](https://atelier.randomdrake.com/#painting/copper-holds-the-morning)
+
 ### A small warmth in the branches
 
 [![An imagined chickadee on a bare twig with two unequal buds](public-gallery/paintings/a-small-warmth-in-the-branches/finished.png)](https://atelier.randomdrake.com/#painting/a-small-warmth-in-the-branches)

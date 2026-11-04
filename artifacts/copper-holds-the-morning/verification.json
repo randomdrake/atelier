@@ -1,0 +1,42 @@
+{
+  "tests": 103,
+  "syntaxCheck": "passed",
+  "workerBuild": "passed",
+  "artifactPaintings": 109,
+  "privacyArtifactCheck": "passed",
+  "actualPNG": "900x620; visually inspected; gallery byte equal",
+  "publicReplay": "85 strokes and 47 events equal actual browser export",
+  "priorPracticeEntriesUnchanged": 105,
+  "priorCatalogueEntriesUnchanged": 108,
+  "gallery": {
+    "finished": true,
+    "openingGoalAndAttribution": true,
+    "liveNotes": true,
+    "brushSettings": true,
+    "pause": {
+      "before": 12,
+      "after1500ms": 12
+    },
+    "continue": {
+      "after6500ms": 16,
+      "speed": 4
+    },
+    "returnToFinished": true,
+    "downloadLink": true
+  },
+  "phone": {
+    "viewport": 390,
+    "documentWidth": 390,
+    "dialogWidth": 352,
+    "dialogScrollWidth": 350,
+    "horizontalOverflow": false
+  },
+  "inspections": {
+    "pairs": 22,
+    "extra": [
+      "049-lower",
+      "069-upper"
+    ],
+    "final": 85
+  }
+}

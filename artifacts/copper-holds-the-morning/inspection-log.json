@@ -1,0 +1,123 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    37,
+    41,
+    45,
+    49,
+    53,
+    57,
+    61,
+    65,
+    69,
+    73,
+    77,
+    81,
+    85
+  ],
+  "pairCount": 22,
+  "guards": [
+    "Exact completed count",
+    "At rest",
+    "Displayed close 2.0×",
+    "1200ms camera settling"
+  ],
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Long horizontal washes left pale lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Crossing washes formed a visible grid."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Diagonal bridges quieted most gaps; contact shadow became a strong rail."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad looped copper block-in retained a blue central slit."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Crossing body planes closed the slit; shoulder remained faceted."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Densely sampled spout rose continuously from a joined root."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Open handle arch established; right end floated above shoulder."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Copper collars joined handle; knob filled."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Warm left and cool right planes separated; cool patch had raised edge."
+    },
+    {
+      "afterStroke": 37,
+      "text": "Single compact loaded shoulder reflection survived whole view."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Cloth filled but read as a blue block."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Fold faces appeared; crease was isolated and dark."
+    },
+    {
+      "afterStroke": 49,
+      "text": "Slate neighbor interrupted crease; contact cover changed color but added wavy relief, confirmed lower close."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Loaded neighbors warmed middle while leaving raised scallops."
+    },
+    {
+      "afterStroke": 57,
+      "text": "Outside washes quieted pale background lanes."
+    },
+    {
+      "afterStroke": 61,
+      "text": "Thin oil patina visible; spout-root patch isolated."
+    },
+    {
+      "afterStroke": 65,
+      "text": "Warm neighbor connected patina; new lid seam became a dark rail."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Broad matching copper softened seam color but retained relief; upper view showed detached inner handle reflection."
+    },
+    {
+      "afterStroke": 73,
+      "text": "Watercolor barely changed oil handle reflection; left seam endpoint softened more than right."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Long oblique cloth face clarified fold, retaining rounded silhouette."
+    },
+    {
+      "afterStroke": 81,
+      "text": "Lower washes reduced pale border; spout turn warmer; lid endpoint retained relief."
+    },
+    {
+      "afterStroke": 85,
+      "text": "Final cloth neighbor, outer washes and copper touch settled color; stop before additional raised covers."
+    }
+  ]
+}

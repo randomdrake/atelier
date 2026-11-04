@@ -1,5 +1,24 @@
 [
 {
+  "id": "copper-holds-the-morning",
+  "title": "Copper holds the morning",
+  "description": "An imagined copper kettle and folded indigo cloth in quiet blue-green morning light.",
+  "process": "An original AI-painted study in 85 animated marks, chosen in 22 batches of 1–4 after settled whole/2.0×close screenshots. Lower and upper focus reviews, live easel notes and deliberate final refinement are recorded. Crossing planes closed the body slit; broad neighbors softened lid-seam color while retaining relief. One compact reflection holds focus. Faceted handle, rounded cloth, regular bristles and raised shadow repairs remain. Actual PNG and replay exported without reload; the public broadcast ended with all 85 marks acknowledged. Further covers added relief faster than useful form, so the study stops without count padding. Human ratings unset. Inspired by the Smithsonian copper kettle record: https://americanhistory.si.edu/collections/object/nmah_658188 .",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 85,
+  "moments": 47,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/copper-holds-the-morning/session.json",
+  "image": "/paintings/copper-holds-the-morning/finished.png",
+  "addedAt": "2026-11-04T16:16:28.634Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-04"
+},
+
+{
   "id": "a-small-warmth-in-the-branches",
   "title": "A small warmth in the branches",
   "description": "An imagined chickadee on a bare twig with two unequal buds in quiet blue-green air.",
