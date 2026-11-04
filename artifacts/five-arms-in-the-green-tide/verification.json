@@ -1,0 +1,26 @@
+{
+  "tests": 103,
+  "syntaxCheck": "passed",
+  "fullWorkerBuild": "passed",
+  "artifactCheck": "111 paintings; complete Worker; no publisher credential or private files",
+  "actualPngMatchesGallery": true,
+  "actualReplayMatchesGallery": true,
+  "finishedView": true,
+  "notesExpanded": true,
+  "pause": {
+    "mark": 20,
+    "heldMs": 1500,
+    "stable": true
+  },
+  "continuedToMark": 24,
+  "returnToFinished": true,
+  "phone": {
+    "viewport": 390,
+    "height": 844,
+    "documentWidth": 390,
+    "dialogWidth": 352,
+    "dialogScrollWidth": 350,
+    "horizontalOverflow": false
+  },
+  "browserLimitations": "Initial pause click timed out; fresh accessibility state verified Pause and second click succeeded. No painting change or session reload."
+}

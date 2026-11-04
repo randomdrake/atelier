@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Five arms in the green tide
+
+[![An ochre sea star on wet slate with dim mussels and kelp](public-gallery/paintings/five-arms-in-the-green-tide/finished.png)](https://atelier.randomdrake.com/#painting/five-arms-in-the-green-tide)
+
+An original tidepool study in **113 animated marks**, developed through **29 settled whole-and-close inspection pairs**, a lower focus review and deliberate final refinement. Broad overlaps kept all five arms filled; warm neighbors reduced dark underside rails while retaining relief. One compact central reflection holds focus. Angular tips, a slate scallop and regular bristles remain. Inspired by the [NPS Point Reyes tidepool guide](https://www.nps.gov/pore/planyourvisit/tidepooling.htm). Broadcast ended with all 113 marks acknowledged.
+
+[Watch the sea-star study unfold →](https://atelier.randomdrake.com/#painting/five-arms-in-the-green-tide)
+
 ### Yellow crossing after rain
 
 [![A yellow banana slug crossing mossy bark](public-gallery/paintings/yellow-crossing-after-rain/finished.png)](https://atelier.randomdrake.com/#painting/yellow-crossing-after-rain)

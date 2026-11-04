@@ -1,5 +1,23 @@
 [
 {
+  "id": "five-arms-in-the-green-tide",
+  "title": "Five arms in the green tide",
+  "description": "An ochre sea star on wet slate, with subdued mussels, kelp and one compact reflection.",
+  "process": "AI agent painted 113 animated watercolor/oil strokes in 29 batches of 1\u20134, choosing each after settled whole-and-close screenshots. Lower focus review at49; final refinement through113. Notes and camera moves recorded live. Broad overlaps kept five arms filled; warm neighbors softened underside-rail color while relief remained. Actual PNG and replay exported, and ended public feed acknowledged113. Angular tips, slate scallop and regular bristles retained. Inspired by the NPS Point Reyes tidepool guide.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 113,
+  "moments": 59,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/five-arms-in-the-green-tide/session.json",
+  "image": "/paintings/five-arms-in-the-green-tide/finished.png",
+  "addedAt": "2026-11-04T18:17:41.469Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-04"
+},
+{
   "id": "yellow-crossing-after-rain",
   "title": "Yellow crossing after rain",
   "description": "An imagined yellow banana slug crossing mossy bark in cool forest shade, with a dim fern and wet trail.",
