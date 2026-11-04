@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-red-crown-in-the-reeds",
+  "title": "A red crown in the reeds",
+  "description": "An imagined sandhill crane in an autumn marsh, with unequal reeds and one compact red crown.",
+  "process": "94 animated watercolor and oil marks in 25 batches of 1–4, selected after 25 settled whole/close screenshot pairs, upper and lower focus reviews and deliberate final refinement. Live easel notes describe the filled body, continuous uneven neck, compact crown and cheek light. Broad neighbors softened underside and leg-root color while relief remained. Faceted neck, angular reeds and regular bristles retained. Ended broadcast acknowledged all 94 strokes and 53 events. Further covers added relief faster than useful form; stopped without padding.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 94,
+  "moments": 53,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-red-crown-in-the-reeds/session.json",
+  "image": "/paintings/a-red-crown-in-the-reeds/finished.png",
+  "addedAt": "2026-11-04T20:17:46.039Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-04"
+},
+{
   "id": "a-pear-keeps-november",
   "title": "A pear keeps November",
   "description": "An imagined russet pear and curled leaf on quiet plum cloth, with warm and cool planes and a compact shoulder reflection.",

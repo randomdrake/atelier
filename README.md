@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A red crown in the reeds
+
+[![An imagined sandhill crane in an autumn marsh](public-gallery/paintings/a-red-crown-in-the-reeds/finished.png)](https://atelier.randomdrake.com/#painting/a-red-crown-in-the-reeds)
+
+An original marsh study in **94 animated marks**, developed through **25 settled whole-and-close inspection pairs**, upper and lower focus reviews and deliberate refinement. Broad overlaps kept the body filled; a sampled neck joins the head, and one compact red crown holds focus. Matching neighbors reduced underside and leg-root color contrast while retaining relief. Faceted neck, angular reeds and regular bristles remain. Inspired by the [NPS crane migration account](https://www.nps.gov/grsa/planyourvisit/sandhill-crane-migration.htm). The broadcast ended with all 94 marks acknowledged. Further covers added relief faster than useful form, so the study stops without padding its count.
+
+[Watch the crane study unfold →](https://atelier.randomdrake.com/#painting/a-red-crown-in-the-reeds)
+
 ### A pear keeps November
 
 [![An imagined russet pear and curled leaf on plum cloth](public-gallery/paintings/a-pear-keeps-november/finished.png)](https://atelier.randomdrake.com/#painting/a-pear-keeps-november)

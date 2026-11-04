@@ -12175,5 +12175,106 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "a-red-crown-in-the-reeds",
+  "title": "A red crown in the reeds",
+  "date": "2026-11-04",
+  "session": "examples/a-red-crown-in-the-reeds.json",
+  "finishedImage": "examples/previews/a-red-crown-in-the-reeds.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Filled overlapping body planes, a long continuous neck curve and one compact red crown without heavy contour rails.",
+  "inspiration": {
+    "title": "NPS Great Sand Dunes sandhill crane migration",
+    "url": "https://www.nps.gov/grsa/planyourvisit/sandhill-crane-migration.htm",
+    "interpretation": "Original imagined crane in autumn marsh with unequal reed groups; no copied composition."
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Diagonal washes reduced the bright background grid; remaining windows were quieter after broad border washes at 78."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Overlapping broad body planes produced a filled silhouette without an interior window."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Sampled neck gestures joined body and head continuously but retained angular bends."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Fuller paint made the red crown readable at whole view."
+    },
+    {
+      "afterStroke": 33,
+      "text": "A single eye mark read as a small point; upper focus reviewed."
+    },
+    {
+      "afterStroke": 49,
+      "text": "Water washes anchored feet and reduced the bright right wedge."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Cool underside separated volume but made a dark belt."
+    },
+    {
+      "afterStroke": 57,
+      "text": "Broader matching neighbors reduced belt color separation while raised relief remained."
+    },
+    {
+      "afterStroke": 65,
+      "text": "Pressure-tapered leaves were less blunt but retained angular bends."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Sparse unequal feather gestures described the wing fall toward the tail."
+    },
+    {
+      "afterStroke": 74,
+      "text": "One compact cheek reflection survived whole view."
+    },
+    {
+      "afterStroke": 82,
+      "text": "Muted oil made previously near-invisible right reeds legible and subordinate."
+    },
+    {
+      "afterStroke": 86,
+      "text": "Neck covers softened color but added raised joins."
+    },
+    {
+      "afterStroke": 90,
+      "text": "Toe corrections spread the feet, but leg roots became too pale."
+    },
+    {
+      "afterStroke": 94,
+      "text": "Matching covers quieted leg-root color. Final paired and upper review retained filled body, uneven continuous neck, compact crown and cheek light, unequal feet and quiet reeds. Facets, regular bristles and raised joins remain. Further covers added relief faster than useful form, so stopped below 112 without padding."
+    }
+  ],
+  "evidence": [
+    "examples/a-red-crown-in-the-reeds.json",
+    "examples/previews/a-red-crown-in-the-reeds.png",
+    "artifacts/a-red-crown-in-the-reeds/016-whole.jpg",
+    "artifacts/a-red-crown-in-the-reeds/016-close.jpg",
+    "artifacts/a-red-crown-in-the-reeds/057-whole.jpg",
+    "artifacts/a-red-crown-in-the-reeds/057-close.jpg",
+    "artifacts/a-red-crown-in-the-reeds/094-whole.jpg",
+    "artifacts/a-red-crown-in-the-reeds/094-close.jpg",
+    "artifacts/a-red-crown-in-the-reeds/094-upper.jpg",
+    "artifacts/a-red-crown-in-the-reeds/045-lower.jpg",
+    "artifacts/a-red-crown-in-the-reeds/inspection-log.json",
+    "artifacts/a-red-crown-in-the-reeds/live-receipt.json"
+  ],
+  "engineRevision": "2c98a4534fea81b0fd56bb2fa3603c59fabb5efa",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "With fixed crane palette and renderer, compare initial filled body planes with outline-plus-repairs. Compare a densely sampled neck from block-in with later cover corrections; assess color and relief separately. Test watercolor versus low-body oil for dim reeds. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual finished PNG, 25 settled whole/close screenshot pairs, upper/lower focus reviews and exactly matching acknowledged ended feed.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }
 ]

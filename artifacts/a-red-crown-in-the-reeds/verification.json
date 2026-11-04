@@ -1,0 +1,27 @@
+{
+  "tests": 103,
+  "syntaxChecks": "passed",
+  "workerBuild": "passed",
+  "publicArtifactPaintingCount": 113,
+  "actualPNGMatchesGallery": true,
+  "actualStrokesAndEventsMatchGallery": true,
+  "broadcastEndedAndExact": true,
+  "gallery": {
+    "finishedImage": [
+      900,
+      620
+    ],
+    "replay": true,
+    "notes": true,
+    "pauseStableAt": "Mark 8 of 94",
+    "pauseWaitMs": 1500,
+    "resume": true,
+    "returnFinished": true
+  },
+  "phone": {
+    "dialog": 352,
+    "dialogScroll": 350,
+    "document": 390,
+    "viewport": 390
+  }
+}
