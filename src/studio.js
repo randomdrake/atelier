@@ -283,6 +283,11 @@ $('load-lesson').onclick=async()=>{
 function download(blob,name){const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);}
 $('export').onclick=()=>canvas.toBlob(b=>download(b,'atelier-painting.png'));
 $('save-score').onclick=()=>download(new Blob([JSON.stringify(documentState(true),null,2)],{type:'application/json'}),'atelier-session.json');
+$('prepare-portable-export').onclick=()=>{
+  $('portable-session').value=JSON.stringify(documentState(true),null,2);
+  $('portable-png').value=canvas.toDataURL('image/png');
+  status('Portable exports are ready to copy.');
+};
 $('import').onchange=async e=>{
   try{
     const file=e.target.files[0];if(!file)return;const doc=validateDocument(JSON.parse(await file.text()));

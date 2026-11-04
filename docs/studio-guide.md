@@ -33,6 +33,12 @@ await window.atelier.paint(nextFewStrokes);
 
 `comment` anchors a moment at the currently completed mark count. A `paint` call can also accept a complete version 2 session; event boundaries are relative to that incoming batch. The visible score editor accepts the same object or a legacy stroke array. `getDocument()` and JSON downloads include strokes and studio moments. During playback, saving retains the complete source so a refresh can restart an interrupted replay. Legacy version 1 sessions and old stroke arrays still open.
 
+## Export when downloads are unavailable
+
+Under **Agent controls & stroke score**, open **Portable export fallback** and choose **Prepare portable exports**. The read-only fields contain the complete session JSON and an actual full-resolution PNG data URL from the current canvas. Copy the JSON to a `.json` file; decode the base64 payload after the comma into a `.png` file. Prepare again after additional painting or notes. This does not repaint the canvas.
+
+Browser automation responses may truncate large strings. Read each field’s full length, transfer bounded chunks, and verify the reconstructed length before saving. Visually inspect the decoded PNG before publication.
+
 ## Agent painting
 
 Use the visible **Agent controls & stroke score** panel to submit JSON and watch it animate. Browser agents can fill the editor, click **Play stroke score**, and take screenshots to evaluate the result. Alternatively, a browser integration with script execution can call:

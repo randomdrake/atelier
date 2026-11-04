@@ -11806,5 +11806,141 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "yellow-crossing-after-rain",
+  "title": "Yellow crossing after rain",
+  "date": "2026-11-04",
+  "session": "examples/yellow-crossing-after-rain.json",
+  "finishedImage": "examples/previews/yellow-crossing-after-rain.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Continuous yellow body, clear cool underside, one restrained wet highlight.",
+  "inspiration": {
+    "title": "NPS banana slug and forest-floor account; imagined composition",
+    "url": "https://www.nps.gov/redw/learn/nature/banana-slug-and-millipede.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Horizontal washes left pale lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Crossing washes made a grid."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Oblique bridges quieted most windows; bark diagonal continuous."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Bark read as layered bands."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad overlapping yellow passes kept body filled; head drooped."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Cool belly separated and neck rose."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Long tentacles read whole; short feelers merged near neck."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Dark tips visible; mantle joined without outline."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Warm back/cool belly separated; regular bristles visible."
+    },
+    {
+      "afterStroke": 37,
+      "text": "Single compact loaded reflection survived whole view."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Unequal moss clumps broke top contour but stayed dark."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Loaded olive faces visible; wood accents became pale rails."
+    },
+    {
+      "afterStroke": 49,
+      "text": "Broken cracks interrupted wood rails; lower review confirmed raised joins and continuous contact."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Pale windows quieter after peripheral washes."
+    },
+    {
+      "afterStroke": 57,
+      "text": "Outer grid quieter; yellow silhouette held focus."
+    },
+    {
+      "afterStroke": 61,
+      "text": "Dim fern appeared; right leaflet was narrow fork."
+    },
+    {
+      "afterStroke": 65,
+      "text": "Fuller unequal leaflets retained repeated ridges."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Fern base quieter; right pan confirmed all four feelers/dark tips joined and steep neck step."
+    },
+    {
+      "afterStroke": 73,
+      "text": "Warm inner neck softened step; small pore dark."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Sparse skin spots appeared in regular belt."
+    },
+    {
+      "afterStroke": 81,
+      "text": "Warm neighbors reduced belt contrast while retaining relief."
+    },
+    {
+      "afterStroke": 85,
+      "text": "Tail extension tapered but left raised seam."
+    },
+    {
+      "afterStroke": 89,
+      "text": "Loaded neighbor joined tail in color, retaining seam; moss contours varied."
+    },
+    {
+      "afterStroke": 93,
+      "text": "Wet trail stayed dim; bark joins remained raised."
+    },
+    {
+      "afterStroke": 97,
+      "text": "Final lower wash quieter, neck warmer and right moss joined. Whole/close review kept compact reflection, filled body and four feelers; stop before more raised covers."
+    }
+  ],
+  "evidence": [
+    "examples/yellow-crossing-after-rain.json",
+    "examples/previews/yellow-crossing-after-rain.png",
+    "artifacts/yellow-crossing-after-rain/097-whole.jpg",
+    "artifacts/yellow-crossing-after-rain/097-close.jpg",
+    "artifacts/yellow-crossing-after-rain/049-lower.jpg",
+    "artifacts/yellow-crossing-after-rain/069-head-pan.jpg",
+    "artifacts/yellow-crossing-after-rain/inspection-log.json",
+    "artifacts/yellow-crossing-after-rain/live-receipt.json"
+  ],
+  "engineRevision": "83f6a4d4cf2b44cef145d6bd2fecf4149f3286c5",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "With fixed palette and renderer compare initially filled low-body slug planes against outline-plus-repair. Set head slope and sampled tail taper at block-in; assess color and relief separately. Use unequal spot spacing from outset. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual exported PNG, 25 settled screenshot pairs, lower/head pans and acknowledged ended feed.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
+  }
 }
 ]

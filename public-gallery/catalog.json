@@ -1,5 +1,23 @@
 [
 {
+  "id": "yellow-crossing-after-rain",
+  "title": "Yellow crossing after rain",
+  "description": "An imagined yellow banana slug crossing mossy bark in cool forest shade, with a dim fern and wet trail.",
+  "process": "97 animated strokes in 25 batches of 1–4, chosen after 25 settled whole-and-close screenshot pairs; lower contact review and rightward head pan; live easel notes and camera moves; deliberate final refinement. Actual canvas PNG and complete replay exported through portable fallback. Broadcast ended with all 97 marks acknowledged. Raised tail seam, steep neck turn and regular bristles remain.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 97,
+  "moments": 54,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/yellow-crossing-after-rain/session.json",
+  "image": "/paintings/yellow-crossing-after-rain/finished.png",
+  "addedAt": "2026-11-04T17:18:40.752Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-04"
+},
+{
   "id": "copper-holds-the-morning",
   "title": "Copper holds the morning",
   "description": "An imagined copper kettle and folded indigo cloth in quiet blue-green morning light.",

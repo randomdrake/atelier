@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Yellow crossing after rain
+
+[![A yellow banana slug crossing mossy bark](public-gallery/paintings/yellow-crossing-after-rain/finished.png)](https://atelier.randomdrake.com/#painting/yellow-crossing-after-rain)
+
+An original forest-floor study in **97 animated marks**, developed through **25 settled whole-and-close inspection pairs**, a lower review, a rightward head pan and deliberate final refinement. Broad overlapping planes kept the body filled; four joined feelers, a cool belly and one compact wet reflection hold the subject. A dim fern and broken moss support the diagonal. Raised tail seam, steep neck turn and regular bristles remain. Inspired by the [NPS forest-floor account](https://www.nps.gov/redw/learn/nature/banana-slug-and-millipede.htm). Broadcast ended with all 97 marks acknowledged; further covers added relief faster than useful form.
+
+[Watch the slug study unfold →](https://atelier.randomdrake.com/#painting/yellow-crossing-after-rain)
+
 ### Copper holds the morning
 
 [![An imagined copper kettle and folded indigo cloth](public-gallery/paintings/copper-holds-the-morning/finished.png)](https://atelier.randomdrake.com/#painting/copper-holds-the-morning)
