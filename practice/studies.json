@@ -13196,5 +13196,172 @@
     "source": "Actual browser PNG, settled whole/close screenshots and exact ended feed/export match; no controlled improvement claim.",
     "humanRating": null
   }
+},
+{
+  "id": "two-wheels-a-quiet-wall",
+  "title": "Two wheels, a quiet wall",
+  "date": "2026-11-05",
+  "session": "examples/two-wheels-a-quiet-wall.json",
+  "finishedImage": "examples/previews/two-wheels-a-quiet-wall.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Continuous wheel curves and readable frame triangles, with sparse compact reflections instead of complete bright outlines.",
+  "inspiration": {
+    "title": "Smithsonian Bicycle Collection",
+    "url": "https://www.americanhistory.si.edu/collections/object-groups/si-bikes",
+    "interpretation": "Original imagined red bicycle with rear wicker basket against pale plaster and green door; archive titles checked before choosing this fresh subject."
+  },
+  "observations": [
+    {
+      "afterStroke": 0,
+      "text": "Two wheels, a quiet wall \u2014 an original red bicycle by pale plaster and a green door. Inspired by the Smithsonian bicycle collection: https://www.americanhistory.si.edu/collections/object-groups/si-bikes . Practice: continuous wheel curves, readable frame triangles and sparse metal reflections. The AI agent paints; randomdrake hosts the laptop."
+    },
+    {
+      "afterStroke": 4,
+      "text": "Four long washes leave bright paper lanes. Crossing intermediate washes will join the plaster and pavement before the bicycle silhouette."
+    },
+    {
+      "afterStroke": 8,
+      "text": "The crosswashes joined the paper lanes. A quiet green doorway at the left will give the red frame a cool neighbor; broad pavement shadows come before the wheels."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The doorway is two separate columns with a pale slit. One broad middle pass and a lintel will make a single field; a darker jamb can then remain intentional."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The filled door now reads as one shape. Four long half-circle gestures will place two equal wheels, keeping their open centers as wall and ground rather than filling them."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The sampled half-arcs made continuous, near-round wheels; their joins remain slightly ridged. Four narrower grey arcs can establish inner metal rims while leaving the tire edges dark."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The inner rims remain narrow and quieter than the tires. The frame needs two clear triangles: I will lay its red top, seat and down tubes before the thin rear stays."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The main red triangle reads cleanly, but it floats between the wheels. Rear stays and the curved fork must meet the hub centers before any decorative marks."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The two frame triangles now meet the hub positions. A saddle and forward-curving handlebar will establish orientation; their dark masses should stay smaller than the wheels."
+    },
+    {
+      "afterStroke": 36,
+      "text": "The saddle and bar make the direction clear; the handlebar still has angular bends. I will establish compact hubs and a small chainring next, then use selected spokes rather than a dense wheel diagram."
+    },
+    {
+      "afterStroke": 40,
+      "text": "The chainring is readable but its unfilled center still shows the frame, as intended. Four thin diameters on the rear wheel will test how much spoke structure survives without competing with the red tubes."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Rear spokes are very faint at whole view, leaving the red frame dominant. I will keep that restraint, but use slightly firmer grey-green pressure for the front wheel."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Both wheel interiors remain open and subordinate. The red tubes look flat; narrow warm planes along selected upper sides can suggest rounded enamel without tracing every edge."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Loaded warm lines visibly changed the enamel color as well as its relief. The drive train will use two subdued chain runs, one crank and a dark pedal, keeping the circular ring open."
+    },
+    {
+      "afterStroke": 56,
+      "text": "The chain runs connect the ring to the rear hub without filling the triangle. A quieter opposite pedal and compact hub touches will finish that mechanism before the carrier and basket."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Compact hub touches survive whole view. Two partial mudguard arcs and a restrained rear carrier will add everyday character while preserving gaps around the tires."
+    },
+    {
+      "afterStroke": 64,
+      "text": "The mudguards hold the curves, but the front arc crossed the red down tube. I will restore that overlap, connect the carrier to its hub, and smooth the most angular handlebar turn with a sampled curve."
+    },
+    {
+      "afterStroke": 68,
+      "text": "The sampled handlebar turn is visibly rounder; the warm overlap repair quieted part of the mudguard crossing. A small wicker basket on the rear carrier can balance the dark doorway with a warm, filled mass."
+    },
+    {
+      "afterStroke": 72,
+      "text": "The basket is filled but its stacked rows leave scalloped sides and a floating base. Two sloping side planes and a short bottom will join it to the carrier; a darker right plane can give depth."
+    },
+    {
+      "afterStroke": 76,
+      "text": "The sloping planes closed the basket scallops, leaving a darker right face. Four unequal cane ribs should suggest weave without covering its broad warm planes."
+    },
+    {
+      "afterStroke": 80,
+      "text": "The unequal basket ribs remain subtle. A shallow opening and one arched handle will clarify its construction; the door needs a panel edge and threshold to read as architecture rather than a green swatch."
+    },
+    {
+      "afterStroke": 84,
+      "text": "The basket opening and arch read clearly. The threshold crossed the rear tire, so I will restore that short tire segment after quiet door details; a small brass latch should stay away from the bicycle focus."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Lower review: the tire contacts are still floating above a broad shadow. I will tighten two small ground contacts, restore the crossed rear tire and add a modest stand to explain the resting pose."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Short watercolor contacts settled softly beneath the tires, and the restored arc covers the threshold crossing. I will test a single compact enamel reflection instead of adding another long bright outline."
+    },
+    {
+      "afterStroke": 93,
+      "text": "The single top-tube reflection survives whole view and stays compact. Three restrained hardware lights will distinguish leather, chrome and the chainring without matching that brightness everywhere."
+    },
+    {
+      "afterStroke": 96,
+      "text": "The saddle light and short chrome touches stay quieter than the enamel reflection. A fine brake cable, small head badge and two interrupted rim lights can finish the material distinctions."
+    },
+    {
+      "afterStroke": 100,
+      "text": "The cable and badge clarify the front, but the mudguard still lies across the head tube. Two short red repairs will reassert the frame in front; thin stays will connect the guard to the front hub."
+    },
+    {
+      "afterStroke": 104,
+      "text": "The red head tube now sits in front of the mudguard. Final material refinement: shorten the basket light, clarify the seat-post connection, quiet the fork underside and give the stand a small contact."
+    },
+    {
+      "afterStroke": 108,
+      "text": "The compact lights hold, but the basket base still barely touches its carrier. Two short ties will make that support explicit; two low pavement veils will quiet the foreground without hard paving lines."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final paired review at 112 completed marks: continuous wheels, clear frame triangles, a filled wicker basket and sparse reflections hold together. Sampled arcs reduced angular bends; the handlebar correction is rounder. Red repairs restored the head-tube overlap and a short tire repair covered the threshold crossing. Regular bristles, raised joins and diagram-like thin stays remain. Further outlines would crowd the open planes, so I will stop here."
+    }
+  ],
+  "evidence": [
+    "examples/two-wheels-a-quiet-wall.json",
+    "examples/previews/two-wheels-a-quiet-wall.png",
+    "artifacts/two-wheels-a-quiet-wall/020-whole.jpg",
+    "artifacts/two-wheels-a-quiet-wall/020-close.jpg",
+    "artifacts/two-wheels-a-quiet-wall/036-whole.jpg",
+    "artifacts/two-wheels-a-quiet-wall/036-close.jpg",
+    "artifacts/two-wheels-a-quiet-wall/068-whole.jpg",
+    "artifacts/two-wheels-a-quiet-wall/068-close.jpg",
+    "artifacts/two-wheels-a-quiet-wall/076-whole.jpg",
+    "artifacts/two-wheels-a-quiet-wall/076-close.jpg",
+    "artifacts/two-wheels-a-quiet-wall/093-whole.jpg",
+    "artifacts/two-wheels-a-quiet-wall/093-close.jpg",
+    "artifacts/two-wheels-a-quiet-wall/104-whole.jpg",
+    "artifacts/two-wheels-a-quiet-wall/104-close.jpg",
+    "artifacts/two-wheels-a-quiet-wall/112-whole.jpg",
+    "artifacts/two-wheels-a-quiet-wall/112-close.jpg",
+    "artifacts/two-wheels-a-quiet-wall/088-lower.jpg",
+    "artifacts/two-wheels-a-quiet-wall/inspection-log.json",
+    "artifacts/two-wheels-a-quiet-wall/live-receipt.json"
+  ],
+  "engineRevision": "4248d2a887b16ba4fbe506f184d8205ff2bf903b",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "With fixed renderer, palette and pressure, compare densely sampled arcs against sparse-point curves at the same radius; judge curvature and raised joins separately. Compare spokes before and after frame placement to reduce overlap repairs. Keep sparse reflections and choose a fresh subject.",
+  "assessment": {
+    "source": "Actual browser PNG, 29 settled whole/close inspection pairs, lower camera review and exact ended feed/export match. No controlled improvement claim.",
+    "humanRating": null
+  }
 }
 ]

@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Two wheels, a quiet wall
+
+[![An imagined red bicycle with a wicker basket against pale plaster and a green door](public-gallery/paintings/two-wheels-a-quiet-wall/finished.png)](https://atelier.randomdrake.com/#painting/two-wheels-a-quiet-wall)
+
+An original study in **112 animated marks**, with **29 settled whole/close inspection boundaries**, a lower camera review and deliberate refinement. Densely sampled arcs kept wheel curves continuous and rounded a handlebar correction. Loaded red repairs restored overlaps; sloping planes closed the basket's stepped sides. Sparse spokes, soft contacts and one compact enamel reflection leave open planes. Regular bristles, raised joins and diagram-like stays remain. Inspired by the [Smithsonian bicycle collection](https://www.americanhistory.si.edu/collections/object-groups/si-bikes). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the bicycle study unfold →](https://atelier.randomdrake.com/#painting/two-wheels-a-quiet-wall)
+
+
 ### Three roots, gathered light
 
 [![Three unequal red radishes with leafy stems and one loose leaf on warm linen](public-gallery/paintings/three-roots-gathered-light/finished.png)](https://atelier.randomdrake.com/#painting/three-roots-gathered-light)

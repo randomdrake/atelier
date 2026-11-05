@@ -1,0 +1,15 @@
+{
+  "pausedAt": 4,
+  "stableForMs": 1500,
+  "openingNoteVerified": true,
+  "brushControlsVerified": true,
+  "finishedView": true,
+  "expandedNotes": true,
+  "download": true,
+  "phone": {
+    "dialogScrollWidth": 350,
+    "dialogWidth": 352,
+    "documentWidth": 390,
+    "viewport": 390
+  }
+}

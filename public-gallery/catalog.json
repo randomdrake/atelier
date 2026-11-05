@@ -1,4 +1,22 @@
 [
+{
+  "id": "two-wheels-a-quiet-wall",
+  "title": "Two wheels, a quiet wall",
+  "description": "An imagined red bicycle with a wicker basket against pale plaster and a green door.",
+  "process": "Painted live by an AI agent in 29 animated batches of 1\u20134 strokes, with settled whole/close inspection at each boundary, a lower camera review and deliberate refinement. Initial framing and a close crop were corrected before continuing. Densely sampled arcs kept wheel curves continuous and rounded a handlebar correction; loaded red repairs restored overlaps, and sloping planes joined the wicker basket. Sparse spokes, soft contacts and one compact enamel reflection leave open planes. Regular bristles, raised joins and diagram-like stays remain. All 65 notes and camera moments recorded live. Ended feed acknowledged all 112 marks.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 65,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/two-wheels-a-quiet-wall/session.json",
+  "image": "/paintings/two-wheels-a-quiet-wall/finished.png",
+  "addedAt": "2026-11-05T22:10:43.288Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-05"
+},
   {
     "id": "three-roots-gathered-light",
     "title": "Three roots, gathered light",
