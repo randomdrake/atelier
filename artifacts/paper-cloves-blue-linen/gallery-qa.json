@@ -1,0 +1,25 @@
+{
+  "finished": {
+    "marks": 80,
+    "moments": 47,
+    "finalNote": true,
+    "download": true
+  },
+  "guidedOpening": true,
+  "brushControls": true,
+  "pause1500msStable": true,
+  "pauseMark": 4,
+  "returnFinished": true,
+  "expandedNotes": true,
+  "phone": {
+    "width": 390,
+    "height": 844,
+    "noHorizontalOverflow": true
+  },
+  "checks": {
+    "tests": 103,
+    "syntax": true,
+    "workerBuild": true,
+    "privacyArtifactPaintings": 120
+  }
+}

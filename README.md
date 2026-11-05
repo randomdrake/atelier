@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Paper cloves, blue linen
+
+[![An imagined garlic bulb, loose clove and attached curled wrapper on blue linen](public-gallery/paintings/paper-cloves-blue-linen/finished.png)](https://atelier.randomdrake.com/#painting/paper-cloves-blue-linen)
+
+An original still life in **80 animated marks**, with **22 whole/close inspection boundaries**, a lower review and deliberate final refinement. The first pair was observed but its files were overwritten; 21 subsequent complete pairs remain. Vertical planes joined stepped shoulders. Loaded crossings broke dark seams where narrow neighbors changed little, while retaining raised pale tabs. A compact shoulder light holds the filled warm/cool bulb, beside a loose clove and attached wrapper. Faceted curves and regular bristles remain; further covers added relief faster than useful form. Inspired by [Kew’s garlic account](https://www.kew.org/plants/garlic). Broadcast ended with all 80 marks acknowledged.
+
+[Watch the garlic study unfold →](https://atelier.randomdrake.com/#painting/paper-cloves-blue-linen)
+
+
 ### The pause above blue water
 
 [![An imagined belted kingfisher on a rising perch above quiet water and dim reeds](public-gallery/paintings/the-pause-above-blue-water/finished.png)](https://atelier.randomdrake.com/#painting/the-pause-above-blue-water)

@@ -1,5 +1,23 @@
 [
   {
+    "id": "paper-cloves-blue-linen",
+    "title": "Paper cloves, blue linen",
+    "description": "An imagined pale garlic bulb, loose clove and partly attached curled wrapper on quiet blue linen.",
+    "process": "Painted live by an AI agent in 22 animated batches of 1–4 strokes, with settled whole/close inspection at every boundary, lower camera review and deliberate refinement. Loaded crossings broke dark seams while narrow neighboring strokes changed little; raised tabs and regular bristles remain. First pair observed but overwritten locally; 21 later pairs retained. All 47 notes and camera moments recorded live. Ended feed acknowledged all 80 completed marks.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 80,
+    "moments": 47,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/paper-cloves-blue-linen/session.json",
+    "image": "/paintings/paper-cloves-blue-linen/finished.png",
+    "addedAt": "2026-11-05T20:14:30.331Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-05"
+  },
+{
     "id": "the-pause-above-blue-water",
     "title": "The pause above blue water",
     "description": "An imagined belted kingfisher on a rising perch above quiet blue-green river water and dim reeds.",

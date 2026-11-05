@@ -12917,5 +12917,134 @@
     "humanRating": null,
     "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+},
+{
+  "id": "paper-cloves-blue-linen",
+  "title": "Paper cloves, blue linen",
+  "date": "2026-11-05",
+  "session": "examples/paper-cloves-blue-linen.json",
+  "finishedImage": "examples/previews/paper-cloves-blue-linen.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Fill pale bulb with warm and cool planes before sparse unequal seams; reserve one compact shoulder light.",
+  "inspiration": {
+    "title": "Kew: Garlic — Allium sativum",
+    "url": "https://www.kew.org/plants/garlic",
+    "interpretation": "Original imagined pale bulb, loose clove and partly attached curled wrapper on blue linen; no copied composition. Archive titles checked before selecting the subject and slug."
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Horizontal washes left bright paper lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Cross washes softened center, but side lanes remained."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Intermediate horizontal washes subdued paper lanes to cloth bands."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Filled rows gave a stepped bulb silhouette."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Vertical side planes joined shoulders and neck."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Loaded cream crossed the horizontal center band; cool right plane separated."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Loose clove stayed filled and tapered."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Broad lobe shifts separated without outlines."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Root plate anchored base with unequal fibers."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Narrow seams became too dark and even."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Narrow cream neighbor changed little seam color; skin touched clove and was retained as partly attached wrapper."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Warm underside and raised fold described wrapper curl."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Even pale mauve made strong dark rails over oil."
+    },
+    {
+      "afterStroke": 57,
+      "text": "A single fully loaded crossing visibly broke the inner-left seam."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Three selected crossings broke seam regularity but left raised pale tabs."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Soft contact shadows tightened beneath forms; added root fiber stayed unequal."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Wrapper torn-edge accents and clove heel retained square flap and curved attachment."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Compact warm shoulder light survived whole view."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Unequal dry tips and interrupted neck fold; raised cover step remained."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Broad planes softened some seam color contrast while preserving raised joins."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Final whole/close pair retained filled warm/cool planes, compact light and quiet setting. Further covers would add relief faster than useful form. Faceted edges, regular bristles and pale tabs remain."
+    }
+  ],
+  "evidence": [
+    "examples/paper-cloves-blue-linen.json",
+    "examples/previews/paper-cloves-blue-linen.png",
+    "artifacts/paper-cloves-blue-linen/024-whole.jpg",
+    "artifacts/paper-cloves-blue-linen/024-close.jpg",
+    "artifacts/paper-cloves-blue-linen/044-whole.jpg",
+    "artifacts/paper-cloves-blue-linen/044-close.jpg",
+    "artifacts/paper-cloves-blue-linen/057-whole.jpg",
+    "artifacts/paper-cloves-blue-linen/057-close.jpg",
+    "artifacts/paper-cloves-blue-linen/060-whole.jpg",
+    "artifacts/paper-cloves-blue-linen/060-close.jpg",
+    "artifacts/paper-cloves-blue-linen/069-whole.jpg",
+    "artifacts/paper-cloves-blue-linen/069-close.jpg",
+    "artifacts/paper-cloves-blue-linen/080-whole.jpg",
+    "artifacts/paper-cloves-blue-linen/080-close.jpg",
+    "artifacts/paper-cloves-blue-linen/064-lower.jpg",
+    "artifacts/paper-cloves-blue-linen/inspection-log.json",
+    "artifacts/paper-cloves-blue-linen/live-receipt.json"
+  ],
+  "engineRevision": "57237e735be09a22b81cf3d8157062dbb72c3e4b",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed palette and renderer: compare pale loaded crossing against narrow neighboring cover on a dark oil seam, evaluating visible color and relief separately. Compare a filled bulb with plane-only segmentation against added seam drawing. Dense curve samples and fewer seams; choose fresh subject.",
+  "assessment": {
+    "source": "Actual finished PNG and settled paired screenshots; exact ended feed/export match. No controlled improvement claim.",
+    "humanRating": null
+  }
 }
 ]
