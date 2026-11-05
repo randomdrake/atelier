@@ -1,5 +1,23 @@
 [
   {
+    "id": "the-pause-above-blue-water",
+    "title": "The pause above blue water",
+    "description": "An imagined belted kingfisher on a rising perch above quiet blue-green river water and dim reeds.",
+    "process": "Painted live by an AI agent in 82 animated watercolor and oil marks, across 22 settled whole/close inspection boundaries. Filled blue planes preceded sparse feather accents. Loaded cream separated the breast; joined rust ends narrowed a floating patch. A second loaded eye touch gave a compact reflection. Upper/lower camera reviews and deliberate final refinement retained regular bristles and raised joins. Broadcast ended with all 82 marks acknowledged. Initial inspection framing corrected before the next batch; all notes live. Human rating unset.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 82,
+    "moments": 49,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/the-pause-above-blue-water/session.json",
+    "image": "/paintings/the-pause-above-blue-water/finished.png",
+    "addedAt": "2026-11-05T19:17:12.324Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-05"
+  },
+  {
     "id": "fans-in-the-forest-hush",
     "title": "Fans in the forest hush",
     "description": "An imagined oyster mushroom cluster opening from mossy fallen wood, with a dim fern and one compact warm rim light.",

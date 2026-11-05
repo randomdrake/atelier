@@ -12805,5 +12805,117 @@
       "humanRating": null,
       "improvementClaim": "Observed corrections only; no controlled improvement claim."
     }
+  },
+{
+  "id": "the-pause-above-blue-water",
+  "title": "The pause above blue water",
+  "date": "2026-11-05",
+  "session": "examples/the-pause-above-blue-water.json",
+  "finishedImage": "examples/previews/the-pause-above-blue-water.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Fill blue bird planes before sparse unequal feather accents; keep white collar continuous and eye light compact.",
+  "inspiration": {
+    "title": "NPS Grand Canyon: Belted Kingfisher",
+    "url": "https://www.nps.gov/grca/learn/nature/belted-kingfisher.htm",
+    "interpretation": "Original imagined bird, rising perch and low right reeds; no copied composition. A kingfisher subject occurs earlier in the archive; this is a new composition, fresh relative to recent fungi, turtle and persimmon sessions."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Cross washes closed bright paper lanes while leaving broad water bands."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Overlapping blue strokes kept the body filled; pale breast initially detached and thin."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Unequal crest tips broke the square head silhouette."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Loaded cream separated breast from water; blue belt stayed blunt."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Two feet met the perch without later grain crossings."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Folded wing planes separated, with strong inner shadow."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Small eye read in whole view; wing neighbors changed relief more than shadow color."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Rust band landed as a floating rectangular patch."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Joined ends and cream top narrowed rust patch to a shallow horseshoe."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Sparse unequal wing dashes retained broad open blue planes."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Tail accents stayed quiet; pale belt-end hooks remained."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Continuous reeds balanced perch; seed head showed slight attachment gap."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Connector joined seed head and low water veil subdued bright bottom strip."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Broken wood light avoided feet; throat transition softened but retained raised joins."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Four-pixel eye glint barely visible after settling."
+    },
+    {
+      "afterStroke": 78,
+      "text": "Broader fully loaded touch gave a compact visible eye reflection."
+    },
+    {
+      "afterStroke": 82,
+      "text": "Final paired review retained filled body, continuous collar, sparse pattern and compact eye light. Mouth/belt color contrast softened partly; faceted crown and regular bristles remain. Further covers would add relief faster than useful form."
+    }
+  ],
+  "evidence": [
+    "examples/the-pause-above-blue-water.json",
+    "examples/previews/the-pause-above-blue-water.png",
+    "artifacts/the-pause-above-blue-water/016-whole.jpg",
+    "artifacts/the-pause-above-blue-water/016-close.jpg",
+    "artifacts/the-pause-above-blue-water/028-whole.jpg",
+    "artifacts/the-pause-above-blue-water/028-close.jpg",
+    "artifacts/the-pause-above-blue-water/052-whole.jpg",
+    "artifacts/the-pause-above-blue-water/052-close.jpg",
+    "artifacts/the-pause-above-blue-water/078-whole.jpg",
+    "artifacts/the-pause-above-blue-water/078-close.jpg",
+    "artifacts/the-pause-above-blue-water/082-whole.jpg",
+    "artifacts/the-pause-above-blue-water/082-close.jpg",
+    "artifacts/the-pause-above-blue-water/082-upper.jpg",
+    "artifacts/the-pause-above-blue-water/inspection-log.json",
+    "artifacts/the-pause-above-blue-water/live-receipt.json"
+  ],
+  "engineRevision": "9343f411478659a13390621005f8a4c15e486c6b",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette renderer comparison of broad filled bird planes against outline-first construction. Compare four-pixel thin glint with seven-pixel loaded glint; assess visible color and relief separately. Put wood grain before feet; densely sample crown curves. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual exported PNG and settled whole/close screenshot pairs; ended feed matches completed strokes/events.",
+    "humanRating": null,
+    "improvementClaim": "Observed corrections only; no controlled improvement claim."
   }
+}
 ]

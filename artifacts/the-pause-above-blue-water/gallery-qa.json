@@ -1,0 +1,16 @@
+{
+  "finishedMarks": 82,
+  "moments": 49,
+  "guidedOpeningNote": true,
+  "recordedBrushControls": true,
+  "pauseStable1500ms": true,
+  "returnToFinished": true,
+  "expandedNotes": true,
+  "sessionDownload": true,
+  "mobile": {
+    "dialog": 352,
+    "dialogScroll": 350,
+    "document": 390,
+    "viewport": 390
+  }
+}

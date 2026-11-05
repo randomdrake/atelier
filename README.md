@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The pause above blue water
+
+[![An imagined belted kingfisher on a rising perch above quiet water and dim reeds](public-gallery/paintings/the-pause-above-blue-water/finished.png)](https://atelier.randomdrake.com/#painting/the-pause-above-blue-water)
+
+An original study in **82 animated marks**, with **22 settled whole/close inspection boundaries**, upper and lower focus reviews and deliberate refinement. Broad overlaps kept blue planes filled; loaded cream separated the breast. Joined rust ends changed a floating patch into a shallow horseshoe, and a second loaded eye touch gave a compact reflection. Sparse wing dashes leave open planes. Faceted crown, regular bristles and raised joins remain; further covers added relief faster than useful form, so the count was not padded. Inspired by the [NPS kingfisher account](https://www.nps.gov/grca/learn/nature/belted-kingfisher.htm). Broadcast ended with all 82 marks acknowledged.
+
+[Watch the kingfisher study unfold →](https://atelier.randomdrake.com/#painting/the-pause-above-blue-water)
+
 ### Fans in the forest hush
 
 [![An imagined oyster mushroom cluster on mossy wood with a dim fern](public-gallery/paintings/fans-in-the-forest-hush/finished.png)](https://atelier.randomdrake.com/#painting/fans-in-the-forest-hush)
