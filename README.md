@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Three roots, gathered light
+
+[![Three unequal red radishes with leafy stems and one loose leaf on warm linen](public-gallery/paintings/three-roots-gathered-light/finished.png)](https://atelier.randomdrake.com/#painting/three-roots-gathered-light)
+
+An original still life in **100 animated marks**, with **26 settled whole/close inspection boundaries**, upper and lower camera reviews and deliberate refinement. Broad planes kept the unequal roots filled; loaded pale oil clarified their tips and made one compact reflection. Unequal leaf lobes and sparse veins leave open planes. Broader leaf lights changed relief more than color; angular stems and regular bristles remain. Inspired by the [RHS radish guide](https://www.rhs.org.uk/vegetables/radishes/grow-your-own). Broadcast ended with all 100 marks acknowledged. Further covers added relief faster than useful form, so the count was not padded.
+
+[Watch the radish study unfold →](https://atelier.randomdrake.com/#painting/three-roots-gathered-light)
+
+
 ### Paper cloves, blue linen
 
 [![An imagined garlic bulb, loose clove and attached curled wrapper on blue linen](public-gallery/paintings/paper-cloves-blue-linen/finished.png)](https://atelier.randomdrake.com/#painting/paper-cloves-blue-linen)

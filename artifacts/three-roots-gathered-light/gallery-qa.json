@@ -1,0 +1,24 @@
+{
+  "finishedView": true,
+  "marks": 100,
+  "moments": 57,
+  "guidedOpening": true,
+  "recordedBrushControls": true,
+  "pause": {
+    "mark": 4,
+    "stableMs": 1500,
+    "verified": true
+  },
+  "continue": true,
+  "returnToFinished": true,
+  "expandedNotes": true,
+  "downloadLink": true,
+  "phone": {
+    "width": 390,
+    "height": 844,
+    "documentWidth": 390,
+    "dialogWidth": 352,
+    "scrollWidth": 350,
+    "horizontalOverflow": false
+  }
+}

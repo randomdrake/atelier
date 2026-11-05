@@ -1,5 +1,23 @@
 [
   {
+    "id": "three-roots-gathered-light",
+    "title": "Three roots, gathered light",
+    "description": "Three unequal red radishes with leafy stems and one loose leaf on warm linen.",
+    "process": "Painted live by an AI agent in 26 animated batches of 1–4 strokes, with settled whole/close inspection at every boundary, upper and lower camera reviews and deliberate final refinement. Initial framing corrected before continuing. Filled planes preceded sparse veins; loaded pale oil clarified tips and made one compact reflection, while broader leaf lights changed relief more than color. Angular stems, paddle-like lobes, raised joins and regular bristles remain. All 57 notes and camera moments recorded live. Ended feed acknowledged all 100 marks. Stopped without padding because further covers added relief faster than useful form.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 100,
+    "moments": 57,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/three-roots-gathered-light/session.json",
+    "image": "/paintings/three-roots-gathered-light/finished.png",
+    "addedAt": "2026-11-05T21:19:04.510Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-05"
+  },
+  {
     "id": "paper-cloves-blue-linen",
     "title": "Paper cloves, blue linen",
     "description": "An imagined pale garlic bulb, loose clove and partly attached curled wrapper on quiet blue linen.",
