@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Small armor, retreating tide
+
+[![An imagined Dungeness crab with raised unequal pincers on wet sand](public-gallery/paintings/small-armor-retreating-tide/finished.png)](https://atelier.randomdrake.com/#painting/small-armor-retreating-tide)
+
+An original study in **112 animated marks**, with **29 settled whole/close inspection boundaries**, upper camera reviews and deliberate final refinement. Crossing planes closed the shell slit; long gestures kept eight walking legs continuous. Loaded pale oil gave one compact shell reflection. Joint corrections changed color but left raised sand patches; angular bends and regular bristles remain. Inspired by [NPS Olympic tidal life](https://www.nps.gov/olym/learn/nature/tidal-life.htm). The broadcast ended with all 112 marks and 60 replay moments acknowledged.
+
+[Watch the crab study unfold →](https://atelier.randomdrake.com/#painting/small-armor-retreating-tide)
+
 ### Two wheels, a quiet wall
 
 [![An imagined red bicycle with a wicker basket against pale plaster and a green door](public-gallery/paintings/two-wheels-a-quiet-wall/finished.png)](https://atelier.randomdrake.com/#painting/two-wheels-a-quiet-wall)

@@ -1,0 +1,12 @@
+{
+  "sessionId": "10413c3f-3fd7-404b-863c-d084c2b28b2e",
+  "sequence": 186,
+  "activity": "ended",
+  "live": false,
+  "status": "ended",
+  "receivedAt": 1793920135416,
+  "painter": "AI agent",
+  "completedStrokes": 112,
+  "replayMoments": 60,
+  "matchesActualBrowserExport": true
+}

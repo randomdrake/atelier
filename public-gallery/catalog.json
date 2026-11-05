@@ -1,5 +1,23 @@
 [
 {
+  "id": "small-armor-retreating-tide",
+  "title": "Small armor, retreating tide",
+  "description": "An imagined Dungeness crab with unequal raised pincers on quiet wet sand.",
+  "process": "112 animated watercolor/oil marks in 29 batches of 1\u20134, each followed by settled whole/close screenshot inspection. Upper camera reviews at 48 and 112. All notes recorded live; final claw and shell refinement, actual PNG export, and ended broadcast acknowledged all 112 marks. Failed joint covers and raised patches retained in the journal.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 60,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/small-armor-retreating-tide/session.json",
+  "image": "/paintings/small-armor-retreating-tide/finished.png",
+  "addedAt": "2026-11-05T23:09:42.610Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-05"
+},
+{
   "id": "two-wheels-a-quiet-wall",
   "title": "Two wheels, a quiet wall",
   "description": "An imagined red bicycle with a wicker basket against pale plaster and a green door.",

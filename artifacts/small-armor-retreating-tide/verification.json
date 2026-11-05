@@ -1,0 +1,24 @@
+{
+  "tests": 103,
+  "syntax": "passed",
+  "fullWorkerBuild": "passed",
+  "artifactPrivacy": "passed: 123 paintings",
+  "replay": "Guided opening note, recorded brush settings, paused Mark 4 stable for 1500ms, Continue available, View finished, expanded notes, session download link",
+  "phone": {
+    "dialog": 352,
+    "document": 390,
+    "image": [
+      {
+        "complete": true,
+        "height": 620,
+        "width": 900
+      }
+    ],
+    "scroll": 350,
+    "width": 390
+  },
+  "actualPngMatchesGallery": true,
+  "actualReplayMatchesGallery": true,
+  "priorCatalogueEntriesPreserved": 122,
+  "priorPracticeEntriesPreserved": 119
+}
