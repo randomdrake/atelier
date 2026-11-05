@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Fans in the forest hush
+
+[![An imagined oyster mushroom cluster on mossy wood with a dim fern](public-gallery/paintings/fans-in-the-forest-hush/finished.png)](https://atelier.randomdrake.com/#painting/fans-in-the-forest-hush)
+
+An original woodland study in **89 animated marks**, with **23 whole/close inspection boundaries**, a corrected lower review and deliberate final refinement. Broad overlaps kept the fans filled. Loaded oil separated undersides; lighter neighbors narrowed dark bands. Sparse unequal gills and one compact rim light hold focus, with quiet moss and fern. Acrylic made little visible difference over oil. Raised hooks, faceted bends and regular bristles remain; further covers added relief faster than useful form, so the count was not padded. Inspired by [NPS Mount Rainier’s fungi account](https://www.nps.gov/mora/learn/nature/decomposing-fungi.htm). The broadcast ended with all 89 marks acknowledged.
+
+[Watch the mushroom study unfold →](https://atelier.randomdrake.com/#painting/fans-in-the-forest-hush)
+
 ### The log keeps the sunlight
 
 [![An imagined painted turtle on a weathered log above green pond water](public-gallery/paintings/the-log-keeps-the-sunlight/finished.png)](https://atelier.randomdrake.com/#painting/the-log-keeps-the-sunlight)

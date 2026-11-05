@@ -12708,5 +12708,102 @@
       "humanRating": null,
       "improvementClaim": "Observed corrections only; no controlled improvement claim."
     }
+  },
+  {
+    "id": "fans-in-the-forest-hush",
+    "title": "Fans in the forest hush",
+    "date": "2026-11-05",
+    "session": "examples/fans-in-the-forest-hush.json",
+    "finishedImage": "examples/previews/fans-in-the-forest-hush.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "goal": "Filled overlapping fan planes, unequal edges and sparse selective gills; one short focal rim light. Assess color contrast separately from relief.",
+    "inspiration": {
+      "title": "NPS Mount Rainier: Decomposing fungi",
+      "url": "https://www.nps.gov/mora/learn/nature/decomposing-fungi.htm",
+      "interpretation": "Original imagined oyster mushroom cluster, mossy fallen wood and dim fern; no copied composition."
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Broad crossings closed pale horizontal wash windows; top margin remains."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Broad overlaps kept rear fan filled; stalk looked too tall."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Wider front cap covered most stalks but merged with rear cap."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Acrylic made little visible difference over existing oil surface."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Loaded oil gave clearly visible cool undersides, too dark and uniform."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Lighter neighboring oil reduced shadow width while preserving separation and relief."
+      },
+      {
+        "afterStroke": 56,
+        "text": "Sparse unequal gills left broad open planes, though some starts crossed too high."
+      },
+      {
+        "afterStroke": 68,
+        "text": "Shared attachment clearer but pale repair made raised hook."
+      },
+      {
+        "afterStroke": 76,
+        "text": "Dim fern retained continuous stem and unequal open leaflets; corrected lower review confirmed hook."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Wood neighbors reduced some attachment contrast but added relief."
+      },
+      {
+        "afterStroke": 84,
+        "text": "Cap neighbors softened high gill starts while leaving repair texture."
+      },
+      {
+        "afterStroke": 85,
+        "text": "Single rim light stayed compact in whole view."
+      },
+      {
+        "afterStroke": 89,
+        "text": "Final pair retained filled overlapping fans, selective gills and quiet fern/moss; dark band widths reduced, raised hooks and regular bristles remain. Further cover unlikely to help."
+      }
+    ],
+    "evidence": [
+      "examples/fans-in-the-forest-hush.json",
+      "examples/previews/fans-in-the-forest-hush.png",
+      "artifacts/fans-in-the-forest-hush/020-whole.jpg",
+      "artifacts/fans-in-the-forest-hush/020-close.jpg",
+      "artifacts/fans-in-the-forest-hush/040-whole.jpg",
+      "artifacts/fans-in-the-forest-hush/040-close.jpg",
+      "artifacts/fans-in-the-forest-hush/044-whole.jpg",
+      "artifacts/fans-in-the-forest-hush/044-close.jpg",
+      "artifacts/fans-in-the-forest-hush/085-whole.jpg",
+      "artifacts/fans-in-the-forest-hush/085-close.jpg",
+      "artifacts/fans-in-the-forest-hush/089-whole.jpg",
+      "artifacts/fans-in-the-forest-hush/089-close.jpg",
+      "artifacts/fans-in-the-forest-hush/076-lower-corrected.jpg",
+      "artifacts/fans-in-the-forest-hush/inspection-log.json",
+      "artifacts/fans-in-the-forest-hush/live-receipt.json"
+    ],
+    "engineRevision": "0b03358c2104a8095b9a7a835b49ea065afe99fa",
+    "model": "GPT-6; precise variant unavailable",
+    "nextExperiment": "Fixed-palette cap swatches comparing thin oil, loaded oil and acrylic cover over oil, assessing color and relief separately. Compare gills placed entirely below rim against top-crossing gills. Place grain before attachments. Choose a fresh subject next.",
+    "assessment": {
+      "source": "Actual exported PNG and screenshot inspection pairs; ended public feed exactly matches strokes/events.",
+      "humanRating": null,
+      "improvementClaim": "Observed corrections only; no controlled improvement claim."
+    }
   }
 ]

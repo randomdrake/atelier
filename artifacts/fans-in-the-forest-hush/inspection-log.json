@@ -1,0 +1,82 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    85,
+    89
+  ],
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Broad crossings closed pale horizontal wash windows; top margin remains."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad overlaps kept rear fan filled; stalk looked too tall."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Wider front cap covered most stalks but merged with rear cap."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Acrylic made little visible difference over existing oil surface."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Loaded oil gave clearly visible cool undersides, too dark and uniform."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Lighter neighboring oil reduced shadow width while preserving separation and relief."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Sparse unequal gills left broad open planes, though some starts crossed too high."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Shared attachment clearer but pale repair made raised hook."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Dim fern retained continuous stem and unequal open leaflets; corrected lower review confirmed hook."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Wood neighbors reduced some attachment contrast but added relief."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Cap neighbors softened high gill starts while leaving repair texture."
+    },
+    {
+      "afterStroke": 85,
+      "text": "Single rim light stayed compact in whole view."
+    },
+    {
+      "afterStroke": 89,
+      "text": "Final pair retained filled overlapping fans, selective gills and quiet fern/moss; dark band widths reduced, raised hooks and regular bristles remain. Further cover unlikely to help."
+    }
+  ],
+  "limitations": "First whole screenshot at 4 partly cropped; close inspected. Whole framing corrected from 8 onward. First lower screenshot at 76 partly cropped, immediately corrected. Browser storage full/unavailable; complete actual PNG and JSON preserved through length-verified chunked portable export. Acrylic did not visibly cover oil surface. Regular bristles, faceted cap bends and raised repair hooks persist. Stopped at 89 because further corrections added relief faster than useful form."
+}

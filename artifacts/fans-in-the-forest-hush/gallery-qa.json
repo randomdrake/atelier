@@ -1,0 +1,25 @@
+{
+  "finished": "89 marks / 48 moments / final note and session download",
+  "replay": "opening note and recorded brush controls",
+  "pause": {
+    "before": [
+      "160 px",
+      "94%",
+      "60%",
+      "Mark 4 of 89 \u00b7 Watercolor",
+      ""
+    ],
+    "after": [
+      "160 px",
+      "94%",
+      "60%",
+      "Mark 4 of 89 \u00b7 Watercolor",
+      ""
+    ],
+    "holdMs": 1500
+  },
+  "continue": true,
+  "returnedToFinished": true,
+  "expandedNotes": true,
+  "phone": "390px document; 352px dialog with 350px scrollWidth; no horizontal overflow"
+}
