@@ -1,5 +1,23 @@
 [
 {
+  "id": "the-log-keeps-the-sunlight",
+  "title": "The log keeps the sunlight",
+  "description": "An imagined painted turtle on a weathered log above green pond water, with quiet reeds and one small eye light.",
+  "process": "112 animated watercolor and oil marks in 29 batches of 1–4; actual screenshot inspections between batches, 26 fully framed later pairs and rightward head pans. Early framing limits recorded. Olive overlaps closed a head slit; rear foot restored after grain crossing. Deliberate final refinement and paired review; all notes live; ended broadcast acknowledged 112 marks.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 67,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/the-log-keeps-the-sunlight/session.json",
+  "image": "/paintings/the-log-keeps-the-sunlight/finished.png",
+  "addedAt": "2026-11-05T17:15:57.915Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-05"
+},
+{
   "id": "a-small-sun-on-indigo",
   "title": "A small sun on indigo",
   "description": "An imagined orange persimmon with folded olive calyx and a loose leaf on indigo linen.",

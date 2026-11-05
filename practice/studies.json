@@ -12595,5 +12595,118 @@
       "humanRating": null,
       "improvementClaim": "Observed corrections only; no controlled improvement claim."
     }
+  },
+  {
+    "id": "the-log-keeps-the-sunlight",
+    "title": "The log keeps the sunlight",
+    "date": "2026-11-05",
+    "session": "examples/the-log-keeps-the-sunlight.json",
+    "finishedImage": "examples/previews/the-log-keeps-the-sunlight.png",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Overlapping filled shell planes, a continuous curved neck, unequal scutes and one compact eye light.",
+    "inspiration": {
+      "title": "WDFW painted turtle account",
+      "url": "https://wdfw.wa.gov/species-habitats/species/chrysemys-picta",
+      "interpretation": "Original imagined turtle on a rising weathered log with quiet reeds and green pond water; no copied composition."
+    },
+    "observations": [
+      {
+        "afterStroke": 4,
+        "text": "Long pond washes left pale horizontal windows."
+      },
+      {
+        "afterStroke": 8,
+        "text": "Crossing washes reduced windows; early close screenshot framing was partial."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Broad overlapping shell masses stayed filled without interior slits; silhouette remained faceted. Full canvas framing corrected."
+      },
+      {
+        "afterStroke": 24,
+        "text": "Sampled neck joined shell continuously; central close view cut off head."
+      },
+      {
+        "afterStroke": 36,
+        "text": "Unequal sparse scute seams read as broad plates."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Rightward pan revealed a blue slit in the lower head."
+      },
+      {
+        "afterStroke": 48,
+        "text": "Two olive overlaps closed the head slit and preserved the dark eye."
+      },
+      {
+        "afterStroke": 52,
+        "text": "Translucent water veils quieted bright pond windows."
+      },
+      {
+        "afterStroke": 56,
+        "text": "New wood grain crossed rear foot and weakened its edge."
+      },
+      {
+        "afterStroke": 60,
+        "text": "Rear foot restoration made it read again; low watercolor contact avoided a raised oil rail."
+      },
+      {
+        "afterStroke": 67,
+        "text": "Loaded warm shell planes read more strongly than earlier thin lights, but made separate patches."
+      },
+      {
+        "afterStroke": 79,
+        "text": "Reed seed head floated over a faint stem."
+      },
+      {
+        "afterStroke": 83,
+        "text": "Narrow connector restored reed continuity; neighboring olive reduced shell patch isolation."
+      },
+      {
+        "afterStroke": 96,
+        "text": "One compact eye glint stayed tiny in whole view and visible in rightward close view."
+      },
+      {
+        "afterStroke": 104,
+        "text": "Matching neighbors eased neck-root color contrast but added raised light patch."
+      },
+      {
+        "afterStroke": 108,
+        "text": "Log neighbors quieted bright rear-foot crossing; claws stayed small."
+      },
+      {
+        "afterStroke": 112,
+        "text": "Final neighboring olive softened shoulder/scute color joins while retaining relief. Whole/close and head pan retained filled shell, continuous neck, touching feet, quiet reeds and one eye glint; faceted edge and regular bristles remain. More covers unlikely to help."
+      }
+    ],
+    "evidence": [
+      "examples/the-log-keeps-the-sunlight.json",
+      "examples/previews/the-log-keeps-the-sunlight.png",
+      "artifacts/the-log-keeps-the-sunlight/016-whole.jpg",
+      "artifacts/the-log-keeps-the-sunlight/016-close.jpg",
+      "artifacts/the-log-keeps-the-sunlight/048-whole.jpg",
+      "artifacts/the-log-keeps-the-sunlight/048-close.jpg",
+      "artifacts/the-log-keeps-the-sunlight/067-whole.jpg",
+      "artifacts/the-log-keeps-the-sunlight/067-close.jpg",
+      "artifacts/the-log-keeps-the-sunlight/096-whole.jpg",
+      "artifacts/the-log-keeps-the-sunlight/096-close.jpg",
+      "artifacts/the-log-keeps-the-sunlight/112-whole.jpg",
+      "artifacts/the-log-keeps-the-sunlight/112-close.jpg",
+      "artifacts/the-log-keeps-the-sunlight/048-head.jpg",
+      "artifacts/the-log-keeps-the-sunlight/112-head.jpg",
+      "artifacts/the-log-keeps-the-sunlight/inspection-log.json",
+      "artifacts/the-log-keeps-the-sunlight/live-receipt.json"
+    ],
+    "engineRevision": "05233382e8e0c7669c9c6209e04e80e8905ba3c7",
+    "model": "GPT-6; precise variant unavailable",
+    "nextExperiment": "With fixed palette and renderer compare broad overlapping shell planes against a contour-first shell. Place log grain entirely before feet versus later crossings. Compare thin and loaded light placement, assessing color contrast separately from relief. Densely sample shell outer curve from block-in. Choose a fresh subject next.",
+    "assessment": {
+      "source": "Actual 900×620 PNG, 29 inspection boundaries with early framing limits recorded, 26 fully framed subsequent pairs and additional head pans; exactly matching acknowledged ended feed.",
+      "humanRating": null,
+      "improvementClaim": "Observed corrections only; no controlled improvement claim."
+    }
   }
 ]

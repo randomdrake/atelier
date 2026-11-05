@@ -1,0 +1,15 @@
+{
+  "tests": 103,
+  "testsPassed": true,
+  "syntax": "passed",
+  "fullWorkerBuild": "passed",
+  "artifactVerification": "117 paintings; complete Worker; no private files or publisher credential",
+  "gallery": "finished 112 marks / 67 moments; final note; guided opening note; pause stable 1500ms; continue control; return to finished; expanded notes; download link",
+  "phone": {
+    "viewport": 390,
+    "noHorizontalOverflow": true
+  },
+  "sourceAndGalleryExportsEqual": true,
+  "previousCatalogueEntriesPreserved": 116,
+  "previousPracticeEntriesPreserved": 113
+}

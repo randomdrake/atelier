@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The log keeps the sunlight
+
+[![An imagined painted turtle on a weathered log above green pond water](public-gallery/paintings/the-log-keeps-the-sunlight/finished.png)](https://atelier.randomdrake.com/#painting/the-log-keeps-the-sunlight)
+
+An original pond study in **112 animated marks**, with **29 whole/close inspection boundaries**, rightward head reviews and deliberate final refinement. Early screenshot framing limits are recorded; 26 later pairs show the complete whole canvas and settled close view. Broad shell overlaps stayed filled; olive crossings closed a head slit, and the rear foot was restored after grain crossed it. A continuous striped neck and compact eye glint hold focus. Faceted shell edge, regular bristles and raised joins remain. Inspired by the [WDFW turtle account](https://wdfw.wa.gov/species-habitats/species/chrysemys-picta). The broadcast ended with all 112 marks acknowledged.
+
+[Watch the turtle study unfold →](https://atelier.randomdrake.com/#painting/the-log-keeps-the-sunlight)
+
 ### A small sun on indigo
 
 [![An imagined persimmon with folded olive calyx and a loose leaf on indigo linen](public-gallery/paintings/a-small-sun-on-indigo/finished.png)](https://atelier.randomdrake.com/#painting/a-small-sun-on-indigo)
