@@ -1,5 +1,23 @@
 [
 {
+  "id": "before-the-words",
+  "title": "Before the words",
+  "description": "An imagined cobalt inkwell, pale quill and folded blank paper on warm linen.",
+  "process": "88 animated watercolor and oil marks in 23 batches, each followed by settled whole/close inspection; upper and lower reviews, 26 live easel notes and deliberate final refinement. Broad crossings closed early holes; a reserved mouth and compact glass fleck hold focus. Raised paper repairs, faceted feather and regular bristles remain. Broadcast ended with all 88 marks and 52 moments acknowledged.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 52,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/before-the-words/session.json",
+  "image": "/paintings/before-the-words/finished.png",
+  "addedAt": "2026-11-06T22:16:31.397Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-06"
+},
+{
   "id": "two-lenses-for-the-distance",
   "title": "Two lenses for the distance",
   "description": "Imagined black-and-brass binoculars with a loose leather strap on rose linen.",

@@ -1,0 +1,38 @@
+{
+  "strokes": 88,
+  "moments": 52,
+  "inspectionBoundaries": 23,
+  "notes": 26,
+  "testsPassed": 104,
+  "originalPNGBytesPreserved": true,
+  "allDeploymentPNGPixelsAndMetadataIdentical": true,
+  "paintings": 130,
+  "losslessDeploymentSavingsBytes": 27390765,
+  "priorCatalogEntriesPreserved": 129,
+  "priorJournalEntriesPreserved": 126,
+  "humanRating": null,
+  "galleryQA": {
+    "imageWidth": 900,
+    "imageHeight": 620,
+    "replayOpening": true,
+    "brushSettings": true,
+    "pauseStatuses": [
+      "160 px",
+      "100%",
+      "50%",
+      "Mark 4 of 88 · Watercolor",
+      ""
+    ],
+    "pauseStableMs": 1500,
+    "resume": true,
+    "returnToFinished": true,
+    "expandedNotes": true,
+    "phone": {
+      "dialog": 350,
+      "document": 390,
+      "scroll": 350,
+      "viewport": 390
+    },
+    "noHorizontalOverflow": true
+  }
+}

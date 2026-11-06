@@ -3,7 +3,7 @@ import {join,dirname} from 'node:path';
 import {tmpdir} from 'node:os';
 import {execFileSync} from 'node:child_process';
 import {root} from './add-gallery-painting.mjs';
-import {restoreGalleryArtwork} from './gallery-artwork.mjs';
+import {restoreGalleryArtwork,compactGalleryArtwork} from './gallery-artwork.mjs';
 import {refilterPNG} from './compact-png.mjs';
 import {groupArtwork} from './source-parts.mjs';
 const output=join(root,'dist');await rm(output,{recursive:true,force:true});await mkdir(output,{recursive:true});await cp(join(root,'public-gallery'),output,{recursive:true});await cp(join(root,'LICENSE'),join(output,'LICENSE.txt'));await cp(join(root,'src/pacing.js'),join(output,'pacing.js'));
@@ -45,5 +45,9 @@ try{
   await writeFile(join(output,'source-downloads.json'),JSON.stringify(downloads,null,2)+'\n');
   await writeFile(join(output,'downloads.html'),`<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Atelier source downloads</title><link rel="stylesheet" href="/gallery.css"><main style="max-width:48rem;margin:3rem auto;padding:1.5rem"><a href="/">← Atelier gallery</a><h1>Take the studio with you.</h1><p>Download the code and every artwork part below. Extract all ZIP files into the same folder, preserving their paths. The code includes the MIT license, paint physics, recorded sessions and build instructions; the artwork parts include all original-resolution paintings with lossless compression.</p><ul>${downloads.map((name,i)=>`<li><a href="/${name}" download>${i===0?'Code and recorded sessions':`Artwork part ${i}`}</a></li>`).join('')}</ul><p>Then follow README.md. Rebuilding the gallery restores shared preview images automatically.</p></main></html>`);
 }finally{await rm(compactRoot,{recursive:true,force:true});}
+// Detect shared original PNGs for source deduplication before optimizing the
+// deployment copies; compression changes bytes even when samples are identical.
+const artworkSavings=await compactGalleryArtwork({output,catalog});
+console.log(`Lossless deployment artwork compression saved ${artworkSavings} bytes; source originals retained.`);
 await writeFile(join(output,'sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://atelier.randomdrake.com/</loc></url></urlset>`);
 console.log(`Viewing gallery built: ${catalog.length} paintings. Studio editor excluded.`);

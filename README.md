@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Before the words
+
+[![Cobalt inkwell, pale quill and folded paper on warm linen](public-gallery/paintings/before-the-words/finished.png)](https://atelier.randomdrake.com/#painting/before-the-words)
+
+An original study in **88 animated marks**, with **23 settled whole/close inspection boundaries**, upper and lower reviews and deliberate final refinement. Broad crossings closed early holes; a reserved dark mouth, long pale quill and one compact glass fleck hold focus. Broad watercolor contacts joined soft shadows without feet. Paper seam covers left raised flecks; faceted feather edges, lip joins and regular bristles remain. Inspired by the [Smithsonian inkwell collection](https://www.si.edu/object/inkwell%3Anmah_316232). The ended broadcast acknowledged all 88 marks and 52 moments. Further covers added relief faster than form, so the count was not padded.
+
+[Watch the inkwell study unfold →](https://atelier.randomdrake.com/#painting/before-the-words)
+
+
 ### Two lenses for the distance
 
 [![Imagined black-and-brass binoculars on rose linen](public-gallery/paintings/two-lenses-for-the-distance/finished.png)](https://atelier.randomdrake.com/#painting/two-lenses-for-the-distance)

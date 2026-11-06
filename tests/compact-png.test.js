@@ -1,8 +1,11 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {readFile} from 'node:fs/promises';
+import {readFile,mkdtemp,mkdir,writeFile,rm} from 'node:fs/promises';
+import {tmpdir} from 'node:os';
+import {join} from 'node:path';
 import {inflateSync} from 'node:zlib';
 import {compactPNG,refilterPNG} from '../scripts/compact-png.mjs';
+import {compactGalleryArtwork} from '../scripts/gallery-artwork.mjs';
 
 function chunks(png){
   const result=[];
@@ -54,4 +57,20 @@ test('adaptive archive PNG filters preserve all decoded pixels and metadata',asy
     assert.deepEqual(refilterPNG(optimized),optimized);
     assert.deepEqual(await readFile(new URL(`../examples/previews/${name}.png`,import.meta.url)),original);
   }
+});
+
+test('deployment compaction preserves artwork samples and metadata without changing source exports',async()=>{
+  const output=await mkdtemp(join(tmpdir(),'atelier-deploy-png-'));
+  const source=new URL('../examples/previews/violet-held-in-clay.png',import.meta.url),original=await readFile(source);
+  try{
+    await mkdir(join(output,'paintings/study'),{recursive:true});
+    const target=join(output,'paintings/study/finished.png'),catalog=[{image:'/paintings/study/finished.png'}];
+    await writeFile(target,original);
+    const saved=await compactGalleryArtwork({output,catalog}),result=await readFile(target);
+    assert.ok(saved>0);assert.equal(saved,original.length-result.length);
+    assert.deepEqual(decode(result),decode(original));
+    assert.deepEqual(chunks(result).filter(c=>c.type!=='IDAT'),chunks(original).filter(c=>c.type!=='IDAT'));
+    assert.deepEqual(await readFile(source),original);
+    assert.equal(await compactGalleryArtwork({output,catalog}),0);
+  }finally{await rm(output,{recursive:true,force:true});}
 });
