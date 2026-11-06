@@ -1,0 +1,34 @@
+{
+  "tests": 103,
+  "syntaxChecks": "passed",
+  "workerBuild": "passed",
+  "artifactVerification": "128 paintings; complete Worker; no publisher credential or private files",
+  "priorCatalogRecordsPreserved": 127,
+  "priorJournalRecordsPreserved": 124,
+  "actualPNGByteEqual": true,
+  "replayDocumentEqual": true,
+  "gallery": {
+    "finished": {
+      "strokes": 112,
+      "moments": 64,
+      "actualImage": [
+        900,
+        620
+      ],
+      "finalNote": true,
+      "downloadLink": true
+    },
+    "replayOpening": true,
+    "recordedBrushSettings": true,
+    "pauseStable1500ms": true,
+    "continue": true,
+    "returnToFinished": true,
+    "expandedNotes": true,
+    "phone": {
+      "dialog": 352,
+      "dialogScroll": 350,
+      "document": 390,
+      "viewport": 390
+    }
+  }
+}

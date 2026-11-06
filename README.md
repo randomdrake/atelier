@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+
+### A breath between songs
+
+[![An imagined burgundy accordion on blue-gray cloth](public-gallery/paintings/a-breath-between-songs/finished.png)](https://atelier.randomdrake.com/#painting/a-breath-between-songs)
+
+An original study in **112 animated marks**, with **30 settled whole/close inspection boundaries**, upper and lower reviews and deliberate final refinement. Warm wedges closed hollow fold caps; alternating warm and cool bellows planes, a reserved strap opening and a compact loaded reflection hold the study. Thin contacts became hooked feet; raised joins, faceted corners and regular bristles remain. Inspired by [Smithsonian Musical Migrant: Accordions on the Move](https://www.si.edu/spotlight/accordion). The ended broadcast acknowledged all 112 marks and 64 moments.
+
+[Watch the accordion study unfold →](https://atelier.randomdrake.com/#painting/a-breath-between-songs)
+
 ### Hold fast in green water
 
 [![An ochre seahorse holds a curved seagrass blade in green water](public-gallery/paintings/hold-fast-in-green-water/finished.png)](https://atelier.randomdrake.com/#painting/hold-fast-in-green-water)

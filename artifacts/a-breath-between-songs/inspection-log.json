@@ -1,0 +1,154 @@
+{
+  "title": "A breath between songs",
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    41,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    92,
+    96,
+    97,
+    100,
+    104,
+    108,
+    112
+  ],
+  "limitation": "At eight marks the close button timed out. Fresh AX showed Whole painting; a true 2.0x close capture then replaced the incorrect close file before further painting. Four-mark whole and close were settled. All later whole/close pairs used verified displayed zoom. All notes live.",
+  "log": [
+    {
+      "afterStroke": 4,
+      "observation": "Four broad washes left pale parallel gaps; crossing passes next."
+    },
+    {
+      "afterStroke": 12,
+      "paired": true
+    },
+    {
+      "afterStroke": 16,
+      "paired": true
+    },
+    {
+      "afterStroke": 20,
+      "paired": true
+    },
+    {
+      "afterStroke": 24,
+      "paired": true
+    },
+    {
+      "afterStroke": 28,
+      "paired": true
+    },
+    {
+      "afterStroke": 32,
+      "paired": true
+    },
+    {
+      "afterStroke": 36,
+      "paired": true
+    },
+    {
+      "afterStroke": 40,
+      "paired": true
+    },
+    {
+      "afterStroke": 41,
+      "paired": true
+    },
+    {
+      "afterStroke": 44,
+      "paired": true
+    },
+    {
+      "afterStroke": 48,
+      "paired": true
+    },
+    {
+      "afterStroke": 52,
+      "paired": true
+    },
+    {
+      "afterStroke": 56,
+      "paired": true
+    },
+    {
+      "afterStroke": 60,
+      "paired": true
+    },
+    {
+      "afterStroke": 64,
+      "paired": true
+    },
+    {
+      "afterStroke": 68,
+      "paired": true
+    },
+    {
+      "afterStroke": 72,
+      "paired": true
+    },
+    {
+      "afterStroke": 76,
+      "paired": true
+    },
+    {
+      "afterStroke": 80,
+      "paired": true
+    },
+    {
+      "afterStroke": 84,
+      "paired": true
+    },
+    {
+      "afterStroke": 88,
+      "paired": true
+    },
+    {
+      "afterStroke": 92,
+      "paired": true
+    },
+    {
+      "afterStroke": 96,
+      "paired": true
+    },
+    {
+      "afterStroke": 97,
+      "paired": true
+    },
+    {
+      "afterStroke": 100,
+      "paired": true
+    },
+    {
+      "afterStroke": 104,
+      "paired": true
+    },
+    {
+      "afterStroke": 108,
+      "paired": true
+    },
+    {
+      "afterStroke": 112,
+      "paired": true
+    }
+  ]
+}

@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-breath-between-songs",
+  "title": "A breath between songs",
+  "description": "An imagined burgundy accordion with warm bellows, pale keys and an open strap on blue-gray cloth.",
+  "process": "Original AI-agent study in 112 animated watercolor and oil marks. Thirty settled whole/close inspection boundaries, including a recovered eight-mark close camera click, plus upper and lower reviews and deliberate final refinement. Warm wedges closed hollow fold caps; alternating warm and cool planes, a reserved strap opening and one compact loaded reflection hold the study. Thin contacts became hooked feet and raised joins remain. All notes live; ended feed acknowledged 112 marks and 64 moments. Inspired by Smithsonian Musical Migrant: Accordions on the Move.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 64,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-breath-between-songs/session.json",
+  "image": "/paintings/a-breath-between-songs/finished.png",
+  "addedAt": "2026-11-06T20:12:21.716Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-06"
+},
+{
   "id": "hold-fast-in-green-water",
   "title": "Hold fast in green water",
   "description": "An imagined ochre seahorse holds a curved seagrass blade in quiet green water.",
