@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Weight of a quiet morning
+
+[![An imagined dark flatiron with walnut handle on pale folded linen](public-gallery/paintings/weight-of-a-quiet-morning/finished.png)](https://atelier.randomdrake.com/#painting/weight-of-a-quiet-morning)
+
+An original study in **112 animated marks**, with **30 settled whole/close inspection boundaries**, a lower cloth review and deliberate final refinement. Loaded cool planes separate the metal top from its side; an open walnut handle and one compact reflection hold focus. Cloth covers cut a toe notch, then neighboring dark planes closed it. Thin oil shadows needed pale neighbors; raised repairs, stepped edges and regular bristles remain. Inspired by the [Smithsonian flatiron collection](https://americanhistory.si.edu/collections/object/nmah_311796). The broadcast ended with all 112 marks and 62 moments acknowledged.
+
+[Watch the flatiron study unfold →](https://atelier.randomdrake.com/#painting/weight-of-a-quiet-morning)
+
+
 ### Wood waits for the music
 
 [![An imagined amber violin and long bow on indigo linen](public-gallery/paintings/wood-waits-for-the-music/finished.png)](https://atelier.randomdrake.com/#painting/wood-waits-for-the-music)

@@ -1,5 +1,23 @@
 [
 {
+  "id": "weight-of-a-quiet-morning",
+  "title": "Weight of a quiet morning",
+  "description": "An imagined dark flatiron with an open walnut handle on pale folded linen.",
+  "process": "112 animated watercolor and oil marks chosen in 30 batches of 1\u20134 after settled whole/close screenshots, with a lower cloth review and live easel notes. Loaded metal planes, toe repairs and restrained reflection were checked as they developed. Final refinement at 101\u2013112; stepped edges and raised repairs remain. All 112 marks and 62 live moments acknowledged by the ended broadcast.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 62,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/weight-of-a-quiet-morning/session.json",
+  "image": "/paintings/weight-of-a-quiet-morning/finished.png",
+  "addedAt": "2026-11-06T17:11:46.269Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-06"
+},
+{
   "id": "wood-waits-for-the-music",
   "title": "Wood waits for the music",
   "description": "An imagined amber violin and long bow resting on indigo linen.",

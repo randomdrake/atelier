@@ -1,0 +1,26 @@
+{
+  "tests": 103,
+  "syntax": true,
+  "fullWorkerBuild": true,
+  "artifactPaintings": 125,
+  "privateFilesExcluded": true,
+  "gallery": {
+    "finished112marks62moments": true,
+    "replayOpeningAndBrushSettings": true,
+    "pauseStable1500ms": true,
+    "continueVisible": true,
+    "returnToFinished": true,
+    "expandedNotes": true,
+    "responsive": {
+      "dialog": 350,
+      "dialogScroll": 350,
+      "document": 390,
+      "image": {
+        "complete": true,
+        "height": 620,
+        "width": 900
+      },
+      "viewport": 390
+    }
+  }
+}
