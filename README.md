@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Wood waits for the music
+
+[![An imagined amber violin and long bow on indigo linen](public-gallery/paintings/wood-waits-for-the-music/finished.png)](https://atelier.randomdrake.com/#painting/wood-waits-for-the-music)
+
+An original study in **96 animated marks**, with **25 whole/close inspection boundaries** (initial framing limits recorded), an upper scroll review and deliberate final refinement. Crossing planes closed the early body window; open waist notches, a sampled scroll and a long bow hold the silhouette. One compact loaded reflection survives whole view. Thin repairs changed little; loaded covers left relief. Angular fittings, inset rim arcs and regular bristles remain. Inspired by [Smithsonian Violins and their Makers](https://www.si.edu/spotlight/violins). Broadcast ended with all 96 marks and 52 moments acknowledged. Further covers would add relief faster than useful form, so the count was not padded.
+
+[Watch the violin study unfold →](https://atelier.randomdrake.com/#painting/wood-waits-for-the-music)
+
+
 ### Small armor, retreating tide
 
 [![An imagined Dungeness crab with raised unequal pincers on wet sand](public-gallery/paintings/small-armor-retreating-tide/finished.png)](https://atelier.randomdrake.com/#painting/small-armor-retreating-tide)

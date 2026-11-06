@@ -1,5 +1,23 @@
 [
 {
+  "id": "wood-waits-for-the-music",
+  "title": "Wood waits for the music",
+  "description": "An imagined amber violin and long bow resting on indigo linen.",
+  "process": "96 animated watercolor and oil marks in 25 small batches with whole/close inspections, upper scroll review and final refinement. Initial framing limits are recorded. All 52 moments live; ended feed acknowledged the complete export.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 96,
+  "moments": 52,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/wood-waits-for-the-music/session.json",
+  "image": "/paintings/wood-waits-for-the-music/finished.png",
+  "addedAt": "2026-11-06T16:09:20.558Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-06"
+},
+{
   "id": "small-armor-retreating-tide",
   "title": "Small armor, retreating tide",
   "description": "An imagined Dungeness crab with unequal raised pincers on quiet wet sand.",

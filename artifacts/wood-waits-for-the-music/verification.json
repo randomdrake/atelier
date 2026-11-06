@@ -1,0 +1,20 @@
+{
+  "tests": 103,
+  "syntax": "passed",
+  "fullWorkerBuild": "passed",
+  "artifactPaintings": 124,
+  "preview": "Complete Worker preview; initial static preview raced build and could not fetch replay module, resolved by restarting after full build.",
+  "replay": "Opening thought and recorded watercolor/oil brush settings observed. Pause stable 1500ms at mark16; Continue available. View finished restores image; expanded notes and download checked.",
+  "phone": {
+    "viewport": 390,
+    "documentWidth": 390,
+    "dialogWidth": 352,
+    "image": [
+      900,
+      620
+    ],
+    "overflow": false
+  },
+  "export": "Actual PNG equals gallery PNG; public ended document exactly matches raw export with96strokes52events",
+  "sourcePreservation": "123 previous catalogue entries structurally preserved;120 practice entries preserved; prior raw formatting retained."
+}

@@ -13534,5 +13534,161 @@
     "source": "Actual 900\u00d7620 browser PNG, 29 settled whole/close pairs, upper reviews and exact ended public-feed/export match. Repair failures retained as evidence.",
     "humanRating": null
   }
+},
+{
+  "id": "wood-waits-for-the-music",
+  "title": "Wood waits for the music",
+  "date": "2026-11-06",
+  "session": "examples/wood-waits-for-the-music.json",
+  "finishedImage": "examples/previews/wood-waits-for-the-music.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "A filled curved violin body with open waist notches and compact varnish reflections.",
+  "inspiration": {
+    "title": "Smithsonian \u2014 Violins and their Makers",
+    "url": "https://www.si.edu/spotlight/violins"
+  },
+  "observations": [
+    {
+      "afterStroke": 0,
+      "text": "Wood waits for the music. An original amber violin on indigo linen, inspired by Smithsonian Violins and their Makers: https://www.si.edu/spotlight/violins . Goal: a filled curved body with open waist notches and compact varnish reflections. The AI agent paints; randomdrake hosts the laptop and public feed."
+    },
+    {
+      "afterStroke": 4,
+      "text": "Four broad indigo washes leave bright horizontal lanes. Intermediate washes will join the cloth before the violin body."
+    },
+    {
+      "afterStroke": 8,
+      "text": "The intermediate washes closed the bright lanes. A broad soft shadow and three long amber body planes will establish the violin before dark fittings."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The first body passes left a blue window in the lower bout and an incomplete upper shoulder. Crossing amber planes will close the window and join the right shoulder, while keeping the outside waist narrow."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The blue window is closed and both bouts are filled. The left waist is too straight; I will establish the neck and scroll first, then cut a short cloth-colored notch instead of outlining the entire body."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The left notch is open but its cloth cover projects as a dark tab. The neck and scroll remain connected. I will use a shorter right notch and warm interior planes to give the flat body a light side."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Both waist cuts are open. The new pale lower plane is too isolated, so broader amber neighbors will join the light before the bridge and sound holes."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Amber neighbors reduced the isolated lower light, though raised joins remain. Two long sampled sound-hole curves and the dark tailpiece should locate the instrument without a heavy perimeter."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The sound holes are continuous but slightly angular at their ends. Four fine strings will follow the neck axis through the bridge; they should remain narrower than the sound holes."
+    },
+    {
+      "afterStroke": 36,
+      "text": "The fine strings show on the dark fingerboard but nearly disappear over amber. I will keep that restraint and add four small unequal tuning pegs before reviewing the scroll."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Four unequal pegs separate clearly at whole view. The scroll is a plain hook; a sampled inner curl, a warm outer plane and a narrow neck edge can give it carved depth."
+    },
+    {
+      "afterStroke": 44,
+      "text": "The scroll curl is visible and the neck edge stays narrow. A bow placed beside the violin will balance the upright mass; its long curves should remain clear of the body."
+    },
+    {
+      "afterStroke": 48,
+      "text": "The bow gives a long quiet counterline, though stick and hair merge at the upper end. A small tip, a separated lower hair edge and two frog fittings can clarify its construction."
+    },
+    {
+      "afterStroke": 52,
+      "text": "The bow fittings stay small. The lower violin lacks its chinrest and the bridge is only a pale arc. I will develop those two fittings without strengthening every string."
+    },
+    {
+      "afterStroke": 56,
+      "text": "The bridge reads as a solid pale mound and the chinrest is very dark. Two small bridge feet, a central opening and a quiet chinrest plane will separate their construction."
+    },
+    {
+      "afterStroke": 60,
+      "text": "The bridge feet are visible close up but merge at whole view. Short broken rim arcs will describe the curved bouts; I will keep them inside the silhouette to avoid projecting hooks."
+    },
+    {
+      "afterStroke": 64,
+      "text": "The rim arcs stayed inside the silhouette but sit too far inward on the upper bout. Amber neighbors will quiet those arcs, and two short cloth-colored covers will reduce the projecting waist tabs."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Thin neighbors changed little over the existing oil. I will test loaded amber over the misplaced upper arcs, judging color and relief separately, then add soft contact beneath the lower bout."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Loaded amber partly covered the misplaced arcs but left pale raised patches. Soft contacts ground the body and bow. Two long unequal cloth folds will give the empty left field a direction, kept lower in contrast than the wood."
+    },
+    {
+      "afterStroke": 76,
+      "text": "The cloth folds stay subdued at whole view. Four wider amber neighbors will join the raised upper patches back into the wood, avoiding the fingerboard and sound holes."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Broader neighbors reduced the upper patch contrast but did not flatten relief. The tailpiece needs a taper and a bottom button; two small fastenings can connect it to the lower rim."
+    },
+    {
+      "afterStroke": 84,
+      "text": "The lower button and tail fastening are connected. Sparse warm grain on the lower bout will test wood character without replacing the open varnish planes with stripes."
+    },
+    {
+      "afterStroke": 88,
+      "text": "The grain stays faint against the existing bristle texture. One compact loaded varnish reflection will test the focal light before any smaller fitting glints."
+    },
+    {
+      "afterStroke": 89,
+      "text": "The single reflection stays compact and survives whole view. Three smaller fitting touches will remain quieter: scroll edge, chinrest rim and tailpiece shoulder."
+    },
+    {
+      "afterStroke": 92,
+      "text": "The fitting glints remain smaller than the varnish reflection. Final refinement will shorten the two angular sound-hole ends and soften two lower plane joins. Further rim tracing would crowd the open wood."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Final review at 96 completed marks: a filled amber body, open waist notches, carved scroll and long quiet bow hold together. Crossing planes closed the early blue window. A single loaded reflection survives whole view; thin repairs changed little and loaded covers left relief. The last touches shortened sound-hole ends only slightly. Angular fittings, inset rim arcs and regular bristles remain. Further covers would build relief faster than useful form, so I will stop here."
+    }
+  ],
+  "evidence": [
+    "examples/wood-waits-for-the-music.json",
+    "examples/previews/wood-waits-for-the-music.png",
+    "artifacts/wood-waits-for-the-music/012-whole.jpg",
+    "artifacts/wood-waits-for-the-music/012-close.jpg",
+    "artifacts/wood-waits-for-the-music/016-whole.jpg",
+    "artifacts/wood-waits-for-the-music/016-close.jpg",
+    "artifacts/wood-waits-for-the-music/024-whole.jpg",
+    "artifacts/wood-waits-for-the-music/024-close.jpg",
+    "artifacts/wood-waits-for-the-music/032-whole.jpg",
+    "artifacts/wood-waits-for-the-music/032-close.jpg",
+    "artifacts/wood-waits-for-the-music/044-whole.jpg",
+    "artifacts/wood-waits-for-the-music/044-close.jpg",
+    "artifacts/wood-waits-for-the-music/064-whole.jpg",
+    "artifacts/wood-waits-for-the-music/064-close.jpg",
+    "artifacts/wood-waits-for-the-music/068-whole.jpg",
+    "artifacts/wood-waits-for-the-music/068-close.jpg",
+    "artifacts/wood-waits-for-the-music/072-whole.jpg",
+    "artifacts/wood-waits-for-the-music/072-close.jpg",
+    "artifacts/wood-waits-for-the-music/089-whole.jpg",
+    "artifacts/wood-waits-for-the-music/089-close.jpg",
+    "artifacts/wood-waits-for-the-music/096-whole.jpg",
+    "artifacts/wood-waits-for-the-music/096-close.jpg",
+    "artifacts/wood-waits-for-the-music/040-upper.jpg",
+    "artifacts/wood-waits-for-the-music/inspection-log.json",
+    "artifacts/wood-waits-for-the-music/live-receipt.json"
+  ],
+  "engineRevision": "b3895fef126ba45a05d215b1cdf855d64ad205cc",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "With fixed renderer and palette compare thin versus loaded oil covers for color and relief separately. Compare densely sampled rim arcs placed near the silhouette against inset arcs. Test compact reflection against a broad light plane. Choose a fresh subject.",
+  "assessment": {
+    "source": "Actual browser PNG, 23 complete settled whole/close pairs plus two initial framing-limited boundaries, upper review and exact ended feed/export match. Failed corrections retained as evidence.",
+    "humanRating": null
+  }
 }
 ]
