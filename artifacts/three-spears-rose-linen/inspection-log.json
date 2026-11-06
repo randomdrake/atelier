@@ -1,0 +1,33 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    41,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    81,
+    84,
+    88
+  ],
+  "extraViews": [
+    "036-upper.jpg",
+    "068-lower.jpg"
+  ],
+  "note": "Initial screenshot framing was corrected before proceeding; first close captures at 12,16,20,24 were replaced with complete settled captures. Later close captures made in a separate browser call after framing."
+}

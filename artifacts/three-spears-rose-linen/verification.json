@@ -1,0 +1,25 @@
+{
+  "tests": {
+    "passed": 103,
+    "failed": 0
+  },
+  "syntax": "passed",
+  "fullWorkerBuild": "passed",
+  "privacyArtifactCheck": "126 paintings; no credential or private files",
+  "previousStudiesPreserved": 122,
+  "previousCataloguePreserved": 125,
+  "PNGByteEqual": true,
+  "replayStructurallyEqual": true,
+  "browserQA": {
+    "finishedView": "88 marks, 53 moments, actual 900\u00d7620 image, final note and download link",
+    "replay": "opening live note and recorded brush settings observed; pause stable 1500ms at mark24; Continue and View finished exercised; expanded notes inspected",
+    "phone": {
+      "viewport": 390,
+      "document": 390,
+      "dialog": 352,
+      "scroll": 350,
+      "overflow": false
+    },
+    "limitation": "Playwright timeouts during active replay recovered through accessibility controls; no app changes needed."
+  }
+}

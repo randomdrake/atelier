@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Three spears, rose linen
+
+[![Three unequal asparagus spears on dusty rose linen](public-gallery/paintings/three-spears-rose-linen/finished.png)](https://atelier.randomdrake.com/#painting/three-spears-rose-linen)
+
+An original still life in **88 animated marks**, with **24 settled whole/close inspection boundaries**, upper and lower reviews and deliberate final refinement. Long green gestures keep the stalks filled; sparse violet scales, pale cut faces and one compact reflection establish the subject. Cloth covers left raised patches, and a broad fold repair enlarged the relief; that failed experiment remains visible. Inspired by the [RHS asparagus guide](https://www.rhs.org.uk/vegetables/asparagus/grow-your-own). Broadcast ended with all 88 marks and 53 moments acknowledged. Further repairs would mainly add texture, so the count was not padded.
+
+[Watch the asparagus study unfold →](https://atelier.randomdrake.com/#painting/three-spears-rose-linen)
+
+
 ### Weight of a quiet morning
 
 [![An imagined dark flatiron with walnut handle on pale folded linen](public-gallery/paintings/weight-of-a-quiet-morning/finished.png)](https://atelier.randomdrake.com/#painting/weight-of-a-quiet-morning)

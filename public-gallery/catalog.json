@@ -1,5 +1,23 @@
 [
 {
+  "id": "three-spears-rose-linen",
+  "title": "Three spears, rose linen",
+  "description": "Three unequal asparagus spears with violet scales and pale cut faces on dusty rose linen.",
+  "process": "88 animated watercolor/oil marks in 24 batches of 1\u20134, each followed by settled whole/close inspection; upper and lower camera reviews, live easel notes and deliberate final refinement. Broad cloth repair enlarged relief and remains visible. All 88 marks and 53 moments acknowledged by ended public broadcast. Further repairs would mainly add texture; count not padded. Human ratings unset.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 53,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/three-spears-rose-linen/session.json",
+  "image": "/paintings/three-spears-rose-linen/finished.png",
+  "addedAt": "2026-11-06T18:14:47.642Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-06"
+},
+{
   "id": "weight-of-a-quiet-morning",
   "title": "Weight of a quiet morning",
   "description": "An imagined dark flatiron with an open walnut handle on pale folded linen.",
