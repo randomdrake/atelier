@@ -1,0 +1,41 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    41,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    92,
+    96,
+    97,
+    100,
+    104,
+    108,
+    112
+  ],
+  "initialWholeFraming": "Four-mark whole inspection initially clipped; full ground was seen after scrolling. Close capture settled at 2.0x. All later pairs framed to canvas wrap.",
+  "extraViews": [
+    "044-upper.jpg",
+    "084-lower.jpg"
+  ],
+  "method": "1–4 animated marks; playback idle; whole and 2.0x close screenshots; next batch chosen after observed pair.",
+  "engineChanges": false
+}

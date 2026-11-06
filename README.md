@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Hold fast in green water
+
+[![An ochre seahorse holds a curved seagrass blade in green water](public-gallery/paintings/hold-fast-in-green-water/finished.png)](https://atelier.randomdrake.com/#painting/hold-fast-in-green-water)
+
+An original study in **112 animated marks**, with **30 whole/close inspection boundaries** (initial framing limitation recorded), upper and lower camera reviews and deliberate final refinement. The tail center stayed open from its first gesture; an ochre overlap restored the alternating grass grip. Loaded warm neighbors shortened dark armor bands but left raised joins. A compact eye light holds focus; angular outer curl, grass bends and regular bristles remain. Inspired by the [Monterey Bay Aquarium seahorse account](https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/big-belly-seahorse). Broadcast ended with all 112 marks and 63 moments acknowledged.
+
+[Watch the seahorse study unfold →](https://atelier.randomdrake.com/#painting/hold-fast-in-green-water)
+
+
 ### Three spears, rose linen
 
 [![Three unequal asparagus spears on dusty rose linen](public-gallery/paintings/three-spears-rose-linen/finished.png)](https://atelier.randomdrake.com/#painting/three-spears-rose-linen)

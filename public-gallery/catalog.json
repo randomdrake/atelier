@@ -1,5 +1,23 @@
 [
 {
+  "id": "hold-fast-in-green-water",
+  "title": "Hold fast in green water",
+  "description": "An imagined ochre seahorse holds a curved seagrass blade in quiet green water.",
+  "process": "Original AI-agent study in 112 animated watercolor and oil marks. Thirty whole/close inspection boundaries, with an initial framing limitation recorded, plus upper and lower reviews and deliberate final refinement. All notes and camera moments recorded live; ended broadcast acknowledged 112 marks and 63 moments. The reserved tail center stayed open; an ochre overlap restored the grip. Loaded neighbors shortened dark armor bands while leaving raised joins. Angular outer curl, grass bends and regular bristles remain.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 63,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/hold-fast-in-green-water/session.json",
+  "image": "/paintings/hold-fast-in-green-water/finished.png",
+  "addedAt": "2026-11-06T19:13:55.647Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-06"
+},
+{
   "id": "three-spears-rose-linen",
   "title": "Three spears, rose linen",
   "description": "Three unequal asparagus spears with violet scales and pale cut faces on dusty rose linen.",

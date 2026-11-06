@@ -1,0 +1,37 @@
+{
+  "tests": 103,
+  "syntaxCheck": "passed",
+  "workerBuild": "passed; 127 paintings and privacy artifact verified",
+  "priorCatalogueEntriesPreserved": 126,
+  "priorPracticeEntriesPreserved": 123,
+  "pngByteIdentical": true,
+  "replayStructurallyEqual": true,
+  "broadcast": {
+    "ended": true,
+    "strokes": 112,
+    "moments": 63,
+    "rawExportExactlyMatches": true
+  },
+  "gallery": {
+    "finishedImage": true,
+    "actualImageSize": [
+      900,
+      620
+    ],
+    "replayOpeningNote": true,
+    "recordedBrushSettings": true,
+    "pauseStableAtMark": 4,
+    "pauseDurationMs": 1500,
+    "continue": true,
+    "returnToFinished": true,
+    "expandedNotes": true,
+    "phone": {
+      "viewport": 390,
+      "documentWidth": 390,
+      "dialogWidth": 352,
+      "dialogScrollWidth": 350,
+      "noHorizontalOverflow": true
+    }
+  },
+  "humanRating": null
+}
