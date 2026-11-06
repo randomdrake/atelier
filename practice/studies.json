@@ -14767,5 +14767,132 @@
     "source": "Actual exported PNG, 23 whole/close boundaries and upper/lower reviews; exact ended feed/export match. Initial four-mark framing corrected before eight. Raised crease covers, lip joins and regular bristles retained as evidence.",
     "humanRating": null
   }
+},
+{
+  "id": "the-spin-comes-to-rest",
+  "title": "The spin comes to rest",
+  "date": "2026-11-06",
+  "session": "examples/the-spin-comes-to-rest.json",
+  "finishedImage": "examples/previews/the-spin-comes-to-rest.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Use long gestures for a filled rounded red body, reserve the cord loop and keep one compact reflection.",
+  "inspiration": {
+    "title": "Smithsonian wooden toy top collection",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_317057",
+    "interpretation": "Original imagined red and blue wooden tops and loose cord on blue linen; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Broad blue washes left pale lanes; crossing washes joined them by eight."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Four red block-in gestures left a blue slit; broad crossings closed it by twenty."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Sampled shoulder arc rounded the inset crown; broad handle stayed continuous."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Pale cord followed the dark path and reserved its blue center; original bends remained angular."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Small blue companion top filled and its handle separated."
+    },
+    {
+      "afterStroke": 41,
+      "text": "A single short loaded red shoulder reflection survived whole view."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Warm neighbors shortened dark rim ends but left raised tabs."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Blue cap became quieter; soft watercolor contact sat beneath it."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Blue contour cuts narrowed the red point but left conspicuous opaque rails."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Broader blue neighbors reduced color contrast but retained relief and crossed the cord."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Sampled cord arcs became rounder while the old polygon remained as an irregular doubling."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Loaded red repair restored the warm taper edge but crossed the cord root again."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Broad watercolor contacts joined soft shadows without opaque feet."
+    },
+    {
+      "afterStroke": 76,
+      "text": "A short loaded crossing restored the cord root; sparse unequal fibers stayed quiet."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Loaded red patches interrupted gold bands but left raised flecks."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final neighbors softened rim joins and a dim blue plane separated the companion cone. Regular bristles, faceted outlines and raised repairs remained; further covers were unlikely to help."
+    }
+  ],
+  "evidence": [
+    "examples/previews/the-spin-comes-to-rest.png",
+    "examples/the-spin-comes-to-rest.json",
+    "artifacts/the-spin-comes-to-rest/012-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/012-close.jpg",
+    "artifacts/the-spin-comes-to-rest/016-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/016-close.jpg",
+    "artifacts/the-spin-comes-to-rest/024-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/024-close.jpg",
+    "artifacts/the-spin-comes-to-rest/032-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/032-close.jpg",
+    "artifacts/the-spin-comes-to-rest/040-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/040-close.jpg",
+    "artifacts/the-spin-comes-to-rest/041-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/041-close.jpg",
+    "artifacts/the-spin-comes-to-rest/044-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/044-close.jpg",
+    "artifacts/the-spin-comes-to-rest/056-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/056-close.jpg",
+    "artifacts/the-spin-comes-to-rest/060-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/060-close.jpg",
+    "artifacts/the-spin-comes-to-rest/064-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/064-close.jpg",
+    "artifacts/the-spin-comes-to-rest/072-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/072-close.jpg",
+    "artifacts/the-spin-comes-to-rest/084-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/084-close.jpg",
+    "artifacts/the-spin-comes-to-rest/088-whole.jpg",
+    "artifacts/the-spin-comes-to-rest/088-close.jpg",
+    "artifacts/the-spin-comes-to-rest/044-upper.jpg",
+    "artifacts/the-spin-comes-to-rest/072-lower.jpg",
+    "artifacts/the-spin-comes-to-rest/inspection-log.json",
+    "artifacts/the-spin-comes-to-rest/live-receipt.json",
+    "artifacts/the-spin-comes-to-rest/verification.json",
+    "artifacts/the-spin-comes-to-rest/gallery-finished-desktop.jpg",
+    "artifacts/the-spin-comes-to-rest/gallery-phone.jpg"
+  ],
+  "engineRevision": "9fb86fb3a9e143939c23f8e63adef2a2b2d74bc2",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Keep palette and renderer fixed. Compare a reserved turned-rim interruption with later loaded covers, judging color and relief separately. Compare densely sampled cord curves from the start against later rounding of a polygon. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual exported PNG and 23 whole/close inspection boundaries; three framing limitations recorded explicitly. Exact ended-feed document match; no engine changes.",
+    "humanRating": null
+  }
 }
 ]

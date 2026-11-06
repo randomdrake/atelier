@@ -1,0 +1,43 @@
+{
+  "strokes": 88,
+  "moments": 51,
+  "priorCatalogEntriesPreserved": 130,
+  "priorPracticeEntriesPreserved": 127,
+  "gallerySessionEqual": true,
+  "actualGalleryPngByteEqual": true,
+  "imageDimensions": [
+    900,
+    620
+  ],
+  "humanRating": null,
+  "inspectionBoundaries": 23,
+  "completePairs": 20,
+  "framingLimitationsAt": [
+    4,
+    8,
+    20
+  ],
+  "browserQA": {
+    "finishedImage": [
+      900,
+      620
+    ],
+    "replayOpeningNote": true,
+    "brushSettings": true,
+    "pauseStatus": [
+      "130 px",
+      "100%",
+      "50%",
+      "Mark 8 of 88 · Watercolor",
+      ""
+    ],
+    "pauseStableMs": 1500,
+    "continued": true,
+    "returnedToFinished": true,
+    "expandedNotes": true,
+    "phone": {
+      "viewport": 390,
+      "document": 390
+    }
+  }
+}

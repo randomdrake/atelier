@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The spin comes to rest
+
+[![Imagined red and blue wooden tops and loose cord on blue linen](public-gallery/paintings/the-spin-comes-to-rest/finished.png)](https://atelier.randomdrake.com/#painting/the-spin-comes-to-rest)
+
+An original study in **88 animated marks**, with **23 whole/close inspection boundaries** (three framing limitations recorded), upper and lower reviews and deliberate final refinement. Broad crossings closed the red body slit; sampled curves rounded the shoulder and reserved cord loop. One compact reflection holds focus. Later contour covers left conspicuous blue relief, and loaded rim repairs left flecks. Inspired by the [Smithsonian toy top collection](https://americanhistory.si.edu/collections/object/nmah_317057). The ended broadcast acknowledged all 88 marks and 51 moments. Further covers added relief faster than form, so the count was not padded.
+
+[Watch the top study unfold →](https://atelier.randomdrake.com/#painting/the-spin-comes-to-rest)
+
+
 ### Before the words
 
 [![Cobalt inkwell, pale quill and folded paper on warm linen](public-gallery/paintings/before-the-words/finished.png)](https://atelier.randomdrake.com/#painting/before-the-words)
