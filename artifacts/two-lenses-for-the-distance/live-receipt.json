@@ -1,0 +1,18 @@
+{
+  "activity": "ended",
+  "camera": {
+    "zoom": 1,
+    "x": 0.5,
+    "y": 0.5
+  },
+  "sessionId": "022ff64e-a8ee-4b38-86a2-f1b46e81dc51",
+  "sequence": 160,
+  "startedAt": 1793998657716,
+  "receivedAt": 1793999210484,
+  "serverNow": 1793999214685,
+  "live": false,
+  "status": "ended",
+  "completedMarks": 88,
+  "moments": 49,
+  "documentMatchesExport": true
+}

@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Two lenses for the distance
+
+[![Imagined black-and-brass binoculars on rose linen](public-gallery/paintings/two-lenses-for-the-distance/finished.png)](https://atelier.randomdrake.com/#painting/two-lenses-for-the-distance)
+
+An original study in **88 animated marks**, with **23 settled whole/close inspection boundaries**, upper and lower reviews and deliberate final refinement. Sampled front rims stayed round, a reserved bridge opening remained clear, and one compact glass fleck holds focus. Broad watercolor contacts joined the soft shadow. Later seam and reflection covers left relief; rear-light repairs left pointed tops. Faceted strap bends and regular bristles remain. Inspired by the [Smithsonian binocular collection](https://americanhistory.si.edu/collections/object/nmah_332231). The ended broadcast acknowledged all 88 marks and 49 moments. Further covers added relief faster than form, so the count was not padded.
+
+[Watch the binocular study unfold →](https://atelier.randomdrake.com/#painting/two-lenses-for-the-distance)
+
 
 ### A breath between songs
 

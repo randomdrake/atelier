@@ -1,0 +1,38 @@
+{
+  "completedStrokes": 88,
+  "moments": 49,
+  "inspectionPairs": 23,
+  "pngDimensions": [
+    900,
+    620
+  ],
+  "galleryPngByteIdentical": true,
+  "galleryReplayEqual": true,
+  "priorStudiesPreserved": 125,
+  "priorPaintingsPreserved": 128,
+  "humanRating": null,
+  "testsPassed": 103,
+  "syntaxCheck": "passed",
+  "build": "passed; complete Worker and 129-painting privacy/artifact verification",
+  "broadcast": "ended; exact strokes and events match browser export",
+  "browserQA": {
+    "finished": true,
+    "replayOpening": true,
+    "brushSettings": true,
+    "pause": "Mark 4 stable for 1500 ms",
+    "continue": true,
+    "returnToFinished": true,
+    "expandedNotes": true,
+    "download": true,
+    "imageDimensions": [
+      900,
+      620
+    ],
+    "phone": {
+      "dialog": 352,
+      "dialogScroll": 350,
+      "document": 390,
+      "viewport": 390
+    }
+  }
+}
