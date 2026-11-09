@@ -1,0 +1,26 @@
+{
+  "tests": 104,
+  "syntax": "passed",
+  "fullWorkerBuild": "passed",
+  "artifactVerification": "135 paintings; no publisher credential/private files",
+  "galleryPNG": "byte equal actual export",
+  "galleryReplay": "JSON equal saved replay",
+  "priorCatalogueEntriesPreserved": 134,
+  "priorJournalEntriesPreserved": 131,
+  "browserQA": {
+    "finished": "112 marks / 63 moments / 900x620 image / final note and session link",
+    "replay": "opening note and brush settings",
+    "pause": "Mark 4 of 112 stable 1500ms",
+    "continue": "passed",
+    "viewFinished": "passed",
+    "expandedNotes": "passed",
+    "phone": {
+      "viewport": 390,
+      "document": 390,
+      "dialog": 350,
+      "dialogScroll": 350,
+      "overflow": false
+    }
+  },
+  "limits": "Same-hash navigation did not reopen dialog; reopened with visible View button. Camera and gallery click timeouts resolved from fresh state. No engine changes."
+}

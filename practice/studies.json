@@ -15325,5 +15325,182 @@
     "source": "Actual PNG, 30 settled paired screenshot boundaries, upper/lower pans and exact 112-stroke/62-event ended-feed match. Title assigned after broadcast end. No engine changes or numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "what-the-sand-remembers",
+  "title": "What the sand remembers",
+  "date": "2026-11-09",
+  "session": "examples/what-the-sand-remembers.json",
+  "finishedImage": "examples/previews/what-the-sand-remembers.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Reserve open channels around the glass, build bulbs with long sampled curves and keep one compact reflection.",
+  "inspiration": {
+    "title": "Royal Museums Greenwich oak hour-glass record",
+    "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-10274",
+    "interpretation": "Original imagined hourglass on blue cloth, sparked by object description; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Crossing watercolor washes joined pale lanes."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Sampled arcs rounded disc fronts, leaving the original peaked caps."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Four long oak supports preserved blue channels."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Watercolor glass planes were nearly invisible."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Loaded muted oil made glass visible but left slits."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Crosswise broad gestures joined glass slits."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Long edge curves connected the waist; lower shoulders stayed angular."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Upper sand had a blue slit."
+    },
+    {
+      "afterStroke": 41,
+      "text": "One filled downward gesture closed the sand slit, leaving a raised join."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Thin stream and broad bed connected chambers; upper pan showed peaked cap."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Blue cuts lowered cap color but retained relief."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Turned collars became projecting tabs."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Glass reflections remained subdued."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Warm post neighbors changed color, retaining collar rims."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Sand ellipse and sockets formed strong raised lips."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Densely sampled lower curves softened elbows in color, old relief remained."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Watercolor cloth folds were quiet; lower pan confirmed continuous bed and soft contact."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Thin oil cloth fold became a bright raised thread; wood grain became rails."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Midtone covers changed color but retained raised patches."
+    },
+    {
+      "afterStroke": 81,
+      "text": "Single loaded cream reflection remained compact and visible whole."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Sampled upper shoulder became rounder while old border remained."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Sockets connected glass but formed heavy lips."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Warm overlaps shortened socket color but left relief."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Sand temperature and rear-post changes stayed subtle."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Stream became continuous; lower glass return less abrupt."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Disc corner refinements stayed quiet."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Watery neighbors softened around cloth thread without removing ridge."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final sand/socket/glass/post refinements retained open channels and focal light. Stop: further covers mainly add relief."
+    }
+  ],
+  "evidence": [
+    "examples/previews/what-the-sand-remembers.png",
+    "examples/what-the-sand-remembers.json",
+    "artifacts/what-the-sand-remembers/008-whole.jpg",
+    "artifacts/what-the-sand-remembers/008-close.jpg",
+    "artifacts/what-the-sand-remembers/016-whole.jpg",
+    "artifacts/what-the-sand-remembers/016-close.jpg",
+    "artifacts/what-the-sand-remembers/020-whole.jpg",
+    "artifacts/what-the-sand-remembers/020-close.jpg",
+    "artifacts/what-the-sand-remembers/024-whole.jpg",
+    "artifacts/what-the-sand-remembers/024-close.jpg",
+    "artifacts/what-the-sand-remembers/028-whole.jpg",
+    "artifacts/what-the-sand-remembers/028-close.jpg",
+    "artifacts/what-the-sand-remembers/032-whole.jpg",
+    "artifacts/what-the-sand-remembers/032-close.jpg",
+    "artifacts/what-the-sand-remembers/036-whole.jpg",
+    "artifacts/what-the-sand-remembers/036-close.jpg",
+    "artifacts/what-the-sand-remembers/041-whole.jpg",
+    "artifacts/what-the-sand-remembers/041-close.jpg",
+    "artifacts/what-the-sand-remembers/044-whole.jpg",
+    "artifacts/what-the-sand-remembers/044-close.jpg",
+    "artifacts/what-the-sand-remembers/052-whole.jpg",
+    "artifacts/what-the-sand-remembers/052-close.jpg",
+    "artifacts/what-the-sand-remembers/068-whole.jpg",
+    "artifacts/what-the-sand-remembers/068-close.jpg",
+    "artifacts/what-the-sand-remembers/076-whole.jpg",
+    "artifacts/what-the-sand-remembers/076-close.jpg",
+    "artifacts/what-the-sand-remembers/081-whole.jpg",
+    "artifacts/what-the-sand-remembers/081-close.jpg",
+    "artifacts/what-the-sand-remembers/088-whole.jpg",
+    "artifacts/what-the-sand-remembers/088-close.jpg",
+    "artifacts/what-the-sand-remembers/100-whole.jpg",
+    "artifacts/what-the-sand-remembers/100-close.jpg",
+    "artifacts/what-the-sand-remembers/112-whole.jpg",
+    "artifacts/what-the-sand-remembers/112-close.jpg",
+    "artifacts/what-the-sand-remembers/072-lower.jpg",
+    "artifacts/what-the-sand-remembers/inspection-log.json",
+    "artifacts/what-the-sand-remembers/live-receipt.json"
+  ],
+  "engineRevision": "66c8123f5dde9d4eb9fcea10ea2744b0bc54b81e",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "With a fixed palette and renderer, compare reserved sampled disc silhouettes against later blue cuts, judging color, silhouette and relief separately. Compare watercolor-only cloth folds with thin oil folds; choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual exported PNG, 30 settled screenshot pairs, upper/lower pans and accepted 112-stroke/63-event snapshot; public browser confirmed ended 112. No engine changes or numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

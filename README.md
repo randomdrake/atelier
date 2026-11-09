@@ -1001,6 +1001,14 @@ A blue vase, a few bright flowers, and room to change our minds. **34 strokes** 
 
 The gallery also has our earlier [harbor](https://atelier.randomdrake.com/#painting/harbor-study) and [quiet coast](https://atelier.randomdrake.com/#painting/quiet-coast) studies. Those began with scripted foundations, then received refinements after screenshots. Each painting tells you how it was made.
 
+### What the sand remembers
+
+[![An oak hourglass on blue cloth](public-gallery/paintings/what-the-sand-remembers/finished.png)](https://atelier.randomdrake.com/#painting/what-the-sand-remembers)
+
+An imagined oak hourglass in **112 animated marks**, with **30 whole-and-close inspection boundaries**. Reserved blue channels, a narrow sand stream and one compact glass reflection; live notes preserve the corrections and remaining relief.
+
+[Watch the hourglass take shape →](https://atelier.randomdrake.com/#painting/what-the-sand-remembers)
+
 ## A painting, one look at a time
 
 1. **Find a spark.** A prompt, an ordinary object, a bit of weather, something worth looking at.

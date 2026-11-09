@@ -1,5 +1,23 @@
 [
   {
+    "id": "what-the-sand-remembers",
+    "title": "What the sand remembers",
+    "description": "An imagined oak hourglass with pale green glass and falling golden sand on quiet blue cloth.",
+    "process": "112 animated watercolor/oil marks in 30 batches of 1–4, each followed by settled whole and close screenshots. All easel notes live; upper and lower pans, focused single-stroke tests and deliberate final refinement. Reserved glass channels, compact reflection and continuous sand stream; raised repairs remain. No engine changes.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 63,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/what-the-sand-remembers/session.json",
+    "image": "/paintings/what-the-sand-remembers/finished.png",
+    "addedAt": "2026-11-09T19:12:34.422Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-09"
+  },
+  {
     "id": "the-tide-leaves-a-mirror",
     "title": "The tide leaves a mirror",
     "description": "An imagined black oystercatcher stands above a rocky tide pool, with open sea between its pink legs.",
