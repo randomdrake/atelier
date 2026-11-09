@@ -15502,5 +15502,169 @@
     "source": "Actual exported PNG, 30 settled screenshot pairs, upper/lower pans and accepted 112-stroke/63-event snapshot; public browser confirmed ended 112. No engine changes or numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "four-wings-above-the-hush",
+  "title": "Four wings above the hush",
+  "date": "2026-11-09",
+  "session": "examples/four-wings-above-the-hush.json",
+  "finishedImage": "examples/previews/four-wings-above-the-hush.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Reserve green gaps between four wings and keep one compact eye reflection.",
+  "inspiration": {
+    "title": "NPS Flying Jewels: Living Flashes of Light",
+    "url": "https://www.nps.gov/articles/000/nature-watch-flying-jewels-living-flashes-of-light.htm",
+    "interpretation": "Original imagined copper dragonfly on a reed over a green pond; inspired by natural history, no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Four washes left pale horizontal lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Crossing washes joined the pond."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Long reed was slender; leaf only a narrow trace."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Wider leaf read at whole scale; copper body was continuous."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Four wing gestures reserved green wedges; silhouettes narrow and angular."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Sampled curves broadened lower wings without closing gaps; hooked upper tip and regular bristles remained."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Paired eyes distinct; broader warm thorax sits above wing roots."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Long abdomen light gave volume; first legs angular."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Four curved legs stayed finer than first pair."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Leading wing veins visible without full outlines."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Single compact eye reflection remained visible whole."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Three short bands segmented abdomen; upper pan showed hooked wing tip."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Thin membrane glazes made pale threads while retaining relief."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Cross veins stayed subtle at whole scale."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Amber tip accents subordinate to eye."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Reed light side and node visible; leaf strap-like."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Sampled leaf fold more curved; node retained raised tab."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Watercolor passages faint, with one dark lower pool."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Thin oil ripples clearly visible where watercolor stayed faint."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Warm thorax neighbors shortened dark color but left relief."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Wing correction added pale relief faster than rounding tip."
+    },
+    {
+      "afterStroke": 81,
+      "text": "Single darker wing pass changed little and retained ridge."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Cheek separated head and thorax; band/node correction subtle."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final tail/eye/leaf/ripple refinements retained four green wing gaps and compact eye light. Stop: further layering chiefly adds relief."
+    }
+  ],
+  "evidence": [
+    "examples/previews/four-wings-above-the-hush.png",
+    "examples/four-wings-above-the-hush.json",
+    "artifacts/four-wings-above-the-hush/008-whole.jpg",
+    "artifacts/four-wings-above-the-hush/008-close.jpg",
+    "artifacts/four-wings-above-the-hush/016-whole.jpg",
+    "artifacts/four-wings-above-the-hush/016-close.jpg",
+    "artifacts/four-wings-above-the-hush/020-whole.jpg",
+    "artifacts/four-wings-above-the-hush/020-close.jpg",
+    "artifacts/four-wings-above-the-hush/024-whole.jpg",
+    "artifacts/four-wings-above-the-hush/024-close.jpg",
+    "artifacts/four-wings-above-the-hush/028-whole.jpg",
+    "artifacts/four-wings-above-the-hush/028-close.jpg",
+    "artifacts/four-wings-above-the-hush/036-whole.jpg",
+    "artifacts/four-wings-above-the-hush/036-close.jpg",
+    "artifacts/four-wings-above-the-hush/041-whole.jpg",
+    "artifacts/four-wings-above-the-hush/041-close.jpg",
+    "artifacts/four-wings-above-the-hush/044-whole.jpg",
+    "artifacts/four-wings-above-the-hush/044-close.jpg",
+    "artifacts/four-wings-above-the-hush/048-whole.jpg",
+    "artifacts/four-wings-above-the-hush/048-close.jpg",
+    "artifacts/four-wings-above-the-hush/060-whole.jpg",
+    "artifacts/four-wings-above-the-hush/060-close.jpg",
+    "artifacts/four-wings-above-the-hush/064-whole.jpg",
+    "artifacts/four-wings-above-the-hush/064-close.jpg",
+    "artifacts/four-wings-above-the-hush/072-whole.jpg",
+    "artifacts/four-wings-above-the-hush/072-close.jpg",
+    "artifacts/four-wings-above-the-hush/076-whole.jpg",
+    "artifacts/four-wings-above-the-hush/076-close.jpg",
+    "artifacts/four-wings-above-the-hush/080-whole.jpg",
+    "artifacts/four-wings-above-the-hush/080-close.jpg",
+    "artifacts/four-wings-above-the-hush/081-whole.jpg",
+    "artifacts/four-wings-above-the-hush/081-close.jpg",
+    "artifacts/four-wings-above-the-hush/084-whole.jpg",
+    "artifacts/four-wings-above-the-hush/084-close.jpg",
+    "artifacts/four-wings-above-the-hush/088-whole.jpg",
+    "artifacts/four-wings-above-the-hush/088-close.jpg",
+    "artifacts/four-wings-above-the-hush/044-upper.jpg",
+    "artifacts/four-wings-above-the-hush/060-lower.jpg",
+    "artifacts/four-wings-above-the-hush/inspection-log.json",
+    "artifacts/four-wings-above-the-hush/live-receipt.json"
+  ],
+  "engineRevision": "39016c036529594e25c5b0441ebb150ad7d88067",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "With fixed palette and renderer, compare reserved sampled wing silhouettes against later cover strokes; judge color, silhouette and relief separately. Compare watercolor and thin oil ripples in adjacent swatches. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual exported PNG, 24 settled whole/close pairs, upper/lower pans, and exact ended-feed 88-stroke/52-event match. No engine changes or numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

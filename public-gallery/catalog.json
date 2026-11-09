@@ -1,5 +1,23 @@
 [
   {
+    "id": "four-wings-above-the-hush",
+    "title": "Four wings above the hush",
+    "description": "A copper dragonfly grips a reed above a quiet green pond, its four pale wings separated by open green wedges.",
+    "process": "88 animated watercolor and oil marks in 24 batches of 1–4, with settled whole-and-close inspections, upper/lower camera reviews, live easel notes and deliberate final refinement. A compact eye light holds focus; thin oil ripples read where watercolor stayed faint. Ended broadcast acknowledged all 88 marks and 52 moments. Regular bristles and raised membrane repairs remain; further strokes would mainly add relief.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 88,
+    "moments": 52,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/four-wings-above-the-hush/session.json",
+    "image": "/paintings/four-wings-above-the-hush/finished.png",
+    "addedAt": "2026-11-09T20:22:09.563Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-09"
+  },
+  {
     "id": "what-the-sand-remembers",
     "title": "What the sand remembers",
     "description": "An imagined oak hourglass with pale green glass and falling golden sand on quiet blue cloth.",

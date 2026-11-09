@@ -1,0 +1,18 @@
+{
+  "tests": 104,
+  "syntax": "passed",
+  "build": "complete Worker; 136 paintings; no credentials/private files",
+  "finishedImage": {
+    "width": 900,
+    "height": 620
+  },
+  "replay": "Opening goal and brush settings visible; 4x replay; pause stable at mark20 for 1500ms; Continue and View finished; expanded notes verified. Two semantic pause timeouts recovered by fresh AX button.",
+  "phone": {
+    "dialog": 350,
+    "dialogScroll": 350,
+    "document": 390,
+    "viewport": 390
+  },
+  "strokes": 88,
+  "moments": 52
+}

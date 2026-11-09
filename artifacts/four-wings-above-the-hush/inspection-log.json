@@ -1,0 +1,157 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    41,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    81,
+    84,
+    88
+  ],
+  "batchSizes": [
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    1,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    1,
+    3,
+    4
+  ],
+  "cameraReviews": [
+    "044-upper.jpg",
+    "060-lower.jpg"
+  ],
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Four washes left pale horizontal lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Crossing washes joined the pond."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Long reed was slender; leaf only a narrow trace."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Wider leaf read at whole scale; copper body was continuous."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Four wing gestures reserved green wedges; silhouettes narrow and angular."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Sampled curves broadened lower wings without closing gaps; hooked upper tip and regular bristles remained."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Paired eyes distinct; broader warm thorax sits above wing roots."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Long abdomen light gave volume; first legs angular."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Four curved legs stayed finer than first pair."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Leading wing veins visible without full outlines."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Single compact eye reflection remained visible whole."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Three short bands segmented abdomen; upper pan showed hooked wing tip."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Thin membrane glazes made pale threads while retaining relief."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Cross veins stayed subtle at whole scale."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Amber tip accents subordinate to eye."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Reed light side and node visible; leaf strap-like."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Sampled leaf fold more curved; node retained raised tab."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Watercolor passages faint, with one dark lower pool."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Thin oil ripples clearly visible where watercolor stayed faint."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Warm thorax neighbors shortened dark color but left relief."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Wing correction added pale relief faster than rounding tip."
+    },
+    {
+      "afterStroke": 81,
+      "text": "Single darker wing pass changed little and retained ridge."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Cheek separated head and thorax; band/node correction subtle."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final tail/eye/leaf/ripple refinements retained four green wing gaps and compact eye light. Stop: further layering chiefly adds relief."
+    }
+  ],
+  "limitations": "At 8 strokes Whole painting click timed out but fresh accessibility state confirmed whole and settled pair was saved. At 12 close screenshot was saved but tool error hid display; it was viewed from disk in the next call. A disabled-pause wait failed after the 16-stroke batch; fresh check confirmed idle before paired review. Every boundary has saved whole and close screenshots. Center close views clip wing tips by design; upper/lower pans supplement them."
+}

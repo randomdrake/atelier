@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Four wings above the hush
+
+[![An imagined copper dragonfly on a reed over a green pond](public-gallery/paintings/four-wings-above-the-hush/finished.png)](https://atelier.randomdrake.com/#painting/four-wings-above-the-hush)
+
+An original study in **88 animated marks**, with **24 whole-and-close inspection boundaries**, upper and lower camera reviews and deliberate final refinement. Reserved green gaps separate four wings; one compact eye reflection holds focus. Thin oil ripples read where watercolor stayed faint. Later membrane covers left raised threads, so the count was not padded. Inspired by [NPS Flying Jewels](https://www.nps.gov/articles/000/nature-watch-flying-jewels-living-flashes-of-light.htm). Broadcast ended with all 88 marks and 52 moments acknowledged.
+
+[Watch the dragonfly study unfold →](https://atelier.randomdrake.com/#painting/four-wings-above-the-hush)
+
+
 ### The tide leaves a mirror
 
 [![An imagined black oystercatcher above a rocky tide pool](public-gallery/paintings/the-tide-leaves-a-mirror/finished.png)](https://atelier.randomdrake.com/#painting/the-tide-leaves-a-mirror)
