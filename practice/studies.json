@@ -15844,5 +15844,133 @@
     "source": "Actual exported PNG,27 paired inspection boundaries with stated framing limits,upper/lower pans and exact ended-feed92-stroke57-event match. No numerical quality claim or engine changes. Title collision corrected and older work fully restored; source freshness failure disclosed.",
     "humanRating": null
   }
+},
+{
+  "id": "a-shelter-for-the-fingertip",
+  "title": "A shelter for the fingertip",
+  "date": "2026-11-09",
+  "session": "examples/a-shelter-for-the-fingertip.json",
+  "finishedImage": "examples/previews/a-shelter-for-the-fingertip.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Broad rounded metal planes, sparse dimples and one compact reflection; reserve the shadow edge before details.",
+  "inspiration": {
+    "title": "Smithsonian silver-colored metal thimble",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_1094269",
+    "interpretation": "Original imagined silver thimble on rose cloth with a loose burgundy strand; no finished composition copied. Full catalogue/journal search found no prior thimble or use of this source."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Crossing watercolor washes closed pale cloth lanes; initial cropped inspection framing corrected before continuing."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad crossing planes closed the early body split; rounded masses joined."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Sampled arcs made a continuous rolled rim, although lower band initially dark."
+    },
+    {
+      "afterStroke": 28,
+      "text": "First dimple row appeared as over-dark commas."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Shorter lighter staggered dimples sat more quietly in the silver plane."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Single shoulder fleck stayed compact but faint."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Loose burgundy thread anchored lower left; loop visibly angular."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Reflected rose and unequal lights gave rim a warmer face."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Local dimple-end covers shortened color slightly but retained raised relief."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Contact remained soft and low. Upper camera showed flattened cap; diagonal cloth washes subtle."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Sampled cap arc read rounder at whole view, retaining raised joins."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Tiny dimple lips made little difference at whole view; reflected lower-right warmth subtle."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Single loaded plane brightened the left face while preserving dimples."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Crown notches stayed subtle; lower camera confirmed pointed rim join and angular thread."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Rim transition quieter but remained raised; thread tip tapered."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Final shoulder fleck, shortened dimple, warm rim segment and thread crossing retained rounded form. Final pair judged further covers would mainly add relief."
+    }
+  ],
+  "evidence": [
+    "examples/a-shelter-for-the-fingertip.json",
+    "examples/previews/a-shelter-for-the-fingertip.png",
+    "artifacts/a-shelter-for-the-fingertip/004-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/004-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/008-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/008-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/012-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/012-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/016-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/016-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/020-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/020-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/028-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/028-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/036-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/036-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/041-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/041-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/048-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/048-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/056-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/056-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/064-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/064-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/069-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/069-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/072-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/072-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/076-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/076-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/080-whole.jpg",
+    "artifacts/a-shelter-for-the-fingertip/080-close.jpg",
+    "artifacts/a-shelter-for-the-fingertip/060-upper.jpg",
+    "artifacts/a-shelter-for-the-fingertip/072-lower.jpg",
+    "artifacts/a-shelter-for-the-fingertip/inspection-log.json",
+    "artifacts/a-shelter-for-the-fingertip/live-receipt.json"
+  ],
+  "engineRevision": "cc9d4ff9de20fdce8295d71963f49d4c758730ca",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed palette and renderer: compare lighter6–8px dimple dashes with dark12px crescents on adjacent curved planes; judge whole-view material against close-view relief. Start a thread loop with densely sampled curves. Reserve contact before oil; avoid repeated covers. Search full archive for a fresh subject/source before next session.",
+  "assessment": {
+    "source": "Actual exported PNG,22 paired inspection boundaries with recorded framing corrections,upper/lower focus and exact ended-feed80-stroke51-event match. No engine changes or numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

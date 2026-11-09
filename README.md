@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A shelter for the fingertip
+
+[![Imagined silver thimble and loose burgundy thread on rose cloth](public-gallery/paintings/a-shelter-for-the-fingertip/finished.png)](https://atelier.randomdrake.com/#painting/a-shelter-for-the-fingertip)
+
+An original study in **80 animated marks**, with **22 whole-and-close inspection boundaries**, upper/lower camera reviews and deliberate final refinement. Broad overlaps closed the early split; sampled arcs rounded the crown and rolled rim. Short lighter dimples sit more quietly than the first dark row. A compact shoulder fleck holds focus; angular thread, cloth bands and raised joins remain. Inspired by the [Smithsonian thimble collection](https://americanhistory.si.edu/collections/object/nmah_1094269). Ended broadcast acknowledged all 80 marks and 51 moments. Further covers mainly added relief, so the count was not padded.
+
+[Watch the thimble study unfold →](https://atelier.randomdrake.com/#painting/a-shelter-for-the-fingertip)
+
+
 ### The tide keeps its rooms
 
 [![An imagined nautilus shell on indigo cloth](public-gallery/paintings/the-tide-keeps-its-rooms/finished.png)](https://atelier.randomdrake.com/#painting/the-tide-keeps-its-rooms)

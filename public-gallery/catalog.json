@@ -1,5 +1,23 @@
 [
   {
+    "id": "a-shelter-for-the-fingertip",
+    "title": "A shelter for the fingertip",
+    "description": "An imagined silver thimble and loose burgundy thread on rose cloth.",
+    "process": "Painted live by the AI agent in 22 animated batches of one to four, with paired whole/close reviews, upper and lower focus and deliberate final refinement. Broad overlaps closed the body split; sampled arcs rounded crown and rolled rim. Short lighter dimples sat more quietly than the first dark row. Compact shoulder fleck holds focus. Angular thread, cloth bands, regular bristles and raised joins remain. All notes live. Ended public feed exactly acknowledged 80 marks and 51 moments; stopped because further covers mainly added relief.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 80,
+    "moments": 51,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/a-shelter-for-the-fingertip/session.json",
+    "image": "/paintings/a-shelter-for-the-fingertip/finished.png",
+    "addedAt": "2026-11-09T22:13:49.954Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-09"
+  },
+  {
     "id": "the-tide-keeps-its-rooms",
     "title": "The tide keeps its rooms",
     "description": "An imagined cream-and-rust nautilus shell rests on indigo cloth, with a continuous spiral and reserved dark mouth.",

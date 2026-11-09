@@ -1,0 +1,41 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    41,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    69,
+    72,
+    76,
+    80
+  ],
+  "cameraTargets": {
+    "whole": 1,
+    "close": 2
+  },
+  "limitations": "All 22 boundaries reviewed whole and close. Initial 8-mark framing clipped the upper canvas; replaced by a corrected full pair before more strokes. A mistaken upper screenshot showed controls; replaced with settled upper focus. Whole view shows complete canvas from the corrected 8-mark pair onward. Standard centered 2x close view crops the crown; upper60 and lower72 camera reviews supply focused evidence. Screenshot bytes are JPEG; actual artwork export is PNG.",
+  "extraReviews": [
+    {
+      "afterStroke": 60,
+      "view": "upper"
+    },
+    {
+      "afterStroke": 72,
+      "view": "lower"
+    }
+  ]
+}
