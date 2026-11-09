@@ -15972,5 +15972,158 @@
     "source": "Actual exported PNG,22 paired inspection boundaries with recorded framing corrections,upper/lower focus and exact ended-feed80-stroke51-event match. No engine changes or numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "ivory-gathered-in-green",
+  "title": "Ivory gathered in green",
+  "date": "2026-11-09",
+  "session": "examples/ivory-gathered-in-green.json",
+  "finishedImage": "examples/previews/ivory-gathered-in-green.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build a rounded ivory bulb with long overlapping planes, reserve open stalk gaps, and keep the fronds light and uneven.",
+  "inspiration": {
+    "title": "RHS: How to grow Florence fennel",
+    "url": "https://www.rhs.org.uk/vegetables/florence-fennel/grow-your-own",
+    "interpretation": "Original imagined ivory fennel bulb with green stalks and fine fronds on plum linen. Full journal/catalogue search found no fennel study or use of this source; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Crossing washes closed pale lanes; broad cloth bands remain."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Side masses left a horseshoe-shaped center gap."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad overlapping planes filled the center."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Three unequal stalks retained open plum wedges."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Curved pale ribs rounded the left shoulder and softened stalk joins."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Seams wrapped the bulb; right seam too dark."
+    },
+    {
+      "afterStroke": 36,
+      "text": "First fine leaf sprays appeared angular and bare."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Single compact reflection remained faint at whole view."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Loaded forked oil leaflets survived whole view better than thin tips."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Long lights connected stalks to ivory; tiny cut face appeared."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Pale seam neighbor changed little in whole view and left raised strip."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Root tips looked foot-like; lower pan inspected their joins."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Fine curved continuations reduced foot-like reading; upper bends remained stiff."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Watercolor foliage haze nearly invisible against plum."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Loaded fans added canopy weight, but upper review confirmed angular forks."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Loaded ivory strengthened planes but made bright stepped joins."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Long sampled foliage tips bent more gently."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Neighbor values reduced bright joins slightly; relief remained."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Compact bulb reflection visible; cut stalk ends unequal."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Fine continuations tapered abrupt lower foliage."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final warm root plane/cool edge/seam neighbors retained open gaps and local reflection. Stopped after paired review because further cover mainly adds relief."
+    }
+  ],
+  "evidence": [
+    "examples/ivory-gathered-in-green.json",
+    "examples/previews/ivory-gathered-in-green.png",
+    "artifacts/ivory-gathered-in-green/004-whole.jpg",
+    "artifacts/ivory-gathered-in-green/004-close.jpg",
+    "artifacts/ivory-gathered-in-green/012-whole.jpg",
+    "artifacts/ivory-gathered-in-green/012-close.jpg",
+    "artifacts/ivory-gathered-in-green/016-whole.jpg",
+    "artifacts/ivory-gathered-in-green/016-close.jpg",
+    "artifacts/ivory-gathered-in-green/020-whole.jpg",
+    "artifacts/ivory-gathered-in-green/020-close.jpg",
+    "artifacts/ivory-gathered-in-green/028-whole.jpg",
+    "artifacts/ivory-gathered-in-green/028-close.jpg",
+    "artifacts/ivory-gathered-in-green/041-whole.jpg",
+    "artifacts/ivory-gathered-in-green/041-close.jpg",
+    "artifacts/ivory-gathered-in-green/052-whole.jpg",
+    "artifacts/ivory-gathered-in-green/052-close.jpg",
+    "artifacts/ivory-gathered-in-green/064-whole.jpg",
+    "artifacts/ivory-gathered-in-green/064-close.jpg",
+    "artifacts/ivory-gathered-in-green/068-whole.jpg",
+    "artifacts/ivory-gathered-in-green/068-close.jpg",
+    "artifacts/ivory-gathered-in-green/072-whole.jpg",
+    "artifacts/ivory-gathered-in-green/072-close.jpg",
+    "artifacts/ivory-gathered-in-green/080-whole.jpg",
+    "artifacts/ivory-gathered-in-green/080-close.jpg",
+    "artifacts/ivory-gathered-in-green/088-whole.jpg",
+    "artifacts/ivory-gathered-in-green/088-close.jpg",
+    "artifacts/ivory-gathered-in-green/092-whole.jpg",
+    "artifacts/ivory-gathered-in-green/092-close.jpg",
+    "artifacts/ivory-gathered-in-green/100-whole.jpg",
+    "artifacts/ivory-gathered-in-green/100-close.jpg",
+    "artifacts/ivory-gathered-in-green/104-whole.jpg",
+    "artifacts/ivory-gathered-in-green/104-close.jpg",
+    "artifacts/ivory-gathered-in-green/108-whole.jpg",
+    "artifacts/ivory-gathered-in-green/108-close.jpg",
+    "artifacts/ivory-gathered-in-green/112-whole.jpg",
+    "artifacts/ivory-gathered-in-green/112-close.jpg",
+    "artifacts/ivory-gathered-in-green/032-upper.jpg",
+    "artifacts/ivory-gathered-in-green/088-upper.jpg",
+    "artifacts/ivory-gathered-in-green/068-lower.jpg",
+    "artifacts/ivory-gathered-in-green/inspection-log.json",
+    "artifacts/ivory-gathered-in-green/live-receipt.json"
+  ],
+  "engineRevision": "7b9459b760def8895dfe0f2927952d44fb56da4b",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "With fixed palette/renderer compare fine oil 5\u20138px at body .1 versus .35 and watercolor foliage on plum swatches. Compare sampled curved sprays to forked three-point marks at matched width. Reserve bulb seams earlier, judging color separately from relief. Choose a fresh subject/source after full archive search.",
+  "assessment": {
+    "source": "Actual exported PNG,29 paired inspections,upper/lower focus and exact ended-feed 112-stroke59-event match. No engine change or numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

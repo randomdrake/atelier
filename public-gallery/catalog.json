@@ -1,5 +1,23 @@
 [
   {
+    "id": "ivory-gathered-in-green",
+    "title": "Ivory gathered in green",
+    "description": "An imagined ivory fennel bulb with green stalks, fine fronds and loose roots on plum linen.",
+    "process": "112 animated watercolor and oil marks in 29 batches of 1–4, with 29 settled whole-and-close reviews and upper/lower camera inspections. All 59 notes and camera moments recorded live. Final refinement preserved stalk gaps and compact light; spare angular foliage and raised joins remain.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 59,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/ivory-gathered-in-green/session.json",
+    "image": "/paintings/ivory-gathered-in-green/finished.png",
+    "addedAt": "2026-11-09T23:08:49.262Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-09"
+  },
+  {
     "id": "a-shelter-for-the-fingertip",
     "title": "A shelter for the fingertip",
     "description": "An imagined silver thimble and loose burgundy thread on rose cloth.",

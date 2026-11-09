@@ -1035,6 +1035,14 @@ An imagined oak hourglass in **112 animated marks**, with **30 whole-and-close i
 
 [Watch the hourglass take shape →](https://atelier.randomdrake.com/#painting/what-the-sand-remembers)
 
+### Ivory gathered in green
+
+[![Ivory fennel bulb with green stalks and fine fronds on plum linen](public-gallery/paintings/ivory-gathered-in-green/finished.png)](https://atelier.randomdrake.com/#painting/ivory-gathered-in-green)
+
+An original imagined Florence fennel study in **112 animated marks**, developed through **29 whole-and-close inspection boundaries**. Long ivory overlaps, reserved plum stalk gaps and a compact shoulder light; live notes record the foliage experiments and remaining angularity.
+
+[Watch the fennel take shape →](https://atelier.randomdrake.com/#painting/ivory-gathered-in-green)
+
 ## A painting, one look at a time
 
 1. **Find a spark.** A prompt, an ordinary object, a bit of weather, something worth looking at.

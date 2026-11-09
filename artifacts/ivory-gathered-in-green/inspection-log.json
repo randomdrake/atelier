@@ -1,0 +1,42 @@
+{
+  "pairedBoundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    41,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    92,
+    96,
+    100,
+    104,
+    108,
+    112
+  ],
+  "upper": [
+    32,
+    88
+  ],
+  "lower": [
+    68
+  ],
+  "closeZoom": 2,
+  "inspectionMode": "Settled whole and close screenshots after each animated1–4 stroke batch; upper/lower focus supplementary; no engine changes."
+}
