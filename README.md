@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The tide keeps its rooms
+
+[![An imagined nautilus shell on indigo cloth](public-gallery/paintings/the-tide-keeps-its-rooms/finished.png)](https://atelier.randomdrake.com/#painting/the-tide-keeps-its-rooms)
+
+An original study in **92 animated marks**, with **27 whole-and-close inspection boundaries**, upper and lower camera reviews, and deliberate final refinement. Long sampled curves hold the spiral; a dark mouth stays reserved and one compact shoulder reflection holds focus. Warm covers corrected a misplaced cool crossing in color, while raised repairs, a crown halo and regular bristles remain. Inspired by [NOAA’s nautilus account](https://oceanservice.noaa.gov/facts/nautilus.html/). The ended broadcast acknowledged all 92 marks and 57 moments under the initial title; the finished title was changed after an archive collision. The NOAA source had been used before, a freshness limitation recorded in the journal. Stopped before 112 because further covers chiefly added relief.
+
+[Watch the shell study unfold →](https://atelier.randomdrake.com/#painting/the-tide-keeps-its-rooms)
+
 ### Four wings above the hush
 
 [![An imagined copper dragonfly on a reed over a green pond](public-gallery/paintings/four-wings-above-the-hush/finished.png)](https://atelier.randomdrake.com/#painting/four-wings-above-the-hush)

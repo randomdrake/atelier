@@ -15666,5 +15666,183 @@
     "source": "Actual exported PNG, 24 settled whole/close pairs, upper/lower pans, and exact ended-feed 88-stroke/52-event match. No engine changes or numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "the-tide-keeps-its-rooms",
+  "title": "The tide keeps its rooms",
+  "date": "2026-11-09",
+  "session": "examples/the-tide-keeps-its-rooms.json",
+  "finishedImage": "examples/previews/the-tide-keeps-its-rooms.png",
+  "media": [
+    "watercolor",
+    "oil",
+    "acrylic"
+  ],
+  "goal": "Long sampled curves for rounded shell volume, a reserved dark opening and one compact reflection.",
+  "inspiration": {
+    "title": "NOAA: What is a nautilus?",
+    "url": "https://oceanservice.noaa.gov/facts/nautilus.html/",
+    "interpretation": "Original imagined shell on indigo cloth, inspired by its coiled form, without copying a finished composition.",
+    "limitation": "Archive audit after painting found this NOAA source and nautilus motif used in older studies. Composition was newly painted, but source freshness requirement was not met; future subject selection must search full catalogue and journal, not a truncated match list."
+  },
+  "observations": [
+    {
+      "afterStroke": 4,
+      "text": "Four washes left pale horizontal lanes."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Crossing washes joined the cloth; an out-of-range endpoint rejected one batch before any marks were added, then corrected."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Rounded block-in had a central blue slit and floated above shadow."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad crossing closed slit; warm lower and cool right planes separated."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Dark mouth remained open inside a warm lip and reached shadow."
+    },
+    {
+      "afterStroke": 21,
+      "text": "Single sampled spiral remained continuous, but read as drawn on a flat disk."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Pale spiral neighbor added a slight turn and relief."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Upper rust bands wrapped inward but projected beyond silhouette."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Inset right bands stayed inside edge."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Indigo contour correction added a dark raised arc; pale covers split two bands."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Lower bands stayed inside silhouette and left central coil quiet."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Single loaded oil cover widened and darkened the unwanted arc."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Acrylic changed bare cloth but left existing oil arc visible."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Lighter loaded oil changed dark arc to pale relief; two broken bands reconnected."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Middle-value cover reduced color contrast but left raised arc; inner mouth plane faint."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Warm lip cover shortened bright bottom rim; body joined mouth."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Small unequal rust echoes varied band scale."
+    },
+    {
+      "afterStroke": 61,
+      "text": "Single compact shoulder reflection survived whole view."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Left cloth fold quiet; right fold became a pale angular thread."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Broader curved cloth neighbors retained conspicuous pale ridges."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Inner broad planes gave coil a light side but added raised arcs."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Lower band extensions subtle, with no new protrusions."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Inner pearl plane faint; mouth remained dark and clear."
+    },
+    {
+      "afterStroke": 81,
+      "text": "Reinforced shoulder reflection stayed compact; upper review showed raised crown repair."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Crown joins less abrupt but retained raised steps; lower camera reviewed contact and lip."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final cool underside stroke crossed shell-to-lip join: concrete placement error requiring correction."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Loaded warm covers removed cool crossing in color, with raised joins remaining. Spiral, reserved mouth and compact reflection retained; stop because further covers mainly add relief."
+    }
+  ],
+  "evidence": [
+    "examples/previews/the-tide-keeps-its-rooms.png",
+    "examples/the-tide-keeps-its-rooms.json",
+    "artifacts/a-room-inside-the-tide/012-whole.jpg",
+    "artifacts/a-room-inside-the-tide/012-close.jpg",
+    "artifacts/a-room-inside-the-tide/020-whole.jpg",
+    "artifacts/a-room-inside-the-tide/020-close.jpg",
+    "artifacts/a-room-inside-the-tide/021-whole.jpg",
+    "artifacts/a-room-inside-the-tide/021-close.jpg",
+    "artifacts/a-room-inside-the-tide/028-whole.jpg",
+    "artifacts/a-room-inside-the-tide/028-close.jpg",
+    "artifacts/a-room-inside-the-tide/036-whole.jpg",
+    "artifacts/a-room-inside-the-tide/036-close.jpg",
+    "artifacts/a-room-inside-the-tide/041-whole.jpg",
+    "artifacts/a-room-inside-the-tide/041-close.jpg",
+    "artifacts/a-room-inside-the-tide/044-whole.jpg",
+    "artifacts/a-room-inside-the-tide/044-close.jpg",
+    "artifacts/a-room-inside-the-tide/048-whole.jpg",
+    "artifacts/a-room-inside-the-tide/048-close.jpg",
+    "artifacts/a-room-inside-the-tide/052-whole.jpg",
+    "artifacts/a-room-inside-the-tide/052-close.jpg",
+    "artifacts/a-room-inside-the-tide/056-whole.jpg",
+    "artifacts/a-room-inside-the-tide/056-close.jpg",
+    "artifacts/a-room-inside-the-tide/061-whole.jpg",
+    "artifacts/a-room-inside-the-tide/061-close.jpg",
+    "artifacts/a-room-inside-the-tide/068-whole.jpg",
+    "artifacts/a-room-inside-the-tide/068-close.jpg",
+    "artifacts/a-room-inside-the-tide/072-whole.jpg",
+    "artifacts/a-room-inside-the-tide/072-close.jpg",
+    "artifacts/a-room-inside-the-tide/081-whole.jpg",
+    "artifacts/a-room-inside-the-tide/081-close.jpg",
+    "artifacts/a-room-inside-the-tide/084-whole.jpg",
+    "artifacts/a-room-inside-the-tide/084-close.jpg",
+    "artifacts/a-room-inside-the-tide/088-whole.jpg",
+    "artifacts/a-room-inside-the-tide/088-close.jpg",
+    "artifacts/a-room-inside-the-tide/092-whole.jpg",
+    "artifacts/a-room-inside-the-tide/092-close.jpg",
+    "artifacts/a-room-inside-the-tide/081-upper.jpg",
+    "artifacts/a-room-inside-the-tide/084-lower.jpg",
+    "artifacts/a-room-inside-the-tide/inspection-log.json",
+    "artifacts/a-room-inside-the-tide/live-receipt.json"
+  ],
+  "engineRevision": "03c24fffd97173421ca3ac66413f902522e61f7b",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "With fixed palette and renderer compare reserved silhouette against oil cover strokes; assess color and relief separately. Test acrylic-before-oil and acrylic-over-oil in adjacent swatches. Build one shell using broad domed planes before a thin spiral. Use body-free watercolor for cloth folds. Choose a fresh subject next. Search the full journal and catalogue for both title and subject before painting; this source was reused inadvertently.",
+  "assessment": {
+    "source": "Actual exported PNG,27 paired inspection boundaries with stated framing limits,upper/lower pans and exact ended-feed92-stroke57-event match. No numerical quality claim or engine changes. Title collision corrected and older work fully restored; source freshness failure disclosed.",
+    "humanRating": null
+  }
 }
 ]

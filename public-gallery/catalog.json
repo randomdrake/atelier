@@ -1,5 +1,24 @@
 [
   {
+    "id": "the-tide-keeps-its-rooms",
+    "title": "The tide keeps its rooms",
+    "description": "An imagined cream-and-rust nautilus shell rests on indigo cloth, with a continuous spiral and reserved dark mouth.",
+    "process": "92 animated watercolor, oil and acrylic marks in 27 batches of 1–4, each followed by whole-and-close review; upper/lower camera reviews and live easel notes. Warm loaded covers corrected a misplaced cool crossing in color. Raised crown repairs, pale cloth ridges and regular bristles remain. Ended broadcast exactly matched 92 marks and 57 moments under the initial title; renamed after archive collision. Older artwork preserved. Inspiration source reused inadvertently and disclosed. No engine changes.",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "strokes": 92,
+    "moments": 57,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/the-tide-keeps-its-rooms/session.json",
+    "image": "/paintings/the-tide-keeps-its-rooms/finished.png",
+    "addedAt": "2026-11-09T21:11:29.884Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-09"
+  },
+  {
     "id": "four-wings-above-the-hush",
     "title": "Four wings above the hush",
     "description": "A copper dragonfly grips a reed above a quiet green pond, its four pale wings separated by open green wedges.",
