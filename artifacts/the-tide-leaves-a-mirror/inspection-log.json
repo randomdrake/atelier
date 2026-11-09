@@ -1,0 +1,129 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    33,
+    36,
+    40,
+    41,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    92,
+    96,
+    100,
+    104,
+    108,
+    112
+  ],
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Crossing washes joined pale sea lanes."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad crossing rock planes closed an early pale shelf gap; regular bristles remained."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Wider forward breast reduced an early goose-like neck and tail overlap closed split ends."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Long bill and two pink legs established a standing bird; the sea gap was reserved rather than covered later."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Warm iris survived whole view; cool chest light became an isolated raised stripe."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Dark neighbor shortened chest stripe; wider warm wing separated from belly, leaving relief."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Single loaded eye reflection stayed compact and visible at whole view."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Feather division became a continuous dark band."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Pale toes met soft dark contacts without closing leg gap."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Algae differentiated rock; fissure became too sharp and zigzagged."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Stone neighbors shortened fissure; watercolor pool reflection remained too faint."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Loaded oil made pool reflection visible where watercolor had little effect."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Narrow pool rims formed pointed hooks."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Broader planes widened pool ends and reduced hook silhouette, retaining stepped edges."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Dark barnacle centers lowered lights; warm wing neighbors broke band color but retained relief."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Sea gestures stayed faint and subordinate."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Sampled crown light remained quiet; outer head was still faceted."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Narrow leg lights retained the open gap."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Sampled seaweed arcs were gentler than three-point elbows; stone facets left pale ends."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Unequal pool lights remained a ridged ribbon."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Broad plumage joins quieted color but left raised seams."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Stone neighbors shortened pale ends; watery foot shadows stayed soft."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final chest/fissure/tail/bill refinement retained focal eye and reserved leg gap. Faceted edges, regular bristles and relief remained; further covers unlikely to improve form."
+    }
+  ],
+  "limitations": "The first whole screenshot was observed but not saved; its close screenshot remains locally. All subsequent pairs saved with explicit counts. Two camera-click timeouts were followed by fresh state inspection and successful settled review before further paint. Whole/close clips were actual full-page browser screenshots cropped to the canvas wrapper; close view was confirmed at 2.0\u00d7. Center close clips head and lower shelf by design; upper/lower pans cover those. Screenshot bytes JPEG, actual artwork export PNG."
+}

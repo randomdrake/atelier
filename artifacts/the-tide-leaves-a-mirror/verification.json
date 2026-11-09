@@ -1,0 +1,30 @@
+{
+  "tests": {
+    "passed": 104,
+    "failed": 0
+  },
+  "syntax": "passed",
+  "fullWorkerBuild": "passed",
+  "publicArtifactPrivacy": "passed;134 paintings",
+  "sourceDownloadJournal": "byte-equal final journal",
+  "priorJournalEntriesPreserved": 130,
+  "priorCatalogEntriesPreserved": 133,
+  "galleryPNG": "byte-equal actual browser export",
+  "galleryReplay": "JSON-equal browser export plus creation metadata",
+  "browserQA": {
+    "finished": "112 marks /62 moments;actual900x620image;finalnote;downloadlink",
+    "replay": "openingnote/source/brushsettings;1xdefault;4xusedforQA",
+    "pause": "mark8stable1500ms;Continue works",
+    "returnToFinished": true,
+    "expandedNotes": true,
+    "phone": {
+      "viewport": 390,
+      "document": 390,
+      "dialog": 350,
+      "dialogScroll": 350,
+      "horizontalOverflow": false
+    }
+  },
+  "broadcast": "ended112strokes62events;exactstroke/eventmatch;genericlivetitlebeforefinishedrename",
+  "humanRating": null
+}

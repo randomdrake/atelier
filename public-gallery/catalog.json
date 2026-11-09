@@ -1,5 +1,23 @@
 [
   {
+    "id": "the-tide-leaves-a-mirror",
+    "title": "The tide leaves a mirror",
+    "description": "An imagined black oystercatcher stands above a rocky tide pool, with open sea between its pink legs.",
+    "process": "112 animated watercolor/oil marks in 30 batches of 1–4, each chosen after settled whole/close screenshots; upper and lower camera reviews, live easel notes and deliberate final refinement. First whole image observed but not saved. Ended feed acknowledged 112 strokes and 62 moments; title assigned afterward. No engine changes.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 62,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/the-tide-leaves-a-mirror/session.json",
+    "image": "/paintings/the-tide-leaves-a-mirror/finished.png",
+    "addedAt": "2026-11-09T18:15:48.323Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-09"
+  },
+  {
     "id": "a-measure-of-stillness",
     "title": "A measure of stillness",
     "description": "An imagined mahogany metronome with leaning steel pendulum and open winding key on muted green cloth.",

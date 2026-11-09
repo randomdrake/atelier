@@ -15167,5 +15167,163 @@
     "source": "Actual PNG, 25 settled whole/close boundaries, upper/lower pans and exact 96-mark/53-moment ended-feed match. No engine changes; no numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "the-tide-leaves-a-mirror",
+  "title": "The tide leaves a mirror",
+  "date": "2026-11-09",
+  "session": "examples/the-tide-leaves-a-mirror.json",
+  "finishedImage": "examples/previews/the-tide-leaves-a-mirror.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Separate a dark bird from cooler dark rock with warm and cool planes, reserve the sea gap between its legs, and keep one compact eye light.",
+  "inspiration": {
+    "title": "NPS Channel Islands black oystercatcher account",
+    "url": "https://www.nps.gov/chis/learn/nature/oystercatcher.htm",
+    "interpretation": "Original imagined oystercatcher above a tide pool; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Crossing washes joined pale sea lanes."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad crossing rock planes closed an early pale shelf gap; regular bristles remained."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Wider forward breast reduced an early goose-like neck and tail overlap closed split ends."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Long bill and two pink legs established a standing bird; the sea gap was reserved rather than covered later."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Warm iris survived whole view; cool chest light became an isolated raised stripe."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Dark neighbor shortened chest stripe; wider warm wing separated from belly, leaving relief."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Single loaded eye reflection stayed compact and visible at whole view."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Feather division became a continuous dark band."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Pale toes met soft dark contacts without closing leg gap."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Algae differentiated rock; fissure became too sharp and zigzagged."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Stone neighbors shortened fissure; watercolor pool reflection remained too faint."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Loaded oil made pool reflection visible where watercolor had little effect."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Narrow pool rims formed pointed hooks."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Broader planes widened pool ends and reduced hook silhouette, retaining stepped edges."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Dark barnacle centers lowered lights; warm wing neighbors broke band color but retained relief."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Sea gestures stayed faint and subordinate."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Sampled crown light remained quiet; outer head was still faceted."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Narrow leg lights retained the open gap."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Sampled seaweed arcs were gentler than three-point elbows; stone facets left pale ends."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Unequal pool lights remained a ridged ribbon."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Broad plumage joins quieted color but left raised seams."
+    },
+    {
+      "afterStroke": 108,
+      "text": "Stone neighbors shortened pale ends; watery foot shadows stayed soft."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final chest/fissure/tail/bill refinement retained focal eye and reserved leg gap. Faceted edges, regular bristles and relief remained; further covers unlikely to improve form."
+    }
+  ],
+  "evidence": [
+    "examples/previews/the-tide-leaves-a-mirror.png",
+    "examples/the-tide-leaves-a-mirror.json",
+    "artifacts/the-tide-leaves-a-mirror/008-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/008-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/016-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/016-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/020-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/020-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/024-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/024-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/028-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/028-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/033-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/033-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/036-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/036-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/041-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/041-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/044-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/044-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/052-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/052-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/060-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/060-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/064-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/064-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/072-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/072-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/080-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/080-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/096-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/096-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/112-whole.jpg",
+    "artifacts/the-tide-leaves-a-mirror/112-close.jpg",
+    "artifacts/the-tide-leaves-a-mirror/032-upper.jpg",
+    "artifacts/the-tide-leaves-a-mirror/048-lower.jpg",
+    "artifacts/the-tide-leaves-a-mirror/inspection-log.json",
+    "artifacts/the-tide-leaves-a-mirror/live-receipt.json"
+  ],
+  "engineRevision": "8463b7025bb8ba3c60662ae6fddf3ee78f3112da",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "With fixed renderer/palette, compare reserved leg gaps against later covers, judging color, silhouette and relief separately. Compare thin watercolor and loaded oil over matched dark pool swatches; compare three-point and sampled seaweed curves. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual PNG, 30 settled paired screenshot boundaries, upper/lower pans and exact 112-stroke/62-event ended-feed match. Title assigned after broadcast end. No engine changes or numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

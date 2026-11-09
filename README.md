@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The tide leaves a mirror
+
+[![An imagined black oystercatcher above a rocky tide pool](public-gallery/paintings/the-tide-leaves-a-mirror/finished.png)](https://atelier.randomdrake.com/#painting/the-tide-leaves-a-mirror)
+
+An original study in **112 animated marks**, with **30 whole/close inspection boundaries**, upper and lower camera reviews and deliberate final refinement. Broad planes joined the shelf and stockier bird; the sea gap between its legs stayed open and one compact eye light holds focus. Loaded oil made the pool visible where watercolor stayed faint. Warm neighbors shortened bands but left raised joins; faceted edges and regular bristles remain. Inspired by the [NPS black oystercatcher account](https://www.nps.gov/chis/learn/nature/oystercatcher.htm). The ended broadcast acknowledged all 112 marks and 62 moments; its generic live title was assigned the finished title afterward.
+
+[Watch the shorebird study unfold →](https://atelier.randomdrake.com/#painting/the-tide-leaves-a-mirror)
+
 ### A measure of stillness
 
 [![Imagined mahogany metronome on muted green cloth](public-gallery/paintings/a-measure-of-stillness/finished.png)](https://atelier.randomdrake.com/#painting/a-measure-of-stillness)
