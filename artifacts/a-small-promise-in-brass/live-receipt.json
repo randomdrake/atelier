@@ -1,0 +1,17 @@
+{
+  "sessionId": "43cd6313-cff8-419b-ac0c-1fd9961b8c90",
+  "sequence": 165,
+  "startedAt": 1794239873989,
+  "receivedAt": 1794240420827,
+  "live": false,
+  "status": "ended",
+  "activity": "ended",
+  "camera": {
+    "zoom": 1,
+    "x": 0.5,
+    "y": 0.5
+  },
+  "strokes": 88,
+  "moments": 51,
+  "exactDocumentMatch": true
+}

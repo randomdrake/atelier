@@ -14894,5 +14894,130 @@
     "source": "Actual exported PNG and 23 whole/close inspection boundaries; three framing limitations recorded explicitly. Exact ended-feed document match; no engine changes.",
     "humanRating": null
   }
+},
+{
+  "id": "a-small-promise-in-brass",
+  "title": "A small promise in brass",
+  "date": "2026-11-09",
+  "session": "examples/a-small-promise-in-brass.json",
+  "finishedImage": "examples/previews/a-small-promise-in-brass.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Reserve smooth sampled shackle and key-bow curves from the start; build broad warm brass planes and retain one compact shoulder reflection.",
+  "inspiration": {
+    "title": "Smithsonian Padlock and Key collection record",
+    "url": "https://www.americanhistory.si.edu/collections/object/nmah_309617",
+    "interpretation": "Original imagined brass heart-shaped lock and small steel key on violet linen; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Crossing washes joined pale lanes in the violet field; folds stayed faint."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Long brass gestures formed a heart but left an interior violet slit."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Two broad crossings closed the slit; densely sampled steel arch reserved a smooth violet opening."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Loaded warm plane became clearer; outlined keyhole retained two pinholes."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Dark crossings filled both pinholes. Steel reflections stayed cooler than brass."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Dark sockets and warm lips seated steel legs, but lips were too regular."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Single loaded shoulder fleck remained visible in whole view."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Sampled small key bow remained open; unequal teeth added. Upper pan confirmed smooth shackle crown."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Broad warm neighbors shortened dark right band but flattened the keyhole cap and retained relief."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Offset crescents turned rivets; socket covers shortened color without removing relief."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Thin patina marks became rails rather than irregular stains."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Broader neighbors shortened rails but made raised warm patches."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Broad watercolor contacts joined soft shadows without opaque feet; lower/right pan showed clean key bow and thin prong teeth."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Loaded bases made key teeth more solid while remaining subordinate."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Reflection ends shortened and lower shadow rail softened; brass flecks remained."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final keyhole cap/patch-end/bow-light refinement had diminishing returns. Smooth reserved openings and compact reflection survived; faceted lobes, slightly flat keyhole cap, regular bristles and raised repairs remained."
+    }
+  ],
+  "evidence": [
+    "examples/previews/a-small-promise-in-brass.png",
+    "examples/a-small-promise-in-brass.json",
+    "artifacts/a-small-promise-in-brass/008-whole.jpg",
+    "artifacts/a-small-promise-in-brass/008-close.jpg",
+    "artifacts/a-small-promise-in-brass/016-whole.jpg",
+    "artifacts/a-small-promise-in-brass/016-close.jpg",
+    "artifacts/a-small-promise-in-brass/020-whole.jpg",
+    "artifacts/a-small-promise-in-brass/020-close.jpg",
+    "artifacts/a-small-promise-in-brass/028-whole.jpg",
+    "artifacts/a-small-promise-in-brass/028-close.jpg",
+    "artifacts/a-small-promise-in-brass/032-whole.jpg",
+    "artifacts/a-small-promise-in-brass/032-close.jpg",
+    "artifacts/a-small-promise-in-brass/041-whole.jpg",
+    "artifacts/a-small-promise-in-brass/041-close.jpg",
+    "artifacts/a-small-promise-in-brass/044-whole.jpg",
+    "artifacts/a-small-promise-in-brass/044-close.jpg",
+    "artifacts/a-small-promise-in-brass/052-whole.jpg",
+    "artifacts/a-small-promise-in-brass/052-close.jpg",
+    "artifacts/a-small-promise-in-brass/060-whole.jpg",
+    "artifacts/a-small-promise-in-brass/060-close.jpg",
+    "artifacts/a-small-promise-in-brass/068-whole.jpg",
+    "artifacts/a-small-promise-in-brass/068-close.jpg",
+    "artifacts/a-small-promise-in-brass/072-whole.jpg",
+    "artifacts/a-small-promise-in-brass/072-close.jpg",
+    "artifacts/a-small-promise-in-brass/084-whole.jpg",
+    "artifacts/a-small-promise-in-brass/084-close.jpg",
+    "artifacts/a-small-promise-in-brass/088-whole.jpg",
+    "artifacts/a-small-promise-in-brass/088-close.jpg",
+    "artifacts/a-small-promise-in-brass/044-upper.jpg",
+    "artifacts/a-small-promise-in-brass/072-lower.jpg",
+    "artifacts/a-small-promise-in-brass/072-key-pan.jpg",
+    "artifacts/a-small-promise-in-brass/inspection-log.json",
+    "artifacts/a-small-promise-in-brass/live-receipt.json"
+  ],
+  "engineRevision": "2040d9b25da1cc319dc4a63a73eef25c7fee1b0f",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Keep palette and renderer fixed. Compare reserved sampled openings with later covers, judging silhouette, color and relief separately. Test broad muted patina patches against narrow thin rails, and reserve keyhole separation before neighboring brass planes. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual exported PNG, 23 whole/close boundaries with four-mark framing limit recorded, upper/lower/right pans, and exact ended-feed match. No engine changes.",
+    "humanRating": null
+  }
 }
 ]

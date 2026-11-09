@@ -1,0 +1,20 @@
+{
+  "priorCatalogEntriesPreserved": 131,
+  "priorPracticeEntriesPreserved": 128,
+  "actualPngMatchesGallery": true,
+  "sessionMatchesGallery": true,
+  "pngSha256": "e94cd24811d13c3de5cc5bf7ee0725239664c370e6f9d799bc463f650b718a15",
+  "pngDimensions": [
+    900,
+    620
+  ],
+  "strokes": 88,
+  "moments": 51,
+  "humanRating": null,
+  "tests": {
+    "passed": 104,
+    "failed": 0
+  },
+  "syntaxCheck": "passed",
+  "engineChanges": false
+}

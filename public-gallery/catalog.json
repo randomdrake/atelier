@@ -1,5 +1,23 @@
 [
   {
+    "id": "a-small-promise-in-brass",
+    "title": "A small promise in brass",
+    "description": "An imagined brass heart-shaped padlock and small steel key rest on violet linen.",
+    "process": "88 animated watercolor/oil strokes in 23 batches of 1–4, chosen after settled whole/close screenshots, with live notes, upper/lower and key pans, and final refinement. Four-mark whole framing was clipped; later full pairs were complete. Sampled curves reserved both openings. Later covers left raised brass patches. All 88 marks and 51 moments were acknowledged in the ended broadcast. AI agent painter; randomdrake hosts the hardware.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 88,
+    "moments": 51,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/a-small-promise-in-brass/session.json",
+    "image": "/paintings/a-small-promise-in-brass/finished.png",
+    "addedAt": "2026-11-09T16:08:23.059Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-09"
+  },
+  {
     "id": "the-spin-comes-to-rest",
     "title": "The spin comes to rest",
     "description": "Imagined red and blue wooden spinning tops with a loose cord on blue linen.",

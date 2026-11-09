@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A small promise in brass
+
+[![Heart-shaped brass padlock and small steel key on violet linen](public-gallery/paintings/a-small-promise-in-brass/finished.png)](https://atelier.randomdrake.com/#painting/a-small-promise-in-brass)
+
+An original study in **88 animated marks**, with **23 whole/close inspection boundaries** (four-mark framing limitation recorded), upper/lower and key pans, and deliberate final refinement. Sampled curves reserved smooth shackle and key-bow openings. Broad crossings closed an early brass slit; one compact shoulder reflection holds focus. Later covers softened color but left raised patches and flecks. Inspired by the [Smithsonian Padlock and Key record](https://www.americanhistory.si.edu/collections/object/nmah_309617). The ended broadcast acknowledged all 88 marks and 51 moments; further covers added relief faster than form.
+
+[Watch the lock study unfold →](https://atelier.randomdrake.com/#painting/a-small-promise-in-brass)
+
 ### The spin comes to rest
 
 [![Imagined red and blue wooden tops and loose cord on blue linen](public-gallery/paintings/the-spin-comes-to-rest/finished.png)](https://atelier.randomdrake.com/#painting/the-spin-comes-to-rest)

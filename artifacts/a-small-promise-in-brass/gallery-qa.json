@@ -1,0 +1,26 @@
+{
+  "finishedImage": [
+    900,
+    620
+  ],
+  "strokes": 88,
+  "moments": 51,
+  "openingNoteVisible": true,
+  "brushSettingsVisible": true,
+  "pause": {
+    "mark": 4,
+    "stableMilliseconds": 1500,
+    "continueVisible": true
+  },
+  "continueAndReturnToFinished": true,
+  "expandedNotesVisible": true,
+  "mobile": {
+    "viewport": 390,
+    "document": 390,
+    "dialog": 350,
+    "scroll": 350
+  },
+  "build": "passed; 132-painting artifact verification passed",
+  "tests": 104,
+  "syntax": "passed"
+}
