@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A measure of stillness
+
+[![Imagined mahogany metronome on muted green cloth](public-gallery/paintings/a-measure-of-stillness/finished.png)](https://atelier.randomdrake.com/#painting/a-measure-of-stillness)
+
+An original study in **96 animated marks**, with **25 settled whole/close inspection boundaries**, upper and lower camera reviews, and deliberate final refinement. Broad crossings filled the dark recess; the winding-key opening stayed clear and one compact metal reflection holds focus. Thin contact covers changed color but left raised paint. Inspired by the [Smithsonian metronome collection](https://americanhistory.si.edu/collections/object/nmah_1160931). The ended broadcast acknowledged all 96 marks and 53 moments; further covers added relief faster than useful form.
+
+[Watch the metronome study unfold →](https://atelier.randomdrake.com/#painting/a-measure-of-stillness)
+
+
 ### A small promise in brass
 
 [![Heart-shaped brass padlock and small steel key on violet linen](public-gallery/paintings/a-small-promise-in-brass/finished.png)](https://atelier.randomdrake.com/#painting/a-small-promise-in-brass)

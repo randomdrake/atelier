@@ -15019,5 +15019,153 @@
     "source": "Actual exported PNG, 23 whole/close boundaries with four-mark framing limit recorded, upper/lower/right pans, and exact ended-feed match. No engine changes.",
     "humanRating": null
   }
+},
+{
+  "id": "a-measure-of-stillness",
+  "title": "A measure of stillness",
+  "date": "2026-11-09",
+  "session": "examples/a-measure-of-stillness.json",
+  "finishedImage": "examples/previews/a-measure-of-stillness.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build filled long tapered wood planes, reserve a dark pendulum recess and an open winding-key loop, and retain one compact metal reflection.",
+  "inspiration": {
+    "title": "Smithsonian mahogany metronome collection record",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_1160931",
+    "interpretation": "Original imagined mahogany metronome on muted green cloth; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Crossing washes joined pale horizontal lanes into a continuous green field."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Long tapered wood gestures joined without interior holes, but rounded ends left a scalloped base."
+    },
+    {
+      "afterStroke": 20,
+      "text": "A crosswise plinth made the base continuous; a warm tab remained beneath it."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Dark recess strokes left two warm interior slits."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Crossings shortened the slits but left warm pinholes and a thin upper area."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Loaded vertical and crossing neighbors filled the recess; the pale scale separated clearly."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Leaning steel rod and sliding weight read, though upper rod merged with wood."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Warm right return partly covered sliding weight."
+    },
+    {
+      "afterStroke": 41,
+      "text": "A single loaded compact metal touch survived whole view."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Warm cap anchored the apex but left a pale triangular crown."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Broad warm crossings filled the crown and left bright raised joins."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Broad side planes added warm reflected wood while retaining regular bristles."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Sampled winding-key oval reserved a clear green opening; facets remained."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Socket became a dark triangular tab; thin grain followed the taper."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Brown neighbors shortened socket color but left raised joins."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Watercolor contacts softened the shadow; lower review showed warm tabs below plinth."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Thin oil recolored warm tabs green but left a hard raised contact strip."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Watercolor neighbors softened the surrounding shadow; the raised strip persisted."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Small offset fasteners stayed dark at whole view."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Unequal scale ticks were visible close up and subordinate in composition."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Warm neighboring crown corrections reduced fleck contrast, leaving raised joins."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Final light/socket/lip/grain refinement kept a compact reflection and open key loop. Blunt crown, faceted loop, regular bristles and raised repairs remain; more covers unlikely to help."
+    }
+  ],
+  "evidence": [
+    "examples/previews/a-measure-of-stillness.png",
+    "examples/a-measure-of-stillness.json",
+    "artifacts/a-measure-of-stillness/008-whole.jpg",
+    "artifacts/a-measure-of-stillness/008-close.jpg",
+    "artifacts/a-measure-of-stillness/016-whole.jpg",
+    "artifacts/a-measure-of-stillness/016-close.jpg",
+    "artifacts/a-measure-of-stillness/024-whole.jpg",
+    "artifacts/a-measure-of-stillness/024-close.jpg",
+    "artifacts/a-measure-of-stillness/028-whole.jpg",
+    "artifacts/a-measure-of-stillness/028-close.jpg",
+    "artifacts/a-measure-of-stillness/032-whole.jpg",
+    "artifacts/a-measure-of-stillness/032-close.jpg",
+    "artifacts/a-measure-of-stillness/041-whole.jpg",
+    "artifacts/a-measure-of-stillness/041-close.jpg",
+    "artifacts/a-measure-of-stillness/048-whole.jpg",
+    "artifacts/a-measure-of-stillness/048-close.jpg",
+    "artifacts/a-measure-of-stillness/052-whole.jpg",
+    "artifacts/a-measure-of-stillness/052-close.jpg",
+    "artifacts/a-measure-of-stillness/060-whole.jpg",
+    "artifacts/a-measure-of-stillness/060-close.jpg",
+    "artifacts/a-measure-of-stillness/068-whole.jpg",
+    "artifacts/a-measure-of-stillness/068-close.jpg",
+    "artifacts/a-measure-of-stillness/076-whole.jpg",
+    "artifacts/a-measure-of-stillness/076-close.jpg",
+    "artifacts/a-measure-of-stillness/092-whole.jpg",
+    "artifacts/a-measure-of-stillness/092-close.jpg",
+    "artifacts/a-measure-of-stillness/096-whole.jpg",
+    "artifacts/a-measure-of-stillness/096-close.jpg",
+    "artifacts/a-measure-of-stillness/044-upper-full.jpg",
+    "artifacts/a-measure-of-stillness/072-lower-full.jpg",
+    "artifacts/a-measure-of-stillness/inspection-log.json",
+    "artifacts/a-measure-of-stillness/live-receipt.json"
+  ],
+  "engineRevision": "8463b7025bb8ba3c60662ae6fddf3ee78f3112da",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Keep renderer and palette fixed. Compare reserved straight plinth ends against later thin-oil contact covers, judging silhouette, color and relief separately. Compare sampled oval loops with denser curves at matched width. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Actual PNG, 25 settled whole/close boundaries, upper/lower pans and exact 96-mark/53-moment ended-feed match. No engine changes; no numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

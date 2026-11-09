@@ -1,5 +1,23 @@
 [
   {
+    "id": "a-measure-of-stillness",
+    "title": "A measure of stillness",
+    "description": "An imagined mahogany metronome with leaning steel pendulum and open winding key on muted green cloth.",
+    "process": "96 animated watercolor/oil marks in 25 batches of 1–4, chosen after settled whole/close screenshots. All easel notes live; upper/lower pans and deliberate final refinement. Broad crossings filled recess slits; sampled key loop stayed open. Thin contact covers changed color but retained relief. Ended feed matched all 96 marks and 53 moments. No engine changes; human ratings unset.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 96,
+    "moments": 53,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/a-measure-of-stillness/session.json",
+    "image": "/paintings/a-measure-of-stillness/finished.png",
+    "addedAt": "2026-11-09T17:09:42.291Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-09"
+  },
+  {
     "id": "a-small-promise-in-brass",
     "title": "A small promise in brass",
     "description": "An imagined brass heart-shaped padlock and small steel key rest on violet linen.",

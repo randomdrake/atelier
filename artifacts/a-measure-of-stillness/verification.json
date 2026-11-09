@@ -1,0 +1,29 @@
+{
+  "priorCatalogEntries": 132,
+  "allPreserved": true,
+  "replayEqual": true,
+  "actualPngEqual": true,
+  "strokeCount": 96,
+  "moments": 53,
+  "testsPassed": 104,
+  "syntaxCheckPassed": true,
+  "fullWorkerBuildPassed": true,
+  "privacyArtifactChecksPaintings": 133,
+  "browserQA": {
+    "finished": true,
+    "replayOpeningAndBrushSettings": true,
+    "pauseStableMilliseconds": 1500,
+    "pauseAtMark": 8,
+    "continueWorked": true,
+    "returnToFinished": true,
+    "expandedNotes": true,
+    "phoneViewportWidth": 390,
+    "documentWidth": 390,
+    "dialogWidth": 352,
+    "dialogScrollWidth": 350,
+    "actualImage": [
+      900,
+      620
+    ]
+  }
+}
