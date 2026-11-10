@@ -16671,5 +16671,111 @@
       "source": "Actual900x620PNG,26paired boundaries,lower/upperfocus,live notes and exact100stroke57event ended-feed match. No engine change or quality score.",
       "humanRating": null
     }
+  },
+  {
+    "id": "golden-weight-quiet-branch",
+    "title": "Golden weight, quiet branch",
+    "date": "2026-11-10",
+    "session": "examples/golden-weight-quiet-branch.json",
+    "finishedImage": "examples/previews/golden-weight-quiet-branch.png",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Build uneven golden quince mass with long overlapping strokes; retain compact reflection and distinct leaf gaps.",
+    "inspiration": {
+      "title": "RHS: How to grow quinces",
+      "url": "https://www.rhs.org.uk/fruit/quince/grow-your-own",
+      "interpretation": "Original imagined golden quince, leafy twig and small cut wedge on blue linen. Full journal/catalogue search found no quince or prior source use. Artichoke was considered and rejected after archive search found a prior study."
+    },
+    "observations": [
+      {
+        "afterStroke": 16,
+        "text": "Broad crossings closed the large blue window in the fruit."
+      },
+      {
+        "afterStroke": 32,
+        "text": "Sampled curved leaf passes rounded triangular blades; blue space remained around the stem."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Single contact trial at 41 became a lower green rail; broad neighbor softened color but retained raised relief."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Sparse loaded freckles survived whole view where broader thin ochre patches stayed quiet."
+      },
+      {
+        "afterStroke": 80,
+        "text": "Compact loaded reflection at 77 remained visible; warm neighbor integrated it without lengthening it."
+      },
+      {
+        "afterStroke": 88,
+        "text": "Refinement shortened wedge core color only partially. Filled golden mass, two unequal leaves, pale wedge and dim diagonal cloth folds hold together. Angular wedge core, scalloped leaf joins, base seam and regular bristles remain; stopped without padding."
+      }
+    ],
+    "evidence": [
+      "examples/golden-weight-quiet-branch.json",
+      "examples/previews/golden-weight-quiet-branch.png",
+      "artifacts/golden-weight-quiet-branch/004-close.jpg",
+      "artifacts/golden-weight-quiet-branch/004-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/008-close.jpg",
+      "artifacts/golden-weight-quiet-branch/008-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/012-close.jpg",
+      "artifacts/golden-weight-quiet-branch/012-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/016-close.jpg",
+      "artifacts/golden-weight-quiet-branch/016-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/020-close.jpg",
+      "artifacts/golden-weight-quiet-branch/020-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/024-close.jpg",
+      "artifacts/golden-weight-quiet-branch/024-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/028-close.jpg",
+      "artifacts/golden-weight-quiet-branch/028-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/032-close.jpg",
+      "artifacts/golden-weight-quiet-branch/032-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/036-close.jpg",
+      "artifacts/golden-weight-quiet-branch/036-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/040-close.jpg",
+      "artifacts/golden-weight-quiet-branch/040-upper.jpg",
+      "artifacts/golden-weight-quiet-branch/040-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/041-close.jpg",
+      "artifacts/golden-weight-quiet-branch/041-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/044-close.jpg",
+      "artifacts/golden-weight-quiet-branch/044-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/048-close.jpg",
+      "artifacts/golden-weight-quiet-branch/048-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/052-close.jpg",
+      "artifacts/golden-weight-quiet-branch/052-lower.jpg",
+      "artifacts/golden-weight-quiet-branch/052-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/056-close.jpg",
+      "artifacts/golden-weight-quiet-branch/056-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/060-close.jpg",
+      "artifacts/golden-weight-quiet-branch/060-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/064-close.jpg",
+      "artifacts/golden-weight-quiet-branch/064-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/068-close.jpg",
+      "artifacts/golden-weight-quiet-branch/068-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/072-close.jpg",
+      "artifacts/golden-weight-quiet-branch/072-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/076-close.jpg",
+      "artifacts/golden-weight-quiet-branch/076-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/077-close.jpg",
+      "artifacts/golden-weight-quiet-branch/077-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/080-close.jpg",
+      "artifacts/golden-weight-quiet-branch/080-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/084-close.jpg",
+      "artifacts/golden-weight-quiet-branch/084-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/088-close.jpg",
+      "artifacts/golden-weight-quiet-branch/088-whole.jpg",
+      "artifacts/golden-weight-quiet-branch/inspection-log.json",
+      "artifacts/golden-weight-quiet-branch/live-receipt.json"
+    ],
+    "engineRevision": "57a83e9e02e28d732658ac76a69fb377bbd1686f",
+    "model": "GPT-6; precise variant unavailable",
+    "nextExperiment": "Fixed-palette quince calibration: compare early broad overlaps with late narrow contact repairs, judging color and relief separately. Use a smaller loaded shoulder touch and make wedge flesh before a shorter core. Choose fresh subject/source next.",
+    "assessment": {
+      "source": "Actual 900×620 PNG, 24 paired visual inspections,live notes and exact raw 88-stroke, 52-event ended-feed match. Creation metadata added afterward; stroke/event data unchanged. No engine changes or quality score.",
+      "humanRating": null
+    }
   }
 ]

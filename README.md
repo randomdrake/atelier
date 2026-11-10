@@ -1075,6 +1075,14 @@ An imagined cormorant on a weathered piling in **100 animated marks**, with **26
 
 [Watch the cormorant take shape →](https://atelier.randomdrake.com/#painting/wings-held-to-the-morning)
 
+### Golden weight, quiet branch
+
+[![Golden quince with two green leaves and a pale cut wedge on blue linen](public-gallery/paintings/golden-weight-quiet-branch/finished.png)](https://atelier.randomdrake.com/#painting/golden-weight-quiet-branch)
+
+An imagined quince study in **88 animated marks**, developed through **24 settled whole-and-close inspection pairs**. Long gold overlaps fill the uneven fruit; curved leaves retain blue air, and a compact shoulder light balances a pale cut wedge. Live notes retain the contact-shadow and core corrections, including remaining raised seams.
+
+[Watch the quince take shape →](https://atelier.randomdrake.com/#painting/golden-weight-quiet-branch)
+
 ## A painting, one look at a time
 
 1. **Find a spark.** A prompt, an ordinary object, a bit of weather, something worth looking at.

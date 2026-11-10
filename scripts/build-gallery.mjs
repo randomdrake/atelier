@@ -3,7 +3,7 @@ import {join,dirname} from 'node:path';
 import {tmpdir} from 'node:os';
 import {execFileSync} from 'node:child_process';
 import {root} from './add-gallery-painting.mjs';
-import {restoreGalleryArtwork,compactGalleryArtwork,compactGallerySessions} from './gallery-artwork.mjs';
+import {restoreGalleryArtwork,restoreGallerySessions,compactGalleryArtwork,compactGallerySessions} from './gallery-artwork.mjs';
 import {refilterPNG} from './compact-png.mjs';
 import {groupArtwork} from './source-parts.mjs';
 const output=join(root,'dist');await rm(output,{recursive:true,force:true});await mkdir(output,{recursive:true});await cp(join(root,'public-gallery'),output,{recursive:true});await cp(join(root,'LICENSE'),join(output,'LICENSE.txt'));await cp(join(root,'src/pacing.js'),join(output,'pacing.js'));
@@ -11,19 +11,32 @@ await cp(join(root,'src/thought-links.js'),join(output,'thought-links.js'));
 for(const file of ['live-status.js','camera.js','live-camera.js'])await cp(join(root,'src',file),join(output,file));
 const catalog=JSON.parse(await readFile(join(output,'catalog.json'),'utf8'));
 await restoreGalleryArtwork({root,output,catalog});
+await restoreGallerySessions({root,output,catalog});
 await cp(join(root,'practice'),join(output,'practice'),{recursive:true});
-const duplicateArtwork=[];
+const duplicateArtwork=[],duplicateSessions=[];
 for(const entry of catalog){
   try{
     const preview=await readFile(join(root,'examples/previews',entry.id+'.png'));
     if(preview.equals(await readFile(join(output,entry.image))))duplicateArtwork.push('public-gallery'+entry.image);
   }catch(error){if(error.code!=='ENOENT')throw error;}
+  try{
+    if((await readFile(join(root,'examples',entry.id+'.json'))).equals(await readFile(join(output,entry.session))))duplicateSessions.push('public-gallery'+entry.session);
+  }catch(error){if(error.code!=='ENOENT')throw error;}
 }
-execFileSync('zip',['-qr',join(output,'source.zip'),'src','scripts','hosting/app','hosting/build','hosting/lib','hosting/scripts','hosting/package.json','hosting/package-lock.json','hosting/vite.config.ts','hosting/tsconfig.json','hosting/cloudflare-env.d.ts','hosting/next-env.d.ts','skills','practice','public-gallery','examples','tests','docs','README.md','PUBLISHING.md','LICENSE','index.html','.env.example','package.json','server.mjs',...(duplicateArtwork.length?['-x',...duplicateArtwork]:[])],{cwd:root});
+execFileSync('zip',['-q','-9','-r',join(output,'source.zip'),'src','scripts','hosting/app','hosting/build','hosting/lib','hosting/scripts','hosting/package.json','hosting/package-lock.json','hosting/vite.config.ts','hosting/tsconfig.json','hosting/cloudflare-env.d.ts','hosting/next-env.d.ts','skills','practice','public-gallery','examples','tests','docs','README.md','PUBLISHING.md','LICENSE','index.html','.env.example','package.json','server.mjs',...((duplicateArtwork.length||duplicateSessions.length)?['-x',...duplicateArtwork,...duplicateSessions]:[])],{cwd:root});
 // Keep the growing source download below the hosting asset limit without
 // changing exported originals or discarding artwork from the download.
 const archive=join(output,'source.zip'),compactRoot=await mkdtemp(join(tmpdir(),'atelier-source-png-'));
 try{
+  // Whitespace-only normalization of downloadable JSON keeps every field and
+  // numeric value; tracked browser exports retain their original formatting.
+  const jsonPaths=execFileSync('unzip',['-Z1',archive],{encoding:'utf8'}).split('\n').filter(path=>path.endsWith('.json'));
+  for(const path of jsonPaths){
+    const original=await readFile(join(root,path)),compact=Buffer.from(JSON.stringify(JSON.parse(original))+'\n');
+    await mkdir(dirname(join(compactRoot,path)),{recursive:true});
+    await writeFile(join(compactRoot,path),compact.length<original.length?compact:original);
+  }
+  if(jsonPaths.length)execFileSync('zip',['-q','-9',archive,...jsonPaths],{cwd:compactRoot});
   const paths=execFileSync('unzip',['-Z1',archive],{encoding:'utf8'}).split('\n').filter(path=>path.endsWith('.png'));
   const changed=[],files=[];
   for(const path of paths){
@@ -50,6 +63,10 @@ try{
 const artworkSavings=await compactGalleryArtwork({output,catalog});
 console.log(`Lossless deployment artwork compression saved ${artworkSavings} bytes; source originals retained.`);
 const sessionSavings=await compactGallerySessions({output,catalog});
+for(const path of ['catalog.json','practice/studies.json']){
+  const target=join(output,path),original=await readFile(target),compact=Buffer.from(JSON.stringify(JSON.parse(original))+'\n');
+  if(compact.length<original.length)await writeFile(target,compact);
+}
 console.log(`Deployment replay whitespace compaction saved ${sessionSavings} bytes; all data and source exports retained.`);
 await writeFile(join(output,'sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://atelier.randomdrake.com/</loc></url></urlset>`);
 console.log(`Viewing gallery built: ${catalog.length} paintings. Studio editor excluded.`);

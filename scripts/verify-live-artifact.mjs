@@ -39,4 +39,11 @@ const entries=downloads.flatMap(name=>execFileSync('unzip',['-Z1',join(output,'c
 assert.ok(!entries.some(file=>/(^|\/)(\.env(?!\.example)|\.dev\.vars|node_modules|\.git|\.sites-runtime)(\/|$|\.)/.test(file)),'Private or generated files in source download');
 assert.equal(new Set(entries.filter(file=>!file.endsWith('/'))).size,entries.filter(file=>!file.endsWith('/')).length,'Duplicate files across source downloads');
 for(const entry of catalog)assert.ok(entries.includes(`examples/previews/${entry.id}.png`)||entries.includes('public-gallery'+entry.image),'Artwork missing from source downloads: '+entry.id);
+for(const entry of catalog)assert.ok(entries.includes(`examples/${entry.id}.json`)||entries.includes('public-gallery'+entry.session),'Replay missing from source downloads: '+entry.id);
+// Download JSON may have compact whitespace, but it must preserve every field
+// and value from the matching source revision, including practice provenance.
+for(const path of entries.filter(path=>path.endsWith('.json'))){
+  const archived=execFileSync('unzip',['-p',join(output,'client/source.zip'),path],{maxBuffer:16*1024*1024});
+  assert.deepEqual(JSON.parse(archived),JSON.parse(await readFile(join(root,path))),'Changed JSON data in source download: '+path);
+}
 console.log('Live artifact verified: '+catalog.length+' paintings, complete Worker, no publisher credential or private files.');

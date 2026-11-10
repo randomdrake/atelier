@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {mkdtemp,mkdir,writeFile,readFile,rm} from 'node:fs/promises';
 import {tmpdir} from 'node:os';
 import {join} from 'node:path';
-import {restoreGalleryArtwork,compactGallerySessions} from '../scripts/gallery-artwork.mjs';
+import {restoreGalleryArtwork,restoreGallerySessions,compactGallerySessions} from '../scripts/gallery-artwork.mjs';
 import {validateDocument} from '../src/tour.js';
 
 test('served replay compaction preserves complete recorded data and source bytes',async()=>{
@@ -40,5 +40,25 @@ test('compact source downloads restore missing artwork without replacing pinned 
     assert.equal(await readFile(join(output,'paintings/restored/finished.png'),'utf8'),'original export');
     assert.equal(await readFile(join(output,'paintings/pinned/finished.png'),'utf8'),'pinned gallery export');
     await assert.rejects(restoreGalleryArtwork({root,output,catalog:[{id:'missing',image:'/paintings/missing/finished.png'}]}),{code:'ENOENT'});
+  }finally{await rm(root,{recursive:true,force:true});}
+});
+
+test('downloaded sources rebuild omitted replays and retain distinct pinned histories',async()=>{
+  const root=await mkdtemp(join(tmpdir(),'atelier-source-replay-')),output=join(root,'dist');
+  const original=await readFile(new URL('../examples/leaves-folded-into-violet.json',import.meta.url));
+  const pinned=JSON.parse(original);pinned.title='Distinct pinned history';
+  try{
+    await mkdir(join(root,'examples'),{recursive:true});
+    await mkdir(join(output,'paintings/pinned'),{recursive:true});
+    await writeFile(join(root,'examples/restored.json'),original);
+    await writeFile(join(root,'examples/pinned.json'),original);
+    await writeFile(join(output,'paintings/pinned/session.json'),JSON.stringify(pinned));
+    const catalog=[{id:'restored',session:'/paintings/restored/session.json'},{id:'pinned',session:'/paintings/pinned/session.json'}];
+    await restoreGallerySessions({root,output,catalog});
+    await compactGallerySessions({output,catalog});
+    assert.deepEqual(JSON.parse(await readFile(join(output,catalog[0].session))),JSON.parse(original));
+    assert.deepEqual(JSON.parse(await readFile(join(output,catalog[1].session))),pinned);
+    assert.deepEqual(await readFile(join(root,'examples/restored.json')),original);
+    await assert.rejects(restoreGallerySessions({root,output,catalog:[{id:'missing',session:'/paintings/missing/session.json'}]}),{code:'ENOENT'});
   }finally{await rm(root,{recursive:true,force:true});}
 });

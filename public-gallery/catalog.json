@@ -1,5 +1,23 @@
 [
   {
+    "id": "golden-weight-quiet-branch",
+    "title": "Golden weight, quiet branch",
+    "description": "An imagined golden quince, two unequal green leaves and a small pale cut wedge on blue linen.",
+    "process": "88 animated watercolor/oil strokes in 24 batches of 1–4, chosen after 24 settled whole-and-close screenshot pairs. Upper review at 40 and lower review at 52 camera reviews, live easel notes, single-stroke trials at 41 and 77, and deliberate 85–88 refinement. Broad overlaps filled the fruit; curved leaves retained blue gaps. A compact reflection and pale wedge hold focus. Contact and core neighbors softened color but retained raised relief. Angular wedge core, scalloped leaf joins and regular bristles remain. The ended public feed exactly matched the raw 88-stroke, 52-moment export; creation metadata was added afterward. Stopped without padding because further covers chiefly built relief.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 88,
+    "moments": 52,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/golden-weight-quiet-branch/session.json",
+    "image": "/paintings/golden-weight-quiet-branch/finished.png",
+    "addedAt": "2026-11-10T20:11:38.929Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-10"
+  },
+  {
     "id": "a-small-keeper-of-fire",
     "title": "A small keeper of fire",
     "description": "An imagined terracotta oil lamp with a small amber flame and loose silvery olive sprig on blue cloth.",

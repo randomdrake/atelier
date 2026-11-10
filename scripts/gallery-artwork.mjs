@@ -35,3 +35,14 @@ export async function restoreGalleryArtwork({root,output,catalog}){
     await copyFile(join(root,'examples/previews',entry.id+'.png'),target);
   }
 }
+
+// Byte-identical replay copies are stored once in source downloads. Distinct
+// pinned replays remain in the archive and always take precedence on rebuild.
+export async function restoreGallerySessions({root,output,catalog}){
+  for(const entry of catalog){
+    const target=join(output,entry.session);
+    try{await access(target);continue;}catch(error){if(error.code!=='ENOENT')throw error;}
+    await mkdir(dirname(target),{recursive:true});
+    await copyFile(join(root,'examples',entry.id+'.json'),target);
+  }
+}
