@@ -36,7 +36,7 @@ export async function restoreGalleryArtwork({root,output,catalog}){
   }
 }
 
-// Byte-identical replay copies are stored once in source downloads. Distinct
+// Replays with identical parsed data are stored once in source downloads. Distinct
 // pinned replays remain in the archive and always take precedence on rebuild.
 export async function restoreGallerySessions({root,output,catalog}){
   for(const entry of catalog){

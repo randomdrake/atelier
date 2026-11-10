@@ -2,6 +2,7 @@ import {mkdir,mkdtemp,cp,readFile,writeFile,rm} from 'node:fs/promises';
 import {join,dirname} from 'node:path';
 import {tmpdir} from 'node:os';
 import {execFileSync} from 'node:child_process';
+import {isDeepStrictEqual} from 'node:util';
 import {root} from './add-gallery-painting.mjs';
 import {restoreGalleryArtwork,restoreGallerySessions,compactGalleryArtwork,compactGallerySessions} from './gallery-artwork.mjs';
 import {refilterPNG} from './compact-png.mjs';
@@ -20,7 +21,7 @@ for(const entry of catalog){
     if(preview.equals(await readFile(join(output,entry.image))))duplicateArtwork.push('public-gallery'+entry.image);
   }catch(error){if(error.code!=='ENOENT')throw error;}
   try{
-    if((await readFile(join(root,'examples',entry.id+'.json'))).equals(await readFile(join(output,entry.session))))duplicateSessions.push('public-gallery'+entry.session);
+    if(isDeepStrictEqual(JSON.parse(await readFile(join(root,'examples',entry.id+'.json'))),JSON.parse(await readFile(join(output,entry.session)))))duplicateSessions.push('public-gallery'+entry.session);
   }catch(error){if(error.code!=='ENOENT')throw error;}
 }
 execFileSync('zip',['-q','-9','-r',join(output,'source.zip'),'src','scripts','hosting/app','hosting/build','hosting/lib','hosting/scripts','hosting/package.json','hosting/package-lock.json','hosting/vite.config.ts','hosting/tsconfig.json','hosting/cloudflare-env.d.ts','hosting/next-env.d.ts','skills','practice','public-gallery','examples','tests','docs','README.md','PUBLISHING.md','LICENSE','index.html','.env.example','package.json','server.mjs',...((duplicateArtwork.length||duplicateSessions.length)?['-x',...duplicateArtwork,...duplicateSessions]:[])],{cwd:root});

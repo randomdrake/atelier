@@ -34,12 +34,20 @@ async function inspect(directory){
 }
 await inspect(output);
 assert.ok(expandedBytes<=256*1024*1024,'Build exceeds the 256 MiB expanded hosting package limit');
+// Sites counts expanded archive framing too. Reserve room for file headers,
+// directory entries and packaging metadata instead of relying on payload alone.
+assert.ok(expandedBytes<=256*1024*1024-512*1024,'Build needs 512 KiB archive framing headroom');
 const downloads=JSON.parse(await readFile(join(output,'client/source-downloads.json'),'utf8'));
 const entries=downloads.flatMap(name=>execFileSync('unzip',['-Z1',join(output,'client',name)],{encoding:'utf8'}).split('\n').filter(Boolean));
 assert.ok(!entries.some(file=>/(^|\/)(\.env(?!\.example)|\.dev\.vars|node_modules|\.git|\.sites-runtime)(\/|$|\.)/.test(file)),'Private or generated files in source download');
 assert.equal(new Set(entries.filter(file=>!file.endsWith('/'))).size,entries.filter(file=>!file.endsWith('/')).length,'Duplicate files across source downloads');
 for(const entry of catalog)assert.ok(entries.includes(`examples/previews/${entry.id}.png`)||entries.includes('public-gallery'+entry.image),'Artwork missing from source downloads: '+entry.id);
 for(const entry of catalog)assert.ok(entries.includes(`examples/${entry.id}.json`)||entries.includes('public-gallery'+entry.session),'Replay missing from source downloads: '+entry.id);
+for(const entry of catalog){
+  if(entries.includes('public-gallery'+entry.session))continue;
+  const restored=execFileSync('unzip',['-p',join(output,'client/source.zip'),`examples/${entry.id}.json`],{maxBuffer:16*1024*1024});
+  assert.deepEqual(JSON.parse(restored),JSON.parse(await readFile(join(root,'public-gallery',entry.session))),'Omitted replay cannot be rebuilt exactly: '+entry.id);
+}
 // Download JSON may have compact whitespace, but it must preserve every field
 // and value from the matching source revision, including practice provenance.
 for(const path of entries.filter(path=>path.endsWith('.json'))){
