@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Leaves folded into violet
+
+[![Imagined red cabbage and loose leaf on warm linen](public-gallery/paintings/leaves-folded-into-violet/finished.png)](https://atelier.randomdrake.com/#painting/leaves-folded-into-violet)
+
+An original study in **88 animated marks**, with **23 settled whole-and-close inspection boundaries**, upper/lower camera reviews and deliberate final refinement. Broad crossings filled the head; sampled curves rounded the crown, sparse pale ribs leave violet spaces and one compact shoulder light holds focus. An oil contact became a detached crescent; broad repairs left a foot-like bulge and raised linen ridges. Rounded wrapper tips and regular bristles remain. Inspired by the [RHS cabbage guide](https://www.rhs.org.uk/vegetables/cabbages/grow-your-own). The ended broadcast acknowledged all 88 marks and 51 moments; further covers chiefly built relief, so the count was not padded.
+
+[Watch the cabbage study unfold →](https://atelier.randomdrake.com/#painting/leaves-folded-into-violet)
+
 ### Violet shoulders, morning linen
 
 [![Two imagined purple-topped turnips on blue linen](public-gallery/paintings/violet-shoulders-morning-linen/finished.png)](https://atelier.randomdrake.com/#painting/violet-shoulders-morning-linen)

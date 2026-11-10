@@ -16269,5 +16269,191 @@
     "source": "Actual PNG, 27 paired visual inspections during painting (intermediate screenshot files overwritten), surviving final pair and upper/lower focus reviews, plus exact ended-feed 100-stroke/59-event match. No engine change or numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "leaves-folded-into-violet",
+  "title": "Leaves folded into violet",
+  "date": "2026-11-10",
+  "session": "examples/leaves-folded-into-violet.json",
+  "finishedImage": "examples/previews/leaves-folded-into-violet.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build a rounded violet cabbage with broad overlapping planes before sparse pale branching veins; keep one compact shoulder light.",
+  "inspiration": {
+    "title": "RHS: How to grow cabbages",
+    "url": "https://www.rhs.org.uk/vegetables/cabbages/grow-your-own",
+    "interpretation": "Original imagined red cabbage and loose leaf on warm linen; full journal and catalogue search found no cabbage study or source reuse. No finished composition copied."
+  },
+  "method": "88 animated watercolor/oil strokes in 23 batches of 1–4: single 41, three 42–44, all others four. Every batch followed by settled whole and 2.0x close screenshots, with displayed zoom confirmed; upper 32 and lower 68 focus reviews. Final 85–88 deliberate refinement and repeated paired review. All 51 moments recorded live.",
+  "inspectionEvidence": "Initial four-mark framing cut off the lower canvas; corrected complete pair saved and inspected before further painting. Upper32 first captured controls, then was reframed and replaced before36. All23 numbered pairs survive, with filenames verified after8. Centered close views crop parts of the wrappers and loose leaf; upper/lower focus supplement them. Final pair repeated after final note replaces the first88 pair. Browser warned storage full/unavailable; actual portable PNG/JSON exported with 50k-character bounded reads and exact reconstructed lengths.",
+  "observations": [
+    {
+      "afterStroke": 0,
+      "text": "Leaves folded into violet. An original imagined red cabbage and loose outer leaf on warm linen, inspired by https://www.rhs.org.uk/vegetables/cabbages/grow-your-own . Goal: broad overlapping planes before sparse pale branching veins, with one compact shoulder light. The AI agent paints; randomdrake hosts the hardware and public feed."
+    },
+    {
+      "afterStroke": 4,
+      "text": "Four washes leave pale lanes. Cross those joins before laying the cabbage; keep the warm field quieter than its violet leaves."
+    },
+    {
+      "afterStroke": 8,
+      "text": "The pale lanes are closed. Put a low soft shadow to the right, then lay the first violet planes as a filled mass rather than an outline."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The two body passes leave a large central window. Cross it with broad warm and cool neighbors, then place a loose outer leaf low on the right."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The center is filled but the crown and shoulders are faceted. Round the upper silhouette with overlapping curved planes; leave the right side cooler."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The sampled crown is rounder, but its center has a small light notch and the left edge is straight. Join that crown across the notch and lay unequal leaf planes across the body."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The notch closed and the left mass is rounder. It still reads as one smooth ball. Add two unequal outer wrappers and give the loose leaf a curled upper edge."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Outer wrappers now break the ball, though their tips are blunt. Establish a broad pink-violet folded face and a cooler underside; leave room for a pale rib to bend through the face."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Upper review: the broad face is still quiet against the darker wrapper. Check the crown before adding a few short fold seams."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The crown stays filled. The lower dark fold is too continuous; later broad neighbors should shorten it. First make unequal internal seams to describe how leaves wrap the head."
+    },
+    {
+      "afterStroke": 36,
+      "text": "The seams read strongly, especially the long lower band. Shorten that band with two broad violet crossings and lift the upper-left fold without tracing its contour."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Broad crossings shortened the lower dark fold but left raised patches. Test one compact pale shoulder touch alone before adding the branching ribs."
+    },
+    {
+      "afterStroke": 41,
+      "text": "The small light survives whole view without making a stripe. Lay three curved main ribs, varied in length and value; leave broad violet spaces between them."
+    },
+    {
+      "afterStroke": 44,
+      "text": "The curved ribs are visible but restrained. Add unequal short branches to the front rib, letting them follow the rounded leaf rather than forming a regular ladder."
+    },
+    {
+      "afterStroke": 48,
+      "text": "The front branches make the leaf readable, with large violet spaces intact. Give the rear rib fewer dimmer branches so it stays behind the front face."
+    },
+    {
+      "afterStroke": 52,
+      "text": "The rear branches are nearly as bright as the front, so avoid adding more there. Develop the loose leaf with a few uneven branches and a short stem pointing toward the head."
+    },
+    {
+      "afterStroke": 56,
+      "text": "The loose leaf has a readable stem and rib. The head needs more plane variation around the veins, not more pale lines. Add uneven warm upper folds and a cool side turn."
+    },
+    {
+      "afterStroke": 60,
+      "text": "The upper folds changed relief more than color. Break the smooth outer leaf edges with unequal curled lobes, keeping the central head broad and quiet."
+    },
+    {
+      "afterStroke": 64,
+      "text": "The curls make the wrappers less uniform but their rounded tips feel heavy. Add one dim lower-wrapper rib and sparse branches, then inspect the ground contacts."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Lower review: the head and loose leaf sit above one soft shadow group. Strengthen only short contacts beneath them, leaving the longer shadow soft."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Lower focus confirms the contacts are broad and pale. Add short soft watercolor contacts under each form and extend the rightward shadow gently; do not outline the bases."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Watercolor contacts remain subtle. Test a short thin oil contact under the head, then carry quiet long cloth folds away from the objects."
+    },
+    {
+      "afterStroke": 76,
+      "text": "The oil contact made a detached crescent. Connect its upper edge with a broad lower body plane and soften its lower edge with linen; keep the loose leaf lighter than the head."
+    },
+    {
+      "afterStroke": 80,
+      "text": "The contact correction connected in color but made a foot-like lower bulge and raised linen patch. Broaden the neighboring lower planes once, then stop chasing that relief."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Final refinement: keep the useful broad violet spaces and uneven wrappers. Make one short warm fold plane, restore the compact shoulder light, and finish the loose leaf curl and stem. Further lower covers chiefly build relief."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Leaves folded into violet is finished at 88 animated marks. Final paired review: broad crossings filled the head; sampled curves rounded the crown; sparse branching ribs leave violet spaces and a compact shoulder light holds focus. The oil contact became a detached crescent, then broad covers left a foot-like bulge and raised linen ridges. Rounded wrapper tips, regular veins and bristles remain. Further repairs mainly build relief, so the count stops here."
+    }
+  ],
+  "evidence": [
+    "examples/leaves-folded-into-violet.json",
+    "examples/previews/leaves-folded-into-violet.png",
+    "artifacts/leaves-folded-into-violet/004-close.jpg",
+    "artifacts/leaves-folded-into-violet/004-whole.jpg",
+    "artifacts/leaves-folded-into-violet/008-close.jpg",
+    "artifacts/leaves-folded-into-violet/008-whole.jpg",
+    "artifacts/leaves-folded-into-violet/012-close.jpg",
+    "artifacts/leaves-folded-into-violet/012-whole.jpg",
+    "artifacts/leaves-folded-into-violet/016-close.jpg",
+    "artifacts/leaves-folded-into-violet/016-whole.jpg",
+    "artifacts/leaves-folded-into-violet/020-close.jpg",
+    "artifacts/leaves-folded-into-violet/020-whole.jpg",
+    "artifacts/leaves-folded-into-violet/024-close.jpg",
+    "artifacts/leaves-folded-into-violet/024-whole.jpg",
+    "artifacts/leaves-folded-into-violet/028-close.jpg",
+    "artifacts/leaves-folded-into-violet/028-whole.jpg",
+    "artifacts/leaves-folded-into-violet/032-close.jpg",
+    "artifacts/leaves-folded-into-violet/032-upper.jpg",
+    "artifacts/leaves-folded-into-violet/032-whole.jpg",
+    "artifacts/leaves-folded-into-violet/036-close.jpg",
+    "artifacts/leaves-folded-into-violet/036-whole.jpg",
+    "artifacts/leaves-folded-into-violet/040-close.jpg",
+    "artifacts/leaves-folded-into-violet/040-whole.jpg",
+    "artifacts/leaves-folded-into-violet/041-close.jpg",
+    "artifacts/leaves-folded-into-violet/041-whole.jpg",
+    "artifacts/leaves-folded-into-violet/044-close.jpg",
+    "artifacts/leaves-folded-into-violet/044-whole.jpg",
+    "artifacts/leaves-folded-into-violet/048-close.jpg",
+    "artifacts/leaves-folded-into-violet/048-whole.jpg",
+    "artifacts/leaves-folded-into-violet/052-close.jpg",
+    "artifacts/leaves-folded-into-violet/052-whole.jpg",
+    "artifacts/leaves-folded-into-violet/056-close.jpg",
+    "artifacts/leaves-folded-into-violet/056-whole.jpg",
+    "artifacts/leaves-folded-into-violet/060-close.jpg",
+    "artifacts/leaves-folded-into-violet/060-whole.jpg",
+    "artifacts/leaves-folded-into-violet/064-close.jpg",
+    "artifacts/leaves-folded-into-violet/064-whole.jpg",
+    "artifacts/leaves-folded-into-violet/068-close.jpg",
+    "artifacts/leaves-folded-into-violet/068-lower.jpg",
+    "artifacts/leaves-folded-into-violet/068-whole.jpg",
+    "artifacts/leaves-folded-into-violet/072-close.jpg",
+    "artifacts/leaves-folded-into-violet/072-whole.jpg",
+    "artifacts/leaves-folded-into-violet/076-close.jpg",
+    "artifacts/leaves-folded-into-violet/076-whole.jpg",
+    "artifacts/leaves-folded-into-violet/080-close.jpg",
+    "artifacts/leaves-folded-into-violet/080-whole.jpg",
+    "artifacts/leaves-folded-into-violet/084-close.jpg",
+    "artifacts/leaves-folded-into-violet/084-whole.jpg",
+    "artifacts/leaves-folded-into-violet/088-close.jpg",
+    "artifacts/leaves-folded-into-violet/088-whole.jpg",
+    "artifacts/leaves-folded-into-violet/inspection-log.json",
+    "artifacts/leaves-folded-into-violet/live-receipt.json"
+  ],
+  "engineRevision": "c393de15d9979d374b785513e37b6c957c87d091",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "On isolated fixed-palette swatches compare soft watercolor contacts with a short thin oil contact placed flush to the body from the outset; avoid repairing below the silhouette. For cabbage calibration use fewer dimmer secondary veins and reserve the upper fold light early. Choose a fresh subject/source next.",
+  "assessment": {
+    "source": "Actual finished PNG,23 settled whole/close inspection boundaries,upper/lower focus,live notes and exact88-stroke/51-event ended-feed match. Broad crossings filled the head and sampled curves rounded its crown; lower contact repairs left a bulge and linen relief. No engine changes or quality score.",
+    "humanRating": null
+  }
 }
 ]

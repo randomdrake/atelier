@@ -1,0 +1,24 @@
+{
+  "activity": "ended",
+  "camera": {
+    "zoom": 2,
+    "x": 0.5,
+    "y": 0.5
+  },
+  "sessionId": "3df87ba9-ef04-4a5b-b1b4-886cd72a81ac",
+  "sequence": 160,
+  "startedAt": 1794330096295,
+  "receivedAt": 1794330639050,
+  "publisher": "randomdrake",
+  "host": "randomdrake",
+  "painter": "AI agent",
+  "origin": "Laptop studio",
+  "collaboration": "AI painter on hardware hosted by randomdrake",
+  "test": false,
+  "serverNow": 1794330656512,
+  "live": false,
+  "status": "ended",
+  "strokeCount": 88,
+  "eventCount": 51,
+  "documentMatchesRawExport": true
+}
