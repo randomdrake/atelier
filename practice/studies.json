@@ -16777,5 +16777,123 @@
       "source": "Actual 900×620 PNG, 24 paired visual inspections,live notes and exact raw 88-stroke, 52-event ended-feed match. Creation metadata added afterward; stroke/event data unchanged. No engine changes or quality score.",
       "humanRating": null
     }
+  },
+{
+  "id": "red-earth-green-crown",
+  "title": "Red earth, green crown",
+  "date": "2026-11-10",
+  "session": "examples/red-earth-green-crown.json",
+  "finishedImage": "examples/previews/red-earth-green-crown.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build rounded burgundy root planes with broad curved strokes, reserve blue gaps between red stems and green leaves, and keep one compact shoulder reflection.",
+  "inspiration": {
+    "title": "RHS: How to grow beetroot",
+    "url": "https://www.rhs.org.uk/vegetables/beetroot/grow-your-own",
+    "interpretation": "Original imagined whole burgundy beetroot, cut half and loose leaf on cool linen; full journal/catalogue search found no beetroot or prior source use. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 16,
+      "text": "Broad overlapping crossings closed the large blue center window."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Broader curved neighbors widened paddle-like leaf blades while leaving blue stem gaps."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Warm cut face and nested incomplete arcs separated the slice from dark skin; rings remained mechanically regular."
+    },
+    {
+      "afterStroke": 77,
+      "text": "A single loaded compact shoulder reflection survived whole view; short sparse skin scars stayed legible."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Late cloth covers reduced the pale contact crescent in color but retained raised grey relief. Further contact covers stopped."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final refinement partly shortened competing right light; root hairs, red midribs and unequal folds survive whole view. Faceted shoulders, stiff stems, paddle tips, regular bristles and raised contact repairs remain. Further mass covers would add relief faster than form."
+    }
+  ],
+  "evidence": [
+    "examples/red-earth-green-crown.json",
+    "examples/previews/red-earth-green-crown.png",
+    "artifacts/red-earth-green-crown/004-close.jpg",
+    "artifacts/red-earth-green-crown/004-whole.jpg",
+    "artifacts/red-earth-green-crown/008-close.jpg",
+    "artifacts/red-earth-green-crown/008-whole.jpg",
+    "artifacts/red-earth-green-crown/012-close.jpg",
+    "artifacts/red-earth-green-crown/012-whole.jpg",
+    "artifacts/red-earth-green-crown/016-close.jpg",
+    "artifacts/red-earth-green-crown/016-whole.jpg",
+    "artifacts/red-earth-green-crown/020-close.jpg",
+    "artifacts/red-earth-green-crown/020-whole.jpg",
+    "artifacts/red-earth-green-crown/024-close.jpg",
+    "artifacts/red-earth-green-crown/024-whole.jpg",
+    "artifacts/red-earth-green-crown/028-close.jpg",
+    "artifacts/red-earth-green-crown/028-whole.jpg",
+    "artifacts/red-earth-green-crown/032-close.jpg",
+    "artifacts/red-earth-green-crown/032-whole.jpg",
+    "artifacts/red-earth-green-crown/036-close.jpg",
+    "artifacts/red-earth-green-crown/036-whole.jpg",
+    "artifacts/red-earth-green-crown/040-close.jpg",
+    "artifacts/red-earth-green-crown/040-whole.jpg",
+    "artifacts/red-earth-green-crown/041-close.jpg",
+    "artifacts/red-earth-green-crown/041-whole.jpg",
+    "artifacts/red-earth-green-crown/044-close.jpg",
+    "artifacts/red-earth-green-crown/044-whole.jpg",
+    "artifacts/red-earth-green-crown/048-close.jpg",
+    "artifacts/red-earth-green-crown/048-upper.jpg",
+    "artifacts/red-earth-green-crown/048-whole.jpg",
+    "artifacts/red-earth-green-crown/052-close.jpg",
+    "artifacts/red-earth-green-crown/052-whole.jpg",
+    "artifacts/red-earth-green-crown/056-close.jpg",
+    "artifacts/red-earth-green-crown/056-whole.jpg",
+    "artifacts/red-earth-green-crown/060-close.jpg",
+    "artifacts/red-earth-green-crown/060-whole.jpg",
+    "artifacts/red-earth-green-crown/064-close.jpg",
+    "artifacts/red-earth-green-crown/064-whole.jpg",
+    "artifacts/red-earth-green-crown/068-close.jpg",
+    "artifacts/red-earth-green-crown/068-whole.jpg",
+    "artifacts/red-earth-green-crown/072-close.jpg",
+    "artifacts/red-earth-green-crown/072-whole.jpg",
+    "artifacts/red-earth-green-crown/076-close.jpg",
+    "artifacts/red-earth-green-crown/076-whole.jpg",
+    "artifacts/red-earth-green-crown/077-close.jpg",
+    "artifacts/red-earth-green-crown/077-whole.jpg",
+    "artifacts/red-earth-green-crown/080-close.jpg",
+    "artifacts/red-earth-green-crown/080-whole.jpg",
+    "artifacts/red-earth-green-crown/084-close.jpg",
+    "artifacts/red-earth-green-crown/084-lower.jpg",
+    "artifacts/red-earth-green-crown/084-whole.jpg",
+    "artifacts/red-earth-green-crown/088-close.jpg",
+    "artifacts/red-earth-green-crown/088-whole.jpg",
+    "artifacts/red-earth-green-crown/092-close.jpg",
+    "artifacts/red-earth-green-crown/092-whole.jpg",
+    "artifacts/red-earth-green-crown/096-close.jpg",
+    "artifacts/red-earth-green-crown/096-whole.jpg",
+    "artifacts/red-earth-green-crown/100-close.jpg",
+    "artifacts/red-earth-green-crown/100-whole.jpg",
+    "artifacts/red-earth-green-crown/104-close.jpg",
+    "artifacts/red-earth-green-crown/104-whole.jpg",
+    "artifacts/red-earth-green-crown/108-close.jpg",
+    "artifacts/red-earth-green-crown/108-whole.jpg",
+    "artifacts/red-earth-green-crown/112-close.jpg",
+    "artifacts/red-earth-green-crown/112-whole.jpg",
+    "artifacts/red-earth-green-crown/inspection-log.json",
+    "artifacts/red-earth-green-crown/live-receipt.json"
+  ],
+  "engineRevision": "65945850ec2e7596432f19abf188f7998a48bd5c",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette beet calibration: reserve early broad contact wash before opaque root, compare with late narrow oil contact and broad covers. Judge color and relief separately; make incomplete slice rings from outset and keep reflection compact. Choose fresh subject/source next.",
+  "assessment": {
+    "source": "Actual 900×620 PNG, 30 paired screenshot boundaries, upper48/lower84 camera reviews, live notes and exact raw112-stroke65-event ended-feed match. No engine changes or numerical quality score.",
+    "humanRating": null
   }
+}
 ]

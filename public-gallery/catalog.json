@@ -1,5 +1,23 @@
 [
   {
+    "id": "red-earth-green-crown",
+    "title": "Red earth, green crown",
+    "description": "An imagined burgundy beetroot, cut half with exposed rings, and loose green leaf on cool linen.",
+    "process": "112 animated watercolor and oil marks in 30 batches of 1–4, each followed by settled whole-and-close screenshot inspection. All easel notes recorded live; upper and lower camera reviews, single-mark contact and reflection trials, deliberate final refinement. Ended broadcast acknowledged every mark and 65 moments. Broad crossings filled the root; compact loaded reflection and reserved stem gaps survived whole view. Faceted shoulders, stiff petioles, regular bristles and raised contact repairs remain.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 112,
+    "moments": 65,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/red-earth-green-crown/session.json",
+    "image": "/paintings/red-earth-green-crown/finished.png",
+    "addedAt": "2026-11-10T21:16:11.540Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-10"
+  },
+  {
     "id": "golden-weight-quiet-branch",
     "title": "Golden weight, quiet branch",
     "description": "An imagined golden quince, two unequal green leaves and a small pale cut wedge on blue linen.",
