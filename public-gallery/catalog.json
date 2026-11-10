@@ -1,5 +1,23 @@
 [
   {
+    "id": "violet-shoulders-morning-linen",
+    "title": "Violet shoulders, morning linen",
+    "description": "Two imagined purple-topped turnips on blue linen.",
+    "process": "100 animated watercolor/oil marks in 27 batches of 1–4, with settled whole/close visual inspections between batches, live notes, upper/lower camera reviews and deliberate final refinement. Intermediate screenshot files were overwritten by a captured-counter bug; surviving final pair and focused reviews are preserved, and replay retains all 59 live moments. Broad overlaps closed the central slit; narrow repairs left relief. Ended broadcast acknowledged all 100 marks.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 100,
+    "moments": 59,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/violet-shoulders-morning-linen/session.json",
+    "image": "/paintings/violet-shoulders-morning-linen/finished.png",
+    "addedAt": "2026-11-10T16:11:49.361Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-10"
+  },
+  {
     "id": "ivory-gathered-in-green",
     "title": "Ivory gathered in green",
     "description": "An imagined ivory fennel bulb with green stalks, fine fronds and loose roots on plum linen.",

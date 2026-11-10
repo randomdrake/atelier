@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Violet shoulders, morning linen
+
+[![Two imagined purple-topped turnips on blue linen](public-gallery/paintings/violet-shoulders-morning-linen/finished.png)](https://atelier.randomdrake.com/#painting/violet-shoulders-morning-linen)
+
+An original study in **100 animated marks**, with **27 settled whole-and-close inspection boundaries**, upper/lower camera reviews and deliberate final refinement. Broad overlapping planes closed the large root’s slit; reserved blue gaps separate the greens, sampled curves soften the tails and one compact shoulder reflection holds focus. Narrow contour repairs made inset rings; broad neighbors reduced their color but left relief. Angular stems, raised cap joins and regular bristles remain. Inspired by the [RHS turnip guide](https://www.rhs.org.uk/vegetables/turnips/grow-your-own). Ended broadcast acknowledged all 100 marks and 59 moments; further covers added relief faster than form.
+
+[Watch the turnip study unfold →](https://atelier.randomdrake.com/#painting/violet-shoulders-morning-linen)
+
 ### A shelter for the fingertip
 
 [![Imagined silver thimble and loose burgundy thread on rose cloth](public-gallery/paintings/a-shelter-for-the-fingertip/finished.png)](https://atelier.randomdrake.com/#painting/a-shelter-for-the-fingertip)
