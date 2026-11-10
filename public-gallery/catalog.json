@@ -1,5 +1,23 @@
 [
   {
+    "id": "wings-held-to-the-morning",
+    "title": "Wings held to the morning",
+    "description": "An imagined cormorant dries its dark wings on a weathered piling above pale green water and low reeds.",
+    "process": "100 animated watercolor/oil marks in 1–4-stroke batches, with 26 settled whole-and-close inspections, live easel notes and upper/lower camera reviews. Broad crossings joined feather roots; tip repairs became heavy. Final refinement and paired review retained useful irregularities. Initial framing and upper-focus capture were corrected; all 26 final pairs survive. Broadcast ended with all 100 marks acknowledged.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 100,
+    "moments": 58,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/wings-held-to-the-morning/session.json",
+    "image": "/paintings/wings-held-to-the-morning/finished.png",
+    "addedAt": "2026-11-10T18:12:58.194Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-10"
+  },
+  {
     "id": "leaves-folded-into-violet",
     "title": "Leaves folded into violet",
     "description": "An imagined red cabbage and loose outer leaf on warm linen.",

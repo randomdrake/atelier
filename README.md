@@ -1059,6 +1059,14 @@ An original imagined Florence fennel study in **112 animated marks**, developed 
 
 [Watch the fennel take shape →](https://atelier.randomdrake.com/#painting/ivory-gathered-in-green)
 
+### Wings held to the morning
+
+[![Cormorant drying its wings above quiet water](public-gallery/paintings/wings-held-to-the-morning/finished.png)](https://atelier.randomdrake.com/#painting/wings-held-to-the-morning)
+
+An imagined cormorant on a weathered piling in **100 animated marks**, with **26 whole-and-close inspection boundaries**. Broad joined wing roots preserve open sky below; a compact ochre throat and tiny eye hold focus. Live notes retain the heavy feather-tip repairs and remaining angularity.
+
+[Watch the cormorant take shape →](https://atelier.randomdrake.com/#painting/wings-held-to-the-morning)
+
 ## A painting, one look at a time
 
 1. **Find a spark.** A prompt, an ordinary object, a bit of weather, something worth looking at.

@@ -16455,5 +16455,115 @@
     "source": "Actual finished PNG,23 settled whole/close inspection boundaries,upper/lower focus,live notes and exact88-stroke/51-event ended-feed match. Broad crossings filled the head and sampled curves rounded its crown; lower contact repairs left a bulge and linen relief. No engine changes or quality score.",
     "humanRating": null
   }
+},
+{
+  "id": "wings-held-to-the-morning",
+  "title": "Wings held to the morning",
+  "date": "2026-11-10",
+  "session": "examples/wings-held-to-the-morning.json",
+  "finishedImage": "examples/previews/wings-held-to-the-morning.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Long dark wing planes with reserved sky underneath and one compact warm throat accent.",
+  "inspiration": {
+    "title": "NPS Double-Crested Cormorant",
+    "url": "https://www.nps.gov/places/000/double-crested-cormorant.htm",
+    "interpretation": "Original imagined spread-wing bird on a weathered piling above pale water and low reeds; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Long overlapping washes closed pale horizontal lanes."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Broad crossings joined isolated feather roots while preserving open sky below both wings."
+    },
+    {
+      "afterStroke": 41,
+      "text": "A single small turquoise eye survived whole view."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Sampled feather repairs shortened sharp points but made heavy rounded tips."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Broad dark neighbors shortened competing upper-wing light bars, leaving raised seams."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Compact eye and ochre throat hold focus; feet meet the piling top. Kinked neck, mixed pointed/rounded feathers, stiff reeds, water bars and regular bristles remain. Further covers chiefly enlarge forms; stopped at100 without padding."
+    }
+  ],
+  "evidence": [
+    "examples/wings-held-to-the-morning.json",
+    "examples/previews/wings-held-to-the-morning.png",
+    "artifacts/wings-held-to-the-morning/004-close.jpg",
+    "artifacts/wings-held-to-the-morning/004-whole.jpg",
+    "artifacts/wings-held-to-the-morning/008-close.jpg",
+    "artifacts/wings-held-to-the-morning/008-whole.jpg",
+    "artifacts/wings-held-to-the-morning/012-close.jpg",
+    "artifacts/wings-held-to-the-morning/012-whole.jpg",
+    "artifacts/wings-held-to-the-morning/016-close.jpg",
+    "artifacts/wings-held-to-the-morning/016-whole.jpg",
+    "artifacts/wings-held-to-the-morning/020-close.jpg",
+    "artifacts/wings-held-to-the-morning/020-whole.jpg",
+    "artifacts/wings-held-to-the-morning/024-close.jpg",
+    "artifacts/wings-held-to-the-morning/024-whole.jpg",
+    "artifacts/wings-held-to-the-morning/028-close.jpg",
+    "artifacts/wings-held-to-the-morning/028-whole.jpg",
+    "artifacts/wings-held-to-the-morning/032-close.jpg",
+    "artifacts/wings-held-to-the-morning/032-whole.jpg",
+    "artifacts/wings-held-to-the-morning/036-close.jpg",
+    "artifacts/wings-held-to-the-morning/036-whole.jpg",
+    "artifacts/wings-held-to-the-morning/040-close.jpg",
+    "artifacts/wings-held-to-the-morning/040-whole.jpg",
+    "artifacts/wings-held-to-the-morning/041-close.jpg",
+    "artifacts/wings-held-to-the-morning/041-whole.jpg",
+    "artifacts/wings-held-to-the-morning/044-close.jpg",
+    "artifacts/wings-held-to-the-morning/044-whole.jpg",
+    "artifacts/wings-held-to-the-morning/048-close.jpg",
+    "artifacts/wings-held-to-the-morning/048-whole.jpg",
+    "artifacts/wings-held-to-the-morning/052-close.jpg",
+    "artifacts/wings-held-to-the-morning/052-whole.jpg",
+    "artifacts/wings-held-to-the-morning/056-close.jpg",
+    "artifacts/wings-held-to-the-morning/056-whole.jpg",
+    "artifacts/wings-held-to-the-morning/060-close.jpg",
+    "artifacts/wings-held-to-the-morning/060-whole.jpg",
+    "artifacts/wings-held-to-the-morning/064-close.jpg",
+    "artifacts/wings-held-to-the-morning/064-whole.jpg",
+    "artifacts/wings-held-to-the-morning/068-close.jpg",
+    "artifacts/wings-held-to-the-morning/068-whole.jpg",
+    "artifacts/wings-held-to-the-morning/072-close.jpg",
+    "artifacts/wings-held-to-the-morning/072-whole.jpg",
+    "artifacts/wings-held-to-the-morning/076-close.jpg",
+    "artifacts/wings-held-to-the-morning/076-upper.jpg",
+    "artifacts/wings-held-to-the-morning/076-whole.jpg",
+    "artifacts/wings-held-to-the-morning/080-close.jpg",
+    "artifacts/wings-held-to-the-morning/080-whole.jpg",
+    "artifacts/wings-held-to-the-morning/084-close.jpg",
+    "artifacts/wings-held-to-the-morning/084-whole.jpg",
+    "artifacts/wings-held-to-the-morning/088-close.jpg",
+    "artifacts/wings-held-to-the-morning/088-whole.jpg",
+    "artifacts/wings-held-to-the-morning/092-close.jpg",
+    "artifacts/wings-held-to-the-morning/092-lower.jpg",
+    "artifacts/wings-held-to-the-morning/092-whole.jpg",
+    "artifacts/wings-held-to-the-morning/096-close.jpg",
+    "artifacts/wings-held-to-the-morning/096-whole.jpg",
+    "artifacts/wings-held-to-the-morning/100-close.jpg",
+    "artifacts/wings-held-to-the-morning/100-whole.jpg",
+    "artifacts/wings-held-to-the-morning/inspection-log.json",
+    "artifacts/wings-held-to-the-morning/live-receipt.json"
+  ],
+  "engineRevision": "8914648964b3e7fbc121d26f0f8bc300a18a2d3f",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette wing swatch: broad overlapping feather roots with short tapered ends from outset, compared with individually drawn long tips. Keep compact head accent; judge color separately from relief. Choose a fresh subject/source next.",
+  "assessment": {
+    "source": "Actual900\u00d7620PNG,26 paired screenshot boundaries,head76/lower92focus,live notes and exact100stroke58event ended-feed match. No engine changes or quality score.",
+    "humanRating": null
+  }
 }
 ]
