@@ -1,4 +1,4 @@
-import {cp,mkdir,rm} from 'node:fs/promises';
+import {cp,mkdir,rm,readdir} from 'node:fs/promises';
 import {execFileSync} from 'node:child_process';
 import {join} from 'node:path';
 import {root} from './add-gallery-painting.mjs';
@@ -16,3 +16,13 @@ await rm(join(root,'hosting/dist'),{recursive:true,force:true});
 execFileSync('npm',['run','build'],{cwd:join(root,'hosting'),stdio:'inherit'});
 await rm(join(root,'dist'),{recursive:true,force:true});
 await cp(join(root,'hosting/dist'),join(root,'dist'),{recursive:true});
+// Debugging source maps are retained in hosting/dist locally. They are not
+// required by the Worker or browser and need not consume public package space.
+async function removeDeploymentMaps(directory){
+  for(const item of await readdir(directory,{withFileTypes:true})){
+    const path=join(directory,item.name);
+    if(item.isDirectory())await removeDeploymentMaps(path);
+    else if(item.name.endsWith('.map'))await rm(path);
+  }
+}
+await removeDeploymentMaps(join(root,'dist'));

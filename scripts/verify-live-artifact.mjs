@@ -26,6 +26,7 @@ async function inspect(directory){
     const path=join(directory,item.name);
     if(item.isDirectory())await inspect(path);
     else{
+      assert.ok(!item.name.endsWith('.map'),'Debug source map in public deployment: '+path);
       expandedBytes+=(await stat(path)).size;
       if(directory.startsWith(join(output,'client')))assert.ok((await stat(path)).size<=25*1024*1024,'Public asset exceeds the 25 MiB hosting limit: '+path);
       if(secret)assert.ok(!(await readFile(path)).includes(Buffer.from(secret)),'Publisher credential in build output');
@@ -36,7 +37,7 @@ await inspect(output);
 assert.ok(expandedBytes<=256*1024*1024,'Build exceeds the 256 MiB expanded hosting package limit');
 // Sites counts expanded archive framing too. Reserve room for file headers,
 // directory entries and packaging metadata instead of relying on payload alone.
-assert.ok(expandedBytes<=256*1024*1024-512*1024,'Build needs 512 KiB archive framing headroom');
+assert.ok(expandedBytes<=256*1024*1024-2*1024*1024,'Build needs 2 MiB archive framing headroom');
 const downloads=JSON.parse(await readFile(join(output,'client/source-downloads.json'),'utf8'));
 const entries=downloads.flatMap(name=>execFileSync('unzip',['-Z1',join(output,'client',name)],{encoding:'utf8'}).split('\n').filter(Boolean));
 assert.ok(!entries.some(file=>/(^|\/)(\.env(?!\.example)|\.dev\.vars|node_modules|\.git|\.sites-runtime)(\/|$|\.)/.test(file)),'Private or generated files in source download');
