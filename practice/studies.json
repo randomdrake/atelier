@@ -16565,5 +16565,111 @@
     "source": "Actual900\u00d7620PNG,26 paired screenshot boundaries,head76/lower92focus,live notes and exact100stroke58event ended-feed match. No engine changes or quality score.",
     "humanRating": null
   }
-}
+},
+  {
+    "id": "a-small-keeper-of-fire",
+    "title": "A small keeper of fire",
+    "date": "2026-11-10",
+    "session": "examples/a-small-keeper-of-fire.json",
+    "finishedImage": "examples/previews/a-small-keeper-of-fire.png",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Broad curved bowl planes, reserved dark filling hole and one compact flame core.",
+    "inspiration": {
+      "title": "Arizona State Museum: Roman Imperial Ceramic Oil Lamp",
+      "url": "https://statemuseum.arizona.edu/online-exhibit/curators-choice/roman-imperial-lamp",
+      "interpretation": "Original imagined single-nozzle terracotta lamp with loop handle, flame and loose olive sprig on blue cloth; no finished composition copied. Full journal/catalogue search found no oil-lamp study or prior source use."
+    },
+    "observations": [
+      {
+        "afterStroke": 16,
+        "text": "Broad crossings closed the blue center window."
+      },
+      {
+        "afterStroke": 32,
+        "text": "One broad dark crossing closed the warm slit in the filling hole."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Sampled handle arcs rounded corners while retaining blue opening; attachment stayed thick."
+      },
+      {
+        "afterStroke": 92,
+        "text": "Broad clay neighbors softened dark side-band color but raised scalloped seams."
+      },
+      {
+        "afterStroke": 100,
+        "text": "Compact loaded flame core holds focus; separate silvery leaves balance warm lamp. Angular cloth fold, scratch-like incisions, hooked olives and regular bristles remain. Further bowl covers chiefly add relief; stopped100withoutpadding."
+      }
+    ],
+    "evidence": [
+      "examples/a-small-keeper-of-fire.json",
+      "examples/previews/a-small-keeper-of-fire.png",
+      "artifacts/a-small-keeper-of-fire/004-close.jpg",
+      "artifacts/a-small-keeper-of-fire/004-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/008-close.jpg",
+      "artifacts/a-small-keeper-of-fire/008-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/012-close.jpg",
+      "artifacts/a-small-keeper-of-fire/012-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/016-close.jpg",
+      "artifacts/a-small-keeper-of-fire/016-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/020-close.jpg",
+      "artifacts/a-small-keeper-of-fire/020-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/024-close.jpg",
+      "artifacts/a-small-keeper-of-fire/024-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/028-close.jpg",
+      "artifacts/a-small-keeper-of-fire/028-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/032-close.jpg",
+      "artifacts/a-small-keeper-of-fire/032-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/036-close.jpg",
+      "artifacts/a-small-keeper-of-fire/036-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/040-close.jpg",
+      "artifacts/a-small-keeper-of-fire/040-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/041-close.jpg",
+      "artifacts/a-small-keeper-of-fire/041-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/044-close.jpg",
+      "artifacts/a-small-keeper-of-fire/044-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/048-close.jpg",
+      "artifacts/a-small-keeper-of-fire/048-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/052-close.jpg",
+      "artifacts/a-small-keeper-of-fire/052-lower.jpg",
+      "artifacts/a-small-keeper-of-fire/052-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/056-close.jpg",
+      "artifacts/a-small-keeper-of-fire/056-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/060-close.jpg",
+      "artifacts/a-small-keeper-of-fire/060-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/064-close.jpg",
+      "artifacts/a-small-keeper-of-fire/064-upper.jpg",
+      "artifacts/a-small-keeper-of-fire/064-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/068-close.jpg",
+      "artifacts/a-small-keeper-of-fire/068-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/072-close.jpg",
+      "artifacts/a-small-keeper-of-fire/072-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/076-close.jpg",
+      "artifacts/a-small-keeper-of-fire/076-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/080-close.jpg",
+      "artifacts/a-small-keeper-of-fire/080-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/084-close.jpg",
+      "artifacts/a-small-keeper-of-fire/084-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/088-close.jpg",
+      "artifacts/a-small-keeper-of-fire/088-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/092-close.jpg",
+      "artifacts/a-small-keeper-of-fire/092-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/096-close.jpg",
+      "artifacts/a-small-keeper-of-fire/096-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/100-close.jpg",
+      "artifacts/a-small-keeper-of-fire/100-whole.jpg",
+      "artifacts/a-small-keeper-of-fire/inspection-log.json",
+      "artifacts/a-small-keeper-of-fire/live-receipt.json"
+    ],
+    "engineRevision": "08986d6bf61abb736bc9d3031b62bdd10c82959b",
+    "model": "GPT-6; precise variant unavailable",
+    "nextExperiment": "Fixed-palette shallow bowl calibration: build solid overlapping mass and reserve a small filling hole, comparing early broad curved planes with late contour covers. Compare relief separately from color; keep flame core loaded and short. Choose fresh subject/source next.",
+    "assessment": {
+      "source": "Actual900x620PNG,26paired boundaries,lower/upperfocus,live notes and exact100stroke57event ended-feed match. No engine change or quality score.",
+      "humanRating": null
+    }
+  }
 ]

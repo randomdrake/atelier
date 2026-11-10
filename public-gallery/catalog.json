@@ -1,5 +1,23 @@
 [
   {
+    "id": "a-small-keeper-of-fire",
+    "title": "A small keeper of fire",
+    "description": "An imagined terracotta oil lamp with a small amber flame and loose silvery olive sprig on blue cloth.",
+    "process": "100 animated watercolor/oil marks in 26 batches of 1–4, chosen after 26 settled whole-and-close screenshot pairs. Lower camera review at 52, upper review at 64, live easel notes and deliberate refinement at 97–100. Broad crossings filled the bowl and dark filling hole; sampled handle arcs reserved blue air. A compact loaded flame core holds focus. Later broad covers softened color but raised scalloped seams; an angular cloth fold, scratch-like incisions, hooked olives and regular bristles remain. The ended public broadcast acknowledged all 100 marks and 57 moments. Further covers chiefly add relief, so the study stopped without padding.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 100,
+    "moments": 57,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/a-small-keeper-of-fire/session.json",
+    "image": "/paintings/a-small-keeper-of-fire/finished.png",
+    "addedAt": "2026-11-10T19:07:45.149Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-10"
+  },
+  {
     "id": "wings-held-to-the-morning",
     "title": "Wings held to the morning",
     "description": "An imagined cormorant dries its dark wings on a weathered piling above pale green water and low reeds.",

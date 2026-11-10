@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A small keeper of fire
+
+[![Terracotta oil lamp and olive sprig on blue cloth](public-gallery/paintings/a-small-keeper-of-fire/finished.png)](https://atelier.randomdrake.com/#painting/a-small-keeper-of-fire)
+
+An imagined terracotta lamp in **100 animated marks**, with **26 settled whole-and-close inspection boundaries**. Broad crossings filled the bowl; sampled handle arcs keep an open blue center, a dark filling hole and compact flame core hold focus. Live notes retain the raised clay repairs, angular cloth fold and hooked olive shapes. Inspired by the [Arizona State Museum ceramic lamp collection](https://statemuseum.arizona.edu/online-exhibit/curators-choice/roman-imperial-lamp).
+
+[Watch the lamp take shape →](https://atelier.randomdrake.com/#painting/a-small-keeper-of-fire)
+
 ### Leaves folded into violet
 
 [![Imagined red cabbage and loose leaf on warm linen](public-gallery/paintings/leaves-folded-into-violet/finished.png)](https://atelier.randomdrake.com/#painting/leaves-folded-into-violet)
