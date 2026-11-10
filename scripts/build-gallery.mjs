@@ -3,7 +3,7 @@ import {join,dirname} from 'node:path';
 import {tmpdir} from 'node:os';
 import {execFileSync} from 'node:child_process';
 import {root} from './add-gallery-painting.mjs';
-import {restoreGalleryArtwork,compactGalleryArtwork} from './gallery-artwork.mjs';
+import {restoreGalleryArtwork,compactGalleryArtwork,compactGallerySessions} from './gallery-artwork.mjs';
 import {refilterPNG} from './compact-png.mjs';
 import {groupArtwork} from './source-parts.mjs';
 const output=join(root,'dist');await rm(output,{recursive:true,force:true});await mkdir(output,{recursive:true});await cp(join(root,'public-gallery'),output,{recursive:true});await cp(join(root,'LICENSE'),join(output,'LICENSE.txt'));await cp(join(root,'src/pacing.js'),join(output,'pacing.js'));
@@ -49,5 +49,7 @@ try{
 // deployment copies; compression changes bytes even when samples are identical.
 const artworkSavings=await compactGalleryArtwork({output,catalog});
 console.log(`Lossless deployment artwork compression saved ${artworkSavings} bytes; source originals retained.`);
+const sessionSavings=await compactGallerySessions({output,catalog});
+console.log(`Deployment replay whitespace compaction saved ${sessionSavings} bytes; all data and source exports retained.`);
 await writeFile(join(output,'sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://atelier.randomdrake.com/</loc></url></urlset>`);
 console.log(`Viewing gallery built: ${catalog.length} paintings. Studio editor excluded.`);

@@ -3,7 +3,27 @@ import assert from 'node:assert/strict';
 import {mkdtemp,mkdir,writeFile,readFile,rm} from 'node:fs/promises';
 import {tmpdir} from 'node:os';
 import {join} from 'node:path';
-import {restoreGalleryArtwork} from '../scripts/gallery-artwork.mjs';
+import {restoreGalleryArtwork,compactGallerySessions} from '../scripts/gallery-artwork.mjs';
+import {validateDocument} from '../src/tour.js';
+
+test('served replay compaction preserves complete recorded data and source bytes',async()=>{
+  const output=await mkdtemp(join(tmpdir(),'atelier-replays-'));
+  const source=new URL('../examples/leaves-folded-into-violet.json',import.meta.url);
+  const original=await readFile(source),document=JSON.parse(original);
+  try{
+    await mkdir(join(output,'paintings/study'),{recursive:true});
+    const target=join(output,'paintings/study/session.json');
+    await writeFile(target,original);
+    const catalog=[{session:'/paintings/study/session.json'}];
+    const saved=await compactGallerySessions({output,catalog});
+    const compact=await readFile(target);
+    assert.ok(saved>0);assert.equal(saved,original.length-compact.length);
+    assert.deepEqual(JSON.parse(compact),document);
+    assert.deepEqual(validateDocument(JSON.parse(compact)),validateDocument(document));
+    assert.deepEqual(await readFile(source),original);
+    assert.equal(await compactGallerySessions({output,catalog}),0);
+  }finally{await rm(output,{recursive:true,force:true});}
+});
 
 test('compact source downloads restore missing artwork without replacing pinned gallery images',async()=>{
   const root=await mkdtemp(join(tmpdir(),'atelier-source-')),output=join(root,'dist');

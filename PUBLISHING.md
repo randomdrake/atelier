@@ -10,6 +10,8 @@ The downloadable archive losslessly recompresses PNG image data at maximum DEFLA
 
 The build also applies this lossless compression to deployment artwork copies to stay within the total hosting package limit. Every decoded pixel sample and metadata chunk is preserved; browser exports and pinned gallery files in the repository retain their original bytes. Source downloads still contain every painting. Package with `COPYFILE_DISABLE=1` on macOS to exclude generated Finder metadata.
 
+Served replay JSON also omits formatting whitespace, preserving every stroke, event and creation metadata field. Source exports and downloads retain their original formatting. Artifact verification checks the 256 MiB total expanded package limit as well as individual asset limits.
+
 1. Finish and visually review the study in the browser. Export its actual PNG and complete version-2 session JSON. Store them in `examples/previews/<id>.png` and `examples/<id>.json`. Add the practice entry and truthful creation provenance.
 2. Check that an ended live feed contains the completed mark count. If its final upload is still pending, preserve the actual finished exports before reloading. For an old interrupted session, follow the `live:finalize` recovery command in `docs/live-broadcast.md`; it only restores a matching inactive feed. Keep the original interruption in creation metadata.
 

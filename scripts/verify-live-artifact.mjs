@@ -19,18 +19,21 @@ for(const entry of catalog){
 let secret;
 try{process.loadEnvFile(join(root,'.env.live'));secret=process.env.ATELIER_BROADCAST_TOKEN;}
 catch(error){if(error.code!=='ENOENT')throw error;}
+let expandedBytes=0;
 async function inspect(directory){
   for(const item of await readdir(directory,{withFileTypes:true})){
     assert.ok(!/^(\.env(?:\.|$)|\.dev\.vars|\.git$)/.test(item.name),'Secret or Git metadata in build output');
     const path=join(directory,item.name);
     if(item.isDirectory())await inspect(path);
     else{
+      expandedBytes+=(await stat(path)).size;
       if(directory.startsWith(join(output,'client')))assert.ok((await stat(path)).size<=25*1024*1024,'Public asset exceeds the 25 MiB hosting limit: '+path);
       if(secret)assert.ok(!(await readFile(path)).includes(Buffer.from(secret)),'Publisher credential in build output');
     }
   }
 }
 await inspect(output);
+assert.ok(expandedBytes<=256*1024*1024,'Build exceeds the 256 MiB expanded hosting package limit');
 const downloads=JSON.parse(await readFile(join(output,'client/source-downloads.json'),'utf8'));
 const entries=downloads.flatMap(name=>execFileSync('unzip',['-Z1',join(output,'client',name)],{encoding:'utf8'}).split('\n').filter(Boolean));
 assert.ok(!entries.some(file=>/(^|\/)(\.env(?!\.example)|\.dev\.vars|node_modules|\.git|\.sites-runtime)(\/|$|\.)/.test(file)),'Private or generated files in source download');

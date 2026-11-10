@@ -13,6 +13,18 @@ export async function compactGalleryArtwork({output,catalog}){
   return saved;
 }
 
+// Whitespace is unnecessary in served replays. Keep every data field, including
+// creation provenance; source exports and source downloads retain their bytes.
+export async function compactGallerySessions({output,catalog}){
+  let saved=0;
+  for(const entry of catalog){
+    const target=join(output,entry.session),original=await readFile(target);
+    const compact=Buffer.from(JSON.stringify(JSON.parse(original))+'\n');
+    if(compact.length<original.length){await writeFile(target,compact);saved+=original.length-compact.length;}
+  }
+  return saved;
+}
+
 // Source downloads retain original previews once. Rebuild the gallery copies
 // when building an extracted download; normal checkouts keep their pinned PNGs.
 export async function restoreGalleryArtwork({root,output,catalog}){
