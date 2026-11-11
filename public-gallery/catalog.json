@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-cup-for-winter",
+  "title": "A cup for winter",
+  "description": "An ivory hellebore and a quieter nodding bloom rise above divided green leaves against a plum ground.",
+  "process": "Original imagined study inspired by the RHS hellebore growing guide: 88 animated watercolor and oil marks in 23 batches. Each next 1\u20134 strokes followed settled whole-and-close screenshots, with extra upper and lower camera reviews. Broad crossings filled petal holes; loaded ivory and sampled curves developed form. A single light was tested at mark 85, followed by final refinement at 86\u201388. Faceted petals, a heavy sepal, raised repairs and regular bristles remain. Stopped without padding as covers mainly added relief. Notes were recorded live; the ended broadcast acknowledged all 88 marks and 48 moments. The finished title was assigned after export.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 48,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-cup-for-winter/session.json",
+  "image": "/paintings/a-cup-for-winter/finished.png",
+  "addedAt": "2026-11-11T22:07:03.849Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-11"
+},
+{
   "id": "a-leaf-that-learned-to-drift",
   "title": "A leaf that learned to drift",
   "description": "A leafy sea dragon drifts above sparse seagrass in blue-green water, its ochre curve carrying unequal green frills and a tiny eye light.",

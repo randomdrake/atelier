@@ -1,0 +1,30 @@
+{
+  "tests": 110,
+  "syntax": true,
+  "fullWorkerBuild": true,
+  "paintings": 152,
+  "priorCatalogEntriesUnchanged": 151,
+  "priorPracticeEntriesUnchanged": 148,
+  "newPaintingDecodedRGBAIdentical": true,
+  "replayJSONEqualsSource": true,
+  "browser": {
+    "finishedNaturalSize": [
+      900,
+      620
+    ],
+    "replayNotes": true,
+    "brushSettings": true,
+    "pauseStableAt": 4,
+    "resumedTo": 8,
+    "returnToFinished": true,
+    "expandedNotes": true,
+    "phone": {
+      "dialog": 350,
+      "dialogScroll": 350,
+      "document": 390,
+      "viewport": 390
+    }
+  },
+  "payloadBytes": 266332625,
+  "headroomBytes": 2102831
+}

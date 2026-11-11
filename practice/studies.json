@@ -17551,5 +17551,126 @@
     "source": "Actual900×620PNG,26 settled whole-close screenshot pairs,live notes and exact raw100mark53moment ended-feed match. No paintengine changes or numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "a-cup-for-winter",
+  "title": "A cup for winter",
+  "date": "2026-11-11",
+  "session": "examples/a-cup-for-winter.json",
+  "finishedImage": "examples/previews/a-cup-for-winter.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Long overlapping gestures build filled curved petal planes, preserving dark gaps and one compact center light.",
+  "inspiration": {
+    "title": "RHS hellebore growing guide",
+    "url": "https://www.rhs.org.uk/plants/hellebore/growing-guide/",
+    "interpretation": "Original imagined ivory hellebore and smaller nodding bloom above divided green leaves on plum; archive checked, no hellebore subject or source found."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Broad bridging washes closed pale ground seams; soft plum bands remain."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad crossings filled four petal holes left by curved outlines."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Nine-point inner leaf curves are gentler than three-point elbows, but original silhouettes remain angular."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Shallow curved mouth gives smaller bloom a folded turn; tiny slit remains above it."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Loaded ivory planes survive whole view where earlier greenish planes stayed flat."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Fine leaf veins read close but scarcely change whole view; lower camera reveals detached leaf-root tail."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Broad neighboring root plane joins detached tail, leaving textured seam."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Sepal correction softened color but left raised join; broad petal transitions chiefly add relief."
+    },
+    {
+      "afterStroke": 85,
+      "text": "Single tiny warm center light stayed compact."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final accents warmed lower anther and connected leaf root. Filled ivory petals, quiet smaller bloom, green-gold center and open plum gaps hold. Faceted petals, heavy sepal, raised repairs, leaf elbows and regular bristles remain; stopped without padding."
+    }
+  ],
+  "evidence": [
+    "examples/a-cup-for-winter.json",
+    "examples/previews/a-cup-for-winter.png",
+    "artifacts/a-cup-for-winter/004-close.jpg",
+    "artifacts/a-cup-for-winter/004-whole.jpg",
+    "artifacts/a-cup-for-winter/008-close.jpg",
+    "artifacts/a-cup-for-winter/008-whole.jpg",
+    "artifacts/a-cup-for-winter/012-close.jpg",
+    "artifacts/a-cup-for-winter/012-whole.jpg",
+    "artifacts/a-cup-for-winter/016-close.jpg",
+    "artifacts/a-cup-for-winter/016-whole.jpg",
+    "artifacts/a-cup-for-winter/020-close.jpg",
+    "artifacts/a-cup-for-winter/020-whole.jpg",
+    "artifacts/a-cup-for-winter/024-close.jpg",
+    "artifacts/a-cup-for-winter/024-whole.jpg",
+    "artifacts/a-cup-for-winter/028-close.jpg",
+    "artifacts/a-cup-for-winter/028-upper.jpg",
+    "artifacts/a-cup-for-winter/028-whole.jpg",
+    "artifacts/a-cup-for-winter/032-close.jpg",
+    "artifacts/a-cup-for-winter/032-whole.jpg",
+    "artifacts/a-cup-for-winter/036-close.jpg",
+    "artifacts/a-cup-for-winter/036-whole.jpg",
+    "artifacts/a-cup-for-winter/040-close.jpg",
+    "artifacts/a-cup-for-winter/040-whole.jpg",
+    "artifacts/a-cup-for-winter/044-close.jpg",
+    "artifacts/a-cup-for-winter/044-whole.jpg",
+    "artifacts/a-cup-for-winter/048-close.jpg",
+    "artifacts/a-cup-for-winter/048-whole.jpg",
+    "artifacts/a-cup-for-winter/052-close.jpg",
+    "artifacts/a-cup-for-winter/052-whole.jpg",
+    "artifacts/a-cup-for-winter/056-close.jpg",
+    "artifacts/a-cup-for-winter/056-whole.jpg",
+    "artifacts/a-cup-for-winter/060-close.jpg",
+    "artifacts/a-cup-for-winter/060-whole.jpg",
+    "artifacts/a-cup-for-winter/064-close.jpg",
+    "artifacts/a-cup-for-winter/064-whole.jpg",
+    "artifacts/a-cup-for-winter/068-close.jpg",
+    "artifacts/a-cup-for-winter/068-lower.jpg",
+    "artifacts/a-cup-for-winter/068-whole.jpg",
+    "artifacts/a-cup-for-winter/072-close.jpg",
+    "artifacts/a-cup-for-winter/072-whole.jpg",
+    "artifacts/a-cup-for-winter/076-close.jpg",
+    "artifacts/a-cup-for-winter/076-whole.jpg",
+    "artifacts/a-cup-for-winter/080-close.jpg",
+    "artifacts/a-cup-for-winter/080-whole.jpg",
+    "artifacts/a-cup-for-winter/084-close.jpg",
+    "artifacts/a-cup-for-winter/084-whole.jpg",
+    "artifacts/a-cup-for-winter/085-close.jpg",
+    "artifacts/a-cup-for-winter/085-whole.jpg",
+    "artifacts/a-cup-for-winter/088-close.jpg",
+    "artifacts/a-cup-for-winter/088-upper.jpg",
+    "artifacts/a-cup-for-winter/088-whole.jpg",
+    "artifacts/a-cup-for-winter/inspection-log.json",
+    "artifacts/a-cup-for-winter/live-receipt.json"
+  ],
+  "engineRevision": "d8aa843729fe27cda730d91e22c76911c90b8af4",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette five-petal calibration: compare filled nine-point petal planes from outset against loops plus crossing repairs; set pale ivory earlier and reserve shallow throat. Compare matched broad sepal neighbor against narrow cover, judging color and relief separately. Choose fresh subject/source next.",
+  "assessment": {
+    "source": "Actual900\u00d7620PNG,23settled whole-close pairs,upper/lower reviews and exactraw88mark48moment ended-feed match. No engine changes or numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

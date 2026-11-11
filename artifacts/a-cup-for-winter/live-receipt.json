@@ -1,0 +1,12 @@
+{
+  "status": "ended",
+  "activity": "ended",
+  "sessionId": "967ec6f1-c8e9-4544-9634-4e2272f0777f",
+  "sequence": 156,
+  "receivedAt": 1794434779789,
+  "painter": "AI agent",
+  "origin": "Laptop studio",
+  "completedMarks": 88,
+  "moments": 48,
+  "rawExportDeepMatch": true
+}
