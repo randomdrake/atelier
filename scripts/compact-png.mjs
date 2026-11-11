@@ -38,8 +38,10 @@ function paeth(a,b,c){
   return da<=db&&da<=dc?a:db<=dc?b:c;
 }
 
-// A second lossless option for growing source archives: choose PNG row filters
-// from decoded pixels. Original exports and all non-IDAT chunks stay untouched.
+// Compare adaptive and fixed Sub/Up row filters after DEFLATE. A locally
+// smaller residual score need not produce the smallest complete stream.
+// Fully opaque RGBA can also use RGB storage without changing decoded pixels.
+// Original exports stay untouched; only IHDR's color type may change.
 export function refilterPNG(bytes){
   const compact=compactPNG(bytes),chunks=[],image=[];
   for(let offset=8;offset<bytes.length;){
@@ -49,13 +51,13 @@ export function refilterPNG(bytes){
   }
   const header=chunks.find(c=>c.type==='IHDR')?.data;
   if(!header||header.length!==13)throw new Error('Invalid PNG header');
-  const channels=header[9]===6?4:header[9]===2?3:0;
+  let channels=header[9]===6?4:header[9]===2?3:0;
   if(header[8]!==8||!channels||header[10]!==0||header[11]!==0||header[12]!==0)return compact;
-  const width=header.readUInt32BE(0),height=header.readUInt32BE(4),stride=width*channels;
+  const width=header.readUInt32BE(0),height=header.readUInt32BE(4);let stride=width*channels;
   if(!width||!height||stride*height>128*1024*1024)throw new Error('Invalid PNG dimensions');
   const filtered=inflateSync(Buffer.concat(image));
   if(filtered.length!==(stride+1)*height)throw new Error('Invalid PNG scanline length');
-  const pixels=Buffer.alloc(stride*height),result=Buffer.alloc(filtered.length);
+  let pixels=Buffer.alloc(stride*height);
   const predictor=(filter,a,b,c)=>filter===0?0:filter===1?a:filter===2?b:filter===3?Math.floor((a+b)/2):paeth(a,b,c);
   for(let y=0;y<height;y++){
     const start=y*(stride+1),row=y*stride,filter=filtered[start];
@@ -63,6 +65,23 @@ export function refilterPNG(bytes){
     for(let x=0;x<stride;x++){
       const a=x>=channels?pixels[row+x-channels]:0,b=y?pixels[row+x-stride]:0,c=y&&x>=channels?pixels[row+x-stride-channels]:0;
       pixels[row+x]=(filtered[start+1+x]+predictor(filter,a,b,c))&255;
+    }
+  }
+  // Retain alpha for translucency or color-type-dependent/animated chunks.
+  if(channels===4&&!chunks.some(c=>['tRNS','sBIT','acTL','fcTL','fdAT'].includes(c.type))&&pixels.every((value,i)=>i%4!==3||value===255)){
+    const rgb=Buffer.alloc(width*height*3);
+    for(let i=0,j=0;i<pixels.length;i+=4){rgb[j++]=pixels[i];rgb[j++]=pixels[i+1];rgb[j++]=pixels[i+2];}
+    pixels=rgb;channels=3;stride=width*3;
+    const ihdr=chunks.find(c=>c.type==='IHDR');const data=Buffer.from(ihdr.data);data[9]=2;
+    ihdr.bytes=chunk('IHDR',data);
+  }
+  const result=Buffer.alloc((stride+1)*height),sub=Buffer.alloc(result.length),up=Buffer.alloc(result.length);
+  for(let y=0;y<height;y++){
+    const start=y*(stride+1),row=y*stride;
+    sub[start]=1;up[start]=2;
+    for(let x=0;x<stride;x++){
+      sub[start+1+x]=(pixels[row+x]-(x>=channels?pixels[row+x-channels]:0))&255;
+      up[start+1+x]=(pixels[row+x]-(y?pixels[row+x-stride]:0))&255;
     }
     let bestScore=Infinity;
     for(let candidate=0;candidate<5;candidate++){
@@ -74,7 +93,12 @@ export function refilterPNG(bytes){
       if(score<bestScore){bestScore=score;result[start]=candidate;values.copy(result,start+1);}
     }
   }
-  const compressed=deflateSync(result,{level:9});let written=false;
+  let compressed=deflateSync(result,{level:9});
+  for(const candidate of [sub,up]){
+    const encoded=deflateSync(candidate,{level:9});
+    if(encoded.length<compressed.length)compressed=encoded;
+  }
+  let written=false;
   const output=Buffer.concat([signature,...chunks.flatMap(item=>{
     if(item.type!=='IDAT')return[item.bytes];if(written)return[];written=true;return[chunk('IDAT',compressed)];
   })]);

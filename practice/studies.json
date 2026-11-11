@@ -16895,5 +16895,104 @@
     "source": "Actual 900×620 PNG, 30 paired screenshot boundaries, upper48/lower84 camera reviews, live notes and exact raw112-stroke65-event ended-feed match. No engine changes or numerical quality score.",
     "humanRating": null
   }
+},
+{
+  "id": "the-grain-remembers-a-flower",
+  "title": "The grain remembers a flower",
+  "date": "2026-11-11",
+  "session": "examples/the-grain-remembers-a-flower.json",
+  "finishedImage": "examples/previews/the-grain-remembers-a-flower.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Establish broad contact wash before opaque wood, preserving a soft shadow while developing warm planes and restrained carving.",
+  "inspiration": {
+    "source": "Smithsonian butter mold collection; original imagined wooden stamp and pale pat on blue linen",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_305369"
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Early broad watercolor shadow projected right without a raised pale oil contact seam."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Broad face crossings closed the open U; sampled rim arcs rounded the faceted silhouette but left raised rings."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Selective cut-edge lights and darker center made the flower legible. First four petals remain angular beside the sampled curved fifth."
+    },
+    {
+      "afterStroke": 71,
+      "text": "Thin broad cloth neighbors softened dark rails incompletely; loaded covers added conspicuous ridges. Cloth corrections stopped."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final refinement reduced scratch color but retained relief. Compact knob and rim reflections survive whole view; lumpy butter, bent shaft, polygonal petals and regular bristles remain. Stopped below112 because more covers added relief faster than useful form."
+    }
+  ],
+  "evidence": [
+    "examples/the-grain-remembers-a-flower.json",
+    "examples/previews/the-grain-remembers-a-flower.png",
+    "artifacts/the-grain-remembers-a-flower/004-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/004-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/008-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/008-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/012-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/012-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/016-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/016-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/020-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/020-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/024-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/024-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/028-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/028-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/032-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/032-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/036-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/036-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/040-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/040-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/044-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/044-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/048-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/048-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/052-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/052-upper.jpg",
+    "artifacts/the-grain-remembers-a-flower/052-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/056-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/056-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/060-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/060-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/064-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/064-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/068-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/068-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/071-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/071-lower.jpg",
+    "artifacts/the-grain-remembers-a-flower/071-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/075-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/075-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/079-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/079-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/083-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/083-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/084-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/084-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/088-close.jpg",
+    "artifacts/the-grain-remembers-a-flower/088-whole.jpg",
+    "artifacts/the-grain-remembers-a-flower/inspection-log.json",
+    "artifacts/the-grain-remembers-a-flower/live-receipt.json"
+  ],
+  "engineRevision": "facb64ddcad967e1792b87b324fcebcd0a20e80a",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "At fixed palette compare broad early watercolor contact with late oil contact; use broad cloth value planes from outset rather than isolated fold rails. Sample every carved petal curve before painting. Choose fresh subject/source.",
+  "assessment": {
+    "source": "Actual PNG, 23 emitted settled whole/close pairs, upper52, live notes and ended-feed exact88mark50moment raw-export match. Lower71 framing/pan limitation recorded. No engine changes or numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

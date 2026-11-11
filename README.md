@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The grain remembers a flower
+
+[![Carved wooden butter stamp and pale butter pat on blue linen](public-gallery/paintings/the-grain-remembers-a-flower/finished.png)](https://atelier.randomdrake.com/#painting/the-grain-remembers-a-flower)
+
+An imagined wooden stamp in **88 animated marks**, with **23 settled whole-and-close inspection pairs** and a deliberate final refinement. An early broad watercolor shadow stays soft beneath warm wooden planes; sampled arcs round the rim and knob, and selective cut-edge lights describe a small flower. Angular petals, a bent shaft, lumpy butter and raised cloth repairs remain. Inspired by the [Smithsonian butter mold collection](https://americanhistory.si.edu/collections/object/nmah_305369). The ended broadcast acknowledged all 88 marks and 50 moments; further covers added relief faster than useful form.
+
+[Watch the stamp take shape →](https://atelier.randomdrake.com/#painting/the-grain-remembers-a-flower)
+
 ### A small keeper of fire
 
 [![Terracotta oil lamp and olive sprig on blue cloth](public-gallery/paintings/a-small-keeper-of-fire/finished.png)](https://atelier.randomdrake.com/#painting/a-small-keeper-of-fire)

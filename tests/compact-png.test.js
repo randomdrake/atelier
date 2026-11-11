@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFile,mkdtemp,mkdir,writeFile,rm} from 'node:fs/promises';
 import {tmpdir} from 'node:os';
 import {join} from 'node:path';
-import {inflateSync} from 'node:zlib';
+import {inflateSync,deflateSync} from 'node:zlib';
 import {compactPNG,refilterPNG} from '../scripts/compact-png.mjs';
 import {compactGalleryArtwork} from '../scripts/gallery-artwork.mjs';
 
@@ -46,14 +46,39 @@ function decode(png){
     }
     rows.push(row);
   }
-  return Buffer.concat(rows);
+  if(bpp===4)return Buffer.concat(rows);
+  const rgb=Buffer.concat(rows),rgba=Buffer.alloc(width*height*4,255);
+  for(let i=0,j=0;i<rgb.length;i+=3,j+=4)rgb.copy(rgba,j,i,i+3);
+  return rgba;
 }
-test('adaptive archive PNG filters preserve all decoded pixels and metadata',async()=>{
-  for(const name of ['a-gold-thread-in-the-rain','violet-held-in-clay']){
+function metadata(png){return chunks(png).filter(c=>c.type!=='IDAT').map(c=>{
+  if(c.type!=='IHDR')return c;
+  const data=Buffer.from(c.data);data[9]=0;return{type:c.type,data};
+});}
+function pngChunk(type,data){
+  const bytes=Buffer.alloc(data.length+12);bytes.writeUInt32BE(data.length);bytes.write(type,4);data.copy(bytes,8);
+  let crc=0xffffffff;
+  for(const byte of bytes.subarray(4,-4)){crc^=byte;for(let i=0;i<8;i++)crc=(crc>>>1)^((crc&1)?0xedb88320:0);}
+  bytes.writeUInt32BE((crc^0xffffffff)>>>0,bytes.length-4);return bytes;
+}
+test('opaque RGB conversion preserves RGBA samples and retains translucent alpha',async()=>{
+  const original=await readFile(new URL('../examples/previews/the-grain-remembers-a-flower.png',import.meta.url));
+  const optimized=refilterPNG(original);
+  assert.equal(optimized[25],2);assert.deepEqual(decode(optimized),decode(original));
+  const pixels=decode(original);pixels[3]=127;pixels[pixels.length-1]=0;
+  const header=Buffer.from(chunks(original).find(c=>c.type==='IHDR').data),stride=header.readUInt32BE(0)*4,height=header.readUInt32BE(4);
+  header[9]=6;const rows=Buffer.alloc((stride+1)*height);
+  for(let y=0;y<height;y++)pixels.copy(rows,y*(stride+1)+1,y*stride,(y+1)*stride);
+  const translucent=Buffer.concat([original.subarray(0,8),pngChunk('IHDR',header),pngChunk('tEXt',Buffer.from('Test\0alpha samples')),pngChunk('IDAT',deflateSync(rows)),pngChunk('IEND',Buffer.alloc(0))]);
+  const result=refilterPNG(translucent);
+  assert.equal(result[25],6);assert.deepEqual(decode(result),pixels);assert.deepEqual(metadata(result),metadata(translucent));
+});
+test('adaptive and fixed archive PNG filters preserve all decoded pixels and metadata',async()=>{
+  for(const name of ['a-gold-thread-in-the-rain','violet-held-in-clay','the-grain-remembers-a-flower']){
     const original=await readFile(new URL(`../examples/previews/${name}.png`,import.meta.url)),optimized=refilterPNG(original);
     assert.ok(optimized.length<compactPNG(original).length);
     assert.deepEqual(decode(optimized),decode(original));
-    assert.deepEqual(chunks(optimized).filter(c=>c.type!=='IDAT'),chunks(original).filter(c=>c.type!=='IDAT'));
+    assert.deepEqual(metadata(optimized),metadata(original));
     assert.deepEqual(refilterPNG(optimized),optimized);
     assert.deepEqual(await readFile(new URL(`../examples/previews/${name}.png`,import.meta.url)),original);
   }
@@ -69,7 +94,7 @@ test('deployment compaction preserves artwork samples and metadata without chang
     const saved=await compactGalleryArtwork({output,catalog}),result=await readFile(target);
     assert.ok(saved>0);assert.equal(saved,original.length-result.length);
     assert.deepEqual(decode(result),decode(original));
-    assert.deepEqual(chunks(result).filter(c=>c.type!=='IDAT'),chunks(original).filter(c=>c.type!=='IDAT'));
+    assert.deepEqual(metadata(result),metadata(original));
     assert.deepEqual(await readFile(source),original);
     assert.equal(await compactGalleryArtwork({output,catalog}),0);
   }finally{await rm(output,{recursive:true,force:true});}
