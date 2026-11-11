@@ -4,7 +4,7 @@ import {readFile,mkdtemp,mkdir,writeFile,rm} from 'node:fs/promises';
 import {tmpdir} from 'node:os';
 import {join} from 'node:path';
 import {inflateSync,deflateSync} from 'node:zlib';
-import {compactPNG,refilterPNG} from '../scripts/compact-png.mjs';
+import {compactPNG,refilterPNG,compressPNG} from '../scripts/compact-png.mjs';
 import {compactGalleryArtwork} from '../scripts/gallery-artwork.mjs';
 
 function chunks(png){
@@ -25,6 +25,15 @@ test('source PNG compaction preserves every filtered pixel byte and metadata chu
 test('source PNG compaction rejects malformed input',()=>{
   assert.throws(()=>compactPNG(Buffer.from('not a PNG')),/signature/);
   assert.throws(()=>compactPNG(Buffer.from([137,80,78,71,13,10,26,10,0])),/Truncated/);
+});
+
+test('Zopfli compression reduces textured PNGs while retaining decoded samples and metadata',async()=>{
+  const original=await readFile(new URL('../examples/previews/held-by-the-tide.png',import.meta.url));
+  const before=refilterPNG(original),after=await compressPNG(original);
+  assert.ok(after.length<before.length-50000);
+  assert.deepEqual(decode(after),decode(original));
+  assert.deepEqual(metadata(after),metadata(original));
+  assert.deepEqual(await readFile(new URL('../examples/previews/held-by-the-tide.png',import.meta.url)),original);
 });
 
 // Independent decoder used to compare actual samples, rather than compressed

@@ -1,0 +1,40 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    89,
+    92
+  ],
+  "settleMs": 950,
+  "views": [
+    "whole",
+    "2.0x close"
+  ],
+  "singleMarkTest": 89,
+  "finalRefinement": [
+    90,
+    91,
+    92
+  ],
+  "earlyGuard": "8 inspection refused while7 completed; repeated once idle before further paint."
+}

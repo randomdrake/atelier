@@ -1,5 +1,23 @@
 [
 {
+  "id": "held-by-the-tide",
+  "title": "Held by the tide",
+  "description": "An original imagined sea otter floating among unequal kelp in blue-green water.",
+  "process": "92 animated watercolor and oil marks in 24 small batches, with 24 settled whole-and-close screenshot pairs, a final upper review, a single-mark eye reflection test and deliberate final refinement. Broad crossings closed the head and flipper holes; warm muzzle neighbors reduced heavy ears. Cool ripple covers added raised bars and crown repairs left scratches. Live from this laptop confirmed before opening; ended feed retained all 92 marks and 50 moments. Actual PNG and full replay exported. AI agent painted; randomdrake hosted. No paint-engine changes.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 92,
+  "moments": 50,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/held-by-the-tide/session.json",
+  "image": "/paintings/held-by-the-tide/finished.png",
+  "addedAt": "2026-11-11T23:12:35.569Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-11"
+},
+{
   "id": "a-cup-for-winter",
   "title": "A cup for winter",
   "description": "An ivory hellebore and a quieter nodding bloom rise above divided green leaves against a plum ground.",

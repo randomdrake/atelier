@@ -13,5 +13,8 @@
     "gallery:preview": "node scripts/preview-gallery.mjs",
     "build": "node scripts/build-live-site.mjs && node scripts/verify-live-artifact.mjs",
     "live:verify": "node scripts/verify-live-connection.mjs"
+  },
+  "devDependencies": {
+    "@gfx/zopfli": "1.0.15"
   }
 }

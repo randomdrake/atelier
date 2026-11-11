@@ -17672,5 +17672,125 @@
     "source": "Actual900\u00d7620PNG,23settled whole-close pairs,upper/lower reviews and exactraw88mark48moment ended-feed match. No engine changes or numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "held-by-the-tide",
+  "title": "Held by the tide",
+  "date": "2026-11-11",
+  "session": "examples/held-by-the-tide.json",
+  "finishedImage": "examples/previews/held-by-the-tide.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad curved body planes before fur, preserving open water and one compact eye reflection.",
+  "inspiration": {
+    "title": "Monterey Bay Aquarium sea otter account",
+    "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-otter",
+    "interpretation": "Original imagined sea otter floating among unequal kelp in blue-green water; full journal/catalogue checked, no sea otter subject or source found. Avocet considered and rejected after prior study found."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Broad bridging washes closed pale ground seams."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad crossing cheek planes filled the hollow hooked head."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Interior pass closed flipper hole; warm chest separates from dark wet flank."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Warm ear neighbors reduced dark discs; pale muzzle planes shortened the nose."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Small knuckle planes clarified folded paws; raised joins remain."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Cool ripple covers changed color but added raised neighboring bars; watercolor shadow barely read."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Sampled narrow continuations sharpened selected blunt kelp ends; left join retained elbow."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Crown locks mostly added pale scratches rather than rounding silhouette."
+    },
+    {
+      "afterStroke": 89,
+      "text": "Single eye reflection stayed compact."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Crown cover barely quieted raised scratches; final paw plane joined. Broad filled forms and open blue gaps hold; faceted head, blunt fronds, heavy flippers and regular bristles remain. Stopped without padding."
+    }
+  ],
+  "evidence": [
+    "examples/held-by-the-tide.json",
+    "examples/previews/held-by-the-tide.png",
+    "artifacts/held-by-the-tide/004-close.jpg",
+    "artifacts/held-by-the-tide/004-whole.jpg",
+    "artifacts/held-by-the-tide/008-close.jpg",
+    "artifacts/held-by-the-tide/008-whole.jpg",
+    "artifacts/held-by-the-tide/012-close.jpg",
+    "artifacts/held-by-the-tide/012-whole.jpg",
+    "artifacts/held-by-the-tide/016-close.jpg",
+    "artifacts/held-by-the-tide/016-whole.jpg",
+    "artifacts/held-by-the-tide/020-close.jpg",
+    "artifacts/held-by-the-tide/020-whole.jpg",
+    "artifacts/held-by-the-tide/024-close.jpg",
+    "artifacts/held-by-the-tide/024-whole.jpg",
+    "artifacts/held-by-the-tide/028-close.jpg",
+    "artifacts/held-by-the-tide/028-whole.jpg",
+    "artifacts/held-by-the-tide/032-close.jpg",
+    "artifacts/held-by-the-tide/032-whole.jpg",
+    "artifacts/held-by-the-tide/036-close.jpg",
+    "artifacts/held-by-the-tide/036-whole.jpg",
+    "artifacts/held-by-the-tide/040-close.jpg",
+    "artifacts/held-by-the-tide/040-whole.jpg",
+    "artifacts/held-by-the-tide/044-close.jpg",
+    "artifacts/held-by-the-tide/044-whole.jpg",
+    "artifacts/held-by-the-tide/048-close.jpg",
+    "artifacts/held-by-the-tide/048-whole.jpg",
+    "artifacts/held-by-the-tide/052-close.jpg",
+    "artifacts/held-by-the-tide/052-whole.jpg",
+    "artifacts/held-by-the-tide/056-close.jpg",
+    "artifacts/held-by-the-tide/056-whole.jpg",
+    "artifacts/held-by-the-tide/060-close.jpg",
+    "artifacts/held-by-the-tide/060-whole.jpg",
+    "artifacts/held-by-the-tide/064-close.jpg",
+    "artifacts/held-by-the-tide/064-whole.jpg",
+    "artifacts/held-by-the-tide/068-close.jpg",
+    "artifacts/held-by-the-tide/068-whole.jpg",
+    "artifacts/held-by-the-tide/072-close.jpg",
+    "artifacts/held-by-the-tide/072-whole.jpg",
+    "artifacts/held-by-the-tide/076-close.jpg",
+    "artifacts/held-by-the-tide/076-whole.jpg",
+    "artifacts/held-by-the-tide/080-close.jpg",
+    "artifacts/held-by-the-tide/080-whole.jpg",
+    "artifacts/held-by-the-tide/084-close.jpg",
+    "artifacts/held-by-the-tide/084-whole.jpg",
+    "artifacts/held-by-the-tide/088-close.jpg",
+    "artifacts/held-by-the-tide/088-whole.jpg",
+    "artifacts/held-by-the-tide/089-close.jpg",
+    "artifacts/held-by-the-tide/089-whole.jpg",
+    "artifacts/held-by-the-tide/092-close.jpg",
+    "artifacts/held-by-the-tide/092-whole.jpg",
+    "artifacts/held-by-the-tide/092-upper-full.jpg",
+    "artifacts/held-by-the-tide/live-receipt.json"
+  ],
+  "engineRevision": "f4fc6f92f12495606dfa5e554c6da5ba36dda5cb",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette otter calibration: build filled head oval from sampled broad planes, reserve small ears and compare broad muzzle neighbors against narrow covers; compare low-load water ripples against raised oil bars. Judge color and relief separately. Fresh subject/source next.",
+  "assessment": {
+    "source": "Actual900×620PNG,24settled whole-close pairs,upper review and exact92stroke50event ended-feed match. No numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

@@ -1,4 +1,6 @@
 import {inflateSync,deflateSync} from 'node:zlib';
+import zopfli from '@gfx/zopfli';
+import {createHash} from 'node:crypto';
 
 const signature=Buffer.from([137,80,78,71,13,10,26,10]);
 function crc32(bytes){
@@ -31,6 +33,37 @@ export function compactPNG(bytes){
     if(written)return [];written=true;return [chunk('IDAT',compressed)];
   })]);
   return result.length<bytes.length?result:bytes;
+}
+
+// Zopfli emits ordinary zlib/DEFLATE, readable by every PNG decoder. It
+// changes compression only, retaining the selected filters and all metadata.
+const compressionResults=new Map();
+export async function compressPNG(bytes){
+  // Downloads and gallery copies normally share the same original. Reuse
+  // their result within this build instead of doing the expensive work twice.
+  const key=createHash('sha256').update(bytes).digest('hex');
+  if(compressionResults.has(key))return compressionResults.get(key);
+  const pending=compressPNGOnce(bytes);compressionResults.set(key,pending);
+  try{return await pending;}catch(error){compressionResults.delete(key);throw error;}
+}
+async function compressPNGOnce(bytes){
+  const selected=refilterPNG(bytes),chunks=[],image=[];
+  for(let offset=8;offset<selected.length;){
+    const length=selected.readUInt32BE(offset),end=offset+length+12;
+    const type=selected.toString('ascii',offset+4,offset+8);
+    chunks.push({type,bytes:selected.subarray(offset,end)});
+    if(type==='IDAT')image.push(selected.subarray(offset+8,end-4));
+    offset=end;
+  }
+  const filtered=inflateSync(Buffer.concat(image));
+  const compressed=Buffer.from(await zopfli.zlibAsync(filtered,{numiterations:5}));
+  if(!inflateSync(compressed).equals(filtered))throw new Error('PNG compressor changed scanlines');
+  let written=false;
+  const output=Buffer.concat([signature,...chunks.flatMap(item=>{
+    if(item.type!=='IDAT')return[item.bytes];
+    if(written)return[];written=true;return[chunk('IDAT',compressed)];
+  })]);
+  return output.length<selected.length?output:selected;
 }
 
 function paeth(a,b,c){
