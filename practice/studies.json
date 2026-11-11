@@ -17319,5 +17319,121 @@
     "source": "Actual PNG,23 settled whole/close inspection pairs,corrected lower56 review,live notes and exact raw88mark49moment public ended-feed match. No paint engine changes or numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "the-husk-lets-go",
+  "title": "The husk lets go",
+  "date": "2026-11-11",
+  "session": "examples/the-husk-lets-go.json",
+  "finishedImage": "examples/previews/the-husk-lets-go.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build filled chestnut/husk planes with broad overlaps before sparse fine spines; reserve one compact reflection.",
+  "inspiration": {
+    "title": "Woodland Trust \u2014 sweet chestnut",
+    "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/sweet-chestnut/",
+    "interpretation": "Original imagined open green chestnut husk, two warm nuts and unequal leaf on blue linen. Full journal search found no chestnut study/source; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Bridge washes closed cream horizontal gaps; soft blue bands remain."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad pale lining and warm nut crossings closed the initial hollow blue ring."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Loaded8\u20139px lighter spines read more clearly than first thin pass, with tapered tips and uneven gaps."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Leaf teeth initially stayed inside broad leaf, then made loops; broad base crossings filled them. Raised joins remain."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Lower camera review showed joined soft contact, dull scar and raised shell patching; cropped crown/right edge, not a full-object close view."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Green/pale neighbors reduced dark split color but retained raised remnants."
+    },
+    {
+      "afterStroke": 97,
+      "text": "Single short loaded shoulder reflection survived whole view and stayed compact."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Final three neighbors quieted loose-nut light, leaf join and lower lining. Filled forms, separate nuts, sparse tapered spines and compact reflection hold; faceted crown, patchy shell planes, sparse serrations and regular bristles remain. Stopped because more covering chiefly builds relief."
+    }
+  ],
+  "evidence": [
+    "examples/the-husk-lets-go.json",
+    "examples/previews/the-husk-lets-go.png",
+    "artifacts/the-husk-lets-go/004-close.jpg",
+    "artifacts/the-husk-lets-go/008-close.jpg",
+    "artifacts/the-husk-lets-go/008-whole.jpg",
+    "artifacts/the-husk-lets-go/012-close.jpg",
+    "artifacts/the-husk-lets-go/012-whole.jpg",
+    "artifacts/the-husk-lets-go/016-close.jpg",
+    "artifacts/the-husk-lets-go/016-whole.jpg",
+    "artifacts/the-husk-lets-go/020-close.jpg",
+    "artifacts/the-husk-lets-go/020-whole.jpg",
+    "artifacts/the-husk-lets-go/024-close.jpg",
+    "artifacts/the-husk-lets-go/024-whole.jpg",
+    "artifacts/the-husk-lets-go/028-close.jpg",
+    "artifacts/the-husk-lets-go/028-whole.jpg",
+    "artifacts/the-husk-lets-go/032-close.jpg",
+    "artifacts/the-husk-lets-go/032-whole.jpg",
+    "artifacts/the-husk-lets-go/036-close.jpg",
+    "artifacts/the-husk-lets-go/036-whole.jpg",
+    "artifacts/the-husk-lets-go/040-close.jpg",
+    "artifacts/the-husk-lets-go/040-whole.jpg",
+    "artifacts/the-husk-lets-go/044-close.jpg",
+    "artifacts/the-husk-lets-go/044-whole.jpg",
+    "artifacts/the-husk-lets-go/048-close.jpg",
+    "artifacts/the-husk-lets-go/048-whole.jpg",
+    "artifacts/the-husk-lets-go/052-close.jpg",
+    "artifacts/the-husk-lets-go/052-whole.jpg",
+    "artifacts/the-husk-lets-go/056-close.jpg",
+    "artifacts/the-husk-lets-go/056-whole.jpg",
+    "artifacts/the-husk-lets-go/060-close.jpg",
+    "artifacts/the-husk-lets-go/060-whole.jpg",
+    "artifacts/the-husk-lets-go/064-close.jpg",
+    "artifacts/the-husk-lets-go/064-whole.jpg",
+    "artifacts/the-husk-lets-go/068-close.jpg",
+    "artifacts/the-husk-lets-go/068-whole.jpg",
+    "artifacts/the-husk-lets-go/072-close.jpg",
+    "artifacts/the-husk-lets-go/072-whole.jpg",
+    "artifacts/the-husk-lets-go/076-close.jpg",
+    "artifacts/the-husk-lets-go/076-whole.jpg",
+    "artifacts/the-husk-lets-go/080-close.jpg",
+    "artifacts/the-husk-lets-go/080-whole.jpg",
+    "artifacts/the-husk-lets-go/084-close.jpg",
+    "artifacts/the-husk-lets-go/084-lower.jpg",
+    "artifacts/the-husk-lets-go/084-whole.jpg",
+    "artifacts/the-husk-lets-go/088-close.jpg",
+    "artifacts/the-husk-lets-go/088-whole.jpg",
+    "artifacts/the-husk-lets-go/092-close.jpg",
+    "artifacts/the-husk-lets-go/092-whole.jpg",
+    "artifacts/the-husk-lets-go/096-close.jpg",
+    "artifacts/the-husk-lets-go/096-whole.jpg",
+    "artifacts/the-husk-lets-go/097-close.jpg",
+    "artifacts/the-husk-lets-go/097-whole.jpg",
+    "artifacts/the-husk-lets-go/100-close.jpg",
+    "artifacts/the-husk-lets-go/100-whole.jpg",
+    "artifacts/the-husk-lets-go/inspection-log.json",
+    "artifacts/the-husk-lets-go/live-receipt.json"
+  ],
+  "engineRevision": "4d31ec7eaa3fe311193af08b5784fba38cd4ca5f",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette chestnut calibration: broad sampled shell plane from outset, compare thin versus loaded8px spines, and reserve short split before lining. Judge color separately from raised relief. Build leaf teeth as filled wedges rather than outlines. Choose fresh subject/source next.",
+  "assessment": {
+    "source": "Actual900\u00d7620PNG,26 settled whole-close boundaries, lower84 review, live notes and raw100mark54event exact ended-feed match. No engine changes or numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

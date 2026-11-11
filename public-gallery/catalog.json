@@ -1,5 +1,23 @@
 [
 {
+  "id": "the-husk-lets-go",
+  "title": "The husk lets go",
+  "description": "An imagined open sweet-chestnut husk, two warm nuts and an unequal green leaf on blue linen.",
+  "process": "Painted live in 100 animated watercolor and oil marks, chosen in batches of one to four after 26 whole-and-close reviews. Broad overlaps filled the husk; sparse loaded spines and one compact reflection hold focus. The final three marks quieted the lining, leaf join and loose nut light. Raised joins, a faceted crown and patchy shell planes remain. The ended broadcast acknowledged all 100 marks and 54 moments. The first whole screenshot was viewed but not retained; an extra lower close view cropped the crown and right edge.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 100,
+  "moments": 54,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/the-husk-lets-go/session.json",
+  "image": "/paintings/the-husk-lets-go/finished.png",
+  "addedAt": "2026-11-11T20:08:24.377Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-11"
+},
+{
   "id": "where-the-sand-keeps-quiet",
   "title": "Where the sand keeps quiet",
   "description": "An imagined American badger crossing pale sand among unequal grass clusters.",

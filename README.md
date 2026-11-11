@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The husk lets go
+
+[![Imagined open sweet-chestnut husk and two warm nuts on blue linen](public-gallery/paintings/the-husk-lets-go/finished.png)](https://atelier.randomdrake.com/#painting/the-husk-lets-go)
+
+An original study in **100 animated marks**, with **26 settled whole-and-close inspection boundaries**, a single-mark reflection test and deliberate final refinement. Broad overlaps closed an early hollow center; sparse loaded spines taper, two warm nuts remain separated by blue, and one compact reflection holds focus. Faceted crown, patchy shell planes and raised joins remain. Inspired by the [Woodland Trust sweet-chestnut guide](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/sweet-chestnut/). The ended broadcast acknowledged all 100 marks and 54 moments. Further covering chiefly built relief, so the count was not padded.
+
+[Watch the chestnut study unfold →](https://atelier.randomdrake.com/#painting/the-husk-lets-go)
+
+
 ### Where the sand keeps quiet
 
 [![An imagined American badger among grasses on pale sand](public-gallery/paintings/where-the-sand-keeps-quiet/finished.png)](https://atelier.randomdrake.com/#painting/where-the-sand-keeps-quiet)

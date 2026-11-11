@@ -2,7 +2,7 @@ import {readdir,readFile,stat} from 'node:fs/promises';
 import {execFileSync} from 'node:child_process';
 import {join} from 'node:path';
 import assert from 'node:assert/strict';
-import {gunzipSync} from 'node:zlib';
+import {brotliDecompressSync} from 'node:zlib';
 import {pathToFileURL} from 'node:url';
 import {root} from './add-gallery-painting.mjs';
 
@@ -10,7 +10,7 @@ const output=join(root,'dist');
 const documents=(await import(pathToFileURL(join(root,'hosting/generated/gallery-json.js')).href)).default;
 async function publicFile(path){
   const key='/'+path.replace(/^\//,'');
-  return Object.hasOwn(documents,key)?gunzipSync(Buffer.from(documents[key],'base64')):readFile(join(output,'client',path));
+  return Object.hasOwn(documents,key)?brotliDecompressSync(Buffer.from(documents[key],'base64')):readFile(join(output,'client',path));
 }
 const config=JSON.parse(await readFile(join(output,'.openai/hosting.json'),'utf8'));
 assert.equal(config.project_id,'appgprj_6acef2a547908191b9a135eb3eab25da');

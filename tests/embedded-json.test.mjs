@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {gzipSync,gunzipSync} from 'node:zlib';
+import {brotliCompressSync,brotliDecompressSync} from 'node:zlib';
 import {mkdtemp,mkdir,writeFile,readFile,rm} from 'node:fs/promises';
 import {tmpdir} from 'node:os';
 import {join} from 'node:path';
@@ -9,7 +9,7 @@ import {embedGalleryJSON} from '../scripts/embed-gallery-json.mjs';
 
 test('embedded public JSON retains complete data and stable URLs for GET and HEAD',async()=>{
   const text=JSON.stringify({title:'Café — 渡り',strokes:[{points:[[.1,.2,.3]]}],humanRating:null});
-  const documents={'/paintings/test/session.json':gzipSync(text).toString('base64')};
+  const documents={'/paintings/test/session.json':brotliCompressSync(text).toString('base64')};
   const response=embeddedJSONResponse(new Request('https://example.com/paintings/test/session.json?v=1'),documents);
   assert.equal(await response.text(),text);
   assert.match(response.headers.get('content-type'),/^application\/json/);
@@ -27,7 +27,7 @@ test('build embeds all catalogue sessions and journal losslessly while keeping s
     await writeFile(join(root,'original.json'),files['paintings/test/session.json']);
     const documents=await embedGalleryJSON({root,staging});
     for(const [path,text]of Object.entries(files)){
-      assert.equal(gunzipSync(Buffer.from(documents['/'+path],'base64')).toString(),text);
+      assert.equal(brotliDecompressSync(Buffer.from(documents['/'+path],'base64')).toString(),text);
       await assert.rejects(readFile(join(staging,path)),{code:'ENOENT'});
     }
     assert.equal(await readFile(join(root,'original.json'),'utf8'),files['paintings/test/session.json']);
