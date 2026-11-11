@@ -1,0 +1,1 @@
+Previous current studio canvas exported before clearing: actual browser PNG and complete12mark replay JSON. This is the restored local studio state, not the previous published88mark butter-stamp finished artwork. Portable fields transferred in bounded50k chunks and reconstructed lengths verified.

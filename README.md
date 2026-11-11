@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The turn before morning
+
+[![Wooden coffee grinder and three beans on green linen](public-gallery/paintings/the-turn-before-morning/finished.png)](https://atelier.randomdrake.com/#painting/the-turn-before-morning)
+
+An imagined wooden coffee grinder in **88 animated marks**, with **23 settled whole-and-close inspection pairs** and a deliberate final refinement. Broad round passes filled the box; sampled hopper and bean curves, open green air beneath the crank and one compact reflection hold the study. Thin and loaded scratch repairs left raised patches; the lower pan attempt did not move. Inspired by the [Smithsonian coffee mill record](https://www.si.edu/object/coffee-mill%3Anmah_315243). The ended broadcast acknowledged all 88 marks and 51 moments; further repairs chiefly added relief, so the count was not padded.
+
+[Watch the grinder take shape →](https://atelier.randomdrake.com/#painting/the-turn-before-morning)
+
 ### The grain remembers a flower
 
 [![Carved wooden butter stamp and pale butter pat on blue linen](public-gallery/paintings/the-grain-remembers-a-flower/finished.png)](https://atelier.randomdrake.com/#painting/the-grain-remembers-a-flower)

@@ -16994,5 +16994,105 @@
     "source": "Actual PNG, 23 emitted settled whole/close pairs, upper52, live notes and ended-feed exact88mark50moment raw-export match. Lower71 framing/pan limitation recorded. No engine changes or numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "the-turn-before-morning",
+  "title": "The turn before morning",
+  "date": "2026-11-11",
+  "session": "examples/the-turn-before-morning.json",
+  "finishedImage": "examples/previews/the-turn-before-morning.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Broad value planes before small seams, open green space beneath the crank, one compact metal reflection.",
+  "inspiration": {
+    "source": "Smithsonian coffee mill collection record; original imagined wooden box grinder and three beans on green linen.",
+    "url": "https://www.si.edu/object/coffee-mill%3Anmah_315243"
+  },
+  "observations": [
+    {
+      "afterStroke": 16,
+      "text": "Broad round crossings filled the front after nominal115px flat brush made narrow rails."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Sampled shoulder arc rounded hopper crown and long crank preserved open green air below."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Sampled curves and unequal clefts made three beans less rectangular. Lower close view cut most beans; attempted drag did not pan."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Low-body wood neighbors changed little; loaded covers reduced scratch color but made raised patches and left a lower metal crescent."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final refinement seated spindle and shortened corner light. Compact hopper reflection survives whole view, soft early shadow remains. Faceted wood edges, scratched relief and regular bristles remain; further corrections chiefly add relief, stopped without padding."
+    }
+  ],
+  "evidence": [
+    "examples/the-turn-before-morning.json",
+    "examples/previews/the-turn-before-morning.png",
+    "artifacts/the-turn-before-morning/004-close.jpg",
+    "artifacts/the-turn-before-morning/004-whole.jpg",
+    "artifacts/the-turn-before-morning/008-close.jpg",
+    "artifacts/the-turn-before-morning/008-whole.jpg",
+    "artifacts/the-turn-before-morning/012-close.jpg",
+    "artifacts/the-turn-before-morning/012-whole.jpg",
+    "artifacts/the-turn-before-morning/016-close.jpg",
+    "artifacts/the-turn-before-morning/016-whole.jpg",
+    "artifacts/the-turn-before-morning/020-close.jpg",
+    "artifacts/the-turn-before-morning/020-whole.jpg",
+    "artifacts/the-turn-before-morning/024-close.jpg",
+    "artifacts/the-turn-before-morning/024-whole.jpg",
+    "artifacts/the-turn-before-morning/028-close.jpg",
+    "artifacts/the-turn-before-morning/028-whole.jpg",
+    "artifacts/the-turn-before-morning/032-close.jpg",
+    "artifacts/the-turn-before-morning/032-whole.jpg",
+    "artifacts/the-turn-before-morning/036-close.jpg",
+    "artifacts/the-turn-before-morning/036-whole.jpg",
+    "artifacts/the-turn-before-morning/040-close.jpg",
+    "artifacts/the-turn-before-morning/040-whole.jpg",
+    "artifacts/the-turn-before-morning/044-close.jpg",
+    "artifacts/the-turn-before-morning/044-upper.jpg",
+    "artifacts/the-turn-before-morning/044-whole.jpg",
+    "artifacts/the-turn-before-morning/048-close.jpg",
+    "artifacts/the-turn-before-morning/048-whole.jpg",
+    "artifacts/the-turn-before-morning/052-close.jpg",
+    "artifacts/the-turn-before-morning/052-whole.jpg",
+    "artifacts/the-turn-before-morning/056-close.jpg",
+    "artifacts/the-turn-before-morning/056-whole.jpg",
+    "artifacts/the-turn-before-morning/060-close.jpg",
+    "artifacts/the-turn-before-morning/060-whole.jpg",
+    "artifacts/the-turn-before-morning/064-beans-pan.jpg",
+    "artifacts/the-turn-before-morning/064-close.jpg",
+    "artifacts/the-turn-before-morning/064-lower.jpg",
+    "artifacts/the-turn-before-morning/064-whole.jpg",
+    "artifacts/the-turn-before-morning/068-close.jpg",
+    "artifacts/the-turn-before-morning/068-whole.jpg",
+    "artifacts/the-turn-before-morning/072-close.jpg",
+    "artifacts/the-turn-before-morning/072-whole.jpg",
+    "artifacts/the-turn-before-morning/076-close.jpg",
+    "artifacts/the-turn-before-morning/076-whole.jpg",
+    "artifacts/the-turn-before-morning/080-close.jpg",
+    "artifacts/the-turn-before-morning/080-whole.jpg",
+    "artifacts/the-turn-before-morning/081-close.jpg",
+    "artifacts/the-turn-before-morning/081-whole.jpg",
+    "artifacts/the-turn-before-morning/084-close.jpg",
+    "artifacts/the-turn-before-morning/084-whole.jpg",
+    "artifacts/the-turn-before-morning/088-close.jpg",
+    "artifacts/the-turn-before-morning/088-whole.jpg",
+    "artifacts/the-turn-before-morning/inspection-log.json",
+    "artifacts/the-turn-before-morning/live-receipt.json"
+  ],
+  "engineRevision": "6369aff3136234f57fd58aff55c1e342d92e6ace",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette wood box calibration: compare broad round versus flat strokes at matched visible width. Reserve sparse grain as broken mid-value planes from outset, versus late narrow lines; judge color and relief separately. Keep early watercolor contact. Choose fresh subject/source.",
+  "assessment": {
+    "source": "Actual PNG,23 settled whole/close pairs,upper 44/lower 64 reviews,live notes, exact raw88mark 51moment ended-feed match. Unsuccessful pan documented. No engine changes or numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

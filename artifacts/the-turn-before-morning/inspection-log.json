@@ -1,0 +1,39 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    81,
+    84,
+    88
+  ],
+  "upper": 44,
+  "lower": 64,
+  "panAttempt": 64,
+  "panSucceeded": false,
+  "finalRefinement": [
+    85,
+    86,
+    87,
+    88
+  ],
+  "firstPair": "First framing retries completed before mark5; saved whole/close pair replaced by settled captures.",
+  "humanRating": null
+}
