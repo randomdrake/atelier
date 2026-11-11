@@ -11,6 +11,7 @@ dist/
 .wrangler/
 .vinext/
 hosting/public/
+hosting/generated/
 
 .dev.vars*
 

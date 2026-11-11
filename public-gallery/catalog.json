@@ -1,5 +1,23 @@
 [
 {
+  "id": "small-traveler-in-the-leaf-hush",
+  "title": "Small traveler in the leaf hush",
+  "description": "An imagined hedgehog crossing green moss and two warm fallen leaves.",
+  "process": "112 animated watercolor and oil marks in 29 batches; 29 settled whole/close inspection boundaries, lower and upper focus reviews, a single eye-light test and final refinement. Broad overlaps filled the body; fine uneven tips kept warm gaps. Raised repairs, faceted back and pointed moss remain. Initial framing and failed pans recorded truthfully in creation metadata; notes posted live.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 64,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/small-traveler-in-the-leaf-hush/session.json",
+  "image": "/paintings/small-traveler-in-the-leaf-hush/finished.png",
+  "addedAt": "2026-11-11T18:08:12.042Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-11"
+},
+{
   "id": "the-turn-before-morning",
   "title": "The turn before morning",
   "description": "An imagined wooden coffee grinder and three unequal beans on muted green linen.",

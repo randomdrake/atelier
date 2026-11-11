@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Small traveler in the leaf hush
+
+[![An imagined hedgehog crossing moss and fallen leaves](public-gallery/paintings/small-traveler-in-the-leaf-hush/finished.png)](https://atelier.randomdrake.com/#painting/small-traveler-in-the-leaf-hush)
+
+An original study in **112 animated marks**, with **29 settled whole-and-close inspection boundaries** and deliberate final refinement. Broad overlaps filled the body; fine uneven spine tips, a joined muzzle and one compact eye light hold focus. Sampled leaf curls rounded early folds. Raised ear and repair joins, faceted back and pointed moss remain. Inspired by the [Woodland Trust hedgehog account](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/animals/mammals/hedgehog/). The ended broadcast acknowledged all 112 marks and 64 moments; camera framing and failed pan limitations are recorded in the replay provenance.
+
+[Watch the traveler take shape →](https://atelier.randomdrake.com/#painting/small-traveler-in-the-leaf-hush)
+
 ### The turn before morning
 
 [![Wooden coffee grinder and three beans on green linen](public-gallery/paintings/the-turn-before-morning/finished.png)](https://atelier.randomdrake.com/#painting/the-turn-before-morning)

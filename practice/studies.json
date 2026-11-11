@@ -17094,5 +17094,123 @@
     "source": "Actual PNG,23 settled whole/close pairs,upper 44/lower 64 reviews,live notes, exact raw88mark 51moment ended-feed match. Unsuccessful pan documented. No engine changes or numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "small-traveler-in-the-leaf-hush",
+  "title": "Small traveler in the leaf hush",
+  "date": "2026-11-11",
+  "session": "examples/small-traveler-in-the-leaf-hush.json",
+  "finishedImage": "examples/previews/small-traveler-in-the-leaf-hush.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Establish a solid warm body with broad passes, then sparse directional spines while keeping the face and one compact eye light focal.",
+  "inspiration": {
+    "source": "Woodland Trust hedgehog account; original imagined hedgehog crossing moss and two fallen leaves. Full archive search found no hedgehog or prior use of this source.",
+    "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/animals/mammals/hedgehog/"
+  },
+  "observations": [
+    {
+      "afterStroke": 16,
+      "text": "Broad overlaps closed the upper hollow while the belly stayed filled; back remained faceted."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Tapered muzzle pass joined a detached nose. Ear color muted, raised rim remained."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Fine uneven spine tips read lighter than early thick accents; gaps preserve the warm body."
+    },
+    {
+      "afterStroke": 85,
+      "text": "Single compact eye light survived whole view with a dark surround."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Sampled leaf curls rounded the first angular folds. Shoulder neighbors reduced scratch color but built raised joins."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final refinement muted the leaf light and shortened a blunt crown accent. Broad mass, soft contact and eye focus remain; faceted back, raised ear, pointed moss, regular bristles persist. Stop before further covering mainly adds relief."
+    }
+  ],
+  "evidence": [
+    "examples/small-traveler-in-the-leaf-hush.json",
+    "examples/previews/small-traveler-in-the-leaf-hush.png",
+    "artifacts/small-traveler-in-the-leaf-hush/004-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/004-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/008-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/008-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/012-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/012-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/016-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/016-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/020-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/020-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/024-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/024-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/028-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/028-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/032-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/032-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/036-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/036-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/040-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/040-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/044-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/044-upper.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/044-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/048-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/048-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/052-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/052-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/056-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/056-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/060-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/060-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/064-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/064-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/068-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/068-lower.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/068-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/072-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/072-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/076-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/076-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/080-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/080-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/084-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/084-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/085-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/085-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/088-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/088-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/092-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/092-face-pan.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/092-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/096-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/096-upper.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/096-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/100-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/100-face-pan.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/100-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/104-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/104-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/108-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/108-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/112-close.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/112-whole.jpg",
+    "artifacts/small-traveler-in-the-leaf-hush/inspection-log.json",
+    "artifacts/small-traveler-in-the-leaf-hush/live-receipt.json"
+  ],
+  "engineRevision": "a8373724944c95dc8bcb25f1223566bd8b861af6",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette hedgehog calibration: compare broad round silhouette sampled with at least eight points versus a three-point shoulder. Compare 8px uneven tips against 18px tips at equal visible contrast; reserve a small ear from outset. Judge whole-view texture and relief separately. Use camera focus controls before close reviews; verify pan actually moves. Choose fresh subject and source next run.",
+  "assessment": {
+    "source": "Actual PNG, 29 settled whole/close inspection boundaries, lower68 and upper96 focus reviews, live notes, exact112mark64moment raw ended-feed match. Failed pans and initial framing limitations documented; no engine changes or numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

@@ -2,20 +2,30 @@ import {readdir,readFile,stat} from 'node:fs/promises';
 import {execFileSync} from 'node:child_process';
 import {join} from 'node:path';
 import assert from 'node:assert/strict';
+import {gunzipSync} from 'node:zlib';
+import {pathToFileURL} from 'node:url';
 import {root} from './add-gallery-painting.mjs';
 
 const output=join(root,'dist');
+const documents=(await import(pathToFileURL(join(root,'hosting/generated/gallery-json.js')).href)).default;
+async function publicFile(path){
+  const key='/'+path.replace(/^\//,'');
+  return Object.hasOwn(documents,key)?gunzipSync(Buffer.from(documents[key],'base64')):readFile(join(output,'client',path));
+}
 const config=JSON.parse(await readFile(join(output,'.openai/hosting.json'),'utf8'));
 assert.equal(config.project_id,'appgprj_6acef2a547908191b9a135eb3eab25da');
 assert.equal(config.r2,'BUCKET');assert.equal(config.static,undefined);
 await readFile(join(output,'server/index.js'));
-for(const file of ['viewer.js','date-time.js','live.js','live-status.js','camera.js','live-camera.js','thought-links.js','catalog.json','gallery.css','source.zip'])await readFile(join(output,'client',file));
-const catalog=JSON.parse(await readFile(join(output,'client/catalog.json'),'utf8'));
+for(const file of ['viewer.js','date-time.js','live.js','live-status.js','camera.js','live-camera.js','thought-links.js','catalog.json','gallery.css','source.zip'])await publicFile(file);
+const catalog=JSON.parse(await publicFile('catalog.json'));
 for(const entry of catalog){
   await readFile(join(output,'client',entry.image));
-  await readFile(join(output,'client',entry.session));
+  assert.deepEqual(JSON.parse(await publicFile(entry.session)),JSON.parse(await readFile(join(root,'public-gallery',entry.session))));
   await readFile(join(output,'client/replay-engine',entry.engine,'engine.js'));
 }
+assert.deepEqual(JSON.parse(await publicFile('practice/studies.json')),JSON.parse(await readFile(join(root,'practice/studies.json'))));
+assert.deepEqual(JSON.parse(await publicFile('catalog.json')),JSON.parse(await readFile(join(root,'public-gallery/catalog.json'))));
+assert.equal(Object.keys(documents).length,catalog.length+2);
 let secret;
 try{process.loadEnvFile(join(root,'.env.live'));secret=process.env.ATELIER_BROADCAST_TOKEN;}
 catch(error){if(error.code!=='ENOENT')throw error;}
