@@ -1,0 +1,44 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    92,
+    96,
+    97,
+    100
+  ],
+  "views": [
+    "whole",
+    "close"
+  ],
+  "limitations": [
+    "Centered close crops the outer head frill, snout end and tail; whole views contain the full study.",
+    "An upper-focus note at40 reset during painting; correction published at44.",
+    "An extra whole-camera request following20 was issued before confirming idle; the saved20 pair was repeated after At rest. No completed marks were discarded."
+  ],
+  "finalRefinement": [
+    98,
+    99,
+    100
+  ]
+}

@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-leaf-that-learned-to-drift",
+  "title": "A leaf that learned to drift",
+  "description": "A leafy sea dragon drifts above sparse seagrass in blue-green water, its ochre curve carrying unequal green frills and a tiny eye light.",
+  "process": "Painted live in 100 animated watercolor and oil marks, with 26 whole-and-close reviews. Broad overlaps filled the trunk and head before leaf frills. Muted ribs follow the body; fine oil grasses survived where watercolor faded. Blue edge cuts read as scratches and were covered, leaving raised patches. A single eye reflection preceded three final refinements. The final review keeps angular tips and regular bristle texture.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 100,
+  "moments": 53,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-leaf-that-learned-to-drift/session.json",
+  "image": "/paintings/a-leaf-that-learned-to-drift/finished.png",
+  "addedAt": "2026-11-11T21:14:30.885Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-11"
+},
+{
   "id": "the-husk-lets-go",
   "title": "The husk lets go",
   "description": "An imagined open sweet-chestnut husk, two warm nuts and an unequal green leaf on blue linen.",

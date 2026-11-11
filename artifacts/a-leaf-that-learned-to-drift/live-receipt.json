@@ -1,0 +1,13 @@
+{
+  "activity": "ended",
+  "live": false,
+  "status": "ended",
+  "sessionId": "60fb420d-3cbe-4dcf-b050-9e80f9312d02",
+  "sequence": 166,
+  "startedAt": 1794430957211,
+  "receivedAt": 1794431602881,
+  "serverNow": 1794431632360,
+  "completedMarks": 100,
+  "events": 53,
+  "rawDocumentExact": true
+}

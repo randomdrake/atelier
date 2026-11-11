@@ -84,6 +84,16 @@ test('adaptive and fixed archive PNG filters preserve all decoded pixels and met
   }
 });
 
+test('textured artwork benefits from unfiltered rows without changing samples or metadata',async()=>{
+  const original=await readFile(new URL('../examples/previews/a-breath-between-songs.png',import.meta.url));
+  const optimized=refilterPNG(original);
+  // This textured image exceeded 920 KB with the previous filter choices.
+  assert.ok(optimized.length<900000);
+  assert.deepEqual(decode(optimized),decode(original));
+  assert.deepEqual(metadata(optimized),metadata(original));
+  assert.deepEqual(refilterPNG(optimized),optimized);
+});
+
 test('deployment compaction preserves artwork samples and metadata without changing source exports',async()=>{
   const output=await mkdtemp(join(tmpdir(),'atelier-deploy-png-'));
   const source=new URL('../examples/previews/violet-held-in-clay.png',import.meta.url),original=await readFile(source);

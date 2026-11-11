@@ -38,7 +38,7 @@ function paeth(a,b,c){
   return da<=db&&da<=dc?a:db<=dc?b:c;
 }
 
-// Compare adaptive and fixed Sub/Up row filters after DEFLATE. A locally
+// Compare adaptive and all five fixed row filters after DEFLATE. A locally
 // smaller residual score need not produce the smallest complete stream.
 // Fully opaque RGBA can also use RGB storage without changing decoded pixels.
 // Original exports stay untouched; only IHDR's color type may change.
@@ -75,26 +75,24 @@ export function refilterPNG(bytes){
     const ihdr=chunks.find(c=>c.type==='IHDR');const data=Buffer.from(ihdr.data);data[9]=2;
     ihdr.bytes=chunk('IHDR',data);
   }
-  const result=Buffer.alloc((stride+1)*height),sub=Buffer.alloc(result.length),up=Buffer.alloc(result.length);
+  const result=Buffer.alloc((stride+1)*height);
+  const fixed=Array.from({length:5},()=>Buffer.alloc(result.length));
   for(let y=0;y<height;y++){
     const start=y*(stride+1),row=y*stride;
-    sub[start]=1;up[start]=2;
-    for(let x=0;x<stride;x++){
-      sub[start+1+x]=(pixels[row+x]-(x>=channels?pixels[row+x-channels]:0))&255;
-      up[start+1+x]=(pixels[row+x]-(y?pixels[row+x-stride]:0))&255;
-    }
     let bestScore=Infinity;
     for(let candidate=0;candidate<5;candidate++){
       const values=Buffer.alloc(stride);let score=0;
+      fixed[candidate][start]=candidate;
       for(let x=0;x<stride;x++){
         const a=x>=channels?pixels[row+x-channels]:0,b=y?pixels[row+x-stride]:0,c=y&&x>=channels?pixels[row+x-stride-channels]:0;
         const value=(pixels[row+x]-predictor(candidate,a,b,c))&255;values[x]=value;score+=Math.min(value,256-value);
       }
+      values.copy(fixed[candidate],start+1);
       if(score<bestScore){bestScore=score;result[start]=candidate;values.copy(result,start+1);}
     }
   }
   let compressed=deflateSync(result,{level:9});
-  for(const candidate of [sub,up]){
+  for(const candidate of fixed){
     const encoded=deflateSync(candidate,{level:9});
     if(encoded.length<compressed.length)compressed=encoded;
   }

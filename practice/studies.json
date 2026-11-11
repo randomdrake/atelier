@@ -17435,5 +17435,121 @@
     "source": "Actual900\u00d7620PNG,26 settled whole-close boundaries, lower84 review, live notes and raw100mark54event exact ended-feed match. No engine changes or numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "a-leaf-that-learned-to-drift",
+  "title": "A leaf that learned to drift",
+  "date": "2026-11-11",
+  "session": "examples/a-leaf-that-learned-to-drift.json",
+  "finishedImage": "examples/previews/a-leaf-that-learned-to-drift.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Continuous curved body, filled unequal leaf lobes and open water windows.",
+  "inspiration": {
+    "title": "Aquarium of the Pacific — Leafy Seadragon",
+    "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/leafy_seadragon",
+    "interpretation": "Original imagined leafy sea dragon suspended diagonally above sparse seagrass in blue-green water; no finished composition copied. Journal searched for sea dragon/seadragon before choosing."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Broad bridging washes closed pale horizontal seams; quiet water bands remain."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Crossing broad head pass closed a blue hollow. Filled trunk and unequal leaves retain blue windows."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Sampled upper body plane follows curve more smoothly than three-point tips. Broad olive underside neighbor reduced dark stripe but left textured seam."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Watercolor margin grasses nearly vanished; narrow oil blades survived whole view without competing with head."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Blue edge cuts landed inside leaves as raised scratches. Green neighbors reduced blue but left relief."
+    },
+    {
+      "afterStroke": 96,
+      "text": "Broader planes covered blue remnants more completely. Subtle watercolor fin did not read; joined muted oil plane connected lone bright root."
+    },
+    {
+      "afterStroke": 97,
+      "text": "Single tiny eye reflection remained within dark eye and survived whole view."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Final three refinements quieted fin brightness, lower-frill root and one rib end. Joined trunk, filled frills and open blue windows hold. Faceted leaf tips, raised patches, regular ribs and bristles remain; further covers mainly add relief."
+    }
+  ],
+  "evidence": [
+    "examples/a-leaf-that-learned-to-drift.json",
+    "examples/previews/a-leaf-that-learned-to-drift.png",
+    "artifacts/a-leaf-that-learned-to-drift/004-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/004-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/008-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/008-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/012-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/012-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/016-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/016-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/020-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/020-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/024-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/024-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/028-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/028-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/032-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/032-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/036-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/036-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/040-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/040-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/044-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/044-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/048-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/048-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/052-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/052-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/056-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/056-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/060-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/060-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/064-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/064-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/068-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/068-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/072-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/072-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/076-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/076-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/080-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/080-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/084-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/084-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/088-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/088-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/092-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/092-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/096-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/096-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/097-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/097-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/100-close.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/100-whole.jpg",
+    "artifacts/a-leaf-that-learned-to-drift/inspection-log.json",
+    "artifacts/a-leaf-that-learned-to-drift/live-receipt.json"
+  ],
+  "engineRevision": "beb1a8f38c197407bd330e1642102015cd4fb71a",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette sea-dragon calibration: compare eight-point filled lobes with three-point paddles; reserve notches as negative space from outset rather than painting blue cuts late. Compare a soft fin plane with its root before adding highlights. Judge color and relief separately. Choose fresh subject/source next.",
+  "assessment": {
+    "source": "Actual900×620PNG,26 settled whole-close screenshot pairs,live notes and exact raw100mark53moment ended-feed match. No paintengine changes or numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]
