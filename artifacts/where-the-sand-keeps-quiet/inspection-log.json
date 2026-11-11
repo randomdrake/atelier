@@ -1,0 +1,38 @@
+{
+  "boundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    77,
+    80,
+    84,
+    88
+  ],
+  "batches": 23,
+  "method": "Every next 1–4-mark batch chosen after inspecting saved settled whole and close screenshots. Single77 eye-light test; 3-mark78–80 batch. Displayed zoom reached Whole painting/Looking closer 2.0x before saved pair.",
+  "extraLower": 56,
+  "failedLower": 52,
+  "finalRefinement": [
+    85,
+    86,
+    87,
+    88
+  ],
+  "limitations": "First four-mark whole framing was adjusted before mark 5; saved whole/close pair includes the canvas. Centered close views crop the nose and feet. Extra lower52 screenshot captured controls, not canvas; a premature lower-view statement was explicitly corrected in the live note at56. The properly framed lower56 review shows feet/contact and crops crown. Browser storage full/unavailable; full actual PNG and JSON exported via length-verified 50k chunks. No upper or successful face pan claimed."
+}

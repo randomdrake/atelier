@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Where the sand keeps quiet
+
+[![An imagined American badger among grasses on pale sand](public-gallery/paintings/where-the-sand-keeps-quiet/finished.png)](https://atelier.randomdrake.com/#painting/where-the-sand-keeps-quiet)
+
+An original study in **88 animated marks**, with **23 settled whole-and-close inspection pairs** and deliberate final refinement. Broad overlaps kept the body filled, a joined muzzle and clear facial stripe lead to one compact eye reflection, and sampled grass curves stay rounder than the first angular stems. Raised repairs, a faceted crown, heavy ear and hooked lip remain. Inspired by the [NPS White Sands badger account](https://www.nps.gov/whsa/learn/nature/american-badger.htm). Ended broadcast acknowledged all 88 marks and 49 moments; a failed lower screenshot and its live correction are recorded. Further covering chiefly added relief, so the count was not padded.
+
+[Watch the badger take shape →](https://atelier.randomdrake.com/#painting/where-the-sand-keeps-quiet)
+
 ### Small traveler in the leaf hush
 
 [![An imagined hedgehog crossing moss and fallen leaves](public-gallery/paintings/small-traveler-in-the-leaf-hush/finished.png)](https://atelier.randomdrake.com/#painting/small-traveler-in-the-leaf-hush)

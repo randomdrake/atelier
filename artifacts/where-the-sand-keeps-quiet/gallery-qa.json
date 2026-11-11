@@ -1,0 +1,23 @@
+{
+  "finishedImage": {
+    "width": 900,
+    "height": 620,
+    "loaded": true
+  },
+  "narratedReplay": "4x brush settings and notes observed",
+  "pause": "mark8 stable across separate tool calls",
+  "resume": "Continue control exercised",
+  "returnToFinished": true,
+  "expandedNotes": true,
+  "phone": {
+    "viewport": 390,
+    "document": 390,
+    "dialog": 350,
+    "dialogScroll": 350
+  },
+  "tests": 109,
+  "syntax": "passed",
+  "fullBuild": "passed;149 paintings; all replay/sourceJSON/privacy verification",
+  "payloadBytes": 264796182,
+  "headroomBytes": 3639274
+}

@@ -1,5 +1,23 @@
 [
 {
+  "id": "where-the-sand-keeps-quiet",
+  "title": "Where the sand keeps quiet",
+  "description": "An imagined American badger crossing pale sand among unequal grass clusters.",
+  "process": "88 animated watercolor/oil marks in 23 batches with settled whole/close inspections; single-mark 77 eye test, corrected lower review at 56 and final refinement at 85–88. Live notes describe filled body planes, joined muzzle, curved grasses and remaining raised repairs. Ended public feed exactly matched all 88 marks and 49 moments; no physics changes.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 49,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/where-the-sand-keeps-quiet/session.json",
+  "image": "/paintings/where-the-sand-keeps-quiet/finished.png",
+  "addedAt": "2026-11-11T19:12:39.993Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-11"
+},
+{
   "id": "small-traveler-in-the-leaf-hush",
   "title": "Small traveler in the leaf hush",
   "description": "An imagined hedgehog crossing green moss and two warm fallen leaves.",

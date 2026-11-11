@@ -17212,5 +17212,112 @@
     "source": "Actual PNG, 29 settled whole/close inspection boundaries, lower68 and upper96 focus reviews, live notes, exact112mark64moment raw ended-feed match. Failed pans and initial framing limitations documented; no engine changes or numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "where-the-sand-keeps-quiet",
+  "title": "Where the sand keeps quiet",
+  "date": "2026-11-11",
+  "session": "examples/where-the-sand-keeps-quiet.json",
+  "finishedImage": "examples/previews/where-the-sand-keeps-quiet.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build a solid low body with long curved gray planes; preserve a clear facial stripe, sparse directional fur and one compact eye light.",
+  "inspiration": {
+    "source": "NPS White Sands American badger account; original imagined badger crossing pale sand among unequal grass clusters. Full journal and catalogue search found no badger or prior source use.",
+    "url": "https://www.nps.gov/whsa/learn/nature/american-badger.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Broad overlaps filled the body without an interior slit; crown remained faceted."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Broad lower muzzle joined the detached nose; ear interior lightened but its heavy rim remained."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Sampled multi-point grass curves appeared rounder than first three-point angular stems."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Properly framed lower review showed four separated feet, selective claw tips and soft contact. Lower52 controls-only screenshot and premature claim corrected in live note."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Pale muzzle neighbors reduced dark mouth color but left hooked lip and raised patches; tail-root covers also left relief."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Single compact eye reflection survived whole view within the dark cheek band."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final refinement muted ear/fur joins and low grass tips. Broad filled body, clear facial stripe and quiet eye hold focus; faceted crown, heavy ear, hooked lip and regular bristles remain. Stopped88 because further covers chiefly added relief, without padding toward112."
+    }
+  ],
+  "evidence": [
+    "examples/where-the-sand-keeps-quiet.json",
+    "examples/previews/where-the-sand-keeps-quiet.png",
+    "artifacts/where-the-sand-keeps-quiet/004-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/004-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/008-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/008-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/012-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/012-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/016-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/016-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/020-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/020-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/024-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/024-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/028-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/028-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/032-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/032-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/036-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/036-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/040-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/040-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/044-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/044-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/048-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/048-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/052-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/052-lower.jpg",
+    "artifacts/where-the-sand-keeps-quiet/052-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/056-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/056-lower.jpg",
+    "artifacts/where-the-sand-keeps-quiet/056-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/060-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/060-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/064-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/064-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/068-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/068-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/072-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/072-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/076-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/076-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/077-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/077-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/080-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/080-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/084-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/084-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/088-close.jpg",
+    "artifacts/where-the-sand-keeps-quiet/088-whole.jpg",
+    "artifacts/where-the-sand-keeps-quiet/inspection-log.json",
+    "artifacts/where-the-sand-keeps-quiet/live-receipt.json"
+  ],
+  "engineRevision": "18bbe712b241c6bca07f869f3bb4fd588f3f2c3c",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette badger calibration: build a lower eight-point body silhouette from outset; compare broad midvalue fur planes with sparse 10px loaded strands. Reserve a small ear and joined muzzle before dark bands; judge color separately from relief. Retain sampled grass curves and early watercolor contact. Choose a fresh subject/source next.",
+  "assessment": {
+    "source": "Actual PNG,23 settled whole/close inspection pairs,corrected lower56 review,live notes and exact raw88mark49moment public ended-feed match. No paint engine changes or numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]
