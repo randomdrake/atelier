@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-bright-bill-in-the-sea-wind",
+  "title": "A bright bill in the sea wind",
+  "description": "An imagined Atlantic puffin on a weathered sea ledge, with unequal thrift and muted lichen against blue-green sea air.",
+  "process": "112 animated watercolor and oil strokes in 29 batches, with 29 settled whole-and-close inspection boundaries, upper and lower camera reviews, a single-mark eye-light test at 105, live easel notes and final refinement at 109\u2013112. Broad crossings filled a hollow cheek ring; the reserved foot gap held. Angular webs, a crowded small flower and raised joins remain. The ended broadcast acknowledged 112 marks and 65 moments.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 65,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-bright-bill-in-the-sea-wind/session.json",
+  "image": "/paintings/a-bright-bill-in-the-sea-wind/finished.png",
+  "addedAt": "2026-11-12T19:16:47.411Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-12"
+},
+{
   "id": "antlers-in-the-wood-hush",
   "title": "Antlers in the wood hush",
   "description": "An imagined stag beetle with warm wing cases on diagonal weathered wood, flanked by moss and a fallen gold leaf.",

@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-11-12T19:19:47.083365+00:00",
+  "preview": "generated static gallery in dist",
+  "finishedImage": {
+    "naturalWidth": 900,
+    "naturalHeight": 620,
+    "complete": true
+  },
+  "replay": {
+    "speed": 4,
+    "narration": true,
+    "brushTray": true,
+    "pausedAt": "Mark 8 of 112 \u00b7 Watercolor",
+    "pausedAfter1400ms": "Mark 8 of 112 \u00b7 Watercolor",
+    "resumedTo": "Mark 12 of 112 \u00b7 Oil",
+    "returnedTo": "Finished view",
+    "expandedTextNotes": 32
+  },
+  "phone": {
+    "viewport": 390,
+    "documentScrollWidth": 390,
+    "dialogWidth": 350,
+    "dialogScrollWidth": 350
+  },
+  "screenshots": [
+    "gallery-finished.png",
+    "gallery-replay-paused.png",
+    "gallery-phone.png"
+  ],
+  "previewCorrection": "Initial source-directory preview lacked generated shared modules; switched to generated dist before QA. No app change."
+}

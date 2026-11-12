@@ -18155,5 +18155,143 @@
     "source": "Actual900x620PNG;27review boundaries with26complete cropped pairs,4close framing limitation;upper44/77 lower72;exactraw100stroke55event ended-feed match. No numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "a-bright-bill-in-the-sea-wind",
+  "title": "A bright bill in the sea wind",
+  "date": "2026-11-12",
+  "session": "examples/a-bright-bill-in-the-sea-wind.json",
+  "finishedImage": "examples/previews/a-bright-bill-in-the-sea-wind.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad dark body and pale breast planes, preserve air between feet, and keep a compact focal face light.",
+  "inspiration": {
+    "title": "Smithsonian Ocean \u2014 Know Your Puffins",
+    "url": "https://ocean.si.edu/ocean-life/seabirds/know-your-puffins",
+    "interpretation": "Original imagined Atlantic puffin on a sea ledge with unequal thrift and lichen; no finished composition copied. Full archive checked; banana slug first considered and rejected as repeated."
+  },
+  "observations": [
+    {
+      "afterStroke": 16,
+      "text": "Broad overlapping dark passes filled the body, with lower lobes still separate."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Broader pale crossings filled the narrow breast; rounded head and pale cheek read."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Two orange feet keep an open grey gap."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Loaded shorter wing planes became visible where thin earlier passes scarcely separated."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Sampled grass curves bend more gently than first forked stems; original angularity remains."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Short mouth seam and cool bill root read; upper camera shows grey cheek."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Pale cheek arcs made a conspicuous hollow ring."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Broad pale crossings filled cheek ring and restored small eye; raised joins remain."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Lower camera confirms open foot gap and distinct contacts; front shadow heavy."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Breast join lighter after broad crossings but still raised; tail lines restrained."
+    },
+    {
+      "afterStroke": 105,
+      "text": "Single tiny eye reflection remains compact in whole view."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final broad stone neighbors and base washes settle ledge. Filled body, cool wing planes, pale breast and reserved foot gap hold. Angular webs, crowded small left flower, cheek/chest relief and regular bristles remain; further covering unlikely to help."
+    }
+  ],
+  "evidence": [
+    "artifacts/a-bright-bill-in-the-sea-wind/004-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/004-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/008-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/008-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/012-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/012-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/016-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/016-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/020-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/020-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/024-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/024-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/028-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/028-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/032-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/032-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/036-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/036-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/040-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/040-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/044-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/044-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/048-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/048-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/052-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/052-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/056-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/056-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/060-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/060-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/064-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/064-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/068-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/068-upper.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/068-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/072-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/072-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/076-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/076-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/080-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/080-lower.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/080-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/084-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/084-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/088-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/088-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/092-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/092-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/096-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/096-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/100-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/100-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/104-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/104-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/105-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/105-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/108-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/108-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/112-close.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/112-whole.png",
+    "artifacts/a-bright-bill-in-the-sea-wind/live-receipt.json",
+    "examples/previews/a-bright-bill-in-the-sea-wind.png"
+  ],
+  "engineRevision": "3194308b46b452728e46ee2b50fc458d9c9ca498",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed palette seabird: establish filled cheek with broad crossings before eye; compare one broad breast plane with paired narrow planes. Keep foot gap from first block-in. Choose fresh subject/source next.",
+  "assessment": {
+    "source": "Actual900x620PNG,29corrected settled whole/close pairs,upper68/lower80,112stroke65event exact ended-feed match. Agent observations only; no numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]
