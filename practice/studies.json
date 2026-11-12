@@ -18403,5 +18403,120 @@
     "source": "Actual900x620PNG,26settled whole/close pairs,100stroke53event exact ended-feed match. Agent observations only.",
     "humanRating": null
   }
+},
+{
+  "id": "orange-sails-in-plum-air",
+  "title": "Orange sails in plum air",
+  "date": "2026-11-12",
+  "session": "examples/orange-sails-in-plum-air.json",
+  "finishedImage": "examples/previews/orange-sails-in-plum-air.png",
+  "media": [
+    "watercolor",
+    "oil",
+    "acrylic"
+  ],
+  "goal": "Join broad leaf and spathe planes, preserve open gaps between three unequal orange sepals, and reserve one compact focal light.",
+  "inspiration": {
+    "title": "National Tropical Botanical Garden \u2014 Strelitzia reginae",
+    "url": "https://ntbg.org/database/plants/detail/strelitzia-reginae",
+    "interpretation": "Original imagined bird-of-paradise flower and two unequal leaves against a muted plum field; no finished composition copied. Full journal checked for Strelitzia/bird-of-paradise with no match."
+  },
+  "observations": [
+    {
+      "afterStroke": 17,
+      "text": "Broad crossing overlaps made the left leaf filled without a hollow center; faceted shoulder and regular bristles remained."
+    },
+    {
+      "afterStroke": 33,
+      "text": "Loaded internal orange passes brightened sepals while retaining plum gaps."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Broad olive neighbor shortened mouth color but left raised seams."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Acrylic orange cover changed little; fine veins remained quieter than broad internal planes."
+    },
+    {
+      "afterStroke": 57,
+      "text": "Broad plum washes visibly quieted pale background wedges."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Small orange recovery crossed the blue arrow and left a green raised spur."
+    },
+    {
+      "afterStroke": 81,
+      "text": "Broader blue bridge reconnected arrow but green spur/raised junction remained."
+    },
+    {
+      "afterStroke": 86,
+      "text": "Single loaded9px lip light stayed compact in whole view."
+    },
+    {
+      "afterStroke": 89,
+      "text": "Final collar, underside neighbor and low field wash kept filled silhouettes and open gaps. Stopped because further little covers mostly added relief. Actual89 count includes unintended framing dot at5; final live note88 corrected here."
+    }
+  ],
+  "evidence": [
+    "artifacts/orange-sails-in-plum-air/004-close.png",
+    "artifacts/orange-sails-in-plum-air/004-whole.png",
+    "artifacts/orange-sails-in-plum-air/008-close.png",
+    "artifacts/orange-sails-in-plum-air/008-whole.png",
+    "artifacts/orange-sails-in-plum-air/012-close.png",
+    "artifacts/orange-sails-in-plum-air/012-whole.png",
+    "artifacts/orange-sails-in-plum-air/016-close.png",
+    "artifacts/orange-sails-in-plum-air/016-whole.png",
+    "artifacts/orange-sails-in-plum-air/020-close.png",
+    "artifacts/orange-sails-in-plum-air/020-whole.png",
+    "artifacts/orange-sails-in-plum-air/024-close.png",
+    "artifacts/orange-sails-in-plum-air/024-whole.png",
+    "artifacts/orange-sails-in-plum-air/028-close.png",
+    "artifacts/orange-sails-in-plum-air/028-whole.png",
+    "artifacts/orange-sails-in-plum-air/032-close.png",
+    "artifacts/orange-sails-in-plum-air/032-whole.png",
+    "artifacts/orange-sails-in-plum-air/036-close.png",
+    "artifacts/orange-sails-in-plum-air/036-whole.png",
+    "artifacts/orange-sails-in-plum-air/040-close.png",
+    "artifacts/orange-sails-in-plum-air/040-whole.png",
+    "artifacts/orange-sails-in-plum-air/044-close.png",
+    "artifacts/orange-sails-in-plum-air/044-upper.png",
+    "artifacts/orange-sails-in-plum-air/044-whole.png",
+    "artifacts/orange-sails-in-plum-air/048-close.png",
+    "artifacts/orange-sails-in-plum-air/048-whole.png",
+    "artifacts/orange-sails-in-plum-air/052-close.png",
+    "artifacts/orange-sails-in-plum-air/052-whole.png",
+    "artifacts/orange-sails-in-plum-air/056-close.png",
+    "artifacts/orange-sails-in-plum-air/056-whole.png",
+    "artifacts/orange-sails-in-plum-air/060-close.png",
+    "artifacts/orange-sails-in-plum-air/060-whole.png",
+    "artifacts/orange-sails-in-plum-air/064-close.png",
+    "artifacts/orange-sails-in-plum-air/064-whole.png",
+    "artifacts/orange-sails-in-plum-air/068-close.png",
+    "artifacts/orange-sails-in-plum-air/068-whole.png",
+    "artifacts/orange-sails-in-plum-air/072-close.png",
+    "artifacts/orange-sails-in-plum-air/072-whole.png",
+    "artifacts/orange-sails-in-plum-air/076-close.png",
+    "artifacts/orange-sails-in-plum-air/076-whole.png",
+    "artifacts/orange-sails-in-plum-air/080-close.png",
+    "artifacts/orange-sails-in-plum-air/080-whole.png",
+    "artifacts/orange-sails-in-plum-air/084-close.png",
+    "artifacts/orange-sails-in-plum-air/084-whole.png",
+    "artifacts/orange-sails-in-plum-air/085-close.png",
+    "artifacts/orange-sails-in-plum-air/085-whole.png",
+    "artifacts/orange-sails-in-plum-air/088-close.png",
+    "artifacts/orange-sails-in-plum-air/088-upper.png",
+    "artifacts/orange-sails-in-plum-air/088-whole.png",
+    "artifacts/orange-sails-in-plum-air/live-receipt.json",
+    "examples/previews/orange-sails-in-plum-air.png"
+  ],
+  "engineRevision": "08c95ef460a2f404d00603ceb416a5ade1c1d270",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette Strelitzia swatches: compare broad oil and acrylic orange covers before and after blue junction; judge color separately from relief. Place blue after orange; preserve sepal air from block-in. Choose fresh subject/source next.",
+  "assessment": {
+    "source": "ActualPNG,23corrected whole-close pairs,upper45/89,89stroke52event exact raw ended-feed match. Agent observations only.",
+    "humanRating": null
+  }
 }
 ]

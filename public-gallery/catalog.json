@@ -1,5 +1,24 @@
 [
 {
+  "id": "orange-sails-in-plum-air",
+  "title": "Orange sails in plum air",
+  "description": "An imagined bird-of-paradise flower with three orange sepals, a blue arrow and two unequal leaves against muted plum.",
+  "process": "89 completed marks: 88 animated watercolor, oil and acrylic strokes in 23 small batches, plus one unintended 100 ms watercolor dot during screenshot framing. Each batch followed corrected settled whole-and-close inspections; 52 live notebook/camera events include upper reviews and final refinement. Broad overlaps kept forms filled and sepal gaps open. Final live note said 88; actual export and ended public feed both verify 89. Small green spur, faceted shoulders and regular bristles remain.",
+  "media": [
+    "watercolor",
+    "oil",
+    "acrylic"
+  ],
+  "strokes": 89,
+  "moments": 52,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/orange-sails-in-plum-air/session.json",
+  "image": "/paintings/orange-sails-in-plum-air/finished.png",
+  "addedAt": "2026-11-12T21:12:52.807Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-12"
+},
+{
   "id": "red-seeds-quiet-chambers",
   "title": "Red seeds, quiet chambers",
   "description": "An imagined magnolia fruit, red seeds and two green leaves on blue-grey linen.",

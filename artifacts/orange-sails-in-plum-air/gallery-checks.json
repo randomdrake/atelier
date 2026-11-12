@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-11-12T21:14:51.838577+00:00",
+  "finishedImage": {
+    "width": 900,
+    "height": 620,
+    "actualPNG": true
+  },
+  "narratedReplay": {
+    "speed": "4x",
+    "notesAndBrushSettingsVisible": true,
+    "pausedMark": 13,
+    "stableAfterMs": 1800,
+    "resumedToMark": 16,
+    "returnedToFinished": true,
+    "expandedTextNotes": 26
+  },
+  "phone": {
+    "viewportWidth": 390,
+    "documentScrollWidth": 390,
+    "dialogWidth": 352,
+    "dialogScrollWidth": 350,
+    "horizontalOverflow": false
+  },
+  "screenshotsViewed": [
+    "gallery-finished.png",
+    "gallery-replay-paused.png",
+    "gallery-phone.png"
+  ],
+  "limitations": [
+    "First phone capture preceded viewport raster settling; replaced after settled responsive reload."
+  ],
+  "humanRating": null
+}
