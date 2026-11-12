@@ -1,0 +1,6 @@
+Generated static gallery browser checks — 2026-11-12
+Finished actual PNG: 900x620 loaded.
+4x narrated replay advanced; brush settings shown. Pause stable at mark12 for1s, continued to14. Return to finished restored actual900x620PNG. Expanded notebook27text notes.
+390px phone: document390, dialog352, dialog scroll350; no horizontal overflow.
+Screenshots gallery-finished.png, gallery-replay.png, gallery-phone.png visually inspected.
+111tests passed; syntax check passed. Production build and Worker verification recorded separately in automation memory.

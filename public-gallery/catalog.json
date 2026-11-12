@@ -1,5 +1,23 @@
 [
 {
+  "id": "red-seeds-quiet-chambers",
+  "title": "Red seeds, quiet chambers",
+  "description": "An imagined magnolia fruit, red seeds and two green leaves on blue-grey linen.",
+  "process": "100 animated watercolor and oil marks in 26 small batches, with settled whole and close inspections after each. All 53 notebook and camera events were recorded live. Broad chamber planes, reserved leaf gaps and one compact seed light; the ended feed acknowledged all 100 marks.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 100,
+  "moments": 53,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/red-seeds-quiet-chambers/session.json",
+  "image": "/paintings/red-seeds-quiet-chambers/finished.png",
+  "addedAt": "2026-11-12T20:10:07.452Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-12"
+},
+{
   "id": "a-bright-bill-in-the-sea-wind",
   "title": "A bright bill in the sea wind",
   "description": "An imagined Atlantic puffin on a weathered sea ledge, with unequal thrift and muted lichen against blue-green sea air.",

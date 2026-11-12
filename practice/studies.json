@@ -18293,5 +18293,115 @@
     "source": "Actual900x620PNG,29corrected settled whole/close pairs,upper68/lower80,112stroke65event exact ended-feed match. Agent observations only; no numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "red-seeds-quiet-chambers",
+  "title": "Red seeds, quiet chambers",
+  "date": "2026-11-12",
+  "session": "examples/red-seeds-quiet-chambers.json",
+  "finishedImage": "examples/previews/red-seeds-quiet-chambers.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build filled chamber planes with broad overlaps before narrow splits, preserve dark openings and blue leaf gaps, and keep one compact seed light.",
+  "inspiration": {
+    "title": "Arnold Arboretum — Hunting Magnolia Fruits at the Arboretum",
+    "url": "https://arboretum.harvard.edu/stories/hunting-magnolia-fruits-at-the-arboretum/",
+    "interpretation": "Original imagined magnolia fruit with two leaves and a loose seed on blue-grey linen; full journal checked, no magnolia study/source match. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Two broad oil gestures made a filled spindle without a hollow center."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Broad collar joined stalk; short dark splits read clearly but repeated like chevrons."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Broad leaf neighbors widened silhouettes while retaining blue gaps; faceted shoulders remain."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Broad middle plane shortened dark stripe but buried upper seed and part of central seed; smaller loaded gestures restored both at60."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Broad watercolor cloth washes visibly reduced the right pale wedge and left seams."
+    },
+    {
+      "afterStroke": 97,
+      "text": "Single short loaded seed reflection survived whole view and remained compact close up."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Final left wash, base neighbor and short chamber-lip cover kept fruit filled and gaps open. Regular splits, faceted shoulders and bristles remain; fine thread/veins subtle. Further small covers mostly add relief."
+    }
+  ],
+  "evidence": [
+    "artifacts/red-seeds-quiet-chambers/004-close-full.jpg",
+    "artifacts/red-seeds-quiet-chambers/004-whole-full.jpg",
+    "artifacts/red-seeds-quiet-chambers/008-close.png",
+    "artifacts/red-seeds-quiet-chambers/008-whole.png",
+    "artifacts/red-seeds-quiet-chambers/012-close.png",
+    "artifacts/red-seeds-quiet-chambers/012-whole.png",
+    "artifacts/red-seeds-quiet-chambers/016-close.png",
+    "artifacts/red-seeds-quiet-chambers/016-whole.png",
+    "artifacts/red-seeds-quiet-chambers/020-close.png",
+    "artifacts/red-seeds-quiet-chambers/020-whole.png",
+    "artifacts/red-seeds-quiet-chambers/024-close.png",
+    "artifacts/red-seeds-quiet-chambers/024-whole.png",
+    "artifacts/red-seeds-quiet-chambers/028-close.png",
+    "artifacts/red-seeds-quiet-chambers/028-whole.png",
+    "artifacts/red-seeds-quiet-chambers/032-close.png",
+    "artifacts/red-seeds-quiet-chambers/032-whole.png",
+    "artifacts/red-seeds-quiet-chambers/036-close.png",
+    "artifacts/red-seeds-quiet-chambers/036-whole.png",
+    "artifacts/red-seeds-quiet-chambers/040-close.png",
+    "artifacts/red-seeds-quiet-chambers/040-whole.png",
+    "artifacts/red-seeds-quiet-chambers/044-close.png",
+    "artifacts/red-seeds-quiet-chambers/044-whole.png",
+    "artifacts/red-seeds-quiet-chambers/048-close.png",
+    "artifacts/red-seeds-quiet-chambers/048-whole.png",
+    "artifacts/red-seeds-quiet-chambers/052-close.png",
+    "artifacts/red-seeds-quiet-chambers/052-whole.png",
+    "artifacts/red-seeds-quiet-chambers/056-close.png",
+    "artifacts/red-seeds-quiet-chambers/056-whole.png",
+    "artifacts/red-seeds-quiet-chambers/060-close.png",
+    "artifacts/red-seeds-quiet-chambers/060-whole.png",
+    "artifacts/red-seeds-quiet-chambers/064-close.png",
+    "artifacts/red-seeds-quiet-chambers/064-whole.png",
+    "artifacts/red-seeds-quiet-chambers/068-close.png",
+    "artifacts/red-seeds-quiet-chambers/068-whole.png",
+    "artifacts/red-seeds-quiet-chambers/072-close.png",
+    "artifacts/red-seeds-quiet-chambers/072-whole.png",
+    "artifacts/red-seeds-quiet-chambers/076-close.png",
+    "artifacts/red-seeds-quiet-chambers/076-whole.png",
+    "artifacts/red-seeds-quiet-chambers/080-close.png",
+    "artifacts/red-seeds-quiet-chambers/080-whole.png",
+    "artifacts/red-seeds-quiet-chambers/084-close.png",
+    "artifacts/red-seeds-quiet-chambers/084-whole.png",
+    "artifacts/red-seeds-quiet-chambers/088-close.png",
+    "artifacts/red-seeds-quiet-chambers/088-whole.png",
+    "artifacts/red-seeds-quiet-chambers/092-close.png",
+    "artifacts/red-seeds-quiet-chambers/092-whole.png",
+    "artifacts/red-seeds-quiet-chambers/096-close.png",
+    "artifacts/red-seeds-quiet-chambers/096-whole.png",
+    "artifacts/red-seeds-quiet-chambers/097-close.png",
+    "artifacts/red-seeds-quiet-chambers/097-whole.png",
+    "artifacts/red-seeds-quiet-chambers/100-close.png",
+    "artifacts/red-seeds-quiet-chambers/100-whole.png",
+    "artifacts/red-seeds-quiet-chambers/live-receipt.json",
+    "examples/previews/red-seeds-quiet-chambers.png"
+  ],
+  "engineRevision": "fa358ebfea4b7df91f77ab32c5ec692979e70aa2",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed palette magnolia: broad filled chamber planes first, then openings/seeds; compare broad neighbor and thin cover before seed placement, judging color separately from relief. Use uneven chamber spacing from outset. Choose fresh subject/source next.",
+  "assessment": {
+    "source": "Actual900x620PNG,26settled whole/close pairs,100stroke53event exact ended-feed match. Agent observations only.",
+    "humanRating": null
+  }
 }
 ]
