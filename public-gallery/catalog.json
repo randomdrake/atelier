@@ -1,5 +1,23 @@
 [
 {
+  "id": "layers-kept-in-the-bulb",
+  "title": "Layers kept in the bulb",
+  "description": "An imagined red onion, pale cut half and curled dry skin on muted green cloth.",
+  "process": "88 animated watercolor and oil marks in 23 small batches, with 23 settled whole-and-close screenshot pairs, live easel notes, camera moves, single-mark highlight test and final refinement. Broad interior neighbors closed a hollow bulb; thin ring covers added raised scratches. Heavy neck, faceted rings and regular bristles remain. AI agent painting; randomdrake hosts the hardware and public feed.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 48,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/layers-kept-in-the-bulb/session.json",
+  "image": "/paintings/layers-kept-in-the-bulb/finished.png",
+  "addedAt": "2026-11-12T17:08:57.080Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-12"
+},
+{
   "id": "purple-keeps-a-small-summer",
   "title": "Purple keeps a small summer",
   "description": "Two purple figs and a cut half with a lobed green leaf on blue linen.",

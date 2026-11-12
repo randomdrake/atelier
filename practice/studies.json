@@ -17931,5 +17931,108 @@
     "source": "Actual900\u00d7620PNG,26settled paired inspections, upper/lower views and exactraw100stroke53event ended-feed match. No numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "layers-kept-in-the-bulb",
+  "title": "Layers kept in the bulb",
+  "date": "2026-11-12",
+  "session": "examples/layers-kept-in-the-bulb.json",
+  "finishedImage": "examples/previews/layers-kept-in-the-bulb.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build filled curved bulb planes before broken skin lines; keep cut rings quiet and preserve one compact shoulder highlight.",
+  "inspiration": {
+    "title": "RHS onion growing guide",
+    "url": "https://www.rhs.org.uk/vegetables/onions/grow-your-own",
+    "interpretation": "Original imagined red onion, cut half and loose dry skin on green cloth; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Curved exterior passes left a green hole despite the plan for filled planes."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad interior crossing and neighbor closed the hole. Loaded ivory22 separated the cut face more clearly than earlier pale passes."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Broad rose neighbor joined dark central channel more convincingly than thin covers; heavy raised joins remain."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Narrow ivory ring neighbors changed color slightly but left scratches; concentric geometry remains faceted and regular."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Watercolor cloth light and low-load oil barely registered; dark right fold made a hook. Dry neck fibers read but neck remains heavy."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Compact shoulder reflection survives whole view. Unequal roots and loose peel retain dry character. Rim breaks soften ring regularity only partially. Faceted rings, heavy neck, raised repairs and regular bristles remain. Stopped without padding; more covers mostly add ridges."
+    }
+  ],
+  "evidence": [
+    "examples/previews/layers-kept-in-the-bulb.png",
+    "artifacts/layers-kept-in-the-bulb/004-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/004-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/008-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/008-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/012-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/012-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/016-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/016-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/020-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/020-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/024-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/024-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/028-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/028-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/032-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/032-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/036-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/036-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/040-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/040-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/044-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/044-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/048-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/048-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/052-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/052-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/056-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/056-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/060-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/060-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/064-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/064-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/068-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/068-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/072-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/072-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/076-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/076-upper.jpg",
+    "artifacts/layers-kept-in-the-bulb/076-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/080-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/080-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/084-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/084-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/085-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/085-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/088-close.jpg",
+    "artifacts/layers-kept-in-the-bulb/088-postend-upper.jpg",
+    "artifacts/layers-kept-in-the-bulb/088-whole.jpg",
+    "artifacts/layers-kept-in-the-bulb/inspection-log.json",
+    "artifacts/layers-kept-in-the-bulb/live-receipt.json"
+  ],
+  "engineRevision": "e13a36fc40d2743941a12f529e53a520d438a7e4",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette onion calibration: build bulb with broad filled sampled interior planes first; compare broad ivory ring neighbors with thin covers, judging color separately from relief. Set a shorter dry neck from outset. Fresh subject/source next.",
+  "assessment": {
+    "source": "Actual900×620PNG,23 settled whole-close pairs,upper76review and raw88stroke48event ended-feed match; no numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

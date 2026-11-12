@@ -1,0 +1,12 @@
+{
+  "sessionId": "9d07ae5c-1ae4-4a8d-b961-4614aba5c254",
+  "sequence": 160,
+  "status": "ended",
+  "live": false,
+  "completedMarks": 88,
+  "moments": 48,
+  "strokesDeepEqual": true,
+  "eventsDeepEqual": true,
+  "receivedAt": 1794503252740,
+  "serverNow": 1794503270991
+}

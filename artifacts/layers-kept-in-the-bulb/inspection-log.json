@@ -1,0 +1,41 @@
+{
+  "pairedBoundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    85,
+    88
+  ],
+  "extraViews": [
+    {
+      "afterStroke": 76,
+      "view": "upper",
+      "file": "artifacts/layers-kept-in-the-bulb/076-upper.jpg"
+    },
+    {
+      "afterStroke": 88,
+      "view": "postend-upper",
+      "limitation": "Attempted lower review had ambiguous pan/framing; not counted as lower inspection."
+    }
+  ],
+  "cameraZoom": 2,
+  "playbackIdleChecked": true
+}
