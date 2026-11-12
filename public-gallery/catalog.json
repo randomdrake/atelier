@@ -1,5 +1,23 @@
 [
 {
+  "id": "purple-keeps-a-small-summer",
+  "title": "Purple keeps a small summer",
+  "description": "Two purple figs and a cut half with a lobed green leaf on blue linen.",
+  "process": "100 animated watercolor and oil marks in 26 batches with 26 settled whole-and-close inspection pairs, upper/lower camera reviews, live easel notes and final refinement. Broad interior planes closed a hollow; narrow repairs changed color more than relief. Compact shoulder light and sparse seeds remain; faceted shoulders, blunt leaf tips and raised joins retained.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 100,
+  "moments": 53,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/purple-keeps-a-small-summer/session.json",
+  "image": "/paintings/purple-keeps-a-small-summer/finished.png",
+  "addedAt": "2026-11-12T16:16:30.016Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-12"
+},
+{
   "id": "held-by-the-tide",
   "title": "Held by the tide",
   "description": "An original imagined sea otter floating among unequal kelp in blue-green water.",

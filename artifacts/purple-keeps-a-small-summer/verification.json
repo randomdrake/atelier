@@ -1,0 +1,23 @@
+{
+  "newArtworkDecodedRGBAExact": true,
+  "downloadArtworkDecodedRGBAExact": true,
+  "exportBytes": 1322436,
+  "deployedBytes": 886353,
+  "payloadBytes": 247590000,
+  "headroomBytes": 20845456,
+  "testsPassed": 111,
+  "syntaxChecksPassed": true,
+  "fullWorkerBuildPassed": true,
+  "galleryBrowserQA": {
+    "finishedImage": "900×620",
+    "notes": 27,
+    "replay": true,
+    "pauseStableAt": 8,
+    "resumedTo": 11,
+    "returnFinished": true,
+    "phoneViewport": 390,
+    "phoneDocument": 390,
+    "phoneDialog": 350,
+    "phoneDialogScroll": 350
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "activity": "ended",
+  "sessionId": "3709adfc-515a-49e2-984d-70b40be81c42",
+  "sequence": 181,
+  "receivedAt": 1794500123922,
+  "live": false,
+  "status": "ended",
+  "completedMarks": 100,
+  "moments": 53,
+  "rawDocumentMatchesExport": true,
+  "localEndAcknowledged": true
+}
