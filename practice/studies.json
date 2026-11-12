@@ -18644,5 +18644,128 @@
     "source": "Actual900x620PNG,29settled whole/close pairs,upper60/112,and exact112stroke60event ended-feed match. Agent observations only.",
     "humanRating": null
   }
+},
+{
+  "id": "yellow-mouths-in-the-bog-hush",
+  "title": "Yellow mouths in the bog hush",
+  "date": "2026-11-12",
+  "session": "examples/yellow-mouths-in-the-bog-hush.json",
+  "finishedImage": "examples/previews/yellow-mouths-in-the-bog-hush.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build continuous trumpet forms with long gestures, preserve blue hood gaps, and reserve one compact rim light.",
+  "inspiration": {
+    "title": "NC State Extension — Yellow Pitcher Plant",
+    "url": "https://plants.ces.ncsu.edu/plants/sarracenia-flava/common-name/yellow-pitcher-plant/",
+    "interpretation": "Original imagined pair of unequal yellow pitchers, folded leaves and sparse grasses in a cool bog field. Full journal checked: no pitcher plant or Sarracenia match. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Long tube gestures produced solid forms without outline holes."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Rear joins connected floating hoods while preserving blue air above dark mouths."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Sampled hood crowns are rounder, but underlying ridges remain."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Long loaded lower planes joined faint tube ends to the roots; watercolor contacts remained quiet."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Finely sampled grass curves gentler than initial angular leaf gestures; one right crossing joint remained."
+    },
+    {
+      "afterStroke": 56,
+      "text": "The6px muted tube vein read darker than intended, like a scratch."
+    },
+    {
+      "afterStroke": 64,
+      "text": "Broad yellow neighbor shortened the dark scratch but left a raised patch; short lighter branches mostly vanished."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Low moss planes became rail-like ridges; short neighbors broke color slightly without removing relief."
+    },
+    {
+      "afterStroke": 80,
+      "text": "Diagonal washes quieted horizontal field bands only slightly."
+    },
+    {
+      "afterStroke": 81,
+      "text": "Single9px loaded large-rim light remained compact in whole view."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final lower neighbors and leaf-tip curves preserve filled tubes, open hood gaps and focal light. Faceted hoods, leaf elbows, moss rails, field bands and regular bristles remain. Stop before further relief buildup."
+    }
+  ],
+  "evidence": [
+    "artifacts/yellow-mouths-in-the-bog-hush/004-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/004-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/008-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/008-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/012-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/012-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/016-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/016-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/020-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/020-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/024-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/024-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/028-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/028-upper.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/028-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/032-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/032-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/036-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/036-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/040-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/040-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/044-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/044-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/048-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/048-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/052-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/052-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/056-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/056-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/060-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/060-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/064-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/064-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/068-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/068-lower.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/068-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/072-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/072-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/076-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/076-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/080-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/080-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/081-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/081-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/084-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/084-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/088-close.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/088-upper.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/088-whole.png",
+    "artifacts/yellow-mouths-in-the-bog-hush/live-receipt.json",
+    "examples/previews/yellow-mouths-in-the-bog-hush.png"
+  ],
+  "engineRevision": "adf0ea1964ff9996179c71d45530d7b23f4bd2f4",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed palette pitcher calibration: compare5px low-flow red veins with broad muted planes before the light pass; compare sampled broad curves with few-point hoods. Judge color coverage separately from relief. Use soft watercolor root masses before oil leaves. Choose fresh subject/source next.",
+  "assessment": {
+    "source": "Actual900x620PNG,23corrected settled whole/close pairs,upper28/88,lower68,and exact88stroke50event ended-feed match. Agent observations only.",
+    "humanRating": null
+  }
 }
 ]
