@@ -18518,5 +18518,131 @@
     "source": "ActualPNG,23corrected whole-close pairs,upper45/89,89stroke52event exact raw ended-feed match. Agent observations only.",
     "humanRating": null
   }
+},
+{
+  "id": "bronze-against-the-evening",
+  "title": "Bronze against the evening",
+  "date": "2026-11-12",
+  "session": "examples/bronze-against-the-evening.json",
+  "finishedImage": "examples/previews/bronze-against-the-evening.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join solid broad head planes before sparse spines, preserve air between stems, and reserve one compact focal shoulder light.",
+  "inspiration": {
+    "title": "Kew Grow Wild — Common teasel",
+    "url": "https://growwild.kew.org/plants/common-teasel",
+    "interpretation": "Original imagined two unequal dried bronze teasel heads, folded leaves and sparse grasses in a cool dusk field. Full journal/catalogue searched: no teasel/Dipsacus study or source reuse. Radish and garlic ideas rejected after archive matches. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Broad initial head gestures made filled shapes with no hollow centers; clear blue interval between stems."
+    },
+    {
+      "afterStroke": 28,
+      "text": "More finely sampled loaded bract arc visible and smoother than original angular pair; leaf cups established."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Fine first spines mostly vanished; broader loaded replacements survived whole view."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Bronze neighbors reduced dark pocket dots into slits, but left raised bars visible close up."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Sampled left grass curves gentler than first elbows; right crossing still has a join."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Low wash reduced pale seam; side washes created vertical bands, diagonal crossings softened but did not erase them."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Darker neighbors reduced node-pad colors while raised relief remained."
+    },
+    {
+      "afterStroke": 105,
+      "text": "Single short loaded shoulder light remained compact in whole view."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final crown tip, shaded tooth and leaf-tip neighbors kept filled forms, open stem gap and focal light. Faceted crowns, angular bracts, regular bristles and field bands remain; stop before further relief buildup."
+    }
+  ],
+  "evidence": [
+    "artifacts/bronze-against-the-evening/004-close.jpg",
+    "artifacts/bronze-against-the-evening/004-whole.jpg",
+    "artifacts/bronze-against-the-evening/008-close.jpg",
+    "artifacts/bronze-against-the-evening/008-whole.jpg",
+    "artifacts/bronze-against-the-evening/012-close.jpg",
+    "artifacts/bronze-against-the-evening/012-whole.jpg",
+    "artifacts/bronze-against-the-evening/016-close.jpg",
+    "artifacts/bronze-against-the-evening/016-whole.jpg",
+    "artifacts/bronze-against-the-evening/020-close.jpg",
+    "artifacts/bronze-against-the-evening/020-whole.jpg",
+    "artifacts/bronze-against-the-evening/024-close.jpg",
+    "artifacts/bronze-against-the-evening/024-whole.jpg",
+    "artifacts/bronze-against-the-evening/028-close.jpg",
+    "artifacts/bronze-against-the-evening/028-whole.jpg",
+    "artifacts/bronze-against-the-evening/032-close.jpg",
+    "artifacts/bronze-against-the-evening/032-whole.jpg",
+    "artifacts/bronze-against-the-evening/036-close.jpg",
+    "artifacts/bronze-against-the-evening/036-whole.jpg",
+    "artifacts/bronze-against-the-evening/040-close.jpg",
+    "artifacts/bronze-against-the-evening/040-whole.jpg",
+    "artifacts/bronze-against-the-evening/044-close.jpg",
+    "artifacts/bronze-against-the-evening/044-whole.jpg",
+    "artifacts/bronze-against-the-evening/048-close.jpg",
+    "artifacts/bronze-against-the-evening/048-whole.jpg",
+    "artifacts/bronze-against-the-evening/052-close.jpg",
+    "artifacts/bronze-against-the-evening/052-whole.jpg",
+    "artifacts/bronze-against-the-evening/056-close.jpg",
+    "artifacts/bronze-against-the-evening/056-whole.jpg",
+    "artifacts/bronze-against-the-evening/060-close.jpg",
+    "artifacts/bronze-against-the-evening/060-upper.jpg",
+    "artifacts/bronze-against-the-evening/060-whole.jpg",
+    "artifacts/bronze-against-the-evening/064-close.jpg",
+    "artifacts/bronze-against-the-evening/064-whole.jpg",
+    "artifacts/bronze-against-the-evening/068-close.jpg",
+    "artifacts/bronze-against-the-evening/068-whole.jpg",
+    "artifacts/bronze-against-the-evening/072-close.jpg",
+    "artifacts/bronze-against-the-evening/072-whole.jpg",
+    "artifacts/bronze-against-the-evening/076-close.jpg",
+    "artifacts/bronze-against-the-evening/076-whole.jpg",
+    "artifacts/bronze-against-the-evening/080-close.jpg",
+    "artifacts/bronze-against-the-evening/080-whole.jpg",
+    "artifacts/bronze-against-the-evening/084-close.jpg",
+    "artifacts/bronze-against-the-evening/084-whole.jpg",
+    "artifacts/bronze-against-the-evening/088-close.jpg",
+    "artifacts/bronze-against-the-evening/088-whole.jpg",
+    "artifacts/bronze-against-the-evening/092-close.jpg",
+    "artifacts/bronze-against-the-evening/092-whole.jpg",
+    "artifacts/bronze-against-the-evening/096-close.jpg",
+    "artifacts/bronze-against-the-evening/096-whole.jpg",
+    "artifacts/bronze-against-the-evening/100-close.jpg",
+    "artifacts/bronze-against-the-evening/100-whole.jpg",
+    "artifacts/bronze-against-the-evening/104-close.jpg",
+    "artifacts/bronze-against-the-evening/104-whole.jpg",
+    "artifacts/bronze-against-the-evening/105-close.jpg",
+    "artifacts/bronze-against-the-evening/105-whole.jpg",
+    "artifacts/bronze-against-the-evening/108-close.jpg",
+    "artifacts/bronze-against-the-evening/108-whole.jpg",
+    "artifacts/bronze-against-the-evening/112-close.jpg",
+    "artifacts/bronze-against-the-evening/112-upper.jpg",
+    "artifacts/bronze-against-the-evening/112-whole.jpg",
+    "artifacts/bronze-against-the-evening/live-receipt.json",
+    "examples/previews/bronze-against-the-evening.png"
+  ],
+  "engineRevision": "66f4c986bc9f6e3379f4d9f2b8b899b640e9904b",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette teasel calibration: compare fine and broad loaded spines on filled planes before seed pockets. Compare short neighboring covers against larger planes, judging color coverage and relief separately. Use unequal bract curves from outset. Choose fresh subject/source next.",
+  "assessment": {
+    "source": "Actual900x620PNG,29settled whole/close pairs,upper60/112,and exact112stroke60event ended-feed match. Agent observations only.",
+    "humanRating": null
+  }
 }
 ]

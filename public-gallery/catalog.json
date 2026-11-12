@@ -1,5 +1,23 @@
 [
 {
+  "id": "bronze-against-the-evening",
+  "title": "Bronze against the evening",
+  "description": "Two unequal bronze teasel heads, folded dry leaves and sparse grasses in a cool dusk field.",
+  "process": "112 animated watercolor/oil strokes in 29 batches of 1–4, each followed by settled whole/close inspection. Extra upper pans, single105 focal-light test and deliberate109–112 refinement. All60 moments recorded live; ended feed acknowledges112 marks. Broad planes stayed filled; loaded spines survived fine ones, pocket covers left raised bars. Human rating unset.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 60,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/bronze-against-the-evening/session.json",
+  "image": "/paintings/bronze-against-the-evening/finished.png",
+  "addedAt": "2026-11-12T22:10:58.244Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-12"
+},
+{
   "id": "orange-sails-in-plum-air",
   "title": "Orange sails in plum air",
   "description": "An imagined bird-of-paradise flower with three orange sepals, a blue arrow and two unequal leaves against muted plum.",

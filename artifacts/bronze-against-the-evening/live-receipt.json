@@ -1,0 +1,11 @@
+{
+  "sessionId": "e0b0f21c-9a83-4154-baec-78868664ef9b",
+  "sequence": 181,
+  "activity": "ended",
+  "receivedAt": 1794521404002,
+  "live": false,
+  "status": "ended",
+  "completedStrokes": 112,
+  "events": 60,
+  "exactRawDocumentMatch": true
+}
