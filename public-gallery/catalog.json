@@ -1,5 +1,24 @@
 [
 {
+  "id": "antlers-in-the-wood-hush",
+  "title": "Antlers in the wood hush",
+  "description": "An imagined stag beetle with warm wing cases on diagonal weathered wood, flanked by moss and a fallen gold leaf.",
+  "process": "100 animated strokes in 27 batches, with 26 complete settled whole-and-close screenshot pairs after an initial framing limitation, upper and lower reviews, two single-mark tests and deliberate final refinement. Live notes and camera moves accompany the replay. Filled shell planes and six leg gaps held; raised jaw-tip repair, pointed head and regular bristles remain. Ended feed acknowledged all 100 marks and 55 moments.",
+  "media": [
+    "watercolor",
+    "oil",
+    "acrylic"
+  ],
+  "strokes": 100,
+  "moments": 55,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/antlers-in-the-wood-hush/session.json",
+  "image": "/paintings/antlers-in-the-wood-hush/finished.png",
+  "addedAt": "2026-11-12T18:11:22.497Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-12"
+},
+{
   "id": "layers-kept-in-the-bulb",
   "title": "Layers kept in the bulb",
   "description": "An imagined red onion, pale cut half and curled dry skin on muted green cloth.",

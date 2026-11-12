@@ -18034,5 +18034,126 @@
     "source": "Actual900×620PNG,23 settled whole-close pairs,upper76review and raw88stroke48event ended-feed match; no numerical quality claim.",
     "humanRating": null
   }
+},
+{
+  "id": "antlers-in-the-wood-hush",
+  "title": "Antlers in the wood hush",
+  "date": "2026-11-12",
+  "session": "examples/antlers-in-the-wood-hush.json",
+  "finishedImage": "examples/previews/antlers-in-the-wood-hush.png",
+  "media": [
+    "watercolor",
+    "oil",
+    "acrylic"
+  ],
+  "goal": "Broad filled wing-case planes, reserved limb and jaw spaces, compact shell reflections.",
+  "inspiration": {
+    "title": "Natural History Museum stag beetle account",
+    "url": "https://www.nhm.ac.uk/discover/stag-beetles.html",
+    "interpretation": "Imagined beetle on diagonal weathered wood with moss and one fallen gold leaf; no finished composition copied. Woodland Trust source was first considered but fetch returned403; NHM read successfully. Kingfisher rejected after archive match."
+  },
+  "observations": [
+    {
+      "afterStroke": 20,
+      "text": "Broad overlapping loaded body strokes made a filled shell at outset; warm left plane and dark center remained distinct."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Sampled jaws rounded smoothly but floated above head and almost touched at tips."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Loaded jaw roots connected to head; narrow green cover made a raised fin instead of clearing relief."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Short sampled shoulder arcs rounded warm shell planes and unequal antenna clubs read."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Moss tips broke blunt patches; lower camera showed clear hind-leg gaps."
+    },
+    {
+      "afterStroke": 77,
+      "text": "Single flat acrylic tip cover changed color faintly but left raised oval; stopped repetitive repair."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Broken knot read as wood without taking focus from beetle."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Compact97 shoulder reflection survived whole view. Final bark neighbor shortened crowded split in color but left relief. Six legs stay separated, shell filled, small leaf quieter. Pointed head, angular joints, raised jaw-tip patch and regular bristles remain; further covering mostly adds relief."
+    }
+  ],
+  "evidence": [
+    "examples/previews/antlers-in-the-wood-hush.png",
+    "artifacts/antlers-in-the-wood-hush/004-close.png",
+    "artifacts/antlers-in-the-wood-hush/004-whole.png",
+    "artifacts/antlers-in-the-wood-hush/008-close.png",
+    "artifacts/antlers-in-the-wood-hush/008-whole.png",
+    "artifacts/antlers-in-the-wood-hush/012-close.png",
+    "artifacts/antlers-in-the-wood-hush/012-whole.png",
+    "artifacts/antlers-in-the-wood-hush/016-close.png",
+    "artifacts/antlers-in-the-wood-hush/016-whole.png",
+    "artifacts/antlers-in-the-wood-hush/020-close.png",
+    "artifacts/antlers-in-the-wood-hush/020-whole.png",
+    "artifacts/antlers-in-the-wood-hush/024-close.png",
+    "artifacts/antlers-in-the-wood-hush/024-whole.png",
+    "artifacts/antlers-in-the-wood-hush/028-close.png",
+    "artifacts/antlers-in-the-wood-hush/028-whole.png",
+    "artifacts/antlers-in-the-wood-hush/032-close.png",
+    "artifacts/antlers-in-the-wood-hush/032-whole.png",
+    "artifacts/antlers-in-the-wood-hush/036-close.png",
+    "artifacts/antlers-in-the-wood-hush/036-whole.png",
+    "artifacts/antlers-in-the-wood-hush/040-close.png",
+    "artifacts/antlers-in-the-wood-hush/040-whole.png",
+    "artifacts/antlers-in-the-wood-hush/044-close.png",
+    "artifacts/antlers-in-the-wood-hush/044-upper.png",
+    "artifacts/antlers-in-the-wood-hush/044-whole.png",
+    "artifacts/antlers-in-the-wood-hush/048-close.png",
+    "artifacts/antlers-in-the-wood-hush/048-whole.png",
+    "artifacts/antlers-in-the-wood-hush/052-close.png",
+    "artifacts/antlers-in-the-wood-hush/052-whole.png",
+    "artifacts/antlers-in-the-wood-hush/056-close.png",
+    "artifacts/antlers-in-the-wood-hush/056-whole.png",
+    "artifacts/antlers-in-the-wood-hush/060-close.png",
+    "artifacts/antlers-in-the-wood-hush/060-whole.png",
+    "artifacts/antlers-in-the-wood-hush/064-close.png",
+    "artifacts/antlers-in-the-wood-hush/064-whole.png",
+    "artifacts/antlers-in-the-wood-hush/068-close.png",
+    "artifacts/antlers-in-the-wood-hush/068-whole.png",
+    "artifacts/antlers-in-the-wood-hush/072-close.png",
+    "artifacts/antlers-in-the-wood-hush/072-lower.png",
+    "artifacts/antlers-in-the-wood-hush/072-whole.png",
+    "artifacts/antlers-in-the-wood-hush/076-close.png",
+    "artifacts/antlers-in-the-wood-hush/076-whole.png",
+    "artifacts/antlers-in-the-wood-hush/077-close.png",
+    "artifacts/antlers-in-the-wood-hush/077-upper.png",
+    "artifacts/antlers-in-the-wood-hush/077-whole.png",
+    "artifacts/antlers-in-the-wood-hush/080-close.png",
+    "artifacts/antlers-in-the-wood-hush/080-whole.png",
+    "artifacts/antlers-in-the-wood-hush/084-close.png",
+    "artifacts/antlers-in-the-wood-hush/084-whole.png",
+    "artifacts/antlers-in-the-wood-hush/088-close.png",
+    "artifacts/antlers-in-the-wood-hush/088-whole.png",
+    "artifacts/antlers-in-the-wood-hush/092-close.png",
+    "artifacts/antlers-in-the-wood-hush/092-whole.png",
+    "artifacts/antlers-in-the-wood-hush/096-close.png",
+    "artifacts/antlers-in-the-wood-hush/096-whole.png",
+    "artifacts/antlers-in-the-wood-hush/097-close.png",
+    "artifacts/antlers-in-the-wood-hush/097-whole.png",
+    "artifacts/antlers-in-the-wood-hush/100-close.png",
+    "artifacts/antlers-in-the-wood-hush/100-whole.png",
+    "artifacts/antlers-in-the-wood-hush/inspection-log.json",
+    "artifacts/antlers-in-the-wood-hush/live-receipt.json"
+  ],
+  "engineRevision": "a0e64f2bfb260044e93a7900d7241a5678b40bb7",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette beetle: set jaw tip gap in initial arcs and connect roots immediately; compare broad background neighbors with narrow repair, judging color separately from relief. Preserve six leg gaps and compact shoulder light. Choose fresh subject/source next.",
+  "assessment": {
+    "source": "Actual900x620PNG;27review boundaries with26complete cropped pairs,4close framing limitation;upper44/77 lower72;exactraw100stroke55event ended-feed match. No numerical quality claim.",
+    "humanRating": null
+  }
 }
 ]

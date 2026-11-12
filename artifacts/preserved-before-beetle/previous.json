@@ -1,0 +1,433 @@
+{
+  "version": 2,
+  "width": 900,
+  "height": 620,
+  "title": "An open possibility",
+  "strokes": [
+    {
+      "medium": "watercolor",
+      "color": "#687969",
+      "size": 160,
+      "points": [
+        [
+          0.01,
+          0.12,
+          0.75
+        ],
+        [
+          0.5,
+          0.1,
+          0.75
+        ],
+        [
+          0.99,
+          0.13,
+          0.75
+        ]
+      ],
+      "duration": 1400,
+      "flow": 0.9,
+      "body": 0.35,
+      "water": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#5b7165",
+      "size": 160,
+      "points": [
+        [
+          0.01,
+          0.38,
+          0.75
+        ],
+        [
+          0.5,
+          0.36,
+          0.75
+        ],
+        [
+          0.99,
+          0.4,
+          0.75
+        ]
+      ],
+      "duration": 1400,
+      "flow": 0.9,
+      "body": 0.35,
+      "water": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#4c665c",
+      "size": 160,
+      "points": [
+        [
+          0.01,
+          0.64,
+          0.75
+        ],
+        [
+          0.5,
+          0.65,
+          0.75
+        ],
+        [
+          0.99,
+          0.63,
+          0.75
+        ]
+      ],
+      "duration": 1400,
+      "flow": 0.9,
+      "body": 0.35,
+      "water": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#587066",
+      "size": 160,
+      "points": [
+        [
+          0.01,
+          0.9,
+          0.75
+        ],
+        [
+          0.5,
+          0.89,
+          0.75
+        ],
+        [
+          0.99,
+          0.91,
+          0.75
+        ]
+      ],
+      "duration": 1400,
+      "flow": 0.9,
+      "body": 0.35,
+      "water": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#62766a",
+      "size": 160,
+      "points": [
+        [
+          0.01,
+          0.01,
+          0.75
+        ],
+        [
+          0.5,
+          0.02,
+          0.75
+        ],
+        [
+          0.99,
+          0.03,
+          0.75
+        ]
+      ],
+      "duration": 1400,
+      "flow": 0.9,
+      "body": 0.35,
+      "water": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#60756a",
+      "size": 160,
+      "points": [
+        [
+          0.01,
+          0.25,
+          0.75
+        ],
+        [
+          0.5,
+          0.24,
+          0.75
+        ],
+        [
+          0.99,
+          0.26,
+          0.75
+        ]
+      ],
+      "duration": 1400,
+      "flow": 0.9,
+      "body": 0.35,
+      "water": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#536d62",
+      "size": 160,
+      "points": [
+        [
+          0.01,
+          0.51,
+          0.75
+        ],
+        [
+          0.5,
+          0.51,
+          0.75
+        ],
+        [
+          0.99,
+          0.52,
+          0.75
+        ]
+      ],
+      "duration": 1400,
+      "flow": 0.9,
+      "body": 0.35,
+      "water": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#526b60",
+      "size": 160,
+      "points": [
+        [
+          0.01,
+          0.77,
+          0.75
+        ],
+        [
+          0.5,
+          0.77,
+          0.75
+        ],
+        [
+          0.99,
+          0.77,
+          0.75
+        ]
+      ],
+      "duration": 1400,
+      "flow": 0.9,
+      "body": 0.35,
+      "water": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#334b42",
+      "size": 95,
+      "points": [
+        [
+          0.23,
+          0.67,
+          0.75
+        ],
+        [
+          0.36,
+          0.71,
+          0.75
+        ],
+        [
+          0.5,
+          0.68,
+          0.75
+        ]
+      ],
+      "duration": 1400,
+      "flow": 0.9,
+      "body": 0.35,
+      "water": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "watercolor",
+      "color": "#354b43",
+      "size": 80,
+      "points": [
+        [
+          0.53,
+          0.76,
+          0.75
+        ],
+        [
+          0.67,
+          0.79,
+          0.75
+        ],
+        [
+          0.82,
+          0.74,
+          0.75
+        ]
+      ],
+      "duration": 1400,
+      "flow": 0.9,
+      "body": 0.35,
+      "water": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#51344f",
+      "size": 120,
+      "points": [
+        [
+          0.33,
+          0.37,
+          0.75
+        ],
+        [
+          0.29,
+          0.43,
+          0.75
+        ],
+        [
+          0.27,
+          0.52,
+          0.75
+        ],
+        [
+          0.3,
+          0.61,
+          0.75
+        ],
+        [
+          0.36,
+          0.64,
+          0.75
+        ]
+      ],
+      "duration": 1400,
+      "flow": 0.9,
+      "body": 0.35,
+      "water": 0.65,
+      "tip": "round"
+    },
+    {
+      "medium": "oil",
+      "color": "#613951",
+      "size": 120,
+      "points": [
+        [
+          0.37,
+          0.35,
+          0.75
+        ],
+        [
+          0.4,
+          0.4,
+          0.75
+        ],
+        [
+          0.44,
+          0.48,
+          0.75
+        ],
+        [
+          0.44,
+          0.55,
+          0.75
+        ],
+        [
+          0.4,
+          0.63,
+          0.75
+        ],
+        [
+          0.35,
+          0.65,
+          0.75
+        ]
+      ],
+      "duration": 1400,
+      "flow": 0.9,
+      "body": 0.35,
+      "water": 0.65,
+      "tip": "round"
+    }
+  ],
+  "events": [
+    {
+      "text": "Layers kept in the bulb. An original imagined red onion and cut half on green cloth, inspired by https://www.rhs.org.uk/vegetables/onions/grow-your-own . Goal: filled curved bulb planes before broken skin lines; quiet rings and one compact highlight. The AI agent paints; randomdrake hosts the laptop and public feed.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 1,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 11960,
+      "afterStroke": 0
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 4
+    },
+    {
+      "text": "The long washes leave pale lanes. Four bridging gestures will join the green cloth before the onion forms.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6000,
+      "afterStroke": 4
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 8
+    },
+    {
+      "text": "The bridges joined the ground. I will place two quiet contact shadows, then build the large bulb from overlapping curved planes instead of a hollow outline.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6760,
+      "afterStroke": 8
+    },
+    {
+      "kind": "look",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 1200,
+      "afterStroke": 12
+    },
+    {
+      "text": "The curved outside passes still left a green hole. A broad interior crossing will fill it; the cut half will start with a filled horizontal mass.",
+      "kind": "notice",
+      "camera": {
+        "zoom": 2,
+        "x": 0.5,
+        "y": 0.5
+      },
+      "duration": 6760,
+      "afterStroke": 12
+    }
+  ]
+}
