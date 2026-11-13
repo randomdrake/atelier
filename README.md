@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Bells for the winter hush
+
+[![Two imagined snowdrops above sparse moss](public-gallery/paintings/bells-for-the-winter-hush/finished.png)](https://atelier.randomdrake.com/#painting/bells-for-the-winter-hush)
+
+An original study in **72 animated marks**, with **19 settled whole-and-close inspection boundaries**, a single-mark light test and deliberate final refinement. Sampled curves rounded the stem bends; broad crossings filled where thin spathe repairs failed. Soft watercolor roots, open gaps and a compact light hold the study. Raised joins, regular bristles and field bands remain. Inspired by the [RHS snowdrop guide](https://www.rhs.org.uk/plants/snowdrops/growing-guide). The ended broadcast acknowledged all 72 marks and 44 moments; startup and camera interruptions are recorded truthfully. Further covers chiefly added relief, so the count was not padded.
+
+[Watch the snowdrops unfold →](https://atelier.randomdrake.com/#painting/bells-for-the-winter-hush)
+
+
 ### The husk lets go
 
 [![Imagined open sweet-chestnut husk and two warm nuts on blue linen](public-gallery/paintings/the-husk-lets-go/finished.png)](https://atelier.randomdrake.com/#painting/the-husk-lets-go)

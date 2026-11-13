@@ -18767,5 +18767,122 @@
     "source": "Actual900x620PNG,23corrected settled whole/close pairs,upper28/88,lower68,and exact88stroke50event ended-feed match. Agent observations only.",
     "humanRating": null
   }
+},
+{
+  "id": "bells-for-the-winter-hush",
+  "title": "Bells for the winter hush",
+  "date": "2026-11-13",
+  "session": "examples/bells-for-the-winter-hush.json",
+  "finishedImage": "examples/previews/bells-for-the-winter-hush.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Continuous curved stems, filled pale petals, open central gaps, and one compact focal light.",
+  "inspiration": {
+    "title": "RHS \u2014 How to grow snowdrops",
+    "url": "https://www.rhs.org.uk/plants/snowdrops/growing-guide",
+    "interpretation": "Original imagined pair of unequal nodding snowdrops above sparse moss in a cool field. Full journal/catalogue search found no snowdrop or Galanthus study; persimmon rejected after prior subjects found. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 16,
+      "text": "Broad petal gestures filled their shapes while preserving separate inner spaces."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Ivory centers separated green ends but bright passes left raised joins."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Sampled stem bends visibly rounder than first angular bends."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Watercolor root shadows stayed soft and anchored both plants."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Oil moss gestures made pointed tents."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Sampled neighbors softened moss peaks in color but retained relief."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Green notches read clearly; thin spathe crossing barely changed hollow loop."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Larger leaves gained quiet turns; restrained folds stayed subordinate."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Diagonal washes barely changed dry field bands."
+    },
+    {
+      "afterStroke": 65,
+      "text": "Single9px loaded petal light stayed compact and subtle beside earlier broad pale plane."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Broader small-spathe crossing filled interior where thin repairs failed; petal-tip changes slight."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Final leaf-tip and moss-neighbor touches kept open gaps and filled bells. Raised joins, field bands and regular bristles remain; stop before further relief buildup."
+    }
+  ],
+  "evidence": [
+    "artifacts/bells-for-the-winter-hush/004-whole.png",
+    "artifacts/bells-for-the-winter-hush/004-close.png",
+    "artifacts/bells-for-the-winter-hush/008-whole.png",
+    "artifacts/bells-for-the-winter-hush/008-close.png",
+    "artifacts/bells-for-the-winter-hush/012-whole.png",
+    "artifacts/bells-for-the-winter-hush/012-close.png",
+    "artifacts/bells-for-the-winter-hush/016-whole.png",
+    "artifacts/bells-for-the-winter-hush/016-close.png",
+    "artifacts/bells-for-the-winter-hush/020-whole.png",
+    "artifacts/bells-for-the-winter-hush/020-close.png",
+    "artifacts/bells-for-the-winter-hush/024-whole.png",
+    "artifacts/bells-for-the-winter-hush/024-close.png",
+    "artifacts/bells-for-the-winter-hush/028-whole.png",
+    "artifacts/bells-for-the-winter-hush/028-close.png",
+    "artifacts/bells-for-the-winter-hush/032-whole.png",
+    "artifacts/bells-for-the-winter-hush/032-close.png",
+    "artifacts/bells-for-the-winter-hush/036-whole.png",
+    "artifacts/bells-for-the-winter-hush/036-close.png",
+    "artifacts/bells-for-the-winter-hush/040-whole.png",
+    "artifacts/bells-for-the-winter-hush/040-close.png",
+    "artifacts/bells-for-the-winter-hush/044-whole.png",
+    "artifacts/bells-for-the-winter-hush/044-close.png",
+    "artifacts/bells-for-the-winter-hush/048-whole.png",
+    "artifacts/bells-for-the-winter-hush/048-close.png",
+    "artifacts/bells-for-the-winter-hush/052-whole.png",
+    "artifacts/bells-for-the-winter-hush/052-close.png",
+    "artifacts/bells-for-the-winter-hush/056-whole.png",
+    "artifacts/bells-for-the-winter-hush/056-close.png",
+    "artifacts/bells-for-the-winter-hush/060-whole.png",
+    "artifacts/bells-for-the-winter-hush/060-close.png",
+    "artifacts/bells-for-the-winter-hush/064-whole.png",
+    "artifacts/bells-for-the-winter-hush/064-close.png",
+    "artifacts/bells-for-the-winter-hush/065-whole.png",
+    "artifacts/bells-for-the-winter-hush/065-close.png",
+    "artifacts/bells-for-the-winter-hush/068-whole.png",
+    "artifacts/bells-for-the-winter-hush/068-close.png",
+    "artifacts/bells-for-the-winter-hush/072-whole.png",
+    "artifacts/bells-for-the-winter-hush/072-close.png",
+    "artifacts/bells-for-the-winter-hush/028-upper.png",
+    "artifacts/bells-for-the-winter-hush/live-receipt.json",
+    "examples/previews/bells-for-the-winter-hush.png"
+  ],
+  "engineRevision": "be511a7990d418c464ddde7862e66c4fea120cfd",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette snowdrop calibration: sampled versus few-point stem bends, broad versus thin spathe crossing before final light; judge color coverage separately from relief. Lay soft root masses before oil accents. Choose fresh subject/source next.",
+  "assessment": {
+    "source": "Agent observations from actualPNG,19settled inspection boundaries and exact72stroke44event ended-feed match; capture limitations recorded.",
+    "humanRating": null
+  }
 }
 ]

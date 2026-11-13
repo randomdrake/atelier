@@ -1,0 +1,24 @@
+{
+  "finishedPNG": [
+    900,
+    620
+  ],
+  "replaySpeed": 4,
+  "narrationAndBrushTray": true,
+  "pauseStableAtMark": 8,
+  "pauseMilliseconds": 1800,
+  "resumedThroughMark": 16,
+  "returnToFinished": true,
+  "expandedLiveNotes": true,
+  "phone": {
+    "viewport": 390,
+    "document": 390,
+    "dialog": 352,
+    "scroll": 350,
+    "horizontalOverflow": false
+  },
+  "limitations": [
+    "Initial return-to-finished Playwright clicks timed out; supported accessibility click succeeded.",
+    "Phone dialog initially absent after same-URL navigation; opened through visible gallery card."
+  ]
+}

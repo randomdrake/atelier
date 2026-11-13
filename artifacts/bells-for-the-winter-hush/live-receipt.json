@@ -1,0 +1,12 @@
+{
+  "activity": "ended",
+  "live": false,
+  "status": "ended",
+  "sessionId": "897709c0-dbde-4b60-813e-c509c93ffdff",
+  "sequence": 301,
+  "receivedAt": 1794605584275,
+  "serverNow": 1794605600059,
+  "completedMarks": 72,
+  "events": 44,
+  "exactRawDocumentMatch": true
+}

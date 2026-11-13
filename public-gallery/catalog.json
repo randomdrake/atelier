@@ -1,5 +1,23 @@
 [
 {
+  "id": "bells-for-the-winter-hush",
+  "title": "Bells for the winter hush",
+  "description": "Two imagined nodding snowdrops, blue-green leaves and sparse moss in a cool field.",
+  "process": "72 animated watercolor/oil marks in 19 batches of 1\u20134, selected after settled whole/close inspections; sampled stem bends, a single-mark light test and deliberate final refinement. All 44 notes/camera moments recorded live. Startup and camera interruptions and failed upper capture recorded truthfully. Ended feed acknowledged all72marks; no count padding.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 72,
+  "moments": 44,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/bells-for-the-winter-hush/session.json",
+  "image": "/paintings/bells-for-the-winter-hush/finished.png",
+  "addedAt": "2026-11-13T21:34:03.429Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-13"
+},
+{
   "id": "yellow-mouths-in-the-bog-hush",
   "title": "Yellow mouths in the bog hush",
   "description": "Two imagined yellow pitcher plants with open hoods, folded leaves and sparse grasses in a cool bog field.",
