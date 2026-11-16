@@ -1,14 +1,18 @@
-import {readdir,readFile,stat} from 'node:fs/promises';
+import {mkdtemp,readdir,readFile,rm,stat,writeFile} from 'node:fs/promises';
 import {execFileSync,spawn} from 'node:child_process';
 import {once} from 'node:events';
 import {join} from 'node:path';
+import {tmpdir} from 'node:os';
+import {createHash} from 'node:crypto';
 import assert from 'node:assert/strict';
 import {brotliDecompressSync} from 'node:zlib';
 import {pathToFileURL} from 'node:url';
 import {root} from './add-gallery-painting.mjs';
+import {artworkDownloadResponse} from '../src/artwork-download.js';
 
 const output=join(root,'dist');
 const documents=(await import(pathToFileURL(join(root,'hosting/generated/gallery-json.js')).href)).default;
+const artworkDownloads=(await import(pathToFileURL(join(root,'hosting/generated/artwork-downloads.js')).href)).default;
 async function publicFile(path){
   const key='/'+path.replace(/^\//,'');
   return Object.hasOwn(documents,key)?brotliDecompressSync(Buffer.from(documents[key],'base64')):readFile(join(output,'client',path));
@@ -58,7 +62,29 @@ assert.equal(archiveExit,0,'Could not measure the expanded deployment archive');
 assert.ok(archiveBytes<=packageLimit,`Expanded deployment TAR is ${archiveBytes} bytes, above the 256 MiB hosting package limit`);
 console.log(`Expanded deployment TAR: ${archiveBytes} bytes of ${packageLimit} allowed.`);
 const downloads=JSON.parse(await readFile(join(output,'client/source-downloads.json'),'utf8'));
-const entries=downloads.flatMap(name=>execFileSync('unzip',['-Z1',join(output,'client',name)],{encoding:'utf8'}).split('\n').filter(Boolean));
+const entries=[];
+const temp=await mkdtemp(join(tmpdir(),'atelier-verify-zip-'));
+try{
+  for(const name of downloads){
+    let archive=join(output,'client',name);
+    const part=artworkDownloads['/'+name];
+    if(part){
+      const url='https://atelier.invalid/'+name;
+      const assets={fetch:async url=>new Response(await readFile(join(output,'client',url.pathname)))};
+      const response=artworkDownloadResponse(new Request(url),artworkDownloads,assets);
+      const bytes=Buffer.from(await response.arrayBuffer());
+      assert.equal(bytes.length,part.size);
+      assert.equal(createHash('sha256').update(bytes).digest('hex'),part.digest,'Shared ZIP bytes differ: '+name);
+      const head=artworkDownloadResponse(new Request(url,{method:'HEAD'}),artworkDownloads,assets);
+      assert.equal(head.headers.get('Content-Length'),String(bytes.length));
+      assert.equal(head.body,null);
+      archive=join(temp,name);
+      await writeFile(archive,bytes);
+      execFileSync('unzip',['-tq',archive]);
+    }
+    entries.push(...execFileSync('unzip',['-Z1',archive],{encoding:'utf8'}).split('\n').filter(Boolean));
+  }
+}finally{await rm(temp,{recursive:true,force:true});}
 assert.ok(!entries.some(file=>/(^|\/)(\.env(?!\.example)|\.dev\.vars|node_modules|\.git|\.sites-runtime)(\/|$|\.)/.test(file)),'Private or generated files in source download');
 assert.equal(new Set(entries.filter(file=>!file.endsWith('/'))).size,entries.filter(file=>!file.endsWith('/')).length,'Duplicate files across source downloads');
 for(const entry of catalog)assert.ok(entries.includes(`examples/previews/${entry.id}.png`)||entries.includes('public-gallery'+entry.image),'Artwork missing from source downloads: '+entry.id);

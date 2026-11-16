@@ -54,7 +54,9 @@ try{
   if(paths.length)execFileSync('zip',['-qd',archive,...paths]);
   for(const [index,part] of parts.entries()){
     const name=`source-artwork-${String(index+1).padStart(2,'0')}.zip`;
-    execFileSync('zip',['-q','-9',join(output,name),...part],{cwd:compactRoot});downloads.push(name);
+    // PNG members already use lossless compression. Store their bytes so the
+    // hosted gallery can assemble this same ZIP from shared static artwork.
+    execFileSync('zip',['-q','-0',join(output,name),...part],{cwd:compactRoot});downloads.push(name);
   }
   await writeFile(join(output,'source-downloads.json'),JSON.stringify(downloads,null,2)+'\n');
   await writeFile(join(output,'downloads.html'),`<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Atelier source downloads</title><link rel="stylesheet" href="/gallery.css"><main style="max-width:48rem;margin:3rem auto;padding:1.5rem"><a href="/">← Atelier gallery</a><h1>Take the studio with you.</h1><p>Download the code and every artwork part below. Extract all ZIP files into the same folder, preserving their paths. The code includes the MIT license, paint physics, recorded sessions and build instructions; the artwork parts include all original-resolution paintings with lossless compression.</p><ul>${downloads.map((name,i)=>`<li><a href="/${name}" download>${i===0?'Code and recorded sessions':`Artwork part ${i}`}</a></li>`).join('')}</ul><p>Then follow README.md. Rebuilding the gallery restores shared preview images automatically.</p></main></html>`);

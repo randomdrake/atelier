@@ -2,6 +2,8 @@ import handler from "vinext/server/fetch-handler";
 import { handleLiveRequest } from "../../src/live-service.js";
 import { embeddedJSONResponse } from "../../src/embedded-json.js";
 import galleryJSON from "../generated/gallery-json.js";
+import { artworkDownloadResponse } from "../../src/artwork-download.js";
+import artworkDownloads from "../generated/artwork-downloads.js";
 import { runWithConnectorBinding } from "../lib/connector-context";
 import type { ConnectorBinding } from "../lib/connector-contract.mjs";
 
@@ -11,6 +13,8 @@ export default {
     if (live) return live;
     const gallery = embeddedJSONResponse(request, galleryJSON);
     if (gallery) return gallery;
+    const download = artworkDownloadResponse(request, artworkDownloads, env.ASSETS);
+    if (download) return download;
     let binding = ctx.props?.CONNECTORS;
     // Local preview emulates the same request-scoped capability. This branch and
     // the auxiliary service binding are absent from production builds.

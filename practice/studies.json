@@ -19205,5 +19205,145 @@
       "source": "Agent observations from the actual PNG, 26 paired reviews, three additional pans, and an exact match to the ended public broadcast replay. Human rating is unset.",
       "humanRating": null
     }
+  },
+  {
+    "id": "a-shield-left-by-the-tide",
+    "title": "A shield left by the tide",
+    "date": "2026-11-16",
+    "session": "examples/a-shield-left-by-the-tide.json",
+    "finishedImage": "examples/previews/a-shield-left-by-the-tide.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "pastel"
+    ],
+    "goal": "Keep the curved shell rim readable at whole view and compare matched pale pastel and thin oil passes on the same cool wash.",
+    "inspiration": {
+      "title": "Smithsonian Ocean, Creature Feature: The Amazing Horseshoe Crab",
+      "url": "https://ocean.si.edu/ocean-life/invertebrates/creature-feature-amazing-horseshoe-crab",
+      "interpretation": "The shield and long tail suggested an imagined abandoned molt with an ochre hood, two uneven spurs and a tapered tail across a slate-green tidal flat."
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "The slanted lower washes closed the pale edge of the first block-in. A warm band remained behind the middle."
+      },
+      {
+        "afterStroke": 16,
+        "text": "The cool shadow sat below the primary hood. An overlapping back plate and a long pressure-tapered oil stroke connected the shell to its tail."
+      },
+      {
+        "afterStroke": 24,
+        "text": "The dark seam made the hood and rear plate separate at whole view. The ochre arc reads above the hinge."
+      },
+      {
+        "afterStroke": 34,
+        "text": "Two adjacent marks use the same pale pigment, nominal 18 px width, nominal load and sampled pressures. The lower thin oil pass remains a pale dash at whole view. The upper pastel pass blends into the wash."
+      },
+      {
+        "afterStroke": 46,
+        "text": "A narrower cool wash beneath the teeth joined the body to the flat. A low oil strip turned the side of the tail."
+      },
+      {
+        "afterStroke": 66,
+        "text": "Broader ochre and grey strokes reduced the outer arcs around the near and far eye areas. The far eye became more subdued."
+      },
+      {
+        "afterStroke": 74,
+        "text": "The upper pan revealed the wide dark crown band. A cooler turn broke part of it while the near side kept its ochre edge."
+      },
+      {
+        "afterStroke": 87,
+        "text": "One short pale oil mark stayed inside the established rim when viewed as a whole. The small muted scuffs were easier to see close up."
+      },
+      {
+        "afterStroke": 103,
+        "text": "Intermediate tones broke up the broad hood shadow. The right pan showed that the two water glints still had fairly straight edges."
+      },
+      {
+        "afterStroke": 107,
+        "text": "A wider wash and two shorter returns softened the right-side water while leaving the tail tip readable."
+      },
+      {
+        "afterStroke": 111,
+        "text": "Two warm wear marks helped the near turn connect to the higher rim. The regular simulated ridges still show."
+      },
+      {
+        "afterStroke": 119,
+        "text": "The final paired review showed the near rim, dark hinge and tapered tail still readable. The soft contact shadow held underneath. A few faint angular water strokes and repeated oil ridges remain."
+      }
+    ],
+    "evidence": [
+      "artifacts/a-shield-left-by-the-tide/012-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/012-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/016-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/016-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/020-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/020-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/024-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/024-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/028-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/028-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/032-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/032-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/034-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/034-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/038-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/038-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/042-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/042-lower.jpg",
+      "artifacts/a-shield-left-by-the-tide/042-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/046-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/046-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/050-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/050-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/054-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/054-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/058-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/058-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/062-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/062-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/066-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/066-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/070-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/070-upper.jpg",
+      "artifacts/a-shield-left-by-the-tide/070-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/074-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/074-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/078-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/078-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/082-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/082-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/086-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/086-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/087-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/087-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/091-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/091-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/095-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/095-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/099-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/099-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/103-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/103-right.jpg",
+      "artifacts/a-shield-left-by-the-tide/103-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/107-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/107-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/111-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/111-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/115-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/115-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/119-close.jpg",
+      "artifacts/a-shield-left-by-the-tide/119-whole.jpg",
+      "artifacts/a-shield-left-by-the-tide/live-receipt.json",
+      "examples/previews/a-shield-left-by-the-tide.png"
+    ],
+    "engineRevision": "059254bd57f88cb909ae3d48ff35b64c8db294db",
+    "model": "GPT-6, precise variant unavailable",
+    "nextExperiment": "On two parts of the same dry blue wash, repeat the matched thin-oil and pastel pair with their positions reversed. Try a second pastel pass on one half, and check which marks remain readable without giving the water raised edges.",
+    "assessment": {
+      "source": "Agent observations from the actual finished PNG, 31 paired reviews, three additional pans, and the exact completed public replay.",
+      "humanRating": null
+    }
   }
 ]

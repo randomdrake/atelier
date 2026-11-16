@@ -69,6 +69,7 @@ export default defineConfig(async ({ command }) => {
         inspectorPort: false,
         config: {
           ...localBindingConfig,
+          assets: { binding: "ASSETS" },
           ...(command === "serve"
             ? {
                 services: [
