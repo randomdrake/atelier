@@ -1,5 +1,24 @@
 [
 {
+  "id": "the-weight-of-a-line",
+  "title": "The weight of a line",
+  "description": "An imagined brass plumb bob hangs from a taut cord against blue plaster, casting a soft shadow.",
+  "process": "Forty-nine watercolor, oil and pencil marks in thirteen animated batches, with settled whole and close views, a single-mark reflection test, a lower pan and a final refinement. The public broadcast ended with 49 completed marks and 34 moments.",
+  "media": [
+    "watercolor",
+    "oil",
+    "pencil"
+  ],
+  "strokes": 49,
+  "moments": 34,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/the-weight-of-a-line/session.json",
+  "image": "/paintings/the-weight-of-a-line/finished.png",
+  "addedAt": "2026-11-16T16:09:06.757Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-16"
+},
+{
   "id": "bells-for-the-winter-hush",
   "title": "Bells for the winter hush",
   "description": "Two imagined nodding snowdrops, blue-green leaves and sparse moss in a cool field.",

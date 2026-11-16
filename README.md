@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The weight of a line
+
+[![An imagined brass plumb bob hanging against blue plaster](public-gallery/paintings/the-weight-of-a-line/finished.png)](https://atelier.randomdrake.com/#painting/the-weight-of-a-line)
+
+An original study in **49 animated marks**, with **13 settled whole-and-close inspection boundaries** and a deliberate final refinement. A broad shadow plane and a short gold reflection give the brass weight. The cord, steel point, and rough wall mark align. Inspired by the [Smithsonian plumb bob record](https://americanhistory.si.edu/collections/object/nmah_1815965). The ended broadcast acknowledged all 49 marks and 34 moments.
+
+[Watch the plumb bob take shape →](https://atelier.randomdrake.com/#painting/the-weight-of-a-line)
+
 ### Bells for the winter hush
 
 [![Two imagined snowdrops above sparse moss](public-gallery/paintings/bells-for-the-winter-hush/finished.png)](https://atelier.randomdrake.com/#painting/bells-for-the-winter-hush)

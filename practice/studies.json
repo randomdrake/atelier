@@ -18884,5 +18884,93 @@
     "source": "Agent observations from actualPNG,19settled inspection boundaries and exact72stroke44event ended-feed match; capture limitations recorded.",
     "humanRating": null
   }
+},
+{
+  "id": "the-weight-of-a-line",
+  "title": "The weight of a line",
+  "date": "2026-11-16",
+  "session": "examples/the-weight-of-a-line.json",
+  "finishedImage": "examples/previews/the-weight-of-a-line.png",
+  "media": [
+    "watercolor",
+    "oil",
+    "pencil"
+  ],
+  "goal": "Use a broad brass shadow plane and one short shoulder reflection to give a hanging plumb bob volume at whole view.",
+  "inspiration": {
+    "title": "Smithsonian National Museum of American History, Plumb Bob",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_1815965",
+    "interpretation": "The record for a brass surveyor’s weight with string suggested an original tapered plumb bob with a steel point, an offset shadow and a layout mark on blue plaster."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Broad blue washes left bright horizontal bands. A cool offset wash gave the unpainted weight a soft shadow footprint."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Overlapping ochre strokes made a filled tapered body. Its shoulder remained rounded, while the broad darker right face registered at both scales."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The nearly straight cord gives the weight a clear vertical axis. A softer, offset cord shadow stays subordinate."
+    },
+    {
+      "afterStroke": 28,
+      "text": "A warm pass interrupted the overly dark shoulder seam while preserving its left end. A cool stroke strengthened the steel point and the right edge kept its dark value."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Diagonal washes muted some horizontal breaks at the sides. Bands and grain remained visible behind the weight."
+    },
+    {
+      "afterStroke": 37,
+      "text": "One short pale-gold stroke remained visible at whole view on the warm flank without erasing the broader shadow plane."
+    },
+    {
+      "afterStroke": 41,
+      "text": "The lower pan showed the first faint pencil layout marks almost disappearing in the blue ground."
+    },
+    {
+      "afterStroke": 49,
+      "text": "The pencil witness mark sits under the point but still reads as a fleck after the small muted extensions. The shoulder refinement kept a short warm edge and left the stronger flank light intact. Regular bristle ridges remain visible up close."
+    }
+  ],
+  "evidence": [
+    "artifacts/the-weight-of-a-line/008-close.jpg",
+    "artifacts/the-weight-of-a-line/008-whole.jpg",
+    "artifacts/the-weight-of-a-line/012-close.jpg",
+    "artifacts/the-weight-of-a-line/012-whole.jpg",
+    "artifacts/the-weight-of-a-line/016-close.jpg",
+    "artifacts/the-weight-of-a-line/016-whole.jpg",
+    "artifacts/the-weight-of-a-line/020-close.jpg",
+    "artifacts/the-weight-of-a-line/020-whole.jpg",
+    "artifacts/the-weight-of-a-line/024-close.jpg",
+    "artifacts/the-weight-of-a-line/024-whole.jpg",
+    "artifacts/the-weight-of-a-line/028-close.jpg",
+    "artifacts/the-weight-of-a-line/028-whole.jpg",
+    "artifacts/the-weight-of-a-line/032-close.jpg",
+    "artifacts/the-weight-of-a-line/032-whole.jpg",
+    "artifacts/the-weight-of-a-line/036-close.jpg",
+    "artifacts/the-weight-of-a-line/036-whole.jpg",
+    "artifacts/the-weight-of-a-line/037-close.jpg",
+    "artifacts/the-weight-of-a-line/037-whole.jpg",
+    "artifacts/the-weight-of-a-line/041-close.jpg",
+    "artifacts/the-weight-of-a-line/041-lower.jpg",
+    "artifacts/the-weight-of-a-line/041-whole.jpg",
+    "artifacts/the-weight-of-a-line/045-close.jpg",
+    "artifacts/the-weight-of-a-line/045-whole.jpg",
+    "artifacts/the-weight-of-a-line/049-close.jpg",
+    "artifacts/the-weight-of-a-line/049-whole.jpg",
+    "artifacts/the-weight-of-a-line/live-receipt.json",
+    "examples/previews/the-weight-of-a-line.png"
+  ],
+  "engineRevision": "ac3e77ebb09e914e22c47c79604fa990c7224247",
+  "model": "GPT-6, precise variant unavailable",
+  "nextExperiment": "Use two small fixed-palette brass silhouettes over the same blue wash. Compare a short oil glint placed directly on the shadowed base with the same glint placed over a narrow warm midtone. Judge visibility at whole view and ridge buildup at 2×.",
+  "assessment": {
+    "source": "Agent observations from the finished PNG, thirteen settled inspection boundaries and the exact ended public replay match. Human rating is unset.",
+    "humanRating": null
+  }
 }
 ]
