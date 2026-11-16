@@ -19485,5 +19485,83 @@
       "source": "Agent observations from the actual exported PNG, 30 paired reviews, four supplementary pans, and the exact ended replay.",
       "humanRating": null
     }
+  },
+  {
+    "id": "a-small-sieve-for-the-light",
+    "title": "A small sieve for the light",
+    "date": "2026-11-16",
+    "session": "examples/a-small-sieve-for-the-light.json",
+    "finishedImage": "examples/previews/a-small-sieve-for-the-light.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "pastel"
+    ],
+    "goal": "Make three staggered rows of perforations follow the red bowl’s curvature, with one short bright highlight on the near lip.",
+    "inspiration": {
+      "title": "Smithsonian National Museum of American History, enamel colander from Julia Child’s kitchen",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_905743",
+      "interpretation": "The collection object suggested an imagined red enamel colander with two open handles on blue-grey linen."
+    },
+    "observations": [
+      {
+        "afterStroke": 12,
+        "text": "Broad overlapping oil strokes filled the red mass. The division between inside and outside was still soft."
+      },
+      {
+        "afterStroke": 20,
+        "text": "A warm lip arc clarified the opening. Each loop left blue negative space. The smaller far loop gave the right side less weight."
+      },
+      {
+        "afterStroke": 40,
+        "text": "Wider holes in the middle and narrower angled holes at the flanks followed the bowl’s curve. Staggering the rows kept them from forming straight columns."
+      },
+      {
+        "afterStroke": 44,
+        "text": "Cool air-colored interior dots were clearer at 2×. Their lower contrast set them behind the front row."
+      },
+      {
+        "afterStroke": 45,
+        "text": "One tapered pale oil stroke remained visible at whole view and stayed inside the salmon lip."
+      },
+      {
+        "afterStroke": 53,
+        "text": "Tiny warm strokes along a few hole edges were subtle at 2× and barely changed the whole view. The rim light remained dominant."
+      },
+      {
+        "afterStroke": 61,
+        "text": "The lower pan revealed the dark foot against a softer cast shadow. The left end of the linen fold still needed a firmer edge."
+      },
+      {
+        "afterStroke": 69,
+        "text": "A wider interior oil stroke muted the color change through the middle. The abrupt ridge direction change still showed close up. The left pan showed an angular handle bend."
+      },
+      {
+        "afterStroke": 77,
+        "text": "The final short ivory pass stayed inside the earlier light. The linen fold remained quiet and the holes kept their curved grouping. Angular handle turns and regular oil ridges remain."
+      }
+    ],
+    "evidence": [
+      "artifacts/a-small-sieve-for-the-light/016-whole.jpg",
+      "artifacts/a-small-sieve-for-the-light/020-whole.jpg",
+      "artifacts/a-small-sieve-for-the-light/028-close.jpg",
+      "artifacts/a-small-sieve-for-the-light/040-whole.jpg",
+      "artifacts/a-small-sieve-for-the-light/040-close.jpg",
+      "artifacts/a-small-sieve-for-the-light/045-whole.jpg",
+      "artifacts/a-small-sieve-for-the-light/045-close.jpg",
+      "artifacts/a-small-sieve-for-the-light/061-lower.jpg",
+      "artifacts/a-small-sieve-for-the-light/069-left.jpg",
+      "artifacts/a-small-sieve-for-the-light/077-whole.jpg",
+      "artifacts/a-small-sieve-for-the-light/077-close.jpg",
+      "artifacts/a-small-sieve-for-the-light/live-receipt.json",
+      "examples/previews/a-small-sieve-for-the-light.png"
+    ],
+    "engineRevision": "d0f878a4a1885e2d0575d619b4b8351ac8287230",
+    "model": "GPT-6, precise variant unavailable",
+    "nextExperiment": "Paint the same curved row twice on a red oil ground. Change only the width and axis of the flank marks in the second row. Compare the apparent curvature at whole view and inspect both at 2×.",
+    "assessment": {
+      "source": "Agent observations from 20 paired reviews, two supplementary pans, the actual PNG, and the exact ended replay.",
+      "humanRating": null
+    }
   }
 ]

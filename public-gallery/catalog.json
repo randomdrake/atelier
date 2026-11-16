@@ -1,5 +1,24 @@
 [
   {
+    "id": "a-small-sieve-for-the-light",
+    "title": "A small sieve for the light",
+    "description": "A red enamel colander with two open handles sits on blue-grey linen.",
+    "process": "77 animated watercolor, oil and pastel marks in 20 paired whole and 2× reviews, with two supplementary pans and 11 live notes. Staggered holes curve around the belly. A compact ivory stroke catches the rolled lip. The ended broadcast acknowledged every mark.",
+    "media": [
+      "watercolor",
+      "oil",
+      "pastel"
+    ],
+    "strokes": 77,
+    "moments": 52,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/a-small-sieve-for-the-light/session.json",
+    "image": "/paintings/a-small-sieve-for-the-light/finished.png",
+    "addedAt": "2026-11-16T21:18:28.418Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-16"
+  },
+  {
     "id": "the-green-between-the-boards",
     "title": "The green between the boards",
     "description": "An imagined green glass fishing float and a curl of old line on weathered planks.",
