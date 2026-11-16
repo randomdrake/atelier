@@ -19079,5 +19079,131 @@
     "source": "Agent observations from the actual finished PNG, 18 paired reviews, one lower inspection, and an exact match to the ended public broadcast document.",
     "humanRating": null
   }
-}
+},
+  {
+    "id": "where-the-rain-leaves-copper",
+    "title": "Where the rain leaves copper",
+    "date": "2026-11-16",
+    "session": "examples/where-the-rain-leaves-copper.json",
+    "finishedImage": "examples/previews/where-the-rain-leaves-copper.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "pastel"
+    ],
+    "goal": "Keep the basalt shadow faces broad and cool while using one short copper edge to make the central cap read at whole view.",
+    "inspiration": {
+      "title": "National Park Service, Devils Postpile",
+      "url": "https://www.nps.gov/places/devilspostpile.htm",
+      "interpretation": "Columnar basalt at Devils Postpile suggested an imagined bluff above a cold inlet. Unequal stepped crowns and warm mineral stains follow the imagined light after rain."
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Overlapping washes covered the widest bright gaps. A pale opening remained between the distant shore and the darker inlet."
+      },
+      {
+        "afterStroke": 12,
+        "text": "Four long flat oil strokes looked like separate fingers. Their narrow footprints left open sky between them."
+      },
+      {
+        "afterStroke": 16,
+        "text": "Round strokes overlapped the flat marks and closed the gaps. The cliff read as one mass, with rounded crowns."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Broad grey faces met two angled caps and reduced their rooflike overhangs. Dark clefts separated the column faces."
+      },
+      {
+        "afterStroke": 44,
+        "text": "The central ochre cap and broad grey face became the warmest area. The taller caps to the right stayed subdued."
+      },
+      {
+        "afterStroke": 60,
+        "text": "The lower pan showed the pastel barely registered over the blue wash. The two dark shapes had filled undersides."
+      },
+      {
+        "afterStroke": 64,
+        "text": "Thin oil ripples appeared at whole view and defined the water beside the fallen stones."
+      },
+      {
+        "afterStroke": 77,
+        "text": "A short copper edge held at whole view against the broad cool shadow. The upper shoulder kept a small rounded turn."
+      },
+      {
+        "afterStroke": 93,
+        "text": "A wider slate overlay subdued one narrow blue stripe on the right. The other stripe remains as a distinct edge."
+      },
+      {
+        "afterStroke": 101,
+        "text": "The final lower wash subdued the right inlet. The short mark below the warm cap tied it to its face. Soft crowns, repeated oil ridges and subdued horizontal wash bands remain."
+      }
+    ],
+    "evidence": [
+      "artifacts/where-the-rain-leaves-copper/004-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/004-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/008-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/008-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/012-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/012-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/016-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/016-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/020-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/020-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/024-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/024-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/028-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/028-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/032-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/032-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/036-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/036-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/040-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/040-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/044-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/044-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/048-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/048-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/052-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/052-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/056-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/056-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/060-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/060-lower.jpg",
+      "artifacts/where-the-rain-leaves-copper/060-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/064-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/064-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/068-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/068-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/072-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/072-upper.jpg",
+      "artifacts/where-the-rain-leaves-copper/072-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/076-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/076-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/077-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/077-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/081-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/081-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/085-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/085-right.jpg",
+      "artifacts/where-the-rain-leaves-copper/085-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/089-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/089-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/093-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/093-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/097-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/097-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/101-close.jpg",
+      "artifacts/where-the-rain-leaves-copper/101-whole.jpg",
+      "artifacts/where-the-rain-leaves-copper/live-receipt.json",
+      "examples/previews/where-the-rain-leaves-copper.png"
+    ],
+    "engineRevision": "c5128d11882dbaea938b5f0604e2fb8d81a72e6b",
+    "model": "GPT-6, precise variant unavailable",
+    "nextExperiment": "On one blue wash, paint two short strips with the same muted pigment and comparable width. Compare pastel and thin oil at whole view and 2×, including how much relief the oil introduces.",
+    "assessment": {
+      "source": "Agent observations from the actual PNG, 26 paired reviews, three additional pans, and an exact match to the ended public broadcast replay. Human rating is unset.",
+      "humanRating": null
+    }
+  }
 ]

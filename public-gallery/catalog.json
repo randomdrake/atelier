@@ -1,5 +1,24 @@
 [
 {
+  "id": "where-the-rain-leaves-copper",
+  "title": "Where the rain leaves copper",
+  "description": "An imagined basalt bluff after rain, with stepped slate columns, one copper-lit crown, and fallen stones in a blue inlet.",
+  "process": "101 animated watercolor, oil and pastel marks in 26 settled whole-and-close reviews, three extra pans, and 29 live easel notes. Broad cool faces support a short copper edge, while thin oil ripples define the water.",
+  "media": [
+    "watercolor",
+    "oil",
+    "pastel"
+  ],
+  "strokes": 101,
+  "moments": 66,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/where-the-rain-leaves-copper/session.json",
+  "image": "/paintings/where-the-rain-leaves-copper/finished.png",
+  "addedAt": "2026-11-16T18:18:27.205Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-16"
+},
+{
   "id": "lacing-for-the-first-snow",
   "title": "Lacing for the first snow",
   "description": "A single bentwood snowshoe with rawhide lacing and an oxblood binding on a cold blue-grey floor.",

@@ -1,5 +1,6 @@
 import {readdir,readFile,stat} from 'node:fs/promises';
-import {execFileSync} from 'node:child_process';
+import {execFileSync,spawn} from 'node:child_process';
+import {once} from 'node:events';
 import {join} from 'node:path';
 import assert from 'node:assert/strict';
 import {brotliDecompressSync} from 'node:zlib';
@@ -29,7 +30,7 @@ assert.equal(Object.keys(documents).length,catalog.length+2);
 let secret;
 try{process.loadEnvFile(join(root,'.env.live'));secret=process.env.ATELIER_BROADCAST_TOKEN;}
 catch(error){if(error.code!=='ENOENT')throw error;}
-let expandedBytes=0;
+const packageLimit=256*1024*1024;
 async function inspect(directory){
   for(const item of await readdir(directory,{withFileTypes:true})){
     assert.ok(!/^(\.env(?:\.|$)|\.dev\.vars|\.git$)/.test(item.name),'Secret or Git metadata in build output');
@@ -37,17 +38,25 @@ async function inspect(directory){
     if(item.isDirectory())await inspect(path);
     else{
       assert.ok(!item.name.endsWith('.map'),'Debug source map in public deployment: '+path);
-      expandedBytes+=(await stat(path)).size;
       if(directory.startsWith(join(output,'client')))assert.ok((await stat(path)).size<=25*1024*1024,'Public asset exceeds the 25 MiB hosting limit: '+path);
       if(secret)assert.ok(!(await readFile(path)).includes(Buffer.from(secret)),'Publisher credential in build output');
     }
   }
 }
 await inspect(output);
-assert.ok(expandedBytes<=256*1024*1024,'Build exceeds the 256 MiB expanded hosting package limit');
-// Sites counts expanded archive framing too. Reserve room for file headers,
-// directory entries and packaging metadata instead of relying on payload alone.
-assert.ok(expandedBytes<=256*1024*1024-2*1024*1024,'Build needs 2 MiB archive framing headroom');
+// Count file headers, directory entries, padding and end records just as the
+// hosting limit does. Stream the TAR so the verifier need not retain a copy.
+const archive=spawn(process.platform==='win32'?'tar.exe':'tar',['-C',root,'-cf','-','dist'],{
+  env:{...process.env,COPYFILE_DISABLE:'1'},stdio:['ignore','pipe','inherit']
+});
+let archiveBytes=0;
+const [[archiveExit]]=await Promise.all([
+  once(archive,'close'),
+  (async()=>{for await(const chunk of archive.stdout)archiveBytes+=chunk.length;})()
+]);
+assert.equal(archiveExit,0,'Could not measure the expanded deployment archive');
+assert.ok(archiveBytes<=packageLimit,`Expanded deployment TAR is ${archiveBytes} bytes, above the 256 MiB hosting package limit`);
+console.log(`Expanded deployment TAR: ${archiveBytes} bytes of ${packageLimit} allowed.`);
 const downloads=JSON.parse(await readFile(join(output,'client/source-downloads.json'),'utf8'));
 const entries=downloads.flatMap(name=>execFileSync('unzip',['-Z1',join(output,'client',name)],{encoding:'utf8'}).split('\n').filter(Boolean));
 assert.ok(!entries.some(file=>/(^|\/)(\.env(?!\.example)|\.dev\.vars|node_modules|\.git|\.sites-runtime)(\/|$|\.)/.test(file)),'Private or generated files in source download');
