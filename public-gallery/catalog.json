@@ -1,5 +1,25 @@
 [
   {
+    "id": "between-two-notes",
+    "title": "Between two notes",
+    "description": "A cool steel tuning fork rests diagonally on plum cloth with a warm fold and a soft cast shadow.",
+    "process": "Fifty-eight animated strokes in sixteen reviewed batches. A short loaded oil reflection on the far tine holds at whole view, with a continuous plum gap separating the arms.",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic",
+      "pastel"
+    ],
+    "strokes": 58,
+    "moments": 27,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/between-two-notes/session.json",
+    "image": "/paintings/between-two-notes/finished.png",
+    "addedAt": "2026-11-16T22:13:25.651Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-16"
+  },
+  {
     "id": "a-small-sieve-for-the-light",
     "title": "A small sieve for the light",
     "description": "A red enamel colander with two open handles sits on blue-grey linen.",

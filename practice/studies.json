@@ -19563,5 +19563,103 @@
       "source": "Agent observations from 20 paired reviews, two supplementary pans, the actual PNG, and the exact ended replay.",
       "humanRating": null
     }
+  },
+  {
+    "id": "between-two-notes",
+    "title": "Between two notes",
+    "date": "2026-11-16",
+    "session": "examples/between-two-notes.json",
+    "finishedImage": "examples/previews/between-two-notes.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic",
+      "pastel"
+    ],
+    "goal": "Preserve a continuous strip of plum cloth between the steel tines and make a short, cool reflection legible at whole view.",
+    "inspiration": {
+      "title": "Smithsonian National Museum of American History, Tuning Fork",
+      "url": "https://www.americanhistory.si.edu/collections/object/nmah_609137",
+      "interpretation": "The metal fork in the collection suggested an original diagonal still life on plum cloth with warm folds and a cool streak on the far tine."
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Overlapping plum washes covered the exposed lower canvas. A warmer lower field remained distinct from the cooler center."
+      },
+      {
+        "afterStroke": 16,
+        "text": "The narrow parallel tines framed a clean strip of uninterrupted plum. At 2×, the dark heel had a heavy join and the long strokes showed regular bristle ridges."
+      },
+      {
+        "afterStroke": 21,
+        "text": "The thin cool oil reflection stayed inside the far tine and was more visible at 2× than at whole view."
+      },
+      {
+        "afterStroke": 33,
+        "text": "Small, cool end planes made the tips look less pointed at whole view. The upper pan showed the tine faces and clipped the ends."
+      },
+      {
+        "afterStroke": 38,
+        "text": "A short acrylic accent over the oil remained faint. This pass also used a narrower brush than the next oil pass."
+      },
+      {
+        "afterStroke": 42,
+        "text": "The wider, more loaded oil pass made a bright streak at whole view. The near tine stayed darker and the gap remained open."
+      },
+      {
+        "afterStroke": 54,
+        "text": "A closer shadow under the handle joined the contact area while the broad oblique shadow stayed soft. The pastel accents barely changed the whole view."
+      },
+      {
+        "afterStroke": 58,
+        "text": "The short core and dimmer flanking strokes tapered the reflection. The heel stayed connected, and the close view still shows ridges and a thick bend. The softer fabric folds keep their edges."
+      }
+    ],
+    "evidence": [
+      "artifacts/between-two-notes/004-whole.jpg",
+      "artifacts/between-two-notes/004-close.jpg",
+      "artifacts/between-two-notes/008-whole.jpg",
+      "artifacts/between-two-notes/008-close.jpg",
+      "artifacts/between-two-notes/012-whole.jpg",
+      "artifacts/between-two-notes/012-close.jpg",
+      "artifacts/between-two-notes/016-whole.jpg",
+      "artifacts/between-two-notes/016-close.jpg",
+      "artifacts/between-two-notes/020-whole.jpg",
+      "artifacts/between-two-notes/020-close.jpg",
+      "artifacts/between-two-notes/021-whole.jpg",
+      "artifacts/between-two-notes/021-close.jpg",
+      "artifacts/between-two-notes/025-whole.jpg",
+      "artifacts/between-two-notes/025-close.jpg",
+      "artifacts/between-two-notes/029-whole.jpg",
+      "artifacts/between-two-notes/029-close.jpg",
+      "artifacts/between-two-notes/033-whole.jpg",
+      "artifacts/between-two-notes/033-close.jpg",
+      "artifacts/between-two-notes/037-whole.jpg",
+      "artifacts/between-two-notes/037-close.jpg",
+      "artifacts/between-two-notes/038-whole.jpg",
+      "artifacts/between-two-notes/038-close.jpg",
+      "artifacts/between-two-notes/042-whole.jpg",
+      "artifacts/between-two-notes/042-close.jpg",
+      "artifacts/between-two-notes/046-whole.jpg",
+      "artifacts/between-two-notes/046-close.jpg",
+      "artifacts/between-two-notes/050-whole.jpg",
+      "artifacts/between-two-notes/050-close.jpg",
+      "artifacts/between-two-notes/054-whole.jpg",
+      "artifacts/between-two-notes/054-close.jpg",
+      "artifacts/between-two-notes/058-whole.jpg",
+      "artifacts/between-two-notes/058-close.jpg",
+      "artifacts/between-two-notes/033-upper.jpg",
+      "artifacts/between-two-notes/046-lower.jpg",
+      "artifacts/between-two-notes/live-receipt.json",
+      "examples/previews/between-two-notes.png"
+    ],
+    "engineRevision": "3540649d4b30368b65b26d145848b1d864ade380",
+    "model": "GPT-6, precise variant unavailable",
+    "nextExperiment": "On two matching dark oil strips, use the same brush width, pressure and pigment for a thin oil glint and a higher-body oil glint. Compare visibility at whole view and ridge height at 2×.",
+    "assessment": {
+      "source": "Agent observations from 16 paired reviews, two supplementary close pans, the actual exported PNG and the exact ended replay.",
+      "humanRating": null
+    }
   }
 ]
