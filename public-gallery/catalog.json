@@ -1,5 +1,23 @@
 [
 {
+  "id": "lacing-for-the-first-snow",
+  "title": "Lacing for the first snow",
+  "description": "A single bentwood snowshoe with rawhide lacing and an oxblood binding on a cold blue-grey floor.",
+  "process": "Painted live in 18 small animated watercolor and oil batches with paired whole and 2× reviews. Warm wood, quiet cord and a short leather highlight distinguish the materials.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 69,
+  "moments": 46,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/lacing-for-the-first-snow/session.json",
+  "image": "/paintings/lacing-for-the-first-snow/finished.png",
+  "addedAt": "2026-11-16T17:16:23.234Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-16"
+},
+{
   "id": "the-weight-of-a-line",
   "title": "The weight of a line",
   "description": "An imagined brass plumb bob hangs from a taut cord against blue plaster, casting a soft shadow.",

@@ -18972,5 +18972,112 @@
     "source": "Agent observations from the finished PNG, thirteen settled inspection boundaries and the exact ended public replay match. Human rating is unset.",
     "humanRating": null
   }
+},
+{
+  "id": "lacing-for-the-first-snow",
+  "title": "Lacing for the first snow",
+  "date": "2026-11-16",
+  "session": "examples/lacing-for-the-first-snow.json",
+  "finishedImage": "examples/previews/lacing-for-the-first-snow.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Keep a continuous warm bentwood rim readable at whole view by using quieter lacing, and let one short scuff describe the leather binding.",
+  "inspiration": {
+    "title": "Smithsonian National Museum of Natural History, Snowshoes (Pair)",
+    "url": "https://www.si.edu/object/snowshoes-pair%3Anmnhanthropology_8379224",
+    "interpretation": "The record for bentwood snowshoes with rawhide netting suggested an imagined single snowshoe on a cold blue-grey floor, with asymmetrical lighting, a raised oxblood binding and a tapered lashed tail."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Overlapping washes softened several bright seams and left a cool diagonal shadow through what would become the open weave."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The dark outline and two crosspieces connected cleanly. A narrower warm pass began to separate the light-facing wood from the dark edge. Small corners remained at the crown."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The two directions of fine muted cord crossed without becoming as dark as the frame. The cold field stayed visible through the toe diamonds."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Heel diamonds compressed as the wood rails converged. The wider middle spacing left room for the binding."
+    },
+    {
+      "afterStroke": 44,
+      "text": "Dark leather initially looked loose at its ends. Two fine hooked ties made it read as attached to the surrounding weave, though their tips remain angular."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Crossing washes lowered the outer white seams. A pale opening persisted inside the toe."
+    },
+    {
+      "afterStroke": 56,
+      "text": "Short cool contact shadows met the lower left and right rails and connected the frame with the floor. The lower pan showed the tail taper clearly."
+    },
+    {
+      "afterStroke": 64,
+      "text": "The tail wraps and crossbar ties read clearly up close and become quieter at whole view."
+    },
+    {
+      "afterStroke": 65,
+      "text": "One short warm scuff remained visible on the dark binding at whole view with the dark underside intact."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Small warm crown and heel passes kept the rim readable around the quieter cord. Peripheral washes muted some bright floor bands. Faceted crown turns, pale remnants and regular bristle ridges remain."
+    }
+  ],
+  "evidence": [
+    "artifacts/lacing-for-the-first-snow/004-close.jpg",
+    "artifacts/lacing-for-the-first-snow/004-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/008-close.jpg",
+    "artifacts/lacing-for-the-first-snow/008-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/012-close.jpg",
+    "artifacts/lacing-for-the-first-snow/012-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/016-close.jpg",
+    "artifacts/lacing-for-the-first-snow/016-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/020-close.jpg",
+    "artifacts/lacing-for-the-first-snow/020-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/024-close.jpg",
+    "artifacts/lacing-for-the-first-snow/024-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/028-close.jpg",
+    "artifacts/lacing-for-the-first-snow/028-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/032-close.jpg",
+    "artifacts/lacing-for-the-first-snow/032-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/036-close.jpg",
+    "artifacts/lacing-for-the-first-snow/036-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/040-close.jpg",
+    "artifacts/lacing-for-the-first-snow/040-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/044-close.jpg",
+    "artifacts/lacing-for-the-first-snow/044-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/048-close.jpg",
+    "artifacts/lacing-for-the-first-snow/048-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/052-close.jpg",
+    "artifacts/lacing-for-the-first-snow/052-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/056-close.jpg",
+    "artifacts/lacing-for-the-first-snow/056-lower.jpg",
+    "artifacts/lacing-for-the-first-snow/056-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/060-close.jpg",
+    "artifacts/lacing-for-the-first-snow/060-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/064-close.jpg",
+    "artifacts/lacing-for-the-first-snow/064-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/065-close.jpg",
+    "artifacts/lacing-for-the-first-snow/065-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/069-close.jpg",
+    "artifacts/lacing-for-the-first-snow/069-whole.jpg",
+    "artifacts/lacing-for-the-first-snow/live-receipt.json",
+    "examples/previews/lacing-for-the-first-snow.png"
+  ],
+  "engineRevision": "15663e26201e2f1cb3494a7004685595e891ffc2",
+  "model": "GPT-6, precise variant unavailable",
+  "nextExperiment": "Use a fixed blue wash and warm wood palette to compare a few-point curve with a longer sampled curve at the same spread and paint load. Add identical muted lacing and compare whether the rim stays continuous at whole view and how ridges accumulate at 2×.",
+  "assessment": {
+    "source": "Agent observations from the actual finished PNG, 18 paired reviews, one lower inspection, and an exact match to the ended public broadcast document.",
+    "humanRating": null
+  }
 }
 ]
