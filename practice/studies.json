@@ -19661,5 +19661,95 @@
       "source": "Agent observations from 16 paired reviews, two supplementary close pans, the actual exported PNG and the exact ended replay.",
       "humanRating": null
     }
+  },
+  {
+    "id": "the-slack-in-the-line",
+    "title": "The slack in the line",
+    "date": "2026-11-16",
+    "session": "examples/the-slack-in-the-line.json",
+    "finishedImage": "examples/previews/the-slack-in-the-line.png",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "goal": "Keep the carved inner opening crisp while the far edge of the shadow dissolves into blue cloth.",
+    "inspiration": {
+      "title": "Smithsonian National Museum of the American Indian, Nanticoke net shuttle",
+      "url": "https://americanindian.si.edu/collections-search/object/NMAI_36223",
+      "interpretation": "The collection record for a carved wooden net shuttle prompted an imagined amber shuttle with a slack cord loop on folded blue cloth."
+    },
+    "observations": [
+      {
+        "afterStroke": 8,
+        "text": "Overlapping blue-gray washes covered the linen. A long cool wash crossed them diagonally and faded at its far edge."
+      },
+      {
+        "afterStroke": 12,
+        "text": "The two darker rails met at both ends, leaving an uninterrupted blue opening. The rails showed regular parallel bristle ridges at 2×."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Warm oil inside each rail gave the wood two lit planes. Narrow darker paint at the inner edge kept the opening crisp."
+      },
+      {
+        "afterStroke": 24,
+        "text": "A narrower blue wash just beneath the heel anchored it while the wider diagonal shadow still dispersed into the ground."
+      },
+      {
+        "afterStroke": 29,
+        "text": "One continuous muted cord reads at whole view. The lower 2× pan showed a hard angular turn in the loop."
+      },
+      {
+        "afterStroke": 33,
+        "text": "A second, more closely sampled oil pass softened the tightest turn. The loop still has a kink on its left side."
+      },
+      {
+        "afterStroke": 42,
+        "text": "One short amber stroke brightened the upper rail at whole view without filling the dark inner edge."
+      },
+      {
+        "afterStroke": 46,
+        "text": "The final edge touches clarified the far tip and added a quieter crest on the cord. The opening stayed crisp against the softer shadow, with faint wash bands and regular oil ridges still visible."
+      }
+    ],
+    "evidence": [
+      "artifacts/the-slack-in-the-line/004-whole.jpg",
+      "artifacts/the-slack-in-the-line/004-close.jpg",
+      "artifacts/the-slack-in-the-line/008-whole.jpg",
+      "artifacts/the-slack-in-the-line/008-close.jpg",
+      "artifacts/the-slack-in-the-line/012-whole.jpg",
+      "artifacts/the-slack-in-the-line/012-close.jpg",
+      "artifacts/the-slack-in-the-line/016-whole.jpg",
+      "artifacts/the-slack-in-the-line/016-close.jpg",
+      "artifacts/the-slack-in-the-line/020-whole.jpg",
+      "artifacts/the-slack-in-the-line/020-close.jpg",
+      "artifacts/the-slack-in-the-line/024-whole.jpg",
+      "artifacts/the-slack-in-the-line/024-close.jpg",
+      "artifacts/the-slack-in-the-line/028-whole.jpg",
+      "artifacts/the-slack-in-the-line/028-close.jpg",
+      "artifacts/the-slack-in-the-line/029-whole.jpg",
+      "artifacts/the-slack-in-the-line/029-close.jpg",
+      "artifacts/the-slack-in-the-line/033-whole.jpg",
+      "artifacts/the-slack-in-the-line/033-close.jpg",
+      "artifacts/the-slack-in-the-line/037-whole.jpg",
+      "artifacts/the-slack-in-the-line/037-close.jpg",
+      "artifacts/the-slack-in-the-line/041-whole.jpg",
+      "artifacts/the-slack-in-the-line/041-close.jpg",
+      "artifacts/the-slack-in-the-line/042-whole.jpg",
+      "artifacts/the-slack-in-the-line/042-close.jpg",
+      "artifacts/the-slack-in-the-line/046-whole.jpg",
+      "artifacts/the-slack-in-the-line/046-close.jpg",
+      "artifacts/the-slack-in-the-line/029-lower.jpg",
+      "artifacts/the-slack-in-the-line/046-right.jpg",
+      "artifacts/the-slack-in-the-line/live-receipt.json",
+      "examples/previews/the-slack-in-the-line.png"
+    ],
+    "engineRevision": "f89ce74b141a0183f2b9645fefb67c440ef942f1",
+    "model": "GPT-6, precise variant unavailable",
+    "nextExperiment": "On matching blue washes, compare a single narrow cool contact shadow with the same stroke feathered using a second, wetter pass. Check whether each heel feels seated at whole view and how wide the transition appears at 2×.",
+    "assessment": {
+      "source": "Agent observations from 13 paired reviews, two supplementary close pans, the actual exported PNG and exact ended replay.",
+      "humanRating": null
+    }
   }
 ]

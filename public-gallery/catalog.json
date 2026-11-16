@@ -1,5 +1,23 @@
 [
   {
+    "id": "the-slack-in-the-line",
+    "title": "The slack in the line",
+    "description": "A carved wood net shuttle with a slack cord loop on blue cloth.",
+    "process": "Forty-six animated watercolor and oil marks with thirteen paired reviews, two close pans, and seven live easel notes.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 46,
+    "moments": 27,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/the-slack-in-the-line/session.json",
+    "image": "/paintings/the-slack-in-the-line/finished.png",
+    "addedAt": "2026-11-16T23:09:48.639Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-16"
+  },
+  {
     "id": "between-two-notes",
     "title": "Between two notes",
     "description": "A cool steel tuning fork rests diagonally on plum cloth with a warm fold and a soft cast shadow.",
