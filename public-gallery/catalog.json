@@ -1,5 +1,25 @@
 [
   {
+    "id": "the-green-between-the-boards",
+    "title": "The green between the boards",
+    "description": "An imagined green glass fishing float and a curl of old line on weathered planks.",
+    "process": "Painted live in 117 animated strokes with 30 settled whole and close reviews. A bent board seam shows through the glass, with soft watercolor edges and one compact oil glint. Inspired by the Smithsonian’s green glass fishing float.",
+    "media": [
+      "watercolor",
+      "oil",
+      "pastel",
+      "pencil"
+    ],
+    "strokes": 117,
+    "moments": 67,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/the-green-between-the-boards/session.json",
+    "image": "/paintings/the-green-between-the-boards/finished.png",
+    "addedAt": "2026-11-16T20:25:51.079Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-16"
+  },
+  {
     "id": "a-shield-left-by-the-tide",
     "title": "A shield left by the tide",
     "description": "An imagined horseshoe crab molt at low tide. A worn ochre shield, uneven rear spines and a narrow tail sit above a slate-green tidal flat.",

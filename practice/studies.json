@@ -19345,5 +19345,145 @@
       "source": "Agent observations from the actual finished PNG, 31 paired reviews, three additional pans, and the exact completed public replay.",
       "humanRating": null
     }
+  },
+  {
+    "id": "the-green-between-the-boards",
+    "title": "The green between the boards",
+    "date": "2026-11-16",
+    "session": "examples/the-green-between-the-boards.json",
+    "finishedImage": "examples/previews/the-green-between-the-boards.png",
+    "media": [
+      "watercolor",
+      "oil",
+      "pastel",
+      "pencil"
+    ],
+    "goal": "Keep one sharp window reflection inside a soft green glass rim, with a bend in the visible wood seam through the body.",
+    "inspiration": {
+      "title": "Smithsonian National Museum of American History, green glass fishing float",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_317116",
+      "interpretation": "The green glass float suggested an imagined worn sphere on muted brown planks with a clipped curl of fishing line."
+    },
+    "observations": [
+      {
+        "afterStroke": 12,
+        "text": "A straight board seam was visible through the first cool washes. The lower half still dissolved into the wood above the shadow."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Curved lower washes closed the silhouette, and a matte olive crescent appeared below the first bend in the seam."
+      },
+      {
+        "afterStroke": 28,
+        "text": "Thin oil made the reflection arcs visible at whole view. At 2× their parallel ridges were much sharper than the soft halo underneath."
+      },
+      {
+        "afterStroke": 40,
+        "text": "The rope curl held its open middle. Its shadow and upper turn separated from the wood without equaling the glass in contrast."
+      },
+      {
+        "afterStroke": 45,
+        "text": "The short pale oil crest stayed inside the upper-left wash, with a pointed end visible at whole view."
+      },
+      {
+        "afterStroke": 53,
+        "text": "The ochre oil below it was bright and regular. A subdued green overlap muted its left side, and the right end turned toward the green rim."
+      },
+      {
+        "afterStroke": 65,
+        "text": "An upper pan exposed the soft crown and a right-side inclusion with a beadlike dark center. A mid-green pass softened the center only partly."
+      },
+      {
+        "afterStroke": 73,
+        "text": "The narrow contact joined the dark of the glass to the shadow but showed raised parallel ridges. The warm dash on the wood remained separate."
+      },
+      {
+        "afterStroke": 81,
+        "text": "Dry pastel kept the planks comparatively quiet at whole view. Thin pencil marks later darkened the knot without oil relief."
+      },
+      {
+        "afterStroke": 101,
+        "text": "A second curved wash made the inside seam dip visibly against the two flatter outside segments."
+      },
+      {
+        "afterStroke": 117,
+        "text": "The final short crest held the focal light. Whole view retained the soft rim and the bent wood seam. Close view retained lower brush ridges and an angular rope turn."
+      }
+    ],
+    "evidence": [
+      "artifacts/the-green-between-the-boards/004-close.jpg",
+      "artifacts/the-green-between-the-boards/004-whole.jpg",
+      "artifacts/the-green-between-the-boards/008-close.jpg",
+      "artifacts/the-green-between-the-boards/008-whole.jpg",
+      "artifacts/the-green-between-the-boards/012-close.jpg",
+      "artifacts/the-green-between-the-boards/012-whole.jpg",
+      "artifacts/the-green-between-the-boards/016-close.jpg",
+      "artifacts/the-green-between-the-boards/016-whole.jpg",
+      "artifacts/the-green-between-the-boards/020-close.jpg",
+      "artifacts/the-green-between-the-boards/020-whole.jpg",
+      "artifacts/the-green-between-the-boards/024-close.jpg",
+      "artifacts/the-green-between-the-boards/024-whole.jpg",
+      "artifacts/the-green-between-the-boards/028-close.jpg",
+      "artifacts/the-green-between-the-boards/028-whole.jpg",
+      "artifacts/the-green-between-the-boards/032-close.jpg",
+      "artifacts/the-green-between-the-boards/032-whole.jpg",
+      "artifacts/the-green-between-the-boards/036-close.jpg",
+      "artifacts/the-green-between-the-boards/036-whole.jpg",
+      "artifacts/the-green-between-the-boards/040-close.jpg",
+      "artifacts/the-green-between-the-boards/040-whole.jpg",
+      "artifacts/the-green-between-the-boards/044-close.jpg",
+      "artifacts/the-green-between-the-boards/044-whole.jpg",
+      "artifacts/the-green-between-the-boards/045-close.jpg",
+      "artifacts/the-green-between-the-boards/045-whole.jpg",
+      "artifacts/the-green-between-the-boards/049-close.jpg",
+      "artifacts/the-green-between-the-boards/049-whole.jpg",
+      "artifacts/the-green-between-the-boards/053-close.jpg",
+      "artifacts/the-green-between-the-boards/053-whole.jpg",
+      "artifacts/the-green-between-the-boards/057-close.jpg",
+      "artifacts/the-green-between-the-boards/057-right.jpg",
+      "artifacts/the-green-between-the-boards/057-whole.jpg",
+      "artifacts/the-green-between-the-boards/061-close.jpg",
+      "artifacts/the-green-between-the-boards/061-whole.jpg",
+      "artifacts/the-green-between-the-boards/065-close.jpg",
+      "artifacts/the-green-between-the-boards/065-upper.jpg",
+      "artifacts/the-green-between-the-boards/065-whole.jpg",
+      "artifacts/the-green-between-the-boards/069-close.jpg",
+      "artifacts/the-green-between-the-boards/069-whole.jpg",
+      "artifacts/the-green-between-the-boards/073-close.jpg",
+      "artifacts/the-green-between-the-boards/073-lower.jpg",
+      "artifacts/the-green-between-the-boards/073-whole.jpg",
+      "artifacts/the-green-between-the-boards/077-close.jpg",
+      "artifacts/the-green-between-the-boards/077-whole.jpg",
+      "artifacts/the-green-between-the-boards/081-close.jpg",
+      "artifacts/the-green-between-the-boards/081-whole.jpg",
+      "artifacts/the-green-between-the-boards/085-close.jpg",
+      "artifacts/the-green-between-the-boards/085-lower.jpg",
+      "artifacts/the-green-between-the-boards/085-whole.jpg",
+      "artifacts/the-green-between-the-boards/089-close.jpg",
+      "artifacts/the-green-between-the-boards/089-whole.jpg",
+      "artifacts/the-green-between-the-boards/093-close.jpg",
+      "artifacts/the-green-between-the-boards/093-whole.jpg",
+      "artifacts/the-green-between-the-boards/097-close.jpg",
+      "artifacts/the-green-between-the-boards/097-whole.jpg",
+      "artifacts/the-green-between-the-boards/101-close.jpg",
+      "artifacts/the-green-between-the-boards/101-whole.jpg",
+      "artifacts/the-green-between-the-boards/105-close.jpg",
+      "artifacts/the-green-between-the-boards/105-whole.jpg",
+      "artifacts/the-green-between-the-boards/109-close.jpg",
+      "artifacts/the-green-between-the-boards/109-whole.jpg",
+      "artifacts/the-green-between-the-boards/113-close.jpg",
+      "artifacts/the-green-between-the-boards/113-whole.jpg",
+      "artifacts/the-green-between-the-boards/117-close.jpg",
+      "artifacts/the-green-between-the-boards/117-whole.jpg",
+      "artifacts/the-green-between-the-boards/live-receipt.json",
+      "examples/previews/the-green-between-the-boards.png"
+    ],
+    "engineRevision": "79b35f1a7985655356ae23bce1229f30fb4a2e37",
+    "model": "GPT-6, precise variant unavailable",
+    "nextExperiment": "On two similar green washes, compare a single pressure-tapered oil glint beneath and above the same soft wash. Check at whole view how much crispness remains and at 2× how much relief remains.",
+    "assessment": {
+      "source": "Agent observations from the actual exported PNG, 30 paired reviews, four supplementary pans, and the exact ended replay.",
+      "humanRating": null
+    }
   }
 ]
