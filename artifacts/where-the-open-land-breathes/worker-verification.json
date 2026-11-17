@@ -1,0 +1,11 @@
+{
+  "base": "http://127.0.0.1:5174",
+  "paintings": 176,
+  "allReplaysExact": true,
+  "catalogueExact": true,
+  "journalExact": true,
+  "downloadHeads": 7,
+  "pngBytes": 660343,
+  "pngSha256": "b6491bea669f0ffa9e3d38e60e73a363d62601060ecef0e1cc31d59fd8163f26",
+  "verifiedAt": "2026-11-17T21:49:55.911Z"
+}

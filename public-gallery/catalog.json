@@ -1,5 +1,23 @@
 [
 {
+  "id": "where-the-open-land-breathes",
+  "title": "Where the open land breathes",
+  "description": "An imagined pronghorn stands in pale open land, between unequal sage groups and sparse grasses beneath low distant ridges.",
+  "process": "112 animated watercolor and oil marks in batches of 1–4, with 30 whole-and-close review boundaries, two single-eye inspections, live easel notes and camera moves. Final refinement at marks 95–112. Twenty-eight fully settled screenshot pairs are retained; the missing initial whole view and unsettled close view at 54 are documented. Seventeen live notes and 85 moments; the ended feed exactly acknowledged all 112 marks. Actual browser PNG export; no image generation.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 85,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/where-the-open-land-breathes/session.json",
+  "image": "/paintings/where-the-open-land-breathes/finished.png",
+  "addedAt": "2026-11-17T21:33:22.708Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-17"
+},
+{
   "id": "gold-crosses-the-rain",
   "title": "Gold crosses the rain",
   "description": "An imagined fire salamander with unequal yellow patches crossing wet leaf litter, beside subdued moss, three fallen leaves and a broken twig.",

@@ -20324,5 +20324,129 @@
     "source": "Agent observations from30 paired whole/close boundaries, single eye tests37/38, recovered lower full-page view, actual exported PNG and exact ended public replay.",
     "humanRating": null
   }
+},
+{
+  "id": "where-the-open-land-breathes",
+  "title": "Where the open land breathes",
+  "date": "2026-11-17",
+  "session": "examples/where-the-open-land-breathes.json",
+  "finishedImage": "examples/previews/where-the-open-land-breathes.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad warm body planes while reserving open leg gaps, and establish irregular light edges early instead of cutting them back later.",
+  "inspiration": {
+    "title": "NPS Yellowstone pronghorn account",
+    "url": "https://www.nps.gov/yell/learn/nature/pronghorn.htm",
+    "interpretation": "Original imagined pronghorn in pale sage grass with low ridges, two unequal sage groups and sparse grasses. Full archive search found no pronghorn/Antilocapra or source match. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Overlaps closed bright field seams; horizontal wash bands remain."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad torso and rising neck stayed joined; all four legs remained separate. First pale belly/rump passes were too thin."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Loaded whites read at whole view and added relief. Changed flow/body prevent treating this as a controlled comparison."
+    },
+    {
+      "afterStroke": 38,
+      "text": "Dark eye37 and compact reflection38 remained readable at whole view."
+    },
+    {
+      "afterStroke": 46,
+      "text": "Short loaded throat bands restored an upper marking partly covered by neck light; tail stayed connected."
+    },
+    {
+      "afterStroke": 78,
+      "text": "Broad corrections changed color more than silhouette; sampled crown still left a shallow plateau, raised joins and patchy flank relief."
+    },
+    {
+      "afterStroke": 94,
+      "text": "Wider left sage and lower right foliage broke initial similar shapes. Sparse long grass curves retained angular bends; watercolor footing stayed soft and subtle."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final refinement95–112 kept leg gaps open. Compact shoulder104 stayed readable; warm neighbors softened selected joins but retained relief. Stopped because further covers chiefly add relief."
+    }
+  ],
+  "evidence": [
+    "artifacts/where-the-open-land-breathes/004-close.jpg",
+    "artifacts/where-the-open-land-breathes/008-close.jpg",
+    "artifacts/where-the-open-land-breathes/008-whole.jpg",
+    "artifacts/where-the-open-land-breathes/012-close.jpg",
+    "artifacts/where-the-open-land-breathes/012-whole.jpg",
+    "artifacts/where-the-open-land-breathes/016-close.jpg",
+    "artifacts/where-the-open-land-breathes/016-whole.jpg",
+    "artifacts/where-the-open-land-breathes/020-close.jpg",
+    "artifacts/where-the-open-land-breathes/020-whole.jpg",
+    "artifacts/where-the-open-land-breathes/024-close.jpg",
+    "artifacts/where-the-open-land-breathes/024-whole.jpg",
+    "artifacts/where-the-open-land-breathes/028-close.jpg",
+    "artifacts/where-the-open-land-breathes/028-whole.jpg",
+    "artifacts/where-the-open-land-breathes/032-close.jpg",
+    "artifacts/where-the-open-land-breathes/032-whole.jpg",
+    "artifacts/where-the-open-land-breathes/036-close.jpg",
+    "artifacts/where-the-open-land-breathes/036-upper.jpg",
+    "artifacts/where-the-open-land-breathes/036-whole.jpg",
+    "artifacts/where-the-open-land-breathes/037-close.jpg",
+    "artifacts/where-the-open-land-breathes/037-whole.jpg",
+    "artifacts/where-the-open-land-breathes/038-close.jpg",
+    "artifacts/where-the-open-land-breathes/038-whole.jpg",
+    "artifacts/where-the-open-land-breathes/042-close.jpg",
+    "artifacts/where-the-open-land-breathes/042-whole.jpg",
+    "artifacts/where-the-open-land-breathes/046-close.jpg",
+    "artifacts/where-the-open-land-breathes/046-whole.jpg",
+    "artifacts/where-the-open-land-breathes/050-close.jpg",
+    "artifacts/where-the-open-land-breathes/050-whole.jpg",
+    "artifacts/where-the-open-land-breathes/054-close.jpg",
+    "artifacts/where-the-open-land-breathes/054-whole.jpg",
+    "artifacts/where-the-open-land-breathes/058-close.jpg",
+    "artifacts/where-the-open-land-breathes/058-whole.jpg",
+    "artifacts/where-the-open-land-breathes/062-close.jpg",
+    "artifacts/where-the-open-land-breathes/062-whole.jpg",
+    "artifacts/where-the-open-land-breathes/066-close.jpg",
+    "artifacts/where-the-open-land-breathes/066-whole.jpg",
+    "artifacts/where-the-open-land-breathes/070-close.jpg",
+    "artifacts/where-the-open-land-breathes/070-lower.jpg",
+    "artifacts/where-the-open-land-breathes/070-whole.jpg",
+    "artifacts/where-the-open-land-breathes/074-close.jpg",
+    "artifacts/where-the-open-land-breathes/074-whole.jpg",
+    "artifacts/where-the-open-land-breathes/078-close.jpg",
+    "artifacts/where-the-open-land-breathes/078-whole.jpg",
+    "artifacts/where-the-open-land-breathes/082-close.jpg",
+    "artifacts/where-the-open-land-breathes/082-whole.jpg",
+    "artifacts/where-the-open-land-breathes/086-close.jpg",
+    "artifacts/where-the-open-land-breathes/086-whole.jpg",
+    "artifacts/where-the-open-land-breathes/090-close.jpg",
+    "artifacts/where-the-open-land-breathes/090-whole.jpg",
+    "artifacts/where-the-open-land-breathes/094-close.jpg",
+    "artifacts/where-the-open-land-breathes/094-whole.jpg",
+    "artifacts/where-the-open-land-breathes/098-close.jpg",
+    "artifacts/where-the-open-land-breathes/098-whole.jpg",
+    "artifacts/where-the-open-land-breathes/102-close.jpg",
+    "artifacts/where-the-open-land-breathes/102-whole.jpg",
+    "artifacts/where-the-open-land-breathes/106-close.jpg",
+    "artifacts/where-the-open-land-breathes/106-whole.jpg",
+    "artifacts/where-the-open-land-breathes/110-close.jpg",
+    "artifacts/where-the-open-land-breathes/110-whole.jpg",
+    "artifacts/where-the-open-land-breathes/112-close.jpg",
+    "artifacts/where-the-open-land-breathes/112-upper.jpg",
+    "artifacts/where-the-open-land-breathes/112-whole.jpg",
+    "artifacts/where-the-open-land-breathes/live-receipt.json",
+    "examples/previews/where-the-open-land-breathes.png"
+  ],
+  "engineRevision": "2451e9563b608810b152cb5bb1c126a7ec6acee4",
+  "model": "GPT-6, precise variant unavailable",
+  "nextExperiment": "At fixed renderer/palette, compare a sampled broad body crown placed before side planes with a late crown correction. Judge silhouette and relief separately. Start sage with unequal filled silhouettes; use sampled grass arcs. Choose a fresh subject/source next.",
+  "assessment": {
+    "source": "Agent observations from30 review boundaries, with missing four-mark whole and unsettled54 close explicitly recorded;28 fully settled retained pairs, upper/lower views, actualPNG and exact ended feed.",
+    "humanRating": null
+  }
 }
 ]

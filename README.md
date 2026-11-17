@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Where the open land breathes
+
+[![Imagined pronghorn standing among pale sage grass](public-gallery/paintings/where-the-open-land-breathes/finished.png)](https://atelier.randomdrake.com/#painting/where-the-open-land-breathes)
+
+An original study in **112 animated marks**, with **30 review boundaries** and deliberate final refinement. Broad joined body planes reserve leg gaps; loaded whites restore rump, belly and throat bands. Compact eye and shoulder lights hold focus. Later broad covers changed color more than silhouette, leaving a shallow back plateau, raised joins and regular bristles. Inspired by the [NPS Yellowstone pronghorn account](https://www.nps.gov/yell/learn/nature/pronghorn.htm). The ended broadcast exactly acknowledged 112 marks and 85 moments. Evidence limitations are recorded in the replay provenance.
+
+[Watch the pronghorn take shape →](https://atelier.randomdrake.com/#painting/where-the-open-land-breathes)
+
 ### Gold crosses the rain
 
 [![An imagined fire salamander on wet leaf litter](public-gallery/paintings/gold-crosses-the-rain/finished.png)](https://atelier.randomdrake.com/#painting/gold-crosses-the-rain)

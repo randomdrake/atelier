@@ -1,0 +1,13 @@
+{
+  "activity": "ended",
+  "sessionId": "e9a10127-6087-4d1e-b9bb-0a36fefa3dee",
+  "sequence": 288,
+  "startedAt": 1794949338974,
+  "receivedAt": 1794951129850,
+  "painter": "AI agent",
+  "live": false,
+  "status": "ended",
+  "completedMarks": 112,
+  "moments": 85,
+  "exactRawDocumentMatch": true
+}
