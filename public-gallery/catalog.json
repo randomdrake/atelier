@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-pale-passage-beneath-the-ice",
+  "title": "A pale passage beneath the ice",
+  "description": "An imagined pale narwhal swimming beneath unequal ice shelves, with sparse mottles, a slender tusk and quiet dark water.",
+  "process": "88 animated watercolor/oil marks in adaptive1\u20134-stroke batches,24 settled whole/close screenshot boundaries, single eye tests25/26 and final refinement79\u201388. Notes written live; ended public feed exactly acknowledges88 marks and75 moments. Broad belly arc rounded the silhouette; raised joins, regular bristles and faceted ice remain. Control recoveries and failed pan recorded in creation metadata.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 88,
+  "moments": 75,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-pale-passage-beneath-the-ice/session.json",
+  "image": "/paintings/a-pale-passage-beneath-the-ice/finished.png",
+  "addedAt": "2026-11-17T22:31:22.198Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-17"
+},
+{
   "id": "where-the-open-land-breathes",
   "title": "Where the open land breathes",
   "description": "An imagined pronghorn stands in pale open land, between unequal sage groups and sparse grasses beneath low distant ridges.",

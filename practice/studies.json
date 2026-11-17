@@ -20448,5 +20448,116 @@
     "source": "Agent observations from30 review boundaries, with missing four-mark whole and unsettled54 close explicitly recorded;28 fully settled retained pairs, upper/lower views, actualPNG and exact ended feed.",
     "humanRating": null
   }
+},
+{
+  "id": "a-pale-passage-beneath-the-ice",
+  "title": "A pale passage beneath the ice",
+  "date": "2026-11-17",
+  "session": "examples/a-pale-passage-beneath-the-ice.json",
+  "finishedImage": "examples/previews/a-pale-passage-beneath-the-ice.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join long curved body planes, preserve blue water around short flippers, and reserve a compact focal light.",
+  "inspiration": {
+    "title": "NOAA Fisheries narwhal species account",
+    "url": "https://www.fisheries.noaa.gov/species/narwhal",
+    "interpretation": "Original imagined narwhal beneath unequal ice shelves and two distant ice fragments in deep blue water. Full journal, catalogue and examples search found no narwhal/Monodon or source match. Kingfisher and several other motifs were rejected after archive matches. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Overlapping long water washes closed bright seams; faint bands remained."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad sampled forehead passes rounded the wedge-shaped head; short flippers initially remained separate."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Loaded pale planes made the body read white but buried flipper roots; roots were restored at27\u201328."
+    },
+    {
+      "afterStroke": 26,
+      "text": "Dark eye25 read at whole view; four-pixel light26 stayed faint."
+    },
+    {
+      "afterStroke": 50,
+      "text": "Loaded dark offset mottles read more clearly than earlier small low-body marks; belly pale space remained open."
+    },
+    {
+      "afterStroke": 66,
+      "text": "Broad sampled belly arc63 changed the straight ledge into a rounded silhouette, with a raised seam."
+    },
+    {
+      "afterStroke": 74,
+      "text": "Tusk stayed slender; small spiral turns were subtle at whole view. Rightward close-pan failed to move."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final refinement79\u201388 warmed crown/shoulder and tail joins. Six-pixel eye light87 read at whole view, with changed load/body confounding a controlled comparison. Compact brow, open flipper gaps and quiet water preserved. Regular bristles, raised joins, faceted ice and faint shafts remain; further covers chiefly add relief."
+    }
+  ],
+  "evidence": [
+    "artifacts/a-pale-passage-beneath-the-ice/004-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/004-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/008-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/008-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/012-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/012-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/016-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/016-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/020-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/020-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/024-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/024-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/025-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/025-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/026-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/026-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/030-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/030-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/034-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/034-upper.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/034-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/038-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/038-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/042-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/042-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/046-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/046-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/050-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/050-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/054-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/054-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/058-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/058-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/062-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/062-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/066-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/066-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/070-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/070-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/074-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/074-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/078-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/078-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/082-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/082-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/086-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/086-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/088-close.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/088-whole.jpg",
+    "artifacts/a-pale-passage-beneath-the-ice/live-receipt.json",
+    "examples/previews/a-pale-passage-beneath-the-ice.png"
+  ],
+  "engineRevision": "4a6d1043a08c23074ecb4f1288a9b77849bbefae",
+  "model": "GPT-6, precise variant unavailable",
+  "nextExperiment": "At fixed renderer/palette/load, compare sampled broad belly arcs placed before side planes against a late arc repair. Judge silhouette and relief separately. Compare four- and six-pixel eye lights at identical load/body. Choose a fresh subject/source next.",
+  "assessment": {
+    "source": "Agent observations from24 settled paired boundaries, single eye tests25/26, upper34, actual exportedPNG and exact ended public replay. Failed pan and control recoveries recorded in creation metadata.",
+    "humanRating": null
+  }
 }
 ]

@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A pale passage beneath the ice
+
+[![Imagined pale narwhal beneath unequal ice shelves](public-gallery/paintings/a-pale-passage-beneath-the-ice/finished.png)](https://atelier.randomdrake.com/#painting/a-pale-passage-beneath-the-ice)
+
+An original study in **88 animated marks**, with **24 settled whole-and-close inspection boundaries**, two single eye tests and deliberate final refinement. Broad overlaps joined the body; a sampled belly arc rounded its silhouette. Restored flipper roots preserve blue gaps, and a compact loaded eye light reads at whole view. Regular bristles, raised joins, faceted ice and faint shafts remain. Inspired by the [NOAA Fisheries narwhal account](https://www.fisheries.noaa.gov/species/narwhal). The ended broadcast exactly acknowledged all88 marks and75 moments; further covers chiefly added relief.
+
+[Watch the narwhal take shape →](https://atelier.randomdrake.com/#painting/a-pale-passage-beneath-the-ice)
+
 ### Where the open land breathes
 
 [![Imagined pronghorn standing among pale sage grass](public-gallery/paintings/where-the-open-land-breathes/finished.png)](https://atelier.randomdrake.com/#painting/where-the-open-land-breathes)
