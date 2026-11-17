@@ -1,5 +1,23 @@
 [
 {
+  "id": "gold-crosses-the-rain",
+  "title": "Gold crosses the rain",
+  "description": "An imagined fire salamander with unequal yellow patches crossing wet leaf litter, beside subdued moss, three fallen leaves and a broken twig.",
+  "process": "112 animated watercolor and oil marks selected in 1–4-stroke batches after30 settled whole-and-close screenshot boundaries; single eye tests37/38, recovered lower view70, final refinement103–112 and18 live easel notes. Broad gestures keep the body continuous and leg gaps open. Offset patches break the first even row; a compact eye reflection and shoulder light104 remain readable. Dark patch nicks made inset crescents; warm neighbors reduced contrast but retained relief. Regular bristles, heavy toe roots, angular leaves and wash bands remain. Ended public feed exactly acknowledged112 marks and51 moments. Inspired by the WSL fire salamander portrait; an original imagined composition. Framing and control recoveries recorded in provenance.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 51,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/gold-crosses-the-rain/session.json",
+  "image": "/paintings/gold-crosses-the-rain/finished.png",
+  "addedAt": "2026-11-17T20:20:46.841Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-17"
+},
+{
   "id": "small-suns-in-the-bog",
   "title": "Small suns in the bog",
   "description": "An imagined round-leaved sundew rosette with five gold-green leaves, unequal red hairs and selected dew beads above moss in a cool bog field.",

@@ -20201,5 +20201,128 @@
     "source": "Agent observations from30 whole/close boundaries, two single-hair tests, two lower views, actual exported PNG and exact ended public replay. Framing/control limitations in creation metadata.",
     "humanRating": null
   }
+},
+{
+  "id": "gold-crosses-the-rain",
+  "title": "Gold crosses the rain",
+  "date": "2026-11-17",
+  "session": "examples/gold-crosses-the-rain.json",
+  "finishedImage": "examples/previews/gold-crosses-the-rain.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Continuous dark body with long gestures, unequal yellow patches, open leg gaps and one compact wet light.",
+  "inspiration": {
+    "title": "WSL fire salamander species portrait",
+    "url": "https://totholz.wsl.ch/de/artenportraets/feuersalamander/",
+    "interpretation": "Original imagined salamander on wet leaf litter. Full catalogue/journal search found no salamander/Feuersalamander or WSL source match. Banana slug considered and rejected as repeated. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Overlapping long washes bridged pale seams; soft bands remained."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad joined masses kept body and tapered tail continuous; four leg gaps stayed open."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Offset flank and tail patches broke the first overly even yellow row."
+    },
+    {
+      "afterStroke": 38,
+      "text": "One small loaded eye reflection remained readable at whole view."
+    },
+    {
+      "afterStroke": 54,
+      "text": "Tapered toes separated, with heavy roots visible close up; far toes stayed quiet."
+    },
+    {
+      "afterStroke": 94,
+      "text": "Broad leaf neighbors changed color but retained regular relief and angular folds."
+    },
+    {
+      "afterStroke": 106,
+      "text": "Compact shoulder light104 survived whole view; dark patch nicks103/105 made inset crescents."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Warm corrections107/108 reduced crescent contrast; final leg-root transitions preserved open gaps. Raised joins, regular bristles, heavy toe roots, angular leaf folds and wash bands remain; further covers chiefly add relief."
+    }
+  ],
+  "evidence": [
+    "artifacts/gold-crosses-the-rain/004-close.jpg",
+    "artifacts/gold-crosses-the-rain/004-whole.jpg",
+    "artifacts/gold-crosses-the-rain/008-close.jpg",
+    "artifacts/gold-crosses-the-rain/008-whole.jpg",
+    "artifacts/gold-crosses-the-rain/012-close.jpg",
+    "artifacts/gold-crosses-the-rain/012-whole.jpg",
+    "artifacts/gold-crosses-the-rain/016-close.jpg",
+    "artifacts/gold-crosses-the-rain/016-whole.jpg",
+    "artifacts/gold-crosses-the-rain/020-close.jpg",
+    "artifacts/gold-crosses-the-rain/020-whole.jpg",
+    "artifacts/gold-crosses-the-rain/024-close.jpg",
+    "artifacts/gold-crosses-the-rain/024-whole.jpg",
+    "artifacts/gold-crosses-the-rain/028-close.jpg",
+    "artifacts/gold-crosses-the-rain/028-whole.jpg",
+    "artifacts/gold-crosses-the-rain/032-close.jpg",
+    "artifacts/gold-crosses-the-rain/032-whole.jpg",
+    "artifacts/gold-crosses-the-rain/036-close.jpg",
+    "artifacts/gold-crosses-the-rain/036-whole.jpg",
+    "artifacts/gold-crosses-the-rain/037-close.jpg",
+    "artifacts/gold-crosses-the-rain/037-whole.jpg",
+    "artifacts/gold-crosses-the-rain/038-close.jpg",
+    "artifacts/gold-crosses-the-rain/038-whole.jpg",
+    "artifacts/gold-crosses-the-rain/042-close.jpg",
+    "artifacts/gold-crosses-the-rain/042-whole.jpg",
+    "artifacts/gold-crosses-the-rain/046-close.jpg",
+    "artifacts/gold-crosses-the-rain/046-whole.jpg",
+    "artifacts/gold-crosses-the-rain/050-close.jpg",
+    "artifacts/gold-crosses-the-rain/050-whole.jpg",
+    "artifacts/gold-crosses-the-rain/054-close.jpg",
+    "artifacts/gold-crosses-the-rain/054-whole.jpg",
+    "artifacts/gold-crosses-the-rain/058-close.jpg",
+    "artifacts/gold-crosses-the-rain/058-whole.jpg",
+    "artifacts/gold-crosses-the-rain/062-close.jpg",
+    "artifacts/gold-crosses-the-rain/062-whole.jpg",
+    "artifacts/gold-crosses-the-rain/066-close.jpg",
+    "artifacts/gold-crosses-the-rain/066-whole.jpg",
+    "artifacts/gold-crosses-the-rain/070-close.jpg",
+    "artifacts/gold-crosses-the-rain/070-lower-full.jpg",
+    "artifacts/gold-crosses-the-rain/070-whole.jpg",
+    "artifacts/gold-crosses-the-rain/074-close.jpg",
+    "artifacts/gold-crosses-the-rain/074-whole.jpg",
+    "artifacts/gold-crosses-the-rain/078-close.jpg",
+    "artifacts/gold-crosses-the-rain/078-whole.jpg",
+    "artifacts/gold-crosses-the-rain/082-close.jpg",
+    "artifacts/gold-crosses-the-rain/082-whole.jpg",
+    "artifacts/gold-crosses-the-rain/086-close.jpg",
+    "artifacts/gold-crosses-the-rain/086-whole.jpg",
+    "artifacts/gold-crosses-the-rain/090-close.jpg",
+    "artifacts/gold-crosses-the-rain/090-whole.jpg",
+    "artifacts/gold-crosses-the-rain/094-close.jpg",
+    "artifacts/gold-crosses-the-rain/094-whole.jpg",
+    "artifacts/gold-crosses-the-rain/098-close.jpg",
+    "artifacts/gold-crosses-the-rain/098-whole.jpg",
+    "artifacts/gold-crosses-the-rain/102-close.jpg",
+    "artifacts/gold-crosses-the-rain/102-whole.jpg",
+    "artifacts/gold-crosses-the-rain/106-close.jpg",
+    "artifacts/gold-crosses-the-rain/106-whole.jpg",
+    "artifacts/gold-crosses-the-rain/110-close.jpg",
+    "artifacts/gold-crosses-the-rain/110-whole.jpg",
+    "artifacts/gold-crosses-the-rain/112-close.jpg",
+    "artifacts/gold-crosses-the-rain/112-whole.jpg",
+    "artifacts/gold-crosses-the-rain/live-receipt.json",
+    "examples/previews/gold-crosses-the-rain.png"
+  ],
+  "engineRevision": "ccdac0d5b7ee1c0c3030c99f34bb0ce1e58e6057",
+  "model": "GPT-6, precise variant unavailable",
+  "nextExperiment": "At fixed renderer and palette, compare a yellow patch with an initially irregular filled edge against a round patch corrected by dark nicks. Assess edge shape and relief separately. Use sampled broad moss silhouettes and quieter leaf rims from the start. Choose a fresh subject next.",
+  "assessment": {
+    "source": "Agent observations from30 paired whole/close boundaries, single eye tests37/38, recovered lower full-page view, actual exported PNG and exact ended public replay.",
+    "humanRating": null
+  }
 }
 ]

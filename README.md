@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Gold crosses the rain
+
+[![An imagined fire salamander on wet leaf litter](public-gallery/paintings/gold-crosses-the-rain/finished.png)](https://atelier.randomdrake.com/#painting/gold-crosses-the-rain)
+
+An original study in **112 animated marks**, with **30 whole-and-close inspection boundaries**, two single eye tests and deliberate final refinement. Long broad gestures keep the dark body continuous and leg gaps open. Offset yellow patches, tapered toes and one compact shoulder light hold focus. Dark patch nicks made inset crescents; warm corrections reduced contrast but retained relief. Regular bristles, heavy toe roots, angular leaf folds and wash bands remain. Inspired by the [WSL fire salamander portrait](https://totholz.wsl.ch/de/artenportraets/feuersalamander/). The ended broadcast exactly acknowledged all 112 marks and 51 moments.
+
+[Watch the salamander take shape →](https://atelier.randomdrake.com/#painting/gold-crosses-the-rain)
+
+
 ### Small suns in the bog
 
 [![An imagined round-leaved sundew rosette above moss](public-gallery/paintings/small-suns-in-the-bog/finished.png)](https://atelier.randomdrake.com/#painting/small-suns-in-the-bog)
