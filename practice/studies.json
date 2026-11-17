@@ -19979,5 +19979,98 @@
     "source": "Agent observations from thirty whole/close boundaries, two single-mark tests, two lower pans, actual exported PNG and exact ended public replay. Limitations are recorded in creation metadata.",
     "humanRating": null
   }
+},
+{
+  "id": "a-small-room-in-the-shell",
+  "title": "A small room in the shell",
+  "date": "2026-11-17",
+  "session": "examples/a-small-room-in-the-shell.json",
+  "finishedImage": "examples/previews/a-small-room-in-the-shell.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Use broad shell planes and compact lights; compare thin and loaded oil touches before choosing the focal light.",
+  "inspiration": {
+    "source": "Woodland Trust walnut guide",
+    "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/walnut/"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Overlapping long washes bridged pale seams; soft bands remained as cloth variation."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad interior overlaps closed hollow arcs into two filled masses."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Short dark contacts anchored the nuts; left cavity separated from shell."
+    },
+    {
+      "afterStroke": 34,
+      "text": "Loaded cream oil read more clearly than the thin test at 33, with a small raised crest. Unequal drying and paint histories confound comparison."
+    },
+    {
+      "afterStroke": 50,
+      "text": "Sampled warm shoulder passes softened selected turns but retained the first faceted crown."
+    },
+    {
+      "afterStroke": 58,
+      "text": "Warm cover reduced a conspicuous right-hand zigzag only partly and left raised relief."
+    },
+    {
+      "afterStroke": 66,
+      "text": "Final rim light, tiny kernel notch and reflected contacts kept the light compact and the two objects separated. Regular ridges, angular channels, crown facets and wash bands remain; further covers chiefly add relief."
+    }
+  ],
+  "evidence": [
+    "artifacts/a-small-room-in-the-shell/004-close.jpg",
+    "artifacts/a-small-room-in-the-shell/004-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/008-close.jpg",
+    "artifacts/a-small-room-in-the-shell/008-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/012-close.jpg",
+    "artifacts/a-small-room-in-the-shell/012-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/016-close.jpg",
+    "artifacts/a-small-room-in-the-shell/016-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/020-close.jpg",
+    "artifacts/a-small-room-in-the-shell/020-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/024-close.jpg",
+    "artifacts/a-small-room-in-the-shell/024-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/028-close.jpg",
+    "artifacts/a-small-room-in-the-shell/028-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/032-close.jpg",
+    "artifacts/a-small-room-in-the-shell/032-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/033-close.jpg",
+    "artifacts/a-small-room-in-the-shell/033-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/034-close.jpg",
+    "artifacts/a-small-room-in-the-shell/034-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/038-close.jpg",
+    "artifacts/a-small-room-in-the-shell/038-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/042-close.jpg",
+    "artifacts/a-small-room-in-the-shell/042-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/046-close.jpg",
+    "artifacts/a-small-room-in-the-shell/046-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/050-close.jpg",
+    "artifacts/a-small-room-in-the-shell/050-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/054-close.jpg",
+    "artifacts/a-small-room-in-the-shell/054-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/058-close.jpg",
+    "artifacts/a-small-room-in-the-shell/058-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/062-close.jpg",
+    "artifacts/a-small-room-in-the-shell/062-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/066-close.jpg",
+    "artifacts/a-small-room-in-the-shell/066-whole.jpg",
+    "artifacts/a-small-room-in-the-shell/live-receipt.json",
+    "examples/previews/a-small-room-in-the-shell.png"
+  ],
+  "engineRevision": "de9c6753f03398201e2b554dc463a70409ec74ba",
+  "model": "GPT-6, precise variant unavailable",
+  "nextExperiment": "Use two equally dry warm oil strips with identical path, pigment, pressure and width; change only body/load and compare whole-view visibility and close relief. For a new shell study, fill a rounded silhouette first and place interrupted channels inside it.",
+  "assessment": {
+    "source": "Agent observations from eighteen whole/close screenshot boundaries, single tests at 33/34, actual exported PNG and exactly acknowledged ended public replay.",
+    "humanRating": null
+  }
 }
 ]

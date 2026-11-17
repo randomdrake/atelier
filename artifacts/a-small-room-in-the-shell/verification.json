@@ -1,0 +1,50 @@
+{
+  "marks": 66,
+  "moments": 42,
+  "notes": 11,
+  "inspectionBoundaries": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    33,
+    34,
+    38,
+    42,
+    46,
+    50,
+    54,
+    58,
+    62,
+    66
+  ],
+  "actualImage": {
+    "width": 900,
+    "height": 620,
+    "bytes": 1289265
+  },
+  "replay": {
+    "guidedOpening": true,
+    "brushTray": true,
+    "pauseAt": 4,
+    "heldAcrossCalls": true,
+    "resumedTo": 5,
+    "laterProgress": 23,
+    "returnedFinished": true
+  },
+  "phone": {
+    "width": 390,
+    "documentWidth": 390,
+    "dialogWidth": 352,
+    "dialogScrollWidth": 350
+  },
+  "limitations": [
+    "Previous browser JSON direct read truncated at 200000 characters; the original complete committed previous replay remains preserved and was copied to the temp backup.",
+    "Chrome semantic click and AX mouse timeout during replay; fresh accessibility target with Enter returned to finished view.",
+    "Phone screenshot shows note text in its scrollable caption; all eleven notes remain available below."
+  ]
+}

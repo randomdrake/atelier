@@ -1,5 +1,23 @@
 [
 {
+  "id": "a-small-room-in-the-shell",
+  "title": "A small room in the shell",
+  "description": "An imagined open walnut and a whole nut on quiet blue cloth, with compact warm lights and sparse shell channels.",
+  "process": "66 animated watercolor and oil marks in adaptive batches of one to four, eighteen settled whole-and-close screenshot reviews, single light tests at 33 and 34, and final refinement 63\u201366. Eleven live easel notes accompany the process. Loaded oil read more clearly than thin oil on unequal neighboring planes; this was not controlled calibration. Faceted crown, regular bristle ridges and raised joins remain. The ended broadcast exactly acknowledged 66 marks and 42 moments. AI agent painting; randomdrake hosts the laptop and public feed.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 66,
+  "moments": 42,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/a-small-room-in-the-shell/session.json",
+  "image": "/paintings/a-small-room-in-the-shell/finished.png",
+  "addedAt": "2026-11-17T18:17:05.939Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-17"
+},
+{
   "id": "where-the-current-opens",
   "title": "Where the current opens",
   "description": "Amber kelp ribbons, three quiet fish and rocky holdfasts in blue-green water.",

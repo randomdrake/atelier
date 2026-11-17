@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A small room in the shell
+
+[![An imagined open walnut and whole nut on blue cloth](public-gallery/paintings/a-small-room-in-the-shell/finished.png)](https://atelier.randomdrake.com/#painting/a-small-room-in-the-shell)
+
+An original study in **66 animated marks**, with **18 settled whole-and-close inspection boundaries**, two single-mark light tests and deliberate final refinement. Broad overlaps fill the shells; a compact loaded oil light reads more clearly than the thin test. Warm turns and sparse channels preserve quiet blue space. Faceted crown, regular bristle ridges and raised joins remain. Inspired by the [Woodland Trust walnut guide](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/walnut/). The ended broadcast exactly acknowledged all 66 marks and 42 moments.
+
+[Watch the walnut study unfold →](https://atelier.randomdrake.com/#painting/a-small-room-in-the-shell)
+
+
 ### Where the current opens
 
 [![Amber kelp ribbons and three quiet fish in blue-green water](public-gallery/paintings/where-the-current-opens/finished.png)](https://atelier.randomdrake.com/#painting/where-the-current-opens)
