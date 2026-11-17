@@ -1,5 +1,23 @@
 [
 {
+  "id": "the-song-rests-in-amber",
+  "title": "The song rests in amber",
+  "description": "An imagined red-eyed cicada with pale amber-veined wings on a slanting twig, beside two unequal olive leaves in quiet green air.",
+  "process": "100 animated watercolor/oil marks in27 whole-and-close inspection boundaries, single eye tests37/38, upper38/lower70 and final refinement87\u2013100. 18 live notes and50 recorded moments. Broad wing planes and sparse veins preserve green gaps; compact eye restored95. Regular bristles, raised joins, angular tips, flat abdomen and a swollen bark repair remain. Actual PNG and raw replay exported; ended feed exactly acknowledged100 marks. Control/framing limitations recorded in creation metadata.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 100,
+  "moments": 50,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/the-song-rests-in-amber/session.json",
+  "image": "/paintings/the-song-rests-in-amber/finished.png",
+  "addedAt": "2026-11-17T23:25:03.899Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-17"
+},
+{
   "id": "a-pale-passage-beneath-the-ice",
   "title": "A pale passage beneath the ice",
   "description": "An imagined pale narwhal swimming beneath unequal ice shelves, with sparse mottles, a slender tusk and quiet dark water.",

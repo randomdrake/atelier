@@ -20559,5 +20559,123 @@
     "source": "Agent observations from24 settled paired boundaries, single eye tests25/26, upper34, actual exportedPNG and exact ended public replay. Failed pan and control recoveries recorded in creation metadata.",
     "humanRating": null
   }
+},
+{
+  "id": "the-song-rests-in-amber",
+  "title": "The song rests in amber",
+  "date": "2026-11-17",
+  "session": "examples/the-song-rests-in-amber.json",
+  "finishedImage": "examples/previews/the-song-rests-in-amber.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Place broad curved wing shapes early, reserve open green leg gaps, and use sparse warm veins so the wings stay light.",
+  "inspiration": {
+    "title": "Virginia Cooperative Extension \u2014 Periodical Cicada",
+    "url": "https://www.pubs.ext.vt.edu/444/444-276/444-276.html",
+    "interpretation": "Original imagined cicada on a slanting twig with two unequal olive leaves against a muted green field. Full archive search found no cicada/Magicicada/source match; artichoke, puffin, magnolia and horseshoe crab rejected as repeated. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Overlapping long washes filled bright seams, retaining horizontal bands."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad pale oil wing planes read where watercolor washes nearly disappeared; dark head/body joined."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Sampled amber rims defined two wings, with angular tips. Orange eye planes stayed muted."
+    },
+    {
+      "afterStroke": 38,
+      "text": "Six-pixel reflection read more clearly than four-pixel37, with layering/drying confounds."
+    },
+    {
+      "afterStroke": 58,
+      "text": "Broad crossing55 closed the split upper leaf; warm/cool planes kept leaves subdued."
+    },
+    {
+      "afterStroke": 66,
+      "text": "Broad twig repair63 attached a hanging loop but left a swollen knot."
+    },
+    {
+      "afterStroke": 82,
+      "text": "Short loaded wing-edge lights read strongly and added relief; open interiors remained."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Refinement87\u2013100 shaped the head, softened roots and restored compact eye95. Tip rounds99\u2013100 made inset curls and relief. Open leg gaps held; more covers/veins would crowd the wings."
+    }
+  ],
+  "evidence": [
+    "artifacts/the-song-rests-in-amber/004-close.jpg",
+    "artifacts/the-song-rests-in-amber/004-whole.jpg",
+    "artifacts/the-song-rests-in-amber/008-close.jpg",
+    "artifacts/the-song-rests-in-amber/008-whole-full.jpg",
+    "artifacts/the-song-rests-in-amber/012-close.jpg",
+    "artifacts/the-song-rests-in-amber/012-whole.jpg",
+    "artifacts/the-song-rests-in-amber/016-close.jpg",
+    "artifacts/the-song-rests-in-amber/016-whole.jpg",
+    "artifacts/the-song-rests-in-amber/020-close.jpg",
+    "artifacts/the-song-rests-in-amber/020-whole.jpg",
+    "artifacts/the-song-rests-in-amber/024-close.jpg",
+    "artifacts/the-song-rests-in-amber/024-whole.jpg",
+    "artifacts/the-song-rests-in-amber/028-close.jpg",
+    "artifacts/the-song-rests-in-amber/028-whole.jpg",
+    "artifacts/the-song-rests-in-amber/032-close.jpg",
+    "artifacts/the-song-rests-in-amber/032-whole.jpg",
+    "artifacts/the-song-rests-in-amber/036-close.jpg",
+    "artifacts/the-song-rests-in-amber/036-whole.jpg",
+    "artifacts/the-song-rests-in-amber/037-close.jpg",
+    "artifacts/the-song-rests-in-amber/037-whole.jpg",
+    "artifacts/the-song-rests-in-amber/038-close.jpg",
+    "artifacts/the-song-rests-in-amber/038-upper.jpg",
+    "artifacts/the-song-rests-in-amber/038-whole.jpg",
+    "artifacts/the-song-rests-in-amber/042-close.jpg",
+    "artifacts/the-song-rests-in-amber/042-whole.jpg",
+    "artifacts/the-song-rests-in-amber/046-close.jpg",
+    "artifacts/the-song-rests-in-amber/046-whole.jpg",
+    "artifacts/the-song-rests-in-amber/050-close.jpg",
+    "artifacts/the-song-rests-in-amber/050-whole.jpg",
+    "artifacts/the-song-rests-in-amber/054-close.jpg",
+    "artifacts/the-song-rests-in-amber/054-whole.jpg",
+    "artifacts/the-song-rests-in-amber/058-close.jpg",
+    "artifacts/the-song-rests-in-amber/058-whole.jpg",
+    "artifacts/the-song-rests-in-amber/062-close.jpg",
+    "artifacts/the-song-rests-in-amber/062-whole.jpg",
+    "artifacts/the-song-rests-in-amber/066-close.jpg",
+    "artifacts/the-song-rests-in-amber/066-whole.jpg",
+    "artifacts/the-song-rests-in-amber/070-close.jpg",
+    "artifacts/the-song-rests-in-amber/070-lower.jpg",
+    "artifacts/the-song-rests-in-amber/070-whole.jpg",
+    "artifacts/the-song-rests-in-amber/074-close.jpg",
+    "artifacts/the-song-rests-in-amber/074-whole.jpg",
+    "artifacts/the-song-rests-in-amber/078-close.jpg",
+    "artifacts/the-song-rests-in-amber/078-whole.jpg",
+    "artifacts/the-song-rests-in-amber/082-close.jpg",
+    "artifacts/the-song-rests-in-amber/082-whole.jpg",
+    "artifacts/the-song-rests-in-amber/086-close.jpg",
+    "artifacts/the-song-rests-in-amber/086-whole.jpg",
+    "artifacts/the-song-rests-in-amber/090-close.jpg",
+    "artifacts/the-song-rests-in-amber/090-whole.jpg",
+    "artifacts/the-song-rests-in-amber/094-close.jpg",
+    "artifacts/the-song-rests-in-amber/094-whole.jpg",
+    "artifacts/the-song-rests-in-amber/098-close.jpg",
+    "artifacts/the-song-rests-in-amber/098-whole.jpg",
+    "artifacts/the-song-rests-in-amber/100-close.jpg",
+    "artifacts/the-song-rests-in-amber/100-whole.jpg",
+    "artifacts/the-song-rests-in-amber/live-receipt.json",
+    "examples/previews/the-song-rests-in-amber.png"
+  ],
+  "engineRevision": "ce37db00fb6b9730e38efcdca2a63e18aa9857a7",
+  "model": "GPT-6, precise variant unavailable",
+  "nextExperiment": "At fixed palette/load and renderer, compare broad wing planes placed inside early sampled rims against planes placed before rims. Judge transparency and relief separately. Compare four/six-pixel lights on separate matched eye swatches to avoid layering. Fresh subject/source next.",
+  "assessment": {
+    "source": "Agent observations from27 paired settled reviews, single eye37/38, upper38/lower70, actualPNG and exact ended feed. Startup/control/framing limitations recorded in creation metadata.",
+    "humanRating": null
+  }
 }
 ]

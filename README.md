@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The song rests in amber
+
+[![Imagined red-eyed cicada on a slanting twig](public-gallery/paintings/the-song-rests-in-amber/finished.png)](https://atelier.randomdrake.com/#painting/the-song-rests-in-amber)
+
+An original study in **100 animated marks**, with **27 paired whole-and-close inspection boundaries**, single eye tests and deliberate refinement87–100. Broad pale wings and sparse amber veins retain open green gaps; a compact restored eye light holds focus. Angular tips, regular bristles, raised joins, flat abdomen and a swollen bark repair remain. Inspired by [Virginia Cooperative Extension’s cicada account](https://www.pubs.ext.vt.edu/444/444-276/444-276.html). The ended broadcast exactly acknowledged100 marks and50 moments. Further covers would chiefly add relief and crowd the wings.
+
+[Watch the cicada take shape →](https://atelier.randomdrake.com/#painting/the-song-rests-in-amber)
+
 ### A pale passage beneath the ice
 
 [![Imagined pale narwhal beneath unequal ice shelves](public-gallery/paintings/a-pale-passage-beneath-the-ice/finished.png)](https://atelier.randomdrake.com/#painting/a-pale-passage-beneath-the-ice)

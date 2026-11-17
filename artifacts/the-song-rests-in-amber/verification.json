@@ -1,0 +1,29 @@
+{
+  "tests": 111,
+  "syntax": "passed",
+  "browser": {
+    "raster": [
+      900,
+      620
+    ],
+    "guidedReplay": "4x opening note and recorded brush tray visible",
+    "pause": "held at4 across calls",
+    "resume": "advanced6 and27",
+    "finished": "confirmed after keyboard activation",
+    "expandedNotes": 18,
+    "phone": {
+      "viewportWidth": 390,
+      "documentScrollWidth": 390,
+      "dialogWidth": 352
+    }
+  },
+  "limitations": [
+    "View finished semantic click timed out while playback remained active. Fresh AX key attempts became stale during playback. Pause Enter timed out but fresh full AX confirmed paused at27; subsequent View finished Enter succeeded.",
+    "Phone screenshot captured the dialog at its current scroll position; overflow measurements cover the document."
+  ],
+  "previousDataPreserved": {
+    "catalogue": 177,
+    "journal": 174
+  },
+  "broadcast": "ended;exact100mark50momentrawdocumentmatch"
+}
