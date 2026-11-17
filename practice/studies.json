@@ -19850,5 +19850,134 @@
       "source": "Agent observations from seventeen whole/close review boundaries, single tests, a lower pan, the actual exported PNG and exact ended replay. Camera and export limitations are recorded in creation metadata.",
       "humanRating": null
     }
+  },
+{
+  "id": "where-the-current-opens",
+  "title": "Where the current opens",
+  "date": "2026-11-17",
+  "session": "examples/where-the-current-opens.json",
+  "finishedImage": "examples/previews/where-the-current-opens.png",
+  "media": [
+    "oil",
+    "pastel",
+    "watercolor"
+  ],
+  "goal": "Keep open blue water between long unequal amber kelp blades; compare matched pastel and loaded-oil lights using the same pigment, width and pressure.",
+  "inspiration": {
+    "title": "National Park Service — Kelp Forests",
+    "url": "https://www.nps.gov/subjects/oceans/kelp-forests.htm",
+    "interpretation": "Original imagined underwater forest with two amber foreground stipes, subdued distant blades, three small fish and rocky holdfasts; not a copy of a finished composition."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Long overlapping washes covered the pale gaps, leaving subdued horizontal bands."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Sampled blade curves turned more smoothly than the original angular stipes; blue water stayed open."
+    },
+    {
+      "afterStroke": 37,
+      "text": "The single pastel light was barely distinguishable at whole view."
+    },
+    {
+      "afterStroke": 38,
+      "text": "Matched loaded oil made a visible short light beside the faint pastel test, with raised paint at 2×."
+    },
+    {
+      "afterStroke": 46,
+      "text": "Sampled warm neighbors softened selected stipe bends, while earlier angular traces remained."
+    },
+    {
+      "afterStroke": 74,
+      "text": "Short muted joins connected the first two detached fish tails; the third was joined at 78."
+    },
+    {
+      "afterStroke": 102,
+      "text": "Selected tips tapered but two thin extensions looked needle-like."
+    },
+    {
+      "afterStroke": 106,
+      "text": "A warm local pass reduced a distant stipe crossing the upper-right foreground blade."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final light, fish underside and holdfast knots preserved open water and a compact focus. Rock crowns and fish stay subdued. Regular bristle ridges, raised joins, near-tangent central blades and wash bands remain; more covering would chiefly add relief."
+    }
+  ],
+  "evidence": [
+    "artifacts/where-the-current-opens/004-close.jpg",
+    "artifacts/where-the-current-opens/004-whole.jpg",
+    "artifacts/where-the-current-opens/008-close.jpg",
+    "artifacts/where-the-current-opens/008-whole.jpg",
+    "artifacts/where-the-current-opens/012-close.jpg",
+    "artifacts/where-the-current-opens/012-whole.jpg",
+    "artifacts/where-the-current-opens/016-close.jpg",
+    "artifacts/where-the-current-opens/016-whole.jpg",
+    "artifacts/where-the-current-opens/020-close.jpg",
+    "artifacts/where-the-current-opens/020-whole.jpg",
+    "artifacts/where-the-current-opens/024-close.jpg",
+    "artifacts/where-the-current-opens/024-whole.jpg",
+    "artifacts/where-the-current-opens/028-close.jpg",
+    "artifacts/where-the-current-opens/028-whole.jpg",
+    "artifacts/where-the-current-opens/032-close.jpg",
+    "artifacts/where-the-current-opens/032-whole.jpg",
+    "artifacts/where-the-current-opens/036-close.jpg",
+    "artifacts/where-the-current-opens/036-whole.jpg",
+    "artifacts/where-the-current-opens/037-close.jpg",
+    "artifacts/where-the-current-opens/037-whole.jpg",
+    "artifacts/where-the-current-opens/038-close.jpg",
+    "artifacts/where-the-current-opens/038-whole.jpg",
+    "artifacts/where-the-current-opens/042-close.jpg",
+    "artifacts/where-the-current-opens/042-whole.jpg",
+    "artifacts/where-the-current-opens/046-close.jpg",
+    "artifacts/where-the-current-opens/046-whole.jpg",
+    "artifacts/where-the-current-opens/050-close.jpg",
+    "artifacts/where-the-current-opens/050-whole.jpg",
+    "artifacts/where-the-current-opens/054-close.jpg",
+    "artifacts/where-the-current-opens/054-whole.jpg",
+    "artifacts/where-the-current-opens/058-close.jpg",
+    "artifacts/where-the-current-opens/058-lower.jpg",
+    "artifacts/where-the-current-opens/058-whole.jpg",
+    "artifacts/where-the-current-opens/062-close.jpg",
+    "artifacts/where-the-current-opens/062-whole.jpg",
+    "artifacts/where-the-current-opens/066-close.jpg",
+    "artifacts/where-the-current-opens/066-whole.jpg",
+    "artifacts/where-the-current-opens/070-close.jpg",
+    "artifacts/where-the-current-opens/070-whole.jpg",
+    "artifacts/where-the-current-opens/074-close.jpg",
+    "artifacts/where-the-current-opens/074-whole.jpg",
+    "artifacts/where-the-current-opens/078-close.jpg",
+    "artifacts/where-the-current-opens/078-whole.jpg",
+    "artifacts/where-the-current-opens/082-close.jpg",
+    "artifacts/where-the-current-opens/082-whole.jpg",
+    "artifacts/where-the-current-opens/086-close.jpg",
+    "artifacts/where-the-current-opens/086-whole.jpg",
+    "artifacts/where-the-current-opens/090-close.jpg",
+    "artifacts/where-the-current-opens/090-whole.jpg",
+    "artifacts/where-the-current-opens/094-close.jpg",
+    "artifacts/where-the-current-opens/094-whole.jpg",
+    "artifacts/where-the-current-opens/098-close.jpg",
+    "artifacts/where-the-current-opens/098-whole.jpg",
+    "artifacts/where-the-current-opens/102-close.jpg",
+    "artifacts/where-the-current-opens/102-whole.jpg",
+    "artifacts/where-the-current-opens/106-close.jpg",
+    "artifacts/where-the-current-opens/106-whole.jpg",
+    "artifacts/where-the-current-opens/108-close.jpg",
+    "artifacts/where-the-current-opens/108-whole.jpg",
+    "artifacts/where-the-current-opens/112-close.jpg",
+    "artifacts/where-the-current-opens/112-lower.jpg",
+    "artifacts/where-the-current-opens/112-whole.jpg",
+    "artifacts/where-the-current-opens/live-receipt.json",
+    "examples/previews/where-the-current-opens.png"
+  ],
+  "engineRevision": "4e6bd29bb24af65bfb0767b4ebae307f2237599e",
+  "model": "GPT-6, precise variant unavailable",
+  "nextExperiment": "Repeat matching pastel and loaded oil on two equally dry oil strips, with identical path, pigment, width and pressure; compare whole-view visibility and close-view relief. Test pressure taper within the original blade stroke rather than adding a thin tip afterward.",
+  "assessment": {
+    "source": "Agent observations from thirty whole/close boundaries, two single-mark tests, two lower pans, actual exported PNG and exact ended public replay. Limitations are recorded in creation metadata.",
+    "humanRating": null
   }
+}
 ]

@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Where the current opens
+
+[![Amber kelp ribbons and three quiet fish in blue-green water](public-gallery/paintings/where-the-current-opens/finished.png)](https://atelier.randomdrake.com/#painting/where-the-current-opens)
+
+An original underwater study in **112 animated marks**, with **30 whole-and-close inspection boundaries**, two single-mark tests and deliberate final refinement. Long sampled blades keep open water between them; matched loaded oil reads more clearly than pastel and adds relief. Quiet fish and branching holdfasts give scale. Wash bands, regular bristle ridges and needle-like tips remain. Inspired by the [NPS kelp-forest account](https://www.nps.gov/subjects/oceans/kelp-forests.htm). The ended broadcast acknowledged all 112 marks and 76 moments.
+
+[Watch the kelp forest take shape →](https://atelier.randomdrake.com/#painting/where-the-current-opens)
+
+
 ### Warmth waits by the door
 
 [![An imagined red wool mitten on pale green linen](public-gallery/paintings/warmth-waits-by-the-door/finished.png)](https://atelier.randomdrake.com/#painting/warmth-waits-by-the-door)

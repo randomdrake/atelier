@@ -1,5 +1,24 @@
 [
-  {
+{
+  "id": "where-the-current-opens",
+  "title": "Where the current opens",
+  "description": "Amber kelp ribbons, three quiet fish and rocky holdfasts in blue-green water.",
+  "process": "112 animated marks in adaptive 1–4-stroke batches, thirty whole/close inspection boundaries, two single-mark tests and lower pans. Matched loaded oil read more clearly than pastel with added relief. Final refinement at 109–112; exact ended broadcast acknowledged all marks and 76 moments. Framing and control recoveries are recorded in the replay provenance.",
+  "media": [
+    "watercolor",
+    "oil",
+    "pastel"
+  ],
+  "strokes": 112,
+  "moments": 76,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/where-the-current-opens/session.json",
+  "image": "/paintings/where-the-current-opens/finished.png",
+  "addedAt": "2026-11-17T17:35:11.817Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-17"
+},
+{
     "id": "warmth-waits-by-the-door",
     "title": "Warmth waits by the door",
     "description": "An imagined red wool mitten resting on pale green linen, with a folded cuff and a sparse run of warm stitches.",
