@@ -1,0 +1,38 @@
+{
+  "tests": 111,
+  "syntax": "passed",
+  "build": "complete Worker and privacy verification passed",
+  "expandedDeploymentTarBytes": 144650240,
+  "localWorker": {
+    "base": "http://127.0.0.1:5174",
+    "paintings": 174,
+    "allReplaysExact": true,
+    "catalogueExact": true,
+    "journalExact": true,
+    "downloadHeads": 7,
+    "pngBytes": 858746,
+    "pngSha256": "7ee0d3feade37b09cb16983ea6ad3f749ab9d09d8bd66b24ae7f65554e14a0ad",
+    "verifiedAt": "2026-11-17T19:34:28.760Z"
+  },
+  "browser": {
+    "actualImage": [
+      900,
+      620
+    ],
+    "guidedReplay": "opening,source link,and brush tray visible at4x",
+    "pause": "mark4 held across calls",
+    "resume": "advanced to mark5",
+    "returnToFinished": "Enter succeeded",
+    "writtenNotes": 15,
+    "phone": {
+      "width": 390,
+      "scrollWidth": 390,
+      "dialogWidth": 352
+    },
+    "viewportRestored": true
+  },
+  "priorCatalogueEntriesPreserved": 173,
+  "priorJournalEntriesPreserved": 170,
+  "broadcast": "ended; exact raw112-mark72-event document acknowledged",
+  "limits": "initial4-mark viewport screenshots cropped lower canvas; complete close inspected before continuing; two close-camera screenshots retaken at settled2.0x; exported PNG is actual physical snapshot"
+}

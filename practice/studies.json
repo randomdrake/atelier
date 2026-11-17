@@ -20072,5 +20072,134 @@
     "source": "Agent observations from eighteen whole/close screenshot boundaries, single tests at 33/34, actual exported PNG and exactly acknowledged ended public replay.",
     "humanRating": null
   }
+},
+{
+  "id": "small-suns-in-the-bog",
+  "title": "Small suns in the bog",
+  "date": "2026-11-17",
+  "session": "examples/small-suns-in-the-bog.json",
+  "finishedImage": "examples/previews/small-suns-in-the-bog.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Fill rounded unequal sundew leaves first, preserve dark gaps between stalks, then place tapered red hairs and selected compact dew lights.",
+  "inspiration": {
+    "title": "RHS — Drosera rotundifolia, round-leaved sundew",
+    "url": "https://www.rhs.org.uk/plants/31937/drosera-rotundifolia/details",
+    "interpretation": "Original imagined five-leaf sundew rosette above uneven moss in a cool bog field. Full journal/catalogue searched: no sundew or Drosera study/source found. Crane and nasturtium ideas rejected after archive matches. Kew source returned403; RHS source read successfully. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Overlapping long washes bridged pale seams; soft horizontal bands remained."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Broad overlaps produced five filled unequal discs, with open dark stalk gaps."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Sampled warm rim arcs turned smoothly, while inset bands and a faceted right crown remained."
+    },
+    {
+      "afterStroke": 37,
+      "text": "Thin red hair nearly disappeared at whole view."
+    },
+    {
+      "afterStroke": 38,
+      "text": "Wider loaded red hair read more clearly with raised paint. Changed pigment,width and placement confound comparison."
+    },
+    {
+      "afterStroke": 82,
+      "text": "A short red join connected the floating rightmost bead to its hair."
+    },
+    {
+      "afterStroke": 98,
+      "text": "Broader lower neighbors filled two angular moss bases; sampled right crown was rounder, with raised joins remaining."
+    },
+    {
+      "afterStroke": 106,
+      "text": "Broad green pass connected a floating base; compact loaded focal light at104 survived whole view."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final hair/bead joins, stalk color correction and low moss contact kept dark gaps and unequal light hierarchy. Regular bristles, raised joins, inset rims, pointed hairs, angular moss and wash bands remain; further covers chiefly add relief."
+    }
+  ],
+  "evidence": [
+    "artifacts/small-suns-in-the-bog/004-close-complete.jpg",
+    "artifacts/small-suns-in-the-bog/004-close.jpg",
+    "artifacts/small-suns-in-the-bog/004-whole.jpg",
+    "artifacts/small-suns-in-the-bog/008-close.jpg",
+    "artifacts/small-suns-in-the-bog/008-whole.jpg",
+    "artifacts/small-suns-in-the-bog/012-close.jpg",
+    "artifacts/small-suns-in-the-bog/012-whole.jpg",
+    "artifacts/small-suns-in-the-bog/016-close.jpg",
+    "artifacts/small-suns-in-the-bog/016-whole.jpg",
+    "artifacts/small-suns-in-the-bog/020-close.jpg",
+    "artifacts/small-suns-in-the-bog/020-whole.jpg",
+    "artifacts/small-suns-in-the-bog/024-close.jpg",
+    "artifacts/small-suns-in-the-bog/024-whole.jpg",
+    "artifacts/small-suns-in-the-bog/028-close.jpg",
+    "artifacts/small-suns-in-the-bog/028-whole.jpg",
+    "artifacts/small-suns-in-the-bog/032-close.jpg",
+    "artifacts/small-suns-in-the-bog/032-whole.jpg",
+    "artifacts/small-suns-in-the-bog/036-close.jpg",
+    "artifacts/small-suns-in-the-bog/036-whole.jpg",
+    "artifacts/small-suns-in-the-bog/037-close.jpg",
+    "artifacts/small-suns-in-the-bog/037-whole.jpg",
+    "artifacts/small-suns-in-the-bog/038-close.jpg",
+    "artifacts/small-suns-in-the-bog/038-whole.jpg",
+    "artifacts/small-suns-in-the-bog/042-close.jpg",
+    "artifacts/small-suns-in-the-bog/042-whole.jpg",
+    "artifacts/small-suns-in-the-bog/046-close.jpg",
+    "artifacts/small-suns-in-the-bog/046-whole.jpg",
+    "artifacts/small-suns-in-the-bog/050-close.jpg",
+    "artifacts/small-suns-in-the-bog/050-whole.jpg",
+    "artifacts/small-suns-in-the-bog/054-close.jpg",
+    "artifacts/small-suns-in-the-bog/054-whole.jpg",
+    "artifacts/small-suns-in-the-bog/058-close.jpg",
+    "artifacts/small-suns-in-the-bog/058-whole.jpg",
+    "artifacts/small-suns-in-the-bog/062-close.jpg",
+    "artifacts/small-suns-in-the-bog/062-whole.jpg",
+    "artifacts/small-suns-in-the-bog/066-close.jpg",
+    "artifacts/small-suns-in-the-bog/066-whole.jpg",
+    "artifacts/small-suns-in-the-bog/070-close.jpg",
+    "artifacts/small-suns-in-the-bog/070-lower.jpg",
+    "artifacts/small-suns-in-the-bog/070-whole.jpg",
+    "artifacts/small-suns-in-the-bog/074-close.jpg",
+    "artifacts/small-suns-in-the-bog/074-whole.jpg",
+    "artifacts/small-suns-in-the-bog/078-close.jpg",
+    "artifacts/small-suns-in-the-bog/078-whole.jpg",
+    "artifacts/small-suns-in-the-bog/082-close.jpg",
+    "artifacts/small-suns-in-the-bog/082-whole.jpg",
+    "artifacts/small-suns-in-the-bog/086-close.jpg",
+    "artifacts/small-suns-in-the-bog/086-whole.jpg",
+    "artifacts/small-suns-in-the-bog/090-close.jpg",
+    "artifacts/small-suns-in-the-bog/090-whole.jpg",
+    "artifacts/small-suns-in-the-bog/094-close.jpg",
+    "artifacts/small-suns-in-the-bog/094-whole.jpg",
+    "artifacts/small-suns-in-the-bog/098-close.jpg",
+    "artifacts/small-suns-in-the-bog/098-whole.jpg",
+    "artifacts/small-suns-in-the-bog/102-close.jpg",
+    "artifacts/small-suns-in-the-bog/102-whole.jpg",
+    "artifacts/small-suns-in-the-bog/106-close.jpg",
+    "artifacts/small-suns-in-the-bog/106-whole.jpg",
+    "artifacts/small-suns-in-the-bog/110-close.jpg",
+    "artifacts/small-suns-in-the-bog/110-whole.jpg",
+    "artifacts/small-suns-in-the-bog/112-close.jpg",
+    "artifacts/small-suns-in-the-bog/112-lower.jpg",
+    "artifacts/small-suns-in-the-bog/112-whole.jpg",
+    "artifacts/small-suns-in-the-bog/live-receipt.json",
+    "examples/previews/small-suns-in-the-bog.png"
+  ],
+  "engineRevision": "9151619f6721ae2c5856c02c19ffef482160e292",
+  "model": "GPT-6, precise variant unavailable",
+  "nextExperiment": "On equally dry oil strips, repeat the same red hair path,pigment,width and pressure while changing only body/load. Compare visibility and relief separately. Start moss with sampled rounded silhouettes rather than chevrons; put bead at the painted endpoint rather than the nominal path endpoint.",
+  "assessment": {
+    "source": "Agent observations from30 whole/close boundaries, two single-hair tests, two lower views, actual exported PNG and exact ended public replay. Framing/control limitations in creation metadata.",
+    "humanRating": null
+  }
 }
 ]

@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Small suns in the bog
+
+[![An imagined round-leaved sundew rosette above moss](public-gallery/paintings/small-suns-in-the-bog/finished.png)](https://atelier.randomdrake.com/#painting/small-suns-in-the-bog)
+
+An original study in **112 animated marks**, with **30 whole-and-close inspection boundaries**, two single-hair tests and deliberate final refinement. Broad filled leaves preserve dark stalk gaps; selected red hairs and compact dew lights stay unequal. Loaded oil reads more clearly than the thin trial, with changed parameters preventing a controlled comparison. Regular bristles, raised joins, pointed hairs and angular moss remain. Inspired by the [RHS round-leaved sundew profile](https://www.rhs.org.uk/plants/31937/drosera-rotundifolia/details). The ended broadcast acknowledged all 112 marks and 72 moments.
+
+[Watch the sundew take shape →](https://atelier.randomdrake.com/#painting/small-suns-in-the-bog)
+
+
 ### A small room in the shell
 
 [![An imagined open walnut and whole nut on blue cloth](public-gallery/paintings/a-small-room-in-the-shell/finished.png)](https://atelier.randomdrake.com/#painting/a-small-room-in-the-shell)

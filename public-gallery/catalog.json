@@ -1,5 +1,23 @@
 [
 {
+  "id": "small-suns-in-the-bog",
+  "title": "Small suns in the bog",
+  "description": "An imagined round-leaved sundew rosette with five gold-green leaves, unequal red hairs and selected dew beads above moss in a cool bog field.",
+  "process": "Original AI-agent study in 112 animated watercolor/oil marks, thirty whole/close inspection boundaries, single-hair tests 37/38, two lower reviews and deliberate refinement 103–112. Broad fills preserve dark stalk gaps; loaded red hairs and a compact light survive whole view. Short joins connect loose bead/hair ends and broad green connects a floating base. Regular bristles, raised joins, pointed hairs and angular moss remain. All 15 notes live; ended feed exactly acknowledged 112 marks and 72 moments. Initial framing and camera recoveries recorded in provenance. Inspired by RHS round-leaved sundew profile.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 112,
+  "moments": 72,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/small-suns-in-the-bog/session.json",
+  "image": "/paintings/small-suns-in-the-bog/finished.png",
+  "addedAt": "2026-11-17T19:18:29.778Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-17"
+},
+{
   "id": "a-small-room-in-the-shell",
   "title": "A small room in the shell",
   "description": "An imagined open walnut and a whole nut on quiet blue cloth, with compact warm lights and sparse shell channels.",
