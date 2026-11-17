@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Warmth waits by the door
+
+[![An imagined red wool mitten on pale green linen](public-gallery/paintings/warmth-waits-by-the-door/finished.png)](https://atelier.randomdrake.com/#painting/warmth-waits-by-the-door)
+
+An original study in **62 animated marks**, with **17 whole-and-close review boundaries**, two single-mark tests and deliberate final refinement. Broad planes join the cuff; a sparse stitch run and small loaded oil lights read where pastel and thin oil stayed faint. Regular bristles and raised joins remain. Inspired by the [Smithsonian wool-mitten record](https://americanhistory.si.edu/collections/object/nmah_1095992). The ended broadcast acknowledged all 62 marks and 41 moments; camera and export recoveries are recorded in the replay provenance.
+
+[Watch the mitten take shape →](https://atelier.randomdrake.com/#painting/warmth-waits-by-the-door)
+
+
 ### The weight of a line
 
 [![An imagined brass plumb bob hanging against blue plaster](public-gallery/paintings/the-weight-of-a-line/finished.png)](https://atelier.randomdrake.com/#painting/the-weight-of-a-line)

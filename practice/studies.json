@@ -19751,5 +19751,104 @@
       "source": "Agent observations from 13 paired reviews, two supplementary close pans, the actual exported PNG and exact ended replay.",
       "humanRating": null
     }
+  },
+  {
+    "id": "warmth-waits-by-the-door",
+    "title": "Warmth waits by the door",
+    "date": "2026-11-17",
+    "session": "examples/warmth-waits-by-the-door.json",
+    "finishedImage": "examples/previews/warmth-waits-by-the-door.png",
+    "media": [
+      "oil",
+      "pastel",
+      "watercolor"
+    ],
+    "goal": "Use broad folded fabric planes, a crisp thumb gap and one quiet cuff light in a red wool mitten on pale green linen.",
+    "inspiration": {
+      "title": "Smithsonian National Museum of American History, wool mittens",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1095992",
+      "interpretation": "The collection record for knitted blue-grey and white wool mittens prompted an original imagined red mitten on folded green linen; this is not a copy of the historical object."
+    },
+    "observations": [
+      {
+        "afterStroke": 12,
+        "text": "Broad overlapping red passes filled the palm and left an open green thumb gap; the cuff was scalloped."
+      },
+      {
+        "afterStroke": 20,
+        "text": "Crosswise passes joined the cuff and warm palm planes separated from the shaded side."
+      },
+      {
+        "afterStroke": 33,
+        "text": "The single pastel test barely changed the oil palm at whole view."
+      },
+      {
+        "afterStroke": 37,
+        "text": "Selected cuff ribs and light crests read without filling the broad palm."
+      },
+      {
+        "afterStroke": 42,
+        "text": "The loaded oil cuff crest read at whole view, while thinner accents had stayed faint."
+      },
+      {
+        "afterStroke": 46,
+        "text": "A narrow cool contact wash seated the cuff; thin cable lines remained subdued."
+      },
+      {
+        "afterStroke": 54,
+        "text": "Loaded yarn turns and their return sides made a sparse stitch run, with raised joins visible at 2×."
+      },
+      {
+        "afterStroke": 62,
+        "text": "Final crown and thumb crests clarified the light, the green gap stayed open, and small cuff lights remained focal. Regular bristles, a faceted cuff, raised stitch joins and pale wash bands remain. More rows would crowd the quiet palm."
+      }
+    ],
+    "evidence": [
+      "artifacts/warmth-waits-by-the-door/004-close.jpg",
+      "artifacts/warmth-waits-by-the-door/004-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/008-close.jpg",
+      "artifacts/warmth-waits-by-the-door/008-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/012-close.jpg",
+      "artifacts/warmth-waits-by-the-door/012-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/016-close.jpg",
+      "artifacts/warmth-waits-by-the-door/016-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/020-close.jpg",
+      "artifacts/warmth-waits-by-the-door/020-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/024-close.jpg",
+      "artifacts/warmth-waits-by-the-door/024-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/028-close.jpg",
+      "artifacts/warmth-waits-by-the-door/028-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/032-close.jpg",
+      "artifacts/warmth-waits-by-the-door/032-upper.jpg",
+      "artifacts/warmth-waits-by-the-door/032-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/033-close.jpg",
+      "artifacts/warmth-waits-by-the-door/033-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/037-close.jpg",
+      "artifacts/warmth-waits-by-the-door/037-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/041-close.jpg",
+      "artifacts/warmth-waits-by-the-door/041-lower.jpg",
+      "artifacts/warmth-waits-by-the-door/041-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/042-close.jpg",
+      "artifacts/warmth-waits-by-the-door/042-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/046-close.jpg",
+      "artifacts/warmth-waits-by-the-door/046-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/050-close.jpg",
+      "artifacts/warmth-waits-by-the-door/050-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/054-close.jpg",
+      "artifacts/warmth-waits-by-the-door/054-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/058-close.jpg",
+      "artifacts/warmth-waits-by-the-door/058-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/062-close.jpg",
+      "artifacts/warmth-waits-by-the-door/062-whole.jpg",
+      "artifacts/warmth-waits-by-the-door/live-receipt.json",
+      "examples/previews/warmth-waits-by-the-door.png"
+    ],
+    "engineRevision": "9118d2802ed4657fc096e34038f5218f6054fa22",
+    "model": "GPT-6, precise variant unavailable",
+    "nextExperiment": "On matching dry red oil strips, compare pastel with loaded oil using the same pigment, width and pressure. Judge whole-view visibility and close-view relief separately.",
+    "assessment": {
+      "source": "Agent observations from seventeen whole/close review boundaries, single tests, a lower pan, the actual exported PNG and exact ended replay. Camera and export limitations are recorded in creation metadata.",
+      "humanRating": null
+    }
   }
 ]

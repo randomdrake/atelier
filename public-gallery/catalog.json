@@ -1,5 +1,24 @@
 [
   {
+    "id": "warmth-waits-by-the-door",
+    "title": "Warmth waits by the door",
+    "description": "An imagined red wool mitten resting on pale green linen, with a folded cuff and a sparse run of warm stitches.",
+    "process": "Painted live in 62 animated marks across 17 whole-and-close inspection boundaries. Broad planes joined the cuff; loaded oil lights read where pastel and thin oil stayed faint. Two single tests, camera reviews and deliberate final refinement; camera and export recoveries recorded in provenance. Ended feed acknowledged all 62 marks and 41 moments.",
+    "media": [
+      "watercolor",
+      "oil",
+      "pastel"
+    ],
+    "strokes": 62,
+    "moments": 41,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/warmth-waits-by-the-door/session.json",
+    "image": "/paintings/warmth-waits-by-the-door/finished.png",
+    "addedAt": "2026-11-17T16:15:11.618Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-17"
+  },
+  {
     "id": "the-slack-in-the-line",
     "title": "The slack in the line",
     "description": "A carved wood net shuttle with a slack cord loop on blue cloth.",
