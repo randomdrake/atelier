@@ -1,0 +1,11 @@
+{
+  "status": "ended",
+  "sessionId": "5164d14f-2074-4347-9a43-28c12f06653b",
+  "sequence": 165,
+  "startedAt": 1795035536373,
+  "receivedAt": 1795036245348,
+  "serverNow": 1795036256293,
+  "marks": 68,
+  "moments": 61,
+  "exactRawDocumentMatch": true
+}

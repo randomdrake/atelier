@@ -21250,4 +21250,113 @@
     "humanRating": null
   }
 }
+,
+{
+  "id": "clay-keeps-a-quiet-breath",
+  "title": "Clay keeps a quiet breath",
+  "date": "2026-11-18",
+  "session": "examples/clay-keeps-a-quiet-breath.json",
+  "finishedImage": "examples/previews/clay-keeps-a-quiet-breath.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Connect rounded terracotta planes while keeping finger holes dark and clear, with one restrained shoulder light.",
+  "inspiration": {
+    "description": "Original imagined terracotta ocarina with six finger holes, rising mouthpiece and a loose cord on blue linen. Sparked by the Met record of a clay ocarina by C. Ficinelli; no finished composition copied. Full journal/catalogue/examples search found no ocarina or clay-whistle study.",
+    "url": "https://www.metmuseum.org/art/collection/search/503770"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Bridge washes joined the pale seams; quiet horizontal bands remain."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Three broad overlapping body planes stayed filled, and the mouthpiece joined them. The left crown remained faceted."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Six unequal finger holes and a mouthpiece aperture read as filled dark openings at whole view."
+    },
+    {
+      "afterStroke": 33,
+      "text": "Thin rims were barely visible. A single more loaded, short lower rim survived whole view while retaining a dark hole; parameters changed together, so this is not a controlled comparison."
+    },
+    {
+      "afterStroke": 49,
+      "text": "Long linen folds stayed subordinate. A lower-right pan revealed polygonal cord bends and an open blue loop."
+    },
+    {
+      "afterStroke": 53,
+      "text": "More sampled outer-cord points softened the elbow at whole view, while the small inner loop remained angular."
+    },
+    {
+      "afterStroke": 61,
+      "text": "A dark mouthpiece-root pass made an unwanted collar. Warm correction softened its color but left relief."
+    },
+    {
+      "afterStroke": 62,
+      "text": "A single loaded compact shoulder light read at whole view without closing the holes."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Final refinement kept the holes open and belly light quieter. Cool cover67 left a raised crescent; warm68 reduced color contrast without removing relief. Faceted shoulder, angular loop, regular bristles, wash bands and raised joins remain. More covers would thicken the edge, so stopped at68 without padding."
+    }
+  ],
+  "evidence": [
+    "artifacts/clay-keeps-a-quiet-breath/004-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/004-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/008-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/008-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/012-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/012-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/016-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/016-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/020-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/020-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/024-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/024-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/028-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/028-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/032-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/032-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/033-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/033-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/037-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/037-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/041-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/041-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/045-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/045-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/049-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/049-lower-right.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/049-lower.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/049-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/053-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/053-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/057-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/057-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/061-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/061-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/062-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/062-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/066-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/066-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/067-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/067-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/068-close.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/068-upper.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/068-whole.jpg",
+    "artifacts/clay-keeps-a-quiet-breath/live-receipt.json",
+    "examples/previews/clay-keeps-a-quiet-breath.png"
+  ],
+  "engineRevision": "79062acae929e980a6436a62cc11fd0b82604b01",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed palette and renderer: compare matched six-point and ten-point cord bends; separately compare thin and loaded clay covers beside untouched paint, judging color and relief independently. Choose a fresh subject/source next.",
+  "assessment": {
+    "source": "Agent observations from20 retained settled whole/close pairs, lower/right49, upper68 and actual exportedPNG. Exact ended68-mark61-moment broadcast matched raw export. Human judgment not supplied.",
+    "humanRating": null
+  }
+}
 ]

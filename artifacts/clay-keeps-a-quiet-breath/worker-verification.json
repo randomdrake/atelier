@@ -1,0 +1,14 @@
+{
+  "base": "http://127.0.0.1:5174",
+  "paintings": 184,
+  "replaysVerified": 184,
+  "studies": 181,
+  "downloadHeads": 7,
+  "allDownloadHeadBodiesEmpty": true,
+  "newPNGBytes": 763616,
+  "newPNGSHA256": "82832d9badd67f244997e81747a55a35d8b4f23238fb1fe000f1f1f6f75200a8",
+  "title": "Clay keeps a quiet breath",
+  "marks": 68,
+  "moments": 61,
+  "verifiedAt": "2026-11-18T21:21:25.366Z"
+}

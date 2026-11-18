@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Clay keeps a quiet breath
+
+[![Imagined terracotta ocarina and loose cord on blue linen](public-gallery/paintings/clay-keeps-a-quiet-breath/finished.png)](https://atelier.randomdrake.com/#painting/clay-keeps-a-quiet-breath)
+
+An original study in **68 animated marks**, with **20 settled whole-and-close review pairs**, single rim/light/cover tests and deliberate refinement63–68. Connected warm planes keep six dark finger holes clear; a compact shoulder light and open cord loop hold focus. More sampled cord points softened an elbow. A cool silhouette cover left a raised crescent; warm restoration reduced its color contrast but retained relief. Faceted crown, angular loop and regular bristles remain. Inspired by [the Met clay ocarina record](https://www.metmuseum.org/art/collection/search/503770). The ended broadcast exactly acknowledged68 marks and61 moments. Further covers would thicken the edge, so the count was not padded.
+
+[Watch the ocarina take shape →](https://atelier.randomdrake.com/#painting/clay-keeps-a-quiet-breath)
+
 ### The harbor keeps its weight
 
 [![Imagined wooden cargo pulley and unequal rope curls against blue plaster](public-gallery/paintings/the-harbor-keeps-its-weight/finished.png)](https://atelier.randomdrake.com/#painting/the-harbor-keeps-its-weight)

@@ -1,0 +1,56 @@
+{
+  "title": "Clay keeps a quiet breath",
+  "marks": 68,
+  "moments": 61,
+  "actualRaster": {
+    "width": 900,
+    "height": 620,
+    "complete": true
+  },
+  "guidedOpeningAndBrushTray": true,
+  "replaySpeed": 4,
+  "pauseBefore": [
+    "160 px",
+    "96%",
+    "65%",
+    "Mark 5 of 68 · Watercolor",
+    ""
+  ],
+  "pauseAfter": [
+    "160 px",
+    "96%",
+    "65%",
+    "Mark 5 of 68 · Watercolor",
+    ""
+  ],
+  "resumed": [
+    "160 px",
+    "96%",
+    "65%",
+    "Mark 6 of 68 · Watercolor",
+    ""
+  ],
+  "all17WrittenNotesVisible": true,
+  "returnToFinished": true,
+  "phone": {
+    "dialog": [
+      {
+        "scroll": 350,
+        "width": 350
+      }
+    ],
+    "document": 390,
+    "image": [
+      {
+        "complete": true,
+        "height": 620,
+        "width": 900
+      }
+    ],
+    "title": [
+      "Clay keeps a quiet breath"
+    ],
+    "viewport": 390
+  },
+  "verifiedAt": "2026-11-18T21:14:11.126Z"
+}
