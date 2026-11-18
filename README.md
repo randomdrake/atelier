@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A violet weight on linen
+
+[![Purple kohlrabi with three unequal leaves on ochre linen](public-gallery/paintings/a-violet-weight-on-linen/finished.png)](https://atelier.randomdrake.com/#painting/a-violet-weight-on-linen)
+
+An original study in **85 animated marks**, with **22 settled whole-and-close review boundaries**, a single shoulder-light test and deliberate refinement74–85. Broad violet planes join the bulb; three unequal leaves preserve ochre stem gaps. A compact shoulder light and sparse root fibers hold focus and contact. Faceted crown, pointed stubs, angular bends, regular bristles and wash bands remain. Inspired by the [RHS kohlrabi guide](https://www.rhs.org.uk/vegetables/kohl-rabi/grow-your-own). The ended broadcast exactly acknowledged85 marks and63 moments. Further covers chiefly added relief, so the count was not padded.
+
+[Watch the kohlrabi take shape →](https://atelier.randomdrake.com/#painting/a-violet-weight-on-linen)
+
 ### The song rests in amber
 
 [![Imagined red-eyed cicada on a slanting twig](public-gallery/paintings/the-song-rests-in-amber/finished.png)](https://atelier.randomdrake.com/#painting/the-song-rests-in-amber)

@@ -20677,5 +20677,116 @@
     "source": "Agent observations from27 paired settled reviews, single eye37/38, upper38/lower70, actualPNG and exact ended feed. Startup/control/framing limitations recorded in creation metadata.",
     "humanRating": null
   }
+},
+{
+  "id": "a-violet-weight-on-linen",
+  "title": "A violet weight on linen",
+  "date": "2026-11-18",
+  "session": "examples/a-violet-weight-on-linen.json",
+  "finishedImage": "examples/previews/a-violet-weight-on-linen.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build a rounded violet bulb with broad overlapping planes, preserve open stem gaps and reserve one compact shoulder light.",
+  "inspiration": {
+    "title": "RHS — How to grow kohlrabi",
+    "url": "https://www.rhs.org.uk/vegetables/kohl-rabi/grow-your-own",
+    "interpretation": "Original imagined purple kohlrabi with three unequal leaves on pale ochre linen. Full journal/catalogue search found no kohlrabi, kohl-rabi, Gongylodes or source match. Teasel, fennel and radish candidates rejected as repeated. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Broad overlapping washes closed white seams while leaving gentle horizontal bands."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad curved return rounded the lower-left bulb edge; crown remained faceted."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Loaded lilac shoulder read at whole view. Dark shadow stripe was too distinct; neighboring midtone29 softened it while retaining raised joins."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Unequal lobes widened three leaves with open ochre stem gaps. Sparse midribs read."
+    },
+    {
+      "afterStroke": 57,
+      "text": "Single loaded short shoulder light stayed compact and visible at whole view."
+    },
+    {
+      "afterStroke": 65,
+      "text": "Stub lights changed color more than pointed shape. Contact shadow and quiet fold grounded the bulb."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Two unequal growth scars read more strongly than intended."
+    },
+    {
+      "afterStroke": 73,
+      "text": "Sparse sampled root fibers separated at whole view."
+    },
+    {
+      "afterStroke": 85,
+      "text": "Refinement74–85 joined stem roots, softened upper scar and adjusted selected leaf edges. Compact light and open gaps held; regular bristles, faceted crown, pointed stubs, angular bends and wash bands remain. More covers chiefly add relief."
+    }
+  ],
+  "evidence": [
+    "artifacts/a-violet-weight-on-linen/004-close.jpg",
+    "artifacts/a-violet-weight-on-linen/004-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/008-close.jpg",
+    "artifacts/a-violet-weight-on-linen/008-whole-full.jpg",
+    "artifacts/a-violet-weight-on-linen/012-close.jpg",
+    "artifacts/a-violet-weight-on-linen/012-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/016-close.jpg",
+    "artifacts/a-violet-weight-on-linen/016-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/020-close.jpg",
+    "artifacts/a-violet-weight-on-linen/020-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/024-close.jpg",
+    "artifacts/a-violet-weight-on-linen/024-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/028-close.jpg",
+    "artifacts/a-violet-weight-on-linen/028-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/032-close.jpg",
+    "artifacts/a-violet-weight-on-linen/032-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/036-close.jpg",
+    "artifacts/a-violet-weight-on-linen/036-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/040-close.jpg",
+    "artifacts/a-violet-weight-on-linen/040-upper-full.jpg",
+    "artifacts/a-violet-weight-on-linen/040-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/044-close.jpg",
+    "artifacts/a-violet-weight-on-linen/044-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/048-close.jpg",
+    "artifacts/a-violet-weight-on-linen/048-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/052-close.jpg",
+    "artifacts/a-violet-weight-on-linen/052-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/056-close.jpg",
+    "artifacts/a-violet-weight-on-linen/056-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/057-close.jpg",
+    "artifacts/a-violet-weight-on-linen/057-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/061-close.jpg",
+    "artifacts/a-violet-weight-on-linen/061-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/065-close.jpg",
+    "artifacts/a-violet-weight-on-linen/065-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/069-close.jpg",
+    "artifacts/a-violet-weight-on-linen/069-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/073-close.jpg",
+    "artifacts/a-violet-weight-on-linen/073-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/077-close.jpg",
+    "artifacts/a-violet-weight-on-linen/077-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/081-close.jpg",
+    "artifacts/a-violet-weight-on-linen/081-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/085-close.jpg",
+    "artifacts/a-violet-weight-on-linen/085-whole.jpg",
+    "artifacts/a-violet-weight-on-linen/live-receipt.json",
+    "examples/previews/a-violet-weight-on-linen.png"
+  ],
+  "engineRevision": "118ed7874b6bb3c3641ee6876028e6e4608e2dac",
+  "model": "GPT-6, precise variant unavailable",
+  "nextExperiment": "At fixed renderer/palette/load, compare early broad curved crown planes against late contour repairs. Judge color coverage and relief separately. Compare isolated matched thin and loaded shoulder lights without layering. Fresh subject/source next.",
+  "assessment": {
+    "source": "Agent observations from22 settled paired review boundaries, single shoulder57, upper40, actual exportedPNG and exact ended feed. 13 live notes; control/framing recoveries recorded in creation metadata.",
+    "humanRating": null
+  }
 }
 ]

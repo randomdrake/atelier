@@ -1,0 +1,18 @@
+{
+  "dialogWidth": 352,
+  "notes": 13,
+  "progress": "Finished view",
+  "scrollWidth": 390,
+  "viewport": 390,
+  "finishedRaster": [
+    900,
+    620
+  ],
+  "guidedOpening": true,
+  "brushTray": true,
+  "pauseHeldAt": 6,
+  "resumeReached": 8,
+  "returnToFinished": true,
+  "testsPassed": 111,
+  "syntaxPassed": true
+}
