@@ -1,5 +1,24 @@
 [
 {
+  "id": "stone-keeps-an-open-sky",
+  "title": "Stone keeps an open sky",
+  "description": "An imagined sandstone bridge above a dry canyon, with an open blue passage, warm rock planes, sparse sage and a short sunlit edge.",
+  "process": "97 animated watercolor, oil and acrylic marks in1-4-stroke batches;28 review boundaries, single cover/light tests and deliberate refinement89-97. All easel notes live. Broad overlaps join rock planes and fill sage centers. Loaded light46 survives whole view; covers changed color while retaining relief. Exact ended97-mark85-moment feed acknowledged. Framing limitations recorded in provenance.",
+  "media": [
+    "watercolor",
+    "oil",
+    "acrylic"
+  ],
+  "strokes": 97,
+  "moments": 85,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/stone-keeps-an-open-sky/session.json",
+  "image": "/paintings/stone-keeps-an-open-sky/finished.png",
+  "addedAt": "2026-11-18T23:18:07.560Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-18"
+},
+{
   "id": "a-pale-saddle-by-still-water",
   "title": "A pale saddle by still water",
   "description": "An imagined Malayan tapir beside a quiet forest pool, with pale saddle, open leg gaps and unequal leaves.",

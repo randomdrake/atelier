@@ -1,0 +1,14 @@
+{
+  "base": "http://127.0.0.1:5174",
+  "paintings": 186,
+  "replaysVerified": 186,
+  "studies": 183,
+  "downloadHeads": 7,
+  "allDownloadHeadBodiesEmpty": true,
+  "newPNGBytes": 943508,
+  "newPNGSHA256": "1b1f6b003744b4e819584e8ef112967e07e7fbd2be1b989578a380bf9006c7c6",
+  "title": "Stone keeps an open sky",
+  "marks": 97,
+  "moments": 85,
+  "verifiedAt": "2026-11-18T23:27:32.521Z"
+}

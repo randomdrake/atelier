@@ -1,0 +1,9 @@
+{
+  "painting": "stone-keeps-an-open-sky",
+  "finishedImage": {"loaded": true, "width": 900, "height": 620},
+  "replay": {"speed": 4, "openingNoteShown": true, "brushSettingsShown": true, "pausedCount": 9, "countAfterPause": 9, "continuedCount": 10, "returnedToFinished": true},
+  "writtenNotes": 24,
+  "phone": {"viewport": 390, "documentWidth": 390, "dialogWidth": 352, "completeImage": true},
+  "humanRating": null,
+  "limitations": "Some studio evidence at4/8 is partly cropped; settled framing from12. Browser controls occasionally timed out; fresh state and Enter recovered. Engine unchanged."
+}

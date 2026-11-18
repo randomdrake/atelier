@@ -21467,5 +21467,135 @@
     "source": "Agent observations from22 retained settled whole/close pairs, head45 and lower/head76, plus actual browserPNG. Ended76-mark57-moment feed exactly matched raw export. Human judgment not supplied.",
     "humanRating": null
   }
+},
+{
+  "id": "stone-keeps-an-open-sky",
+  "title": "Stone keeps an open sky",
+  "date": "2026-11-18",
+  "session": "examples/stone-keeps-an-open-sky.json",
+  "finishedImage": "examples/previews/stone-keeps-an-open-sky.png",
+  "media": [
+    "watercolor",
+    "oil",
+    "acrylic"
+  ],
+  "goal": "Join warm rock planes while preserving a clear sky opening, then keep one short sunlit edge dominant.",
+  "inspiration": {
+    "description": "An original imagined sandstone bridge above a dry canyon, sparked by the NPS Rainbow Bridge geology account. No finished composition copied. Journal search found no previous natural-bridge study; watering can was rejected as already explored.",
+    "url": "https://www.nps.gov/articles/nps-geodiversity-atlas-rainbow-bridge-national-monument-utah.htm"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Four bridging washes closed bare ground seams; soft horizontal bands remain."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Two long sampled arch gestures connected the abutments and left blue air open. The silhouette remained ribbon-like and faceted."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Broad warm cover21 reduced the outline-like right shadow without closing the opening."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Broad crossings33-34 joined detached foot ledges; raised joins remained."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Cross-strata37-40 projected into sky; narrow acrylic41 barely changed them."
+    },
+    {
+      "afterStroke": 46,
+      "text": "Single loaded pale edge46 survived whole view. Upper close46 confirmed it stayed compact."
+    },
+    {
+      "afterStroke": 74,
+      "text": "Broad crossing71-74 filled initially hollow sage silhouettes."
+    },
+    {
+      "afterStroke": 87,
+      "text": "Loaded oil sky cover87 changed color more strongly than acrylic41 but left a dark raised patch; changed parameters prevent controlled comparison."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Warm88 reduced patch color contrast but retained its raised edge."
+    },
+    {
+      "afterStroke": 97,
+      "text": "Deliberate refinement89-97 retained connected warm planes, open sky and short focal light. Sand59 reduced channel color contrast while preserving relief. Contact93 crossed sage;97 softened it only partly. Faceted crown, ribbon-like arch, angular stones, regular bristles and raised repairs remain. Further covers mainly add relief, so stopped97 without padding."
+    }
+  ],
+  "evidence": [
+    "artifacts/stone-keeps-an-open-sky/004-close-framed.jpg",
+    "artifacts/stone-keeps-an-open-sky/004-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/004-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/008-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/008-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/012-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/012-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/016-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/016-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/020-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/020-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/024-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/024-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/028-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/028-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/032-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/032-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/036-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/036-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/040-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/040-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/041-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/041-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/045-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/045-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/046-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/046-upper.jpg",
+    "artifacts/stone-keeps-an-open-sky/046-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/050-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/050-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/054-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/054-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/058-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/058-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/062-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/062-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/066-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/066-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/070-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/070-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/074-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/074-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/078-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/078-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/082-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/082-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/086-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/086-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/087-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/087-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/088-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/088-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/092-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/092-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/096-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/096-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/097-close.jpg",
+    "artifacts/stone-keeps-an-open-sky/097-lower.jpg",
+    "artifacts/stone-keeps-an-open-sky/097-upper.jpg",
+    "artifacts/stone-keeps-an-open-sky/097-whole.jpg",
+    "artifacts/stone-keeps-an-open-sky/live-receipt.json",
+    "examples/previews/stone-keeps-an-open-sky.png"
+  ],
+  "engineRevision": "1c6de3360ee9f74561f6ef0a4b223465e8835c48",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "At fixed renderer/palette compare matched thin acrylic and loaded oil covers on isolated swatches, judging color and relief separately. For a sandstone calibration, place short strata entirely inside a broad silhouette and use fewer sampled planes; reserve foot contacts before shrubs. Choose a fresh subject/source next.",
+  "assessment": {
+    "source": "Agent observations from28 review boundaries, retained screenshot pairs with framing limitations recorded, upper46 and lower/upper97, plus actual browserPNG. Ended97-mark85-moment feed exactly matched raw export. Human judgment not supplied.",
+    "humanRating": null
+  }
 }
 ]

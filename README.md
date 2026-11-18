@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Stone keeps an open sky
+
+[![Imagined sandstone bridge above a dry canyon](public-gallery/paintings/stone-keeps-an-open-sky/finished.png)](https://atelier.randomdrake.com/#painting/stone-keeps-an-open-sky)
+
+An original study in **97 animated marks**, with **28 whole-and-close review boundaries**, single cover/light tests and deliberate refinement89–97. Warm joined rock planes preserve blue air; broad crossings fill sage centers, and a short loaded light holds focus. Cover trials changed color more than relief. Faceted crown, ribbon-like arch, raised channel, angular stones and regular bristles remain. Inspired by [NPS sandstone-bridge geology](https://www.nps.gov/articles/nps-geodiversity-atlas-rainbow-bridge-national-monument-utah.htm). The ended broadcast exactly acknowledged97 marks and85 moments. Further covers chiefly add relief, so the count was not padded.
+
+[Watch the bridge take shape →](https://atelier.randomdrake.com/#painting/stone-keeps-an-open-sky)
+
 ### A pale saddle by still water
 
 [![Imagined Malayan tapir beside a quiet forest pool](public-gallery/paintings/a-pale-saddle-by-still-water/finished.png)](https://atelier.randomdrake.com/#painting/a-pale-saddle-by-still-water)
