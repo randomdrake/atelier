@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The sand lends a disguise
+
+[![Imagined amber cuttlefish hovering above pale sand](public-gallery/paintings/the-sand-lends-a-disguise/finished.png)](https://atelier.randomdrake.com/#painting/the-sand-lends-a-disguise)
+
+An original study in **82 animated marks**, with **22 review boundaries**, including **20 settled whole-and-close pairs**, single eye tests and deliberate refinement75–82. Broad warm crossings join the mantle; unequal bands, open arm gaps and a small eye hold focus above a soft shadow. Angular fin bends, regular bristles and raised joins remain. Inspired by [Monterey Bay Aquarium’s common cuttlefish account](https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/common-cuttlefish). The ended broadcast exactly acknowledged82 marks and65 moments. Further covers chiefly added relief, so the count was not padded.
+
+[Watch the cuttlefish take shape →](https://atelier.randomdrake.com/#painting/the-sand-lends-a-disguise)
+
+
 ### The marsh holds its breath
 
 [![An imagined shoebill standing in green shallows among unequal reeds](public-gallery/paintings/the-marsh-holds-its-breath/finished.png)](https://atelier.randomdrake.com/#painting/the-marsh-holds-its-breath)

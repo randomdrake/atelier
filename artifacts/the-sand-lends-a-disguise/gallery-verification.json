@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-11-18T18:20:08.785530+00:00",
+  "finishedImage": {
+    "width": 900,
+    "height": 620,
+    "complete": true
+  },
+  "guidedReplay": {
+    "speed": 4,
+    "openingNote": true,
+    "brushTray": true,
+    "pausedMark": 12,
+    "heldAcrossCalls": true,
+    "resumeMark": 13,
+    "returnToFinished": true
+  },
+  "expandedNotes": 18,
+  "phone": {
+    "width": 390,
+    "scrollWidth": 390,
+    "dialogWidth": 352,
+    "loadedImage": true
+  },
+  "browserLimitations": "CDP pause click timed out but fresh accessibility state confirmed Continue at12; focused Enter resumed and View finished returned. First phone screenshot preceded image load; loaded image dimensions checked and screenshot retaken."
+}
