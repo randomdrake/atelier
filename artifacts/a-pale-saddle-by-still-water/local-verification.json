@@ -1,0 +1,14 @@
+{
+  "base": "http://127.0.0.1:5174",
+  "paintings": 185,
+  "replaysVerified": 185,
+  "studies": 182,
+  "downloadHeads": 7,
+  "allDownloadHeadBodiesEmpty": true,
+  "newPNGBytes": 844726,
+  "newPNGSHA256": "2c068199637dda5929e422615ebe18662a6de30ce396da875a4ebcd39f791283",
+  "title": "A pale saddle by still water",
+  "marks": 76,
+  "moments": 57,
+  "verifiedAt": "2026-11-18T22:25:01.740Z"
+}

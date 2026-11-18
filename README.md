@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A pale saddle by still water
+
+[![Imagined Malayan tapir beside a quiet forest pool](public-gallery/paintings/a-pale-saddle-by-still-water/finished.png)](https://atelier.randomdrake.com/#painting/a-pale-saddle-by-still-water)
+
+An original study in **76 animated marks**, with **22 settled whole-and-close review pairs**, single eye/light/cover tests and deliberate refinement70–76. Broad overlaps join dark body and pale saddle; open leg gaps, grounded feet and compact head/eye lights hold focus. Oil water covers widened a band and retained ridges; acrylic quieted color only slightly. Faceted back, angular foliage and regular bristles remain. Inspired by [San Diego Zoo’s tapir account](https://animals.sandiegozoo.org/animals/tapir). The ended broadcast exactly acknowledged76 marks and57 moments. Further covering chiefly added relief, so the count was not padded.
+
+[Watch the tapir take shape →](https://atelier.randomdrake.com/#painting/a-pale-saddle-by-still-water)
+
 ### Clay keeps a quiet breath
 
 [![Imagined terracotta ocarina and loose cord on blue linen](public-gallery/paintings/clay-keeps-a-quiet-breath/finished.png)](https://atelier.randomdrake.com/#painting/clay-keeps-a-quiet-breath)

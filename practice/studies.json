@@ -21358,5 +21358,114 @@
     "source": "Agent observations from20 retained settled whole/close pairs, lower/right49, upper68 and actual exportedPNG. Exact ended68-mark61-moment broadcast matched raw export. Human judgment not supplied.",
     "humanRating": null
   }
+},
+{
+  "id": "a-pale-saddle-by-still-water",
+  "title": "A pale saddle by still water",
+  "date": "2026-11-18",
+  "session": "examples/a-pale-saddle-by-still-water.json",
+  "finishedImage": "examples/previews/a-pale-saddle-by-still-water.png",
+  "media": [
+    "watercolor",
+    "oil",
+    "acrylic"
+  ],
+  "goal": "Connect dark body planes while preserving the pale saddle and open leg gaps, with one compact head light.",
+  "inspiration": {
+    "description": "Original imagined Malayan tapir at a quiet forest pool, sparked by San Diego Zoo\u2019s tapir account; no finished composition copied. Full journal/catalogue search found no tapir or prior use of this source. Kingfisher considered and rejected after archive search found prior studies.",
+    "url": "https://animals.sandiegozoo.org/animals/tapir"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Overlapping bridge washes closed pale seams; quiet horizontal bands remain."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Three broad dark overlaps made a filled torso without a hollow center."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Two more loaded saddle planes read brighter than the first grey trial but left a central join. Parameters changed together, preventing controlled comparison."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Broad crossing25 reduced the saddle split while retaining raised relief. Cheek plane read as a stripe and was broadened29."
+    },
+    {
+      "afterStroke": 33,
+      "text": "Single tiny eye reflection survived whole view. Rightward close45 confirmed dark eye, compact reflection and clear ear centers."
+    },
+    {
+      "afterStroke": 57,
+      "text": "Oil foot contacts54\u201355 read more clearly than faint watercolor shadows; the near feet gained weight. Leaf lights remained subordinate."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Sparse sampled grasses and small tail kept bank air open; curves remain angular."
+    },
+    {
+      "afterStroke": 76,
+      "text": "Final refinement70\u201376 retained connected body, pale saddle, open leg gaps and compact head light74. Oil covers70/75 widened the strong water band and retained ridges; acrylic76 quieted its color only slightly. Faceted back, angular foliage, regular bristles and raised joins remain. Further covers chiefly build relief, so stopped76 without padding."
+    }
+  ],
+  "evidence": [
+    "artifacts/a-pale-saddle-by-still-water/004-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/004-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/008-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/008-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/012-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/012-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/016-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/016-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/020-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/020-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/024-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/024-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/028-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/028-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/032-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/032-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/033-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/033-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/037-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/037-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/041-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/041-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/045-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/045-head.jpg",
+    "artifacts/a-pale-saddle-by-still-water/045-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/049-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/049-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/053-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/053-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/057-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/057-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/061-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/061-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/065-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/065-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/069-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/069-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/073-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/073-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/074-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/074-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/075-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/075-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/076-close.jpg",
+    "artifacts/a-pale-saddle-by-still-water/076-head.jpg",
+    "artifacts/a-pale-saddle-by-still-water/076-lower.jpg",
+    "artifacts/a-pale-saddle-by-still-water/076-whole.jpg",
+    "artifacts/a-pale-saddle-by-still-water/live-receipt.json",
+    "examples/previews/a-pale-saddle-by-still-water.png"
+  ],
+  "engineRevision": "9b145ad76658b48682eaa6f02686e0c67bc9a8c3",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "At fixed renderer/palette, compare matched oil and acrylic covers on separate small water swatches before correcting a composition. Judge color, width and relief independently; compare one broad saddle crossing against two adjacent planes. Fresh subject/source next.",
+  "assessment": {
+    "source": "Agent observations from22 retained settled whole/close pairs, head45 and lower/head76, plus actual browserPNG. Ended76-mark57-moment feed exactly matched raw export. Human judgment not supplied.",
+    "humanRating": null
+  }
 }
 ]

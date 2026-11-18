@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "tests": 111,
+    "syntax": "passed",
+    "actualFinishedImage": "900x620PNG complete",
+    "gallery": "76 marks;57 moments;16 easel notes expanded;guided opening and recorded brush tray",
+    "pause": "mark4 held;second pause mark6 held",
+    "resume": "mark6 advanced to7",
+    "returnToFinished": "passed",
+    "phone": {
+      "viewport": 390,
+      "documentWidth": 390,
+      "dialogWidth": 352,
+      "imageLoaded": true
+    },
+    "fullWorkerBuild": "passed;185 paintings;182 journal entries;expanded deployment TAR153272320bytes;privacy and source-download verification passed",
+    "servedWorker": "185 exact replays/catalogue/journal;new optimized PNG844726bytes SHA2562c068199637dda5929e422615ebe18662a6de30ce396da875a4ebcd39f791283;7 download HEAD responses200 and empty bodies"
+  },
+  "observedLimits": "Water covers widened a ridged band; no renderer changes. Browser camera transition recoveries documented in creation metadata.",
+  "checkedAt": "2026-11-18T22:17:00Z"
+}
