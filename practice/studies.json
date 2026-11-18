@@ -21148,4 +21148,106 @@
     "humanRating": null
   }
 }
+,
+{
+  "id": "the-harbor-keeps-its-weight",
+  "title": "The harbor keeps its weight",
+  "date": "2026-11-18",
+  "session": "examples/the-harbor-keeps-its-weight.json",
+  "finishedImage": "examples/previews/the-harbor-keeps-its-weight.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Keep the wheel recess and hook opening clear while connecting warm wooden planes with longer gestures.",
+  "inspiration": {
+    "description": "An imagined wooden cargo pulley with iron hook and two unequal rope curls against blue plaster. Sparked by London Museum wooden single-sheave cargo block account; interpreted into an original composition. Full journal/catalog search found no pulley study. No museum image copied.",
+    "url": "https://www.londonmuseum.org.uk/collections/v/object-271938/block-single-pulley-block/"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Bridge washes filled pale seams, retaining soft horizontal bands."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad crossing13 closed an accidental blue slit. Warm upper/left planes separated from the shaded right side."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Narrow dark pass17 established the intentional slot. The hook preserved blue air; long straps framed the warm face."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Broader light33 intruded into upper slot; dark restoration37 reconnected it. Fasteners stayed unequal."
+    },
+    {
+      "afterStroke": 45,
+      "text": "A single sampled iron reflection read at whole view without closing the hook opening."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Sampled rope overlays softened two elbows but retained a faceted coil and raised joins."
+    },
+    {
+      "afterStroke": 61,
+      "text": "Connected lower iron turn, short wood light and separate iron glint held focus. Regular bristle ridges remain simulator texture."
+    },
+    {
+      "afterStroke": 70,
+      "text": "Final refinement62–70 kept rope fibers subordinate and quieted a detached collar glint. Last cover added a raised patch. Connected warm planes, dark slot and open hook remain; faceted crown, angular curls, wash bands and regular bristles remain. More marks would repeat texture, so stopped at70."
+    }
+  ],
+  "evidence": [
+    "artifacts/the-harbor-keeps-its-weight/004-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/008-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/008-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/012-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/012-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/016-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/016-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/020-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/020-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/024-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/024-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/028-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/028-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/032-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/032-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/036-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/036-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/040-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/040-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/044-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/044-upper.jpg",
+    "artifacts/the-harbor-keeps-its-weight/044-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/045-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/045-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/049-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/049-lower.jpg",
+    "artifacts/the-harbor-keeps-its-weight/049-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/053-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/053-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/057-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/057-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/061-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/061-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/065-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/065-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/069-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/069-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/070-close.jpg",
+    "artifacts/the-harbor-keeps-its-weight/070-upper.jpg",
+    "artifacts/the-harbor-keeps-its-weight/070-whole.jpg",
+    "artifacts/the-harbor-keeps-its-weight/live-receipt.json",
+    "examples/previews/the-harbor-keeps-its-weight.png"
+  ],
+  "engineRevision": "32e06e46106bfd29066cbe1b8a48ed6de1b5956e",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "At fixed palette and renderer, compare six-point and ten-point rope curls with equal size/pressure, judging silhouette corners separately from raised joins. Establish connected planes before recesses. Use a fresh subject/source next.",
+  "assessment": {
+    "source": "Agent observations from19 review boundaries,18 retained settled whole/close pairs, upper44/70/lower49 and actual exportedPNG. Exact ended70-mark52-moment feed acknowledged. Human judgment not supplied.",
+    "humanRating": null
+  }
+}
 ]

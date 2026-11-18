@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-11-18T20:15:29.966Z",
+  "finishedImage": {
+    "naturalWidth": 900,
+    "naturalHeight": 620,
+    "loaded": true
+  },
+  "title": "The harbor keeps its weight",
+  "marks": 70,
+  "moments": 52,
+  "writtenNotes": 15,
+  "guidedReplaySpeed": 4,
+  "brushTray": true,
+  "pause": {
+    "held": "Mark4 of70",
+    "unchangedAfter1300ms": true
+  },
+  "continue": {
+    "advancedTo": "Mark7 of70"
+  },
+  "returnToFinished": true,
+  "notesExpanded": true,
+  "viewerError": "",
+  "phone": {
+    "viewportWidth": 390,
+    "documentWidth": 390,
+    "dialogWidth": 352,
+    "imageLoaded": true
+  },
+  "priorJournalEntriesPreserved": 179,
+  "priorCatalogueEntriesPreserved": 182
+}

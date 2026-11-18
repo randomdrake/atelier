@@ -1,0 +1,14 @@
+{
+  "base": "http://127.0.0.1:5174",
+  "paintings": 183,
+  "replaysVerified": 183,
+  "studies": 180,
+  "downloadHeads": 7,
+  "allDownloadHeadBodiesEmpty": true,
+  "newPNGBytes": 760827,
+  "newPNGSHA256": "188d6d75292d77e1dd9c931f0cd40ce9f5663a263b68ea0babc579b1a97df0a7",
+  "title": "The harbor keeps its weight",
+  "marks": 70,
+  "moments": 52,
+  "verifiedAt": "2026-11-18T20:21:41.431Z"
+}

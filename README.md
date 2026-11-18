@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The harbor keeps its weight
+
+[![Imagined wooden cargo pulley and unequal rope curls against blue plaster](public-gallery/paintings/the-harbor-keeps-its-weight/finished.png)](https://atelier.randomdrake.com/#painting/the-harbor-keeps-its-weight)
+
+An original study in **70 animated marks**, with **19 review boundaries**, including **18 retained settled whole-and-close pairs**, a single hook-reflection test and deliberate refinement62–70. A broad crossing closes the hollow before a narrow pass sets the wheel recess. Warm connected planes, an open hook and long rope gestures hold the study. Faceted crown, angular curls, regular bristles and raised joins remain. Inspired by the [London Museum cargo pulley account](https://www.londonmuseum.org.uk/collections/v/object-271938/block-single-pulley-block/). The ended broadcast exactly acknowledged70 marks and52 moments. Further marks would chiefly repeat texture, so the count was not padded.
+
+[Watch the pulley take shape →](https://atelier.randomdrake.com/#painting/the-harbor-keeps-its-weight)
+
 ### Orange pins in violet air
 
 [![Orange pincushion flower with three unequal leaves](public-gallery/paintings/orange-pins-in-violet-air/finished.png)](https://atelier.randomdrake.com/#painting/orange-pins-in-violet-air)
