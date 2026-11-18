@@ -20788,5 +20788,125 @@
     "source": "Agent observations from22 settled paired review boundaries, single shoulder57, upper40, actual exportedPNG and exact ended feed. 13 live notes; control/framing recoveries recorded in creation metadata.",
     "humanRating": null
   }
+},
+{
+  "id": "the-marsh-holds-its-breath",
+  "title": "The marsh holds its breath",
+  "date": "2026-11-18",
+  "session": "examples/the-marsh-holds-its-breath.json",
+  "finishedImage": "examples/previews/the-marsh-holds-its-breath.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join grey head and breast with broad curved planes, preserve green leg gaps, and keep the pale bill as the focal area.",
+  "inspiration": {
+    "title": "San Diego Zoo \u2014 Shoebill",
+    "url": "https://animals.sandiegozoo.org/animals/shoebill",
+    "interpretation": "Original imagined shoebill standing in green shallows among unequal reeds. Archive search found no shoebill or Balaeniceps study; horseshoe crab rejected as repeated. Search result provided the species inspiration; direct web fetch returned403. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Overlapping washes closed pale horizontal seams while retaining soft bands."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad interior planes filled hollow head and body forms."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Lighter breast and pale bill separated from the darker wing."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Pale head plane lifted the face; first bill remained rounded."
+    },
+    {
+      "afterStroke": 34,
+      "text": "Tiny amber33 was faint at whole view; short loaded34 made the eye clearer. Not a controlled material comparison."
+    },
+    {
+      "afterStroke": 38,
+      "text": "Hooked bill tip, dark seam, amber eye and separate toes read at whole view."
+    },
+    {
+      "afterStroke": 54,
+      "text": "Soft shadows and broken ripples grounded the feet."
+    },
+    {
+      "afterStroke": 62,
+      "text": "Unequal wing planes changed color and added relief; overall silhouette changed little."
+    },
+    {
+      "afterStroke": 78,
+      "text": "Brow cover reduced the heavy bar but left a detached outer dot."
+    },
+    {
+      "afterStroke": 83,
+      "text": "Thin lid79 reconnected the brow; compact light83 remained restrained. Refinement75\u201383 kept leg gaps and quiet water. Rounded bill, angular reeds, regular bristles and raised breast joins remain; further covers would mainly add relief."
+    }
+  ],
+  "evidence": [
+    "artifacts/the-marsh-holds-its-breath/004-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/004-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/008-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/008-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/012-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/012-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/016-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/016-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/020-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/020-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/024-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/024-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/028-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/028-upper.jpg",
+    "artifacts/the-marsh-holds-its-breath/028-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/032-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/032-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/033-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/033-upper.jpg",
+    "artifacts/the-marsh-holds-its-breath/033-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/034-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/034-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/038-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/038-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/042-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/042-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/046-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/046-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/050-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/050-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/054-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/054-lower.jpg",
+    "artifacts/the-marsh-holds-its-breath/054-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/058-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/058-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/062-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/062-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/066-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/066-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/070-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/070-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/074-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/074-upper.jpg",
+    "artifacts/the-marsh-holds-its-breath/074-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/078-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/078-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/082-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/082-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/083-close.jpg",
+    "artifacts/the-marsh-holds-its-breath/083-whole.jpg",
+    "artifacts/the-marsh-holds-its-breath/live-receipt.json",
+    "examples/previews/the-marsh-holds-its-breath.png"
+  ],
+  "engineRevision": "d1416ba8a3fdc8cbf6dbedb1da61fac60128bff3",
+  "model": "GPT-6, precise variant unavailable",
+  "nextExperiment": "At fixed renderer and palette, compare early filled curved grey planes with late contour repairs. Judge silhouette and added relief separately. Test a short bill-plane light before a thin eye lid on a fresh subject.",
+  "assessment": {
+    "source": "Agent observations from23 retained settled whole-and-close pairs, auxiliary face/lower pans, actual exportedPNG and exact ended83-mark47-moment feed.16 notes written live. Human judgment not supplied.",
+    "humanRating": null
+  }
 }
 ]

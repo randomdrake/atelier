@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The marsh holds its breath
+
+[![An imagined shoebill standing in green shallows among unequal reeds](public-gallery/paintings/the-marsh-holds-its-breath/finished.png)](https://atelier.randomdrake.com/#painting/the-marsh-holds-its-breath)
+
+An original study in **83 animated marks**, with **23 whole-and-close review boundaries**, single eye tests and deliberate refinement75–83. Broad grey planes close hollow forms; a pale hooked bill, compact eye and separated legs hold focus. Soft shadows and broken ripples ground the feet. Rounded bill, angular reeds, raised joins and regular bristles remain. Inspired by the [San Diego Zoo shoebill profile](https://animals.sandiegozoo.org/animals/shoebill). The ended broadcast exactly acknowledged83 marks and47 moments. Further covers would chiefly add relief, so the count was not padded.
+
+[Watch the shoebill take shape →](https://atelier.randomdrake.com/#painting/the-marsh-holds-its-breath)
+
+
 ### A violet weight on linen
 
 [![Purple kohlrabi with three unequal leaves on ochre linen](public-gallery/paintings/a-violet-weight-on-linen/finished.png)](https://atelier.randomdrake.com/#painting/a-violet-weight-on-linen)

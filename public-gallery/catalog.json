@@ -1,5 +1,23 @@
 [
 {
+  "id": "the-marsh-holds-its-breath",
+  "title": "The marsh holds its breath",
+  "description": "An imagined shoebill standing in green shallows among unequal reeds. A pale hooked bill, grey folded plumage and long separate legs.",
+  "process": "83 animated watercolor/oil marks chosen in1\u20134-stroke batches after23 settled paired whole/2x screenshots, single eye tests and refinement75\u201383;16 live notes and47 replay moments. Broad planes closed hollow forms; sparse shadows and ripples ground the feet. Rounded bill, angular reeds, regular bristles and raised joins remain. Exact ended broadcast acknowledged all83 marks. Engine unchanged; source and evidence limitations in creation metadata.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 83,
+  "moments": 47,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/the-marsh-holds-its-breath/session.json",
+  "image": "/paintings/the-marsh-holds-its-breath/finished.png",
+  "addedAt": "2026-11-18T17:13:12.831Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-18"
+},
+{
   "id": "a-violet-weight-on-linen",
   "title": "A violet weight on linen",
   "description": "An imagined purple kohlrabi with three unequal green leaves, stalk scars and sparse root fibers on pale ochre linen.",
