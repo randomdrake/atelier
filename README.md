@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Orange pins in violet air
+
+[![Orange pincushion flower with three unequal leaves](public-gallery/paintings/orange-pins-in-violet-air/finished.png)](https://atelier.randomdrake.com/#painting/orange-pins-in-violet-air)
+
+An original study in **112 animated marks**, with **30 review boundaries**, including **29 settled whole-and-close pairs**, single tip/light tests and deliberate refinement93–112. A broad crossing fills the center; unequal curved styles preserve violet air. One compact upper light holds focus above quiet leaf planes. Angular curves, cup-shaped head and regular bristles remain. Inspired by [Kew’s pincushion account](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:705005-1/general-information). The ended broadcast exactly acknowledged112 marks and76 moments.
+
+[Watch the pincushion take shape →](https://atelier.randomdrake.com/#painting/orange-pins-in-violet-air)
+
+
 ### The sand lends a disguise
 
 [![Imagined amber cuttlefish hovering above pale sand](public-gallery/paintings/the-sand-lends-a-disguise/finished.png)](https://atelier.randomdrake.com/#painting/the-sand-lends-a-disguise)

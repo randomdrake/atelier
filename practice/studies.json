@@ -21021,5 +21021,131 @@
     "source": "Agent observations from20 retained settled whole/2x pairs,22 review boundaries, single pupil/reflection33/34, auxiliary lower70, actual PNG and exact ended82-mark65-moment feed.18 live notes. Human judgment not supplied.",
     "humanRating": null
   }
+},
+{
+  "id": "orange-pins-in-violet-air",
+  "title": "Orange pins in violet air",
+  "date": "2026-11-18",
+  "session": "examples/orange-pins-in-violet-air.json",
+  "finishedImage": "examples/previews/orange-pins-in-violet-air.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Preserve open gaps between curved flower styles while building a solid shaded center.",
+  "inspiration": {
+    "description": "Imagined orange Leucospermum cordifolium with three unequal leaves in violet air. Full archive search found no protea, pincushion or Leucospermum match. SANBI search excerpt sparked idea; full page returned403, so Kew accepted taxon/common-name account was read. No finished composition copied.",
+    "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:705005-1/general-information"
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Overlapping washes closed pale horizontal seams, retaining soft bands."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Broad crossing17 filled the hollow lower center. Leaf planes broadened without closing violet stem gaps."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Denser sampled styles still show angular elbows, but unequal lengths retain open air."
+    },
+    {
+      "afterStroke": 53,
+      "text": "Single swollen terminal reads at whole view; upper camera confirmed it follows the style end."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Calyx joined the head, but stem light sat beside dark stalk."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Wider middle green joined detached stem light, leaving a blunt lower end."
+    },
+    {
+      "afterStroke": 84,
+      "text": "Small recessed intervals and lower-facing curls gave the front more depth without widening outer silhouette."
+    },
+    {
+      "afterStroke": 104,
+      "text": "Warm rim interruptions changed color more than shape and added relief."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Final refinement quieted leaf/tip neighbors and kept one compact upper light. Solid center, open style gaps and unequal leaves remain. Cup-shaped head, angular curves, wash bands, regular bristles and raised joins remain; stopped because more covers chiefly thicken them."
+    }
+  ],
+  "evidence": [
+    "artifacts/orange-pins-in-violet-air/004-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/008-close.jpg",
+    "artifacts/orange-pins-in-violet-air/008-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/012-close.jpg",
+    "artifacts/orange-pins-in-violet-air/012-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/016-close.jpg",
+    "artifacts/orange-pins-in-violet-air/016-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/020-close.jpg",
+    "artifacts/orange-pins-in-violet-air/020-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/024-close.jpg",
+    "artifacts/orange-pins-in-violet-air/024-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/028-close.jpg",
+    "artifacts/orange-pins-in-violet-air/028-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/032-close.jpg",
+    "artifacts/orange-pins-in-violet-air/032-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/036-close.jpg",
+    "artifacts/orange-pins-in-violet-air/036-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/040-close.jpg",
+    "artifacts/orange-pins-in-violet-air/040-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/044-close.jpg",
+    "artifacts/orange-pins-in-violet-air/044-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/048-close.jpg",
+    "artifacts/orange-pins-in-violet-air/048-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/052-close.jpg",
+    "artifacts/orange-pins-in-violet-air/052-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/053-close.jpg",
+    "artifacts/orange-pins-in-violet-air/053-upper.jpg",
+    "artifacts/orange-pins-in-violet-air/053-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/056-close.jpg",
+    "artifacts/orange-pins-in-violet-air/056-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/060-close.jpg",
+    "artifacts/orange-pins-in-violet-air/060-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/064-close.jpg",
+    "artifacts/orange-pins-in-violet-air/064-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/068-close.jpg",
+    "artifacts/orange-pins-in-violet-air/068-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/072-close.jpg",
+    "artifacts/orange-pins-in-violet-air/072-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/076-close.jpg",
+    "artifacts/orange-pins-in-violet-air/076-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/080-close.jpg",
+    "artifacts/orange-pins-in-violet-air/080-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/084-close.jpg",
+    "artifacts/orange-pins-in-violet-air/084-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/088-close.jpg",
+    "artifacts/orange-pins-in-violet-air/088-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/092-close.jpg",
+    "artifacts/orange-pins-in-violet-air/092-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/096-close.jpg",
+    "artifacts/orange-pins-in-violet-air/096-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/100-close.jpg",
+    "artifacts/orange-pins-in-violet-air/100-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/104-close.jpg",
+    "artifacts/orange-pins-in-violet-air/104-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/108-close.jpg",
+    "artifacts/orange-pins-in-violet-air/108-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/109-close.jpg",
+    "artifacts/orange-pins-in-violet-air/109-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/112-close.jpg",
+    "artifacts/orange-pins-in-violet-air/112-upper.jpg",
+    "artifacts/orange-pins-in-violet-air/112-whole.jpg",
+    "artifacts/orange-pins-in-violet-air/live-receipt.json",
+    "examples/previews/orange-pins-in-violet-air.png"
+  ],
+  "engineRevision": "efe1fca7254e43c17f7bdd8d939ec65ef4a89561",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "At fixed palette and renderer, compare5-point and9-point curved styles at same size and pressure. Judge elbows separately from regular bristle relief. Build an irregular center early; use a fresh subject/source next.",
+  "assessment": {
+    "source": "Agent observations from30 review boundaries,29 retained settled whole/close pairs, single tip53/light109, upper53/112 and actual exportedPNG; exact ended112-mark76-moment feed. Human judgment not supplied.",
+    "humanRating": null
+  }
 }
 ]

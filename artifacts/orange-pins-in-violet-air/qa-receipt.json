@@ -1,0 +1,27 @@
+{
+  "finishedImage": {
+    "width": 900,
+    "height": 620,
+    "loaded": true
+  },
+  "guidedReplay": {
+    "speed": 4,
+    "openingNote": true,
+    "brushTray": true,
+    "pausedAt": 4,
+    "heldAt": 4,
+    "resumedTo": 6,
+    "returnedToFinished": true
+  },
+  "expandedNotes": true,
+  "phone": {
+    "viewport": 390,
+    "documentWidth": 390,
+    "dialogWidth": 352,
+    "finishedImageLoaded": true,
+    "titleAndWholeImageScreenshot": "artifacts/orange-pins-in-violet-air/qa-phone-top.jpg"
+  },
+  "tests": 111,
+  "syntax": true,
+  "writtenLiveNotes": 18
+}
