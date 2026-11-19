@@ -1,0 +1,60 @@
+{
+  "status": "ended",
+  "live": false,
+  "sessionId": "ac41e774-c027-439b-b7eb-1ff5ab92c647",
+  "sequence": 156,
+  "receivedAt": 1795126201554,
+  "marks": 75,
+  "moments": 69,
+  "rawDocumentMatchesExport": true,
+  "originalTitle": "An open possibility",
+  "pngSha256": "b34320c8e1769b6191a454761f77869835a388883b84ea562e4a3b65d385cb02",
+  "pngBytes": 1215912,
+  "creation": {
+    "method": "Original browser-painted study in animated 1\u20134-stroke adaptive batches using the visible stroke-score controls. No image generation or prewritten complete score.",
+    "inspectionBoundaries": [
+      4,
+      8,
+      12,
+      16,
+      20,
+      24,
+      28,
+      32,
+      36,
+      40,
+      44,
+      45,
+      46,
+      50,
+      54,
+      58,
+      62,
+      66,
+      70,
+      74,
+      75
+    ],
+    "inspectionCount": 21,
+    "finalReview": "Repeated whole-and-close pair at75 after the closing note; upper75 and lower66 focus screenshots.",
+    "notes": "All easel notes written during painting, including opening goal and final assessment.",
+    "broadcast": {
+      "confirmedLiveBeforeOpening": true,
+      "endedAcknowledged": true,
+      "completedStrokes": 75,
+      "moments": 69,
+      "sessionId": "ac41e774-c027-439b-b7eb-1ff5ab92c647",
+      "sequence": 156
+    },
+    "engineRevision": "dd8d07daec3046b43e4fdcb615762213e01182fd",
+    "engineChanges": false,
+    "limitations": [
+      "Initial whole-camera click at4 timed out; fresh DOM and keyboard activation recovered before5. Camera transitions at24/28 were checked again before further painting. One guard mistook the active attribute for an unsettled camera; corrected and repeated paired review.",
+      "Default close crop clips outer wing tips and the final tail. Lower66 confirms tail root and shadow but clips grass and far tail; all are visible in whole view and actual PNG. Upper75 reviews snout and eye.",
+      "At12 the tool response was accidentally serialized; the saved whole and close images were immediately opened and visually inspected before13.",
+      "An unsupported note kind at66 failed before sharing; corrected to the visible notice option before further marks.",
+      "PNG exported before end; final JSON exported after end. Title assigned after export; ended public replay matches raw untitled browser export exactly.",
+      "Regular bristle ridges, wash bands, faceted disc and angular outer tail remain. Stopped at75 because more pattern would crowd the disc and more tracing would thicken the tail; count not padded toward112."
+    ]
+  }
+}

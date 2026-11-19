@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Wings borrow the shallows
+
+[![Spotted eagle ray hovering over pale sand](public-gallery/paintings/wings-borrow-the-shallows/finished.png)](https://atelier.randomdrake.com/#painting/wings-borrow-the-shallows)
+
+An original study in **75 animated marks**, with **21 distinct whole-and-close review boundaries**, single light tests and deliberate refinement67–75. Broad crossings join the disc; unequal spots, open tail water and compact snout/eye lights hold focus. Broader loaded light reads as a plane where the narrow trial reads as a scratch; layered paint prevents a controlled comparison. Regular bristles, angular outer tail and wash bands remain. Inspired by the [Florida Museum eagle ray account](https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/spotted-eagle-ray/). The ended broadcast exactly acknowledged75 marks and69 moments. Further pattern and tracing would crowd or thicken, so the count was not padded.
+
+[Watch the ray take shape →](https://atelier.randomdrake.com/#painting/wings-borrow-the-shallows)
+
 ### Bells in the green hush
 
 [![Two hanging scarlet-and-violet fuchsia flowers](public-gallery/paintings/bells-in-the-green-hush/finished.png)](https://atelier.randomdrake.com/#painting/bells-in-the-green-hush)

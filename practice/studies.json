@@ -22284,5 +22284,176 @@
     "source": "Agent observations from31 whole-and-close review boundaries, corrected camera framing, lower52/112 and upper74/112, plus actual exported PNG. Ended112-mark86-moment raw replay matches export. Camera/control limitations recorded in creation metadata.",
     "humanRating": null
   }
+},
+{
+  "id": "wings-borrow-the-shallows",
+  "title": "Wings borrow the shallows",
+  "date": "2026-11-19",
+  "session": "examples/wings-borrow-the-shallows.json",
+  "finishedImage": "examples/previews/wings-borrow-the-shallows.png",
+  "media": [
+    "watercolor",
+    "oil",
+    "acrylic"
+  ],
+  "goal": "Join broad wing silhouettes without hollow roots; reserve open water beside the tail; keep compact snout and eye lights visible at whole view.",
+  "inspiration": {
+    "title": "Florida Museum \u2014 Spotted Eagle Ray",
+    "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/spotted-eagle-ray/",
+    "interpretation": "Original imagined spotted ray above pale sand with a low shadow, broken ripples and three unequal grass blades. Archive/source search found no prior eagle ray study; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 0,
+      "text": "I am painting an imagined spotted eagle ray above pale sand, inspired by the Florida Museum species account: https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/spotted-eagle-ray/ . Goal: joined broad wings, open water beside the tail, and compact loaded lights that survive the whole view. The AI agent paints; randomdrake hosts this laptop."
+    },
+    {
+      "afterStroke": 4,
+      "text": "Four washes leave pale horizontal channels. I will overlap them before placing the ray so the water reads as one field."
+    },
+    {
+      "afterStroke": 8,
+      "text": "The field now joins, though soft wash bands remain. A low-contrast shadow below the future wings will separate the animal from the sand."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The first wing gestures join at the spine but remain too narrow at their roots. Broad diagonal crossings will fill the disc while retaining the pointed tips."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The silhouette reads, but a bright pinhole breaks the right root. One crossing closes it; then I will carry a slender tail through clear water."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The pinhole is closed and the tail has water on both sides. The dark disc is flat; muted blue-grey planes can turn the wings without tracing their entire edges."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Muted passes changed color but the bristle ridges stay regular. I will strengthen a shorter shoulder plane and separate the two eyes from the snout."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Two dark eyes anchor the snout. The short shoulder plane separates from the wing; I will distribute unequal pale spots along the left shoulder, leaving dark intervals."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The spots read at whole view, but the first four drift toward a tidy row. Offset sizes and heights will break that rhythm on the other wing."
+    },
+    {
+      "afterStroke": 36,
+      "text": "The outer spots remain small against a broad dark disc. A few interior marks at varied intervals will describe the surface without lining every edge."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Interior spots create a turn toward the tail. The right inner wing is quieter, so I will add a looser cluster there, then test the head highlight alone."
+    },
+    {
+      "afterStroke": 44,
+      "text": "The head needs a focal light stronger than the spot pattern. I will try one short 8px loaded oil stroke first and inspect its actual visibility."
+    },
+    {
+      "afterStroke": 45,
+      "text": "The 8px light is visible but reads as a narrow scratch. A 15px loaded stroke beside it will test a broader plane with the same pigment and load; this is layered paint, not a controlled calibration."
+    },
+    {
+      "afterStroke": 46,
+      "text": "The broader light reads as a small snout plane at whole view. I will keep it and add only tiny eye reflections, plus two subdued flank turns."
+    },
+    {
+      "afterStroke": 50,
+      "text": "Tiny eye reflections barely register at whole view; the snout plane carries focus. Four off-axis spots will loosen the symmetry before I leave the animal quiet."
+    },
+    {
+      "afterStroke": 54,
+      "text": "The ray now has enough pattern. Sparse broken sand ripples will give the lower space scale while leaving the tail unobstructed."
+    },
+    {
+      "afterStroke": 58,
+      "text": "The ripples stay low contrast. A few soft olive seagrass gestures in the lower left will counter the tail without enclosing it."
+    },
+    {
+      "afterStroke": 62,
+      "text": "The grass reads as thin wires. Broader tapered ribbons can give three blades a face while leaving the gaps."
+    },
+    {
+      "afterStroke": 66,
+      "text": "The broader grass faces are visible and the base shadow is soft. This lower review checks the long tail and grass outside the middle crop before refinement."
+    },
+    {
+      "afterStroke": 66,
+      "text": "Lower focus confirms the tail root and shadow; its centered crop clips the outer tail tip and left grass, which remain visible whole. I will refine four selected wing turns rather than outline the disc."
+    },
+    {
+      "afterStroke": 70,
+      "text": "Refinement67\u201370 strengthens the shoulder and wing bends, but the long tail still has angular joins. I will try a closely sampled short tail segment and keep the taper."
+    },
+    {
+      "afterStroke": 74,
+      "text": "The tail correction softens one join without closing its water gaps. The eye reflection now reads. I will make one small edge-light test before the final review."
+    },
+    {
+      "afterStroke": 75,
+      "text": "The head-edge test gives a muted plane rather than a sharp outline. Upper review checks the snout and eye before deciding whether any further paint helps."
+    },
+    {
+      "afterStroke": 75,
+      "text": "Finished at75 completed marks after deliberate refinement67\u201375. Broad crossings closed the root hole; open tail water, unequal spots and compact snout/eye lights survive whole view. The15px light reads as a plane where8px reads as a scratch; layered paint prevents a controlled comparison. Regular bristles, angular outer tail and wash bands remain. More pattern or tracing would chiefly crowd or thicken, so I am stopping without padding."
+    }
+  ],
+  "evidence": [
+    "artifacts/wings-borrow-the-shallows/004-close.jpg",
+    "artifacts/wings-borrow-the-shallows/004-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/008-close.jpg",
+    "artifacts/wings-borrow-the-shallows/008-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/012-close.jpg",
+    "artifacts/wings-borrow-the-shallows/012-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/016-close.jpg",
+    "artifacts/wings-borrow-the-shallows/016-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/020-close.jpg",
+    "artifacts/wings-borrow-the-shallows/020-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/024-close.jpg",
+    "artifacts/wings-borrow-the-shallows/024-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/028-close.jpg",
+    "artifacts/wings-borrow-the-shallows/028-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/032-close.jpg",
+    "artifacts/wings-borrow-the-shallows/032-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/036-close.jpg",
+    "artifacts/wings-borrow-the-shallows/036-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/040-close.jpg",
+    "artifacts/wings-borrow-the-shallows/040-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/044-close.jpg",
+    "artifacts/wings-borrow-the-shallows/044-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/045-close.jpg",
+    "artifacts/wings-borrow-the-shallows/045-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/046-close.jpg",
+    "artifacts/wings-borrow-the-shallows/046-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/050-close.jpg",
+    "artifacts/wings-borrow-the-shallows/050-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/054-close.jpg",
+    "artifacts/wings-borrow-the-shallows/054-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/058-close.jpg",
+    "artifacts/wings-borrow-the-shallows/058-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/062-close.jpg",
+    "artifacts/wings-borrow-the-shallows/062-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/066-close.jpg",
+    "artifacts/wings-borrow-the-shallows/066-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/070-close.jpg",
+    "artifacts/wings-borrow-the-shallows/070-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/074-close.jpg",
+    "artifacts/wings-borrow-the-shallows/074-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/075-close.jpg",
+    "artifacts/wings-borrow-the-shallows/075-whole.jpg",
+    "artifacts/wings-borrow-the-shallows/66-lower.jpg",
+    "artifacts/wings-borrow-the-shallows/75-upper.jpg",
+    "artifacts/wings-borrow-the-shallows/live-receipt.json",
+    "examples/previews/wings-borrow-the-shallows.png"
+  ],
+  "engineRevision": "dd8d07daec3046b43e4fdcb615762213e01182fd",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-renderer/palette 8px versus15px loaded light swatches on fresh and painted oil, all other parameters held fixed; compare color and relief separately. Test sampled curved paths versus sparse joins with equal endpoints. Choose a fresh subject and source.",
+  "assessment": {
+    "source": "Agent observations from21 distinct settled whole-and-close review boundaries, repeated final pair, upper75 and partial lower66 camera reviews and actual900x620PNG. Full75-mark69-moment ended public document matches raw browser replay.",
+    "humanRating": null
+  }
 }
 ]

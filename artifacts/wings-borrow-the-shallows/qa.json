@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-11-19T22:13:04.983945+00:00",
+  "tests": {
+    "passed": 111,
+    "failed": 0,
+    "syntax": "passed",
+    "diffWhitespace": "passed"
+  },
+  "gallery": {
+    "finishedImage": {
+      "width": 900,
+      "height": 620,
+      "complete": true
+    },
+    "title": "Wings borrow the shallows",
+    "marks": 75,
+    "moments": 69,
+    "writtenNotesExpanded": 24,
+    "guidedReplay": "4x opening note and recorded brush settings inspected; playing reached mark2",
+    "pause": {
+      "before": 4,
+      "afterWait": 4,
+      "resumeReached": 5
+    },
+    "returnToFinished": "passed via keyboard control",
+    "phone": {
+      "viewport": 390,
+      "document": 390,
+      "dialog": 352,
+      "image": 318,
+      "horizontalOverflow": false
+    }
+  },
+  "previousRecordsPreserved": {
+    "catalogue": 192,
+    "practice": 189
+  },
+  "verificationLimits": "Default close camera crops outer wing tips and far tail. Lower66 crop is partial; whole/actualPNG show complete shape. Camera errors recovered before more paint. No simulator changes.",
+  "build": {
+    "completeWorker": "passed",
+    "privacyAndSourceDownloads": "passed",
+    "expandedTarBytes": 160337920,
+    "paintings": 193
+  }
+}
