@@ -1,0 +1,14 @@
+{
+  "activity": "ended",
+  "status": "ended",
+  "live": false,
+  "sessionId": "7ea37786-39f8-4c1e-91f1-e8f309d757dd",
+  "sequence": 185,
+  "receivedAt": 1795130242268,
+  "title": "The sky rests in copper",
+  "completedStrokes": 88,
+  "moments": 78,
+  "rawDocumentMatches": true,
+  "pngBytes": 1315264,
+  "pngSHA256": "951391c06a1435283a11150d8ebc85d2cdbe3d0df747b16ad265f151127bcaba"
+}

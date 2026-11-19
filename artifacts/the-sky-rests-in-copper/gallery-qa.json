@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-11-19T23:21:20.384424+00:00",
+  "finished": {
+    "title": "The sky rests in copper",
+    "actualPNG": [
+      900,
+      620
+    ],
+    "marks": 88,
+    "moments": 78,
+    "expandedNotes": 27
+  },
+  "replay": {
+    "speed": "4x",
+    "openingGoalVisible": true,
+    "brushTrayVisible": true,
+    "pausedAtMark": 4,
+    "pauseHeld": true,
+    "resumedAtMark": 5,
+    "returnedToFinished": true
+  },
+  "phone": {
+    "viewport": 390,
+    "documentScrollWidth": 390,
+    "dialogWidth": 352,
+    "imageWidth": 318,
+    "fullCompositionAndTitleVisible": true
+  },
+  "limitations": [
+    "Initial local engine import failed;200 asset response verified and page reloaded, then replay advanced normally.",
+    "Mouse return-to-finished timed out during playback; paused with keyboard, then Enter on View finished succeeded. No code or engine change inferred.",
+    "First phone screenshot was scrolled down; additional top screenshot shows title and whole composition."
+  ],
+  "sourceArchive": {
+    "newReplayMatches": true,
+    "practiceMatches": true
+  },
+  "priorCatalogueEntriesPreserved": 193,
+  "priorPracticeEntriesPreserved": 190,
+  "tests": {
+    "passed": 111,
+    "failed": 0
+  },
+  "syntaxCheck": "passed",
+  "diffCheck": "passed"
+}

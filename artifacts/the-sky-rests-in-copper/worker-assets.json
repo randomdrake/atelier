@@ -1,0 +1,10 @@
+{
+  "base": "http://127.0.0.1:5174",
+  "exactCatalogue": true,
+  "exactPractice": true,
+  "exactReplay": true,
+  "exactOptimizedPNG": true,
+  "pngBytes": 843785,
+  "pngSha256": "418084c31ec2b8e7f17400889e7cf8c7f7abaccd9b5b2bbc8c2eac3b20d00366",
+  "downloadHead200": 8
+}

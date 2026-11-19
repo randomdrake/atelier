@@ -1,5 +1,23 @@
 [
   {
+    "id": "the-sky-rests-in-copper",
+    "title": "The sky rests in copper",
+    "description": "An imagined copper astrolabe with open blue windows, sparse scales and a compact pivot light on indigo cloth.",
+    "process": "88 animated watercolor/oil marks in adaptive1–4-stroke batches,24 settled whole/close review boundaries, upper/lower pans and live-written notes. Refinement79–88. Single8px pivot light57 survives whole view; shadow bridge70 restores contact. Covers reduce color contrast but retain relief. Ended public broadcast acknowledged88 marks and78 moments; no engine changes.",
+    "media": [
+      "watercolor",
+      "oil"
+    ],
+    "strokes": 88,
+    "moments": 78,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/the-sky-rests-in-copper/session.json",
+    "image": "/paintings/the-sky-rests-in-copper/finished.png",
+    "addedAt": "2026-11-19T23:18:19.965Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-19"
+  },
+  {
     "id": "wings-borrow-the-shallows",
     "title": "Wings borrow the shallows",
     "description": "An imagined spotted eagle ray hovering over pale sand and unequal seagrass.",

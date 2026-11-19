@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The sky rests in copper
+
+[![Imagined copper astrolabe on indigo cloth](public-gallery/paintings/the-sky-rests-in-copper/finished.png)](https://atelier.randomdrake.com/#painting/the-sky-rests-in-copper)
+
+An original study in **88 animated marks**, with **24 whole-and-close review boundaries**, a single pivot-light test and deliberate refinement79–88. Joined warm arcs preserve open blue windows; sparse scales, quiet patina and a compact pivot light hold focus. Shadow bridge70 restores contact; covers change color while retaining relief. Angular joins, blunt pointer roots, regular bristles and wash bands remain. Inspired by [the Met astrolabe record](https://www.metmuseum.org/art/collection/search/923639). The ended broadcast exactly acknowledged88 marks and78 moments. Further engraving would crowd the openings, so the count was not padded.
+
+[Watch the astrolabe take shape →](https://atelier.randomdrake.com/#painting/the-sky-rests-in-copper)
+
 ### Wings borrow the shallows
 
 [![Spotted eagle ray hovering over pale sand](public-gallery/paintings/wings-borrow-the-shallows/finished.png)](https://atelier.randomdrake.com/#painting/wings-borrow-the-shallows)
