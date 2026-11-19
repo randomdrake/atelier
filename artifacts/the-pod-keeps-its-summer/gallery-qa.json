@@ -1,0 +1,40 @@
+{
+  "finished": {
+    "complete": true,
+    "height": 620,
+    "rect": {
+      "bottom": 754.8828125,
+      "height": 551.109375,
+      "left": 49,
+      "right": 849,
+      "top": 203.7734375,
+      "width": 800,
+      "x": 49,
+      "y": 203.7734375
+    },
+    "width": 900
+  },
+  "pauseBefore": "Mark 4 of 81 \u00b7 Watercolor",
+  "pauseAfter": "Mark 4 of 81 \u00b7 Watercolor",
+  "resumedEvidence": "AX observed Mark11 after Continue from paused4",
+  "noteCount": 26,
+  "phone": {
+    "dialog": 352,
+    "document": 390,
+    "image": {
+      "complete": true,
+      "height": 620,
+      "width": 900
+    },
+    "viewport": 390
+  },
+  "noteCountMatchesExport": true,
+  "checks": {
+    "tests": 111,
+    "failures": 0,
+    "syntax": "passed",
+    "priorCatalogueEntriesUnchanged": 186,
+    "priorJournalEntriesUnchanged": 183
+  },
+  "verifiedAt": "2026-11-19T16:17:35.901753+00:00"
+}

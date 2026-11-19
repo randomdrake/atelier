@@ -1,5 +1,23 @@
 [
 {
+  "id": "the-pod-keeps-its-summer",
+  "title": "The pod keeps its summer",
+  "description": "An imagined dried lotus seedpod above quiet water, with unequal dark openings, a folded green leaf and sparse reeds.",
+  "process": "81 animated watercolor/oil strokes in batches of1–4 across21 review boundaries. Broad overlaps fill the pod and join leaf folds; a single loaded upper rim light survives whole view. Final refinement74–81 reduces underside stripe contrast while retaining relief. Initial4close/8whole misframing corrected or excluded; near-close36 at1.9x recorded truthfully. All written notes live; ended broadcast exactly acknowledges81 marks and73 moments.",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "strokes": 81,
+  "moments": 73,
+  "engine": "a45819daf732a39d",
+  "session": "/paintings/the-pod-keeps-its-summer/session.json",
+  "image": "/paintings/the-pod-keeps-its-summer/finished.png",
+  "addedAt": "2026-11-19T16:14:28.687Z",
+  "addedAtSource": "gallery-export",
+  "publishedAt": "2026-11-19"
+},
+{
   "id": "stone-keeps-an-open-sky",
   "title": "Stone keeps an open sky",
   "description": "An imagined sandstone bridge above a dry canyon, with an open blue passage, warm rock planes, sparse sage and a short sunlit edge.",

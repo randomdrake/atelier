@@ -21597,5 +21597,108 @@
     "source": "Agent observations from28 review boundaries, retained screenshot pairs with framing limitations recorded, upper46 and lower/upper97, plus actual browserPNG. Ended97-mark85-moment feed exactly matched raw export. Human judgment not supplied.",
     "humanRating": null
   }
+},
+{
+  "id": "the-pod-keeps-its-summer",
+  "title": "The pod keeps its summer",
+  "date": "2026-11-19",
+  "session": "examples/the-pod-keeps-its-summer.json",
+  "finishedImage": "examples/previews/the-pod-keeps-its-summer.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Build a solid tilted seedpod while preserving distinct seed holes and one short bright rim.",
+  "inspiration": {
+    "title": "NPS: Life Cycle of a Lotus",
+    "url": "https://home.nps.gov/places/information-panel-life-cycle-of-a-lotus.htm",
+    "interpretation": "Original imagined dried lotus seedpod above quiet water, with a folded leaf and sparse reeds. Full journal/catalogue search found no lotus/Nelumbo study or source use. Nautilus and persimmon rejected as repeated; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Long neighboring washes joined pale gaps, retaining horizontal bands."
+    },
+    {
+      "afterStroke": 17,
+      "text": "Broad brown overlap reduced the U-shaped lower outline and kept the pod filled."
+    },
+    {
+      "afterStroke": 40,
+      "text": "Loaded short lips39–40 read more clearly than narrow25–28, with changed width/body/load preventing controlled comparison."
+    },
+    {
+      "afterStroke": 52,
+      "text": "Broad crossing49 joined leaf-fold roots; sparse unequal veins remained subordinate."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Watercolor contacts61–64 made islands; neighboring65–68 softened them into lower bands."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Single loaded upper rim light69 survives whole view and stays compact; upper81 verifies its extent."
+    },
+    {
+      "afterStroke": 81,
+      "text": "Refinement74–81 reduced harsh underside stripe contrast but retained relief. Nine dark openings and one partial seed pocket stay distinct. Faceted crown, angular stems, broad lower wash band and regular bristles remain. Further covers chiefly add relief; stopped81 without padding."
+    }
+  ],
+  "evidence": [
+    "artifacts/the-pod-keeps-its-summer/004-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/008-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/008-whole-framed.jpg",
+    "artifacts/the-pod-keeps-its-summer/012-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/012-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/016-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/016-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/020-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/020-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/024-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/024-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/028-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/028-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/032-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/032-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/036-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/036-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/040-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/040-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/044-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/044-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/048-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/048-leaf.jpg",
+    "artifacts/the-pod-keeps-its-summer/048-lower.jpg",
+    "artifacts/the-pod-keeps-its-summer/048-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/052-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/052-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/056-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/056-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/060-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/060-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/064-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/064-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/068-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/068-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/069-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/069-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/073-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/073-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/077-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/077-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/081-close.jpg",
+    "artifacts/the-pod-keeps-its-summer/081-leaf-lower.jpg",
+    "artifacts/the-pod-keeps-its-summer/081-upper.jpg",
+    "artifacts/the-pod-keeps-its-summer/081-whole.jpg",
+    "artifacts/the-pod-keeps-its-summer/live-receipt.json",
+    "examples/previews/the-pod-keeps-its-summer.png"
+  ],
+  "engineRevision": "8a1c91a6d32a187deae296738975d5e337175345",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "At fixed palette/renderer compare one broad tapered cone silhouette against narrow radial repairs; judge volume separately from color contrast and relief. Keep seed holes staggered from the start and reserve the short light. Test matched loaded and thin lips on separate swatches. Choose a fresh subject/source next.",
+  "assessment": {
+    "source": "Agent observations from21 screenshot review boundaries and actual exportedPNG; framing limitations in creation metadata. Ended81mark73moment broadcast exactly matches raw export. Human judgment not supplied.",
+    "humanRating": null
+  }
 }
 ]

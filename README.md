@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The pod keeps its summer
+
+[![Dried lotus seedpod above quiet water](public-gallery/paintings/the-pod-keeps-its-summer/finished.png)](https://atelier.randomdrake.com/#painting/the-pod-keeps-its-summer)
+
+An original study in **81 animated marks**, with **21 review boundaries** and deliberate refinement74–81. Broad overlaps keep the tilted pod filled and join leaf folds; staggered openings and one compact upper light hold focus. Later covers reduce color contrast while retaining relief. Faceted silhouettes, angular stems and regular bristles remain. Inspired by [the NPS lotus life-cycle account](https://home.nps.gov/places/information-panel-life-cycle-of-a-lotus.htm). The ended broadcast exactly acknowledged81 marks and73 moments; count was not padded.
+
+[Watch the lotus study unfold →](https://atelier.randomdrake.com/#painting/the-pod-keeps-its-summer)
+
 ### Stone keeps an open sky
 
 [![Imagined sandstone bridge above a dry canyon](public-gallery/paintings/stone-keeps-an-open-sky/finished.png)](https://atelier.randomdrake.com/#painting/stone-keeps-an-open-sky)

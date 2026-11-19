@@ -1,0 +1,14 @@
+{
+  "base": "http://127.0.0.1:5174",
+  "paintings": 187,
+  "replaysVerified": 187,
+  "studies": 184,
+  "downloadHeads": 7,
+  "allDownloadHeadBodiesEmpty": true,
+  "newPNGBytes": 795001,
+  "newPNGSHA256": "a3d2440599ec9aceb7c38a793ce6ce67f580539aa7916a775b5600854fb3e786",
+  "title": "The pod keeps its summer",
+  "marks": 81,
+  "moments": 73,
+  "verifiedAt": "2026-11-19T16:24:35.245Z"
+}
