@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The hour rests in brass
+
+[![Imagined brass pocket sundial on blue cloth](public-gallery/paintings/the-hour-rests-in-brass/finished.png)](https://atelier.randomdrake.com/#painting/the-hour-rests-in-brass)
+
+An original study in **72 animated marks**, with **19 review boundaries**, a single focal-light test and deliberate refinement62–72. Long joined rails reserve a blue triangle; sparse dial marks, inset compass and compact apex light hold focus. Warm covers reduce an overly dark rail stripe while retaining relief. Faceted plate, regular bristles and angular cloth fold remain. Inspired by the [Smithsonian pocket-sundial record](https://www.americanhistory.si.edu/ne/collections/object/nmah_1415657). The ended broadcast exactly acknowledged72 marks and61 moments. Further tracing would chiefly thicken the rails, so the count was not padded.
+
+[Watch the sundial study unfold →](https://atelier.randomdrake.com/#painting/the-hour-rests-in-brass)
+
 ### Roots lend the water a door
 
 [![Imagined red mangrove over turquoise shallows](public-gallery/paintings/roots-lend-the-water-a-door/finished.png)](https://atelier.randomdrake.com/#painting/roots-lend-the-water-a-door)

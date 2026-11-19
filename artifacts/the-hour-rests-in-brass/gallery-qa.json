@@ -1,0 +1,19 @@
+{
+  "title": "The hour rests in brass",
+  "marks": 72,
+  "moments": 61,
+  "writtenNotes": 22,
+  "finishedImage": [
+    900,
+    620
+  ],
+  "guidedOpening": true,
+  "recordedBrushTray": true,
+  "pauseHeldAt8": true,
+  "resumeReached9": true,
+  "returnedToFinished": true,
+  "phoneWidth": 390,
+  "documentWidth": 390,
+  "dialogWidth": 352,
+  "limitations": "One Playwright pause click timed out; accessibility pause/continue worked. Initial phone capture was scrolled to notes; top capture repeated. No engine issue inferred."
+}

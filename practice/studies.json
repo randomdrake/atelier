@@ -21910,5 +21910,108 @@
     "source": "Agent observations from23 review boundaries, extra upper/lower inspections and actualPNG. Framing and buffering limitations in creation metadata; ended83mark77moment public document exactly matches raw export.",
     "humanRating": null
   }
+},
+{
+  "id": "the-hour-rests-in-brass",
+  "title": "The hour rests in brass",
+  "date": "2026-11-19",
+  "session": "examples/the-hour-rests-in-brass.json",
+  "finishedImage": "examples/previews/the-hour-rests-in-brass.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Reserve the triangular blue opening from the block-in and keep one short brass highlight brighter than the dial markings.",
+  "inspiration": {
+    "title": "Smithsonian pocket sundial with compass",
+    "url": "https://www.americanhistory.si.edu/ne/collections/object/nmah_1415657",
+    "interpretation": "Collection search excerpt sparked an original imagined brass dial with open triangular support, inset compass, unequal scale marks and dark blue cloth. No source artwork copied. Full journal and catalogue search found no sundial."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Neighboring broad washes close bright seams, retaining blue wash bands."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad round crossings fill blue holes left by the flat-brush outline."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Long joined rail gestures reserve a clear blue triangle without background covers."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Pale compass plane and dark blue needle read at whole view."
+    },
+    {
+      "afterStroke": 45,
+      "text": "Single compact loaded apex light survives whole view and stays short in upper detail."
+    },
+    {
+      "afterStroke": 61,
+      "text": "Cool rail-side pass58 becomes a dark stripe rather than a subtle plane."
+    },
+    {
+      "afterStroke": 69,
+      "text": "Warm covers62/66/67 reduce stripe contrast while retaining raised texture. Compass glint remains subordinate."
+    },
+    {
+      "afterStroke": 72,
+      "text": "Deliberate refinement62\u201372 softens plate-shadow and outer contact edges. Triangle stays blue; apex light leads. Plate facets, regular ridges and angular fold remain. Stopped without padding because further tracing would thicken rails."
+    }
+  ],
+  "evidence": [
+    "artifacts/the-hour-rests-in-brass/004-close.jpg",
+    "artifacts/the-hour-rests-in-brass/004-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/008-close.jpg",
+    "artifacts/the-hour-rests-in-brass/008-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/012-close.jpg",
+    "artifacts/the-hour-rests-in-brass/012-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/016-close.jpg",
+    "artifacts/the-hour-rests-in-brass/016-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/020-close.jpg",
+    "artifacts/the-hour-rests-in-brass/020-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/024-close.jpg",
+    "artifacts/the-hour-rests-in-brass/024-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/028-close.jpg",
+    "artifacts/the-hour-rests-in-brass/028-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/032-close.jpg",
+    "artifacts/the-hour-rests-in-brass/032-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/036-close.jpg",
+    "artifacts/the-hour-rests-in-brass/036-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/040-close.jpg",
+    "artifacts/the-hour-rests-in-brass/040-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/044-close.jpg",
+    "artifacts/the-hour-rests-in-brass/044-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/045-close.jpg",
+    "artifacts/the-hour-rests-in-brass/045-upper.jpg",
+    "artifacts/the-hour-rests-in-brass/045-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/049-close.jpg",
+    "artifacts/the-hour-rests-in-brass/049-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/053-close.jpg",
+    "artifacts/the-hour-rests-in-brass/053-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/057-close.jpg",
+    "artifacts/the-hour-rests-in-brass/057-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/061-close.jpg",
+    "artifacts/the-hour-rests-in-brass/061-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/065-close.jpg",
+    "artifacts/the-hour-rests-in-brass/065-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/069-close.jpg",
+    "artifacts/the-hour-rests-in-brass/069-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/072-close.jpg",
+    "artifacts/the-hour-rests-in-brass/072-lower.jpg",
+    "artifacts/the-hour-rests-in-brass/072-upper.jpg",
+    "artifacts/the-hour-rests-in-brass/072-whole.jpg",
+    "artifacts/the-hour-rests-in-brass/live-receipt.json",
+    "examples/previews/the-hour-rests-in-brass.png"
+  ],
+  "engineRevision": "1f1868753fa08c6caff461a5118106b06fde7eb8",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "At fixed renderer/palette compare narrow cool rail planes with wider warm planes on isolated swatches. Compare sparse and closely sampled ellipse arcs at matching size/body/flow. Reserve open spaces before detail. Choose a fresh subject/source.",
+  "assessment": {
+    "source": "Agent observations from19 review boundaries, corrected32close, upper45/72, lower72 and actual exportedPNG. Final ended72mark61moment document exactly matches raw export; framing/control limitations in creation metadata.",
+    "humanRating": null
+  }
 }
 ]
