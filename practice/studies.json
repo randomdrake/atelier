@@ -21700,5 +21700,108 @@
     "source": "Agent observations from21 screenshot review boundaries and actual exportedPNG; framing limitations in creation metadata. Ended81mark73moment broadcast exactly matches raw export. Human judgment not supplied.",
     "humanRating": null
   }
+},
+{
+  "id": "pink-sails-in-the-leaf-hush",
+  "title": "Pink sails in the leaf hush",
+  "date": "2026-11-19",
+  "session": "examples/pink-sails-in-the-leaf-hush.json",
+  "finishedImage": "examples/previews/pink-sails-in-the-leaf-hush.png",
+  "media": [
+    "watercolor",
+    "oil",
+    "acrylic"
+  ],
+  "goal": "Connect swept pink petals, preserve air between two unequal flowers, and reserve compact dark throats above patterned leaves.",
+  "inspiration": {
+    "title": "RHS Cyclamen hederifolium",
+    "url": "https://www.rhs.org.uk/plants/5145/cyclamen-hederifolium/details",
+    "interpretation": "Original imagined two unequal pink flowers, closed bud, silver-marked leaves and warm litter. Full practice/catalogue search found no cyclamen study; handbell rejected as repeated."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Neighboring long washes joined pale gaps but left horizontal bands."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad crossing planes13\u201315 filled hollow leaf centers."
+    },
+    {
+      "afterStroke": 34,
+      "text": "Thin oil33 and broader acrylic34 changed color but retained a raised petal bridge; separation failed."
+    },
+    {
+      "afterStroke": 46,
+      "text": "Broad silver-green planes distinguish solid leaves below flower contrast."
+    },
+    {
+      "afterStroke": 63,
+      "text": "Compact loaded light63 survives whole view above a dark mouth."
+    },
+    {
+      "afterStroke": 67,
+      "text": "Closely sampled shoulder66 visibly rounded the main bend; silver cover64 softened color but retained a ridge."
+    },
+    {
+      "afterStroke": 71,
+      "text": "Refinement64\u201371 attached stem feet and softened silver elbows. Unequal fans, compact mouths and sparse litter remain readable. Raised petal bridge, polygonal leaves, angular bud/smaller stem, regular bristles and wash bands remain. Further covers chiefly add relief; stopped71 without padding."
+    }
+  ],
+  "evidence": [
+    "artifacts/pink-sails-in-the-leaf-hush/004-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/008-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/008-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/012-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/012-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/016-close-settled.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/016-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/016-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/020-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/020-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/024-close-settled.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/024-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/028-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/028-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/032-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/032-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/033-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/033-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/034-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/034-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/038-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/038-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/042-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/042-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/046-close-settled.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/046-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/046-lower-framed.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/046-lower.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/046-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/050-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/050-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/054-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/054-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/058-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/058-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/062-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/062-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/063-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/063-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/067-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/067-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/071-close.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/071-upper-framed.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/071-whole.jpg",
+    "artifacts/pink-sails-in-the-leaf-hush/live-receipt.json",
+    "examples/previews/pink-sails-in-the-leaf-hush.png"
+  ],
+  "engineRevision": "2fba350501a6429ad4847a717bc2b927c1750e9b",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "At fixed renderer/palette compare angular and closely sampled nodding stems; test matched-width thin oil/acrylic background covers on isolated swatches. Reserve a larger gap between adjacent fans. Choose a fresh subject/source.",
+  "assessment": {
+    "source": "Agent observations from20 review boundaries, corrected detail views and actualPNG; limitations in creation metadata. Ended71mark60moment document exactly matches raw export.",
+    "humanRating": null
+  }
 }
 ]

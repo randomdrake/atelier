@@ -1,0 +1,38 @@
+{
+  "time": "2026-11-19T17:15:58.671139+00:00",
+  "tests": {
+    "passed": 111,
+    "failed": 0
+  },
+  "syntax": "passed",
+  "priorCatalogueEntriesPreserved": 187,
+  "priorPracticeEntriesPreserved": 184,
+  "gallery": {
+    "imageDimensions": [
+      900,
+      620
+    ],
+    "marks": 71,
+    "moments": 60,
+    "expandedWrittenNotes": 22,
+    "guidedReplay": "4x opening and brush tray observed;pause held4;resume advanced5 and later20",
+    "returnToFinished": "Initial return succeeded before phone inspection. Repeated return attempts after restarting replay timed out in browser input protocol; tab closed.",
+    "phone": {
+      "viewport": 390,
+      "documentWidth": 390,
+      "dialogWidth": 352,
+      "horizontalOverflow": false
+    }
+  },
+  "build": "Passed full Worker/artifact/privacy/source-download verification;188 paintings,185 studies;expandedTAR155883520bytes.",
+  "workerHTTP": {
+    "catalogueAndPracticeExact": true,
+    "newReplayExact": true,
+    "marks": 71,
+    "moments": 60,
+    "sourceDownloadHEADs": 8,
+    "servedPNGBytes": 810957,
+    "servedPNGSHA256": "5a6d92521b849ba79f3f60c8de51428cba5dc8a87c5345e9a0b8f3d17a1ebac4"
+  },
+  "workerBrowser": "Fresh tab finished dialog shows correct71marks60moments, final note, replay/download controls and actualPNG. Screenshot retained."
+}

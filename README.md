@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Pink sails in the leaf hush
+
+[![Pink cyclamen above silver-marked leaves](public-gallery/paintings/pink-sails-in-the-leaf-hush/finished.png)](https://atelier.randomdrake.com/#painting/pink-sails-in-the-leaf-hush)
+
+An original study in **71 animated marks**, with **20 review boundaries**, single cover/light tests and deliberate refinement64–71. Broad crossings fill leaf centers; unequal pink fans, compact mouths and one short light hold focus. Closely sampled shoulder66 rounds the main stem. Covers retain a raised petal bridge; polygonal leaves, angular bud, regular bristles and wash bands remain. Inspired by the [RHS cyclamen profile](https://www.rhs.org.uk/plants/5145/cyclamen-hederifolium/details). The ended broadcast exactly acknowledged71 marks and60 moments. Further covers chiefly add relief, so the count was not padded.
+
+[Watch the cyclamen study unfold →](https://atelier.randomdrake.com/#painting/pink-sails-in-the-leaf-hush)
+
 ### The pod keeps its summer
 
 [![Dried lotus seedpod above quiet water](public-gallery/paintings/the-pod-keeps-its-summer/finished.png)](https://atelier.randomdrake.com/#painting/the-pod-keeps-its-summer)
