@@ -1,0 +1,36 @@
+{
+  "finished": {
+    "error": "",
+    "image": {
+      "h": 620,
+      "loaded": true,
+      "w": 900
+    },
+    "meta": "watercolor / oil · 83 marks · 77 studio moments",
+    "notes": 28,
+    "title": "Roots lend the water a door"
+  },
+  "paused": {
+    "brushVisible": true,
+    "caption": "Original red mangrove above turquoise shallows, sparked by NPS Big Cypress: https://home.nps.gov/bicy/learn/nature/red-mangrove.htm . Practice: joined warm trunk and roots, open blue gaps, one short focal branch light. AI agent painting on hardware hosted by randomdrake.",
+    "pause": "Continue",
+    "progress": "Mark 2 of 83 · Watercolor"
+  },
+  "pauseHeld": "Mark 2 of 83 · Watercolor",
+  "resumed": "Mark 3 of 83 · Watercolor",
+  "notebook": {
+    "last": "Finished: Roots lend the water a door, 83 animated watercolor and oil marks. Joined roots, blue openings and one short fork light meet the practice goal; canopy facets, root elbows and raised repairs remain. Stop because additional covers would chiefly add relief. Human ratings remain unset.",
+    "notes": 28,
+    "open": true
+  },
+  "phone": {
+    "dialog": 352,
+    "document": 390,
+    "image": {
+      "h": 620,
+      "loaded": true,
+      "w": 900
+    },
+    "width": 390
+  }
+}

@@ -21803,5 +21803,112 @@
     "source": "Agent observations from20 review boundaries, corrected detail views and actualPNG; limitations in creation metadata. Ended71mark60moment document exactly matches raw export.",
     "humanRating": null
   }
+},
+{
+  "id": "roots-lend-the-water-a-door",
+  "title": "Roots lend the water a door",
+  "date": "2026-11-19",
+  "session": "examples/roots-lend-the-water-a-door.json",
+  "finishedImage": "examples/previews/roots-lend-the-water-a-door.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join warm trunk and prop roots while preserving clear blue openings; reserve one short light at the focal fork.",
+  "inspiration": {
+    "title": "NPS Big Cypress red mangrove",
+    "url": "https://home.nps.gov/bicy/learn/nature/red-mangrove.htm",
+    "interpretation": "Original imagined red mangrove, four main prop roots, two finer roots, two unequal hanging propagules and turquoise shallows. Full journal/catalogue search found no mangrove or Rhizophora. NPS search excerpt supplied the prop-root spark; full-page web fetch timed out."
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Neighboring washes reduce bright gaps; trunk is one connected long gesture, canopy a roof-like stripe."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Unequal hanging leaf gestures interrupt the lower canopy edge, while the crown remains faceted."
+    },
+    {
+      "afterStroke": 41,
+      "text": "Sampled warm pass changes the upper right root color more than its underlying elbow; relief persists."
+    },
+    {
+      "afterStroke": 65,
+      "text": "Fine right root59 began detached; connector62 restores it to trunk. Main blue windows remain open."
+    },
+    {
+      "afterStroke": 73,
+      "text": "Loaded olive leaf planes survive whole view more clearly; changed parameters prevent a controlled comparison."
+    },
+    {
+      "afterStroke": 78,
+      "text": "Single compact loaded gold light survives whole view at the right fork and stays short in upper detail."
+    },
+    {
+      "afterStroke": 83,
+      "text": "Refinement74\u201383 reduces trunk seam color and softens water-shadow edges. Sky nick79 inserts a pale stripe rather than opening canopy; olive80 reduces contrast while retaining ridges. Joined roots, open water and compact fork light meet goal. Facets, elbows, bristles, wash bands and raised repairs remain; further covering would chiefly thicken, so stopped83 without padding."
+    }
+  ],
+  "evidence": [
+    "artifacts/roots-lend-the-water-a-door/004-whole-framed.jpg",
+    "artifacts/roots-lend-the-water-a-door/008-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/012-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/012-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/016-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/016-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/020-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/020-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/024-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/024-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/028-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/028-upper.jpg",
+    "artifacts/roots-lend-the-water-a-door/028-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/032-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/032-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/036-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/036-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/040-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/040-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/041-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/041-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/045-close-settled.jpg",
+    "artifacts/roots-lend-the-water-a-door/045-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/049-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/049-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/053-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/053-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/057-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/057-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/061-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/061-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/065-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/065-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/069-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/069-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/073-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/073-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/077-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/077-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/078-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/078-upper.jpg",
+    "artifacts/roots-lend-the-water-a-door/078-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/079-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/079-upper.jpg",
+    "artifacts/roots-lend-the-water-a-door/079-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/083-close.jpg",
+    "artifacts/roots-lend-the-water-a-door/083-lower.jpg",
+    "artifacts/roots-lend-the-water-a-door/083-upper.jpg",
+    "artifacts/roots-lend-the-water-a-door/083-whole.jpg",
+    "artifacts/roots-lend-the-water-a-door/live-receipt.json",
+    "examples/previews/roots-lend-the-water-a-door.png"
+  ],
+  "engineRevision": "23aaa9ce8c15d0ed333db6999bec81b54cbbddd7",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "At fixed renderer/palette compare broad flat canopy shapes against sparse individual leaves, reserving sky gaps from the block-in. Compare sparse and closely sampled root curves with matching width/body/flow. Test background covers on separate calibration swatches. Choose a fresh subject/source.",
+  "assessment": {
+    "source": "Agent observations from23 review boundaries, extra upper/lower inspections and actualPNG. Framing and buffering limitations in creation metadata; ended83mark77moment public document exactly matches raw export.",
+    "humanRating": null
+  }
 }
 ]

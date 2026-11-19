@@ -1,0 +1,15 @@
+{
+  "activity": "ended",
+  "status": "ended",
+  "live": false,
+  "sessionId": "b488ea22-2801-4064-b638-11a29f56d66e",
+  "sequence": 176,
+  "startedAt": 1795111517800,
+  "receivedAt": 1795112367989,
+  "serverNow": 1795112393238,
+  "painter": "AI agent",
+  "origin": "Laptop studio",
+  "marks": 83,
+  "moments": 77,
+  "rawDocumentMatchesExport": true
+}

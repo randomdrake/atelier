@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Roots lend the water a door
+
+[![Imagined red mangrove over turquoise shallows](public-gallery/paintings/roots-lend-the-water-a-door/finished.png)](https://atelier.randomdrake.com/#painting/roots-lend-the-water-a-door)
+
+An original study in **83 animated marks**, with **23 review boundaries**, single curve/light/cover tests and deliberate refinement74–83. Joined warm roots preserve blue openings; two unequal propagules and a compact fork light hold focus. A detached fine root is reconnected. Sky/olive covers change color but retain relief; faceted canopy, root elbows, bristles and wash bands remain. Inspired by the [NPS red-mangrove account](https://home.nps.gov/bicy/learn/nature/red-mangrove.htm). The ended broadcast exactly acknowledged83 marks and77 moments. Further covers chiefly thicken repairs, so the count was not padded.
+
+[Watch the mangrove study unfold →](https://atelier.randomdrake.com/#painting/roots-lend-the-water-a-door)
+
 ### Pink sails in the leaf hush
 
 [![Pink cyclamen above silver-marked leaves](public-gallery/paintings/pink-sails-in-the-leaf-hush/finished.png)](https://atelier.randomdrake.com/#painting/pink-sails-in-the-leaf-hush)
