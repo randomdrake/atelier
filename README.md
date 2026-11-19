@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Bells in the green hush
+
+[![Two hanging scarlet-and-violet fuchsia flowers](public-gallery/paintings/bells-in-the-green-hush/finished.png)](https://atelier.randomdrake.com/#painting/bells-in-the-green-hush)
+
+An original study in **112 animated marks**, with **31 whole-and-close review boundaries**, single light tests and deliberate refinement95–112. Filled leaves and violet bells preserve green sepal gaps; broad loaded lavender planes and one short tube light hold focus. Mouth covers alter color while retaining relief; angular stems, regular bristles and wash bands remain. Inspired by the [RHS fuchsia profile](https://www.rhs.org.uk/plants/7494/fuchsia-magellanica/details). The ended broadcast exactly acknowledged112 marks and86 moments.
+
+[Watch the fuchsia study unfold →](https://atelier.randomdrake.com/#painting/bells-in-the-green-hush)
+
 ### Small armor in the moss
 
 [![Imagined pangolin crossing a mossy branch](public-gallery/paintings/small-armor-in-the-moss/finished.png)](https://atelier.randomdrake.com/#painting/small-armor-in-the-moss)

@@ -22143,5 +22143,146 @@
     "source": "Agent observations from28 review boundaries, corrected early framing, right91/100, lower78/100 and actual exported PNG. Final ended100-mark110-moment document exactly matches raw replay export; camera/control limitations recorded in creation metadata.",
     "humanRating": null
   }
+},
+{
+  "id": "bells-in-the-green-hush",
+  "title": "Bells in the green hush",
+  "date": "2026-11-19",
+  "session": "examples/bells-in-the-green-hush.json",
+  "finishedImage": "examples/previews/bells-in-the-green-hush.png",
+  "media": [
+    "watercolor",
+    "oil",
+    "acrylic"
+  ],
+  "goal": "Reserve green gaps between scarlet sepals and violet petals, keeping one short light leading the larger flower.",
+  "inspiration": {
+    "title": "RHS — Fuchsia magellanica",
+    "url": "https://www.rhs.org.uk/plants/7494/fuchsia-magellanica/details",
+    "interpretation": "Original imagined two unequal hanging scarlet-and-violet fuchsia flowers, closed bud and six leaves against muted green. Full journal/catalogue search found no fuchsia or source match. Nautilus and bird-of-paradise candidates rejected after archive matches. RHS profile read for botanical spark; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Neighboring broad washes close pale seams, retaining horizontal bands."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad overlapping round passes produce filled leaf silhouettes rather than hollow rails."
+    },
+    {
+      "afterStroke": 28,
+      "text": "Four unequal scarlet arms reserve clear green wedges above the violet bell."
+    },
+    {
+      "afterStroke": 48,
+      "text": "Filaments crossing the wet mouth pick up violet and read darker than intended."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Violet covers interrupt mouth color while retaining raised rim relief."
+    },
+    {
+      "afterStroke": 62,
+      "text": "Single8px oil light61 remains compact but weak; acrylic62 slightly clearer, still restrained."
+    },
+    {
+      "afterStroke": 78,
+      "text": "Wider loaded olive faces show at whole view more clearly than thin veins."
+    },
+    {
+      "afterStroke": 82,
+      "text": "Broader loaded lavender planes separate at whole view; regular ridges remain."
+    },
+    {
+      "afterStroke": 98,
+      "text": "Closely sampled rose faces soften elbow color but retain faceted relief."
+    },
+    {
+      "afterStroke": 99,
+      "text": "One broader15px loaded short tube light is visible at whole view and remains compact close up."
+    },
+    {
+      "afterStroke": 112,
+      "text": "Refinement95–112 keeps green gaps and unequal flower hierarchy, anchors attachments and reinforces selected filament ends. Upper/lower reviews confirm details outside middle crop. Angular stems, raised rims, bristles and wash bands remain. Further tracing would chiefly thicken; stopped without padding."
+    }
+  ],
+  "evidence": [
+    "artifacts/bells-in-the-green-hush/004-close.jpg",
+    "artifacts/bells-in-the-green-hush/004-whole.jpg",
+    "artifacts/bells-in-the-green-hush/008-close.jpg",
+    "artifacts/bells-in-the-green-hush/008-whole.jpg",
+    "artifacts/bells-in-the-green-hush/012-close.jpg",
+    "artifacts/bells-in-the-green-hush/012-whole.jpg",
+    "artifacts/bells-in-the-green-hush/016-close.jpg",
+    "artifacts/bells-in-the-green-hush/016-whole.jpg",
+    "artifacts/bells-in-the-green-hush/020-close.jpg",
+    "artifacts/bells-in-the-green-hush/020-whole.jpg",
+    "artifacts/bells-in-the-green-hush/024-close.jpg",
+    "artifacts/bells-in-the-green-hush/024-whole.jpg",
+    "artifacts/bells-in-the-green-hush/028-close.jpg",
+    "artifacts/bells-in-the-green-hush/028-whole.jpg",
+    "artifacts/bells-in-the-green-hush/032-close.jpg",
+    "artifacts/bells-in-the-green-hush/032-whole.jpg",
+    "artifacts/bells-in-the-green-hush/036-close.jpg",
+    "artifacts/bells-in-the-green-hush/036-whole.jpg",
+    "artifacts/bells-in-the-green-hush/040-close.jpg",
+    "artifacts/bells-in-the-green-hush/040-whole.jpg",
+    "artifacts/bells-in-the-green-hush/044-close.jpg",
+    "artifacts/bells-in-the-green-hush/044-whole.jpg",
+    "artifacts/bells-in-the-green-hush/048-close.jpg",
+    "artifacts/bells-in-the-green-hush/048-whole.jpg",
+    "artifacts/bells-in-the-green-hush/052-close.jpg",
+    "artifacts/bells-in-the-green-hush/052-lower.jpg",
+    "artifacts/bells-in-the-green-hush/052-whole.jpg",
+    "artifacts/bells-in-the-green-hush/056-close.jpg",
+    "artifacts/bells-in-the-green-hush/056-whole.jpg",
+    "artifacts/bells-in-the-green-hush/060-close.jpg",
+    "artifacts/bells-in-the-green-hush/060-whole.jpg",
+    "artifacts/bells-in-the-green-hush/061-close.jpg",
+    "artifacts/bells-in-the-green-hush/061-whole.jpg",
+    "artifacts/bells-in-the-green-hush/062-close.jpg",
+    "artifacts/bells-in-the-green-hush/062-whole.jpg",
+    "artifacts/bells-in-the-green-hush/066-close.jpg",
+    "artifacts/bells-in-the-green-hush/066-whole.jpg",
+    "artifacts/bells-in-the-green-hush/070-close.jpg",
+    "artifacts/bells-in-the-green-hush/070-whole.jpg",
+    "artifacts/bells-in-the-green-hush/074-close.jpg",
+    "artifacts/bells-in-the-green-hush/074-upper.jpg",
+    "artifacts/bells-in-the-green-hush/074-whole.jpg",
+    "artifacts/bells-in-the-green-hush/078-close.jpg",
+    "artifacts/bells-in-the-green-hush/078-whole.jpg",
+    "artifacts/bells-in-the-green-hush/082-close.jpg",
+    "artifacts/bells-in-the-green-hush/082-whole.jpg",
+    "artifacts/bells-in-the-green-hush/086-close.jpg",
+    "artifacts/bells-in-the-green-hush/086-whole.jpg",
+    "artifacts/bells-in-the-green-hush/090-close.jpg",
+    "artifacts/bells-in-the-green-hush/090-whole.jpg",
+    "artifacts/bells-in-the-green-hush/094-close.jpg",
+    "artifacts/bells-in-the-green-hush/094-whole.jpg",
+    "artifacts/bells-in-the-green-hush/098-close.jpg",
+    "artifacts/bells-in-the-green-hush/098-whole.jpg",
+    "artifacts/bells-in-the-green-hush/099-close.jpg",
+    "artifacts/bells-in-the-green-hush/099-whole.jpg",
+    "artifacts/bells-in-the-green-hush/103-close.jpg",
+    "artifacts/bells-in-the-green-hush/103-whole.jpg",
+    "artifacts/bells-in-the-green-hush/107-close.jpg",
+    "artifacts/bells-in-the-green-hush/107-whole.jpg",
+    "artifacts/bells-in-the-green-hush/111-close.jpg",
+    "artifacts/bells-in-the-green-hush/111-whole.jpg",
+    "artifacts/bells-in-the-green-hush/112-close.jpg",
+    "artifacts/bells-in-the-green-hush/112-lower.jpg",
+    "artifacts/bells-in-the-green-hush/112-upper.jpg",
+    "artifacts/bells-in-the-green-hush/112-whole.jpg",
+    "artifacts/bells-in-the-green-hush/live-receipt.json",
+    "examples/previews/bells-in-the-green-hush.png"
+  ],
+  "engineRevision": "6bb2d71b0d51e0e8b1f728373d687e40e67c1ae9",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed-palette/renderer flower swatches: compare8px and15px compact loaded lights on fresh versus previously painted oil, holding all other settings fixed. Compare narrow accents with broad filled planes, and judge color separately from relief. Reserve open gaps from block-in; choose fresh subject/source.",
+  "assessment": {
+    "source": "Agent observations from31 whole-and-close review boundaries, corrected camera framing, lower52/112 and upper74/112, plus actual exported PNG. Ended112-mark86-moment raw replay matches export. Camera/control limitations recorded in creation metadata.",
+    "humanRating": null
+  }
 }
 ]

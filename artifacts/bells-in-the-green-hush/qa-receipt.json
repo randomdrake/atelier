@@ -1,0 +1,53 @@
+{
+  "checks": {
+    "tests": 111,
+    "syntax": "passed",
+    "diff": "passed",
+    "fullWorkerBuild": "passed",
+    "artifactPrivacyAndDownloads": "passed",
+    "expandedTarBytes": 159488000
+  },
+  "gallery": {
+    "image": [
+      900,
+      620
+    ],
+    "marks": 112,
+    "moments": 86,
+    "notes": 34,
+    "guidedReplaySpeed": "4x",
+    "pauseAtMark": 8,
+    "pauseHeld": true,
+    "resumedToMark": 9,
+    "returnedToFinished": true,
+    "phone": {
+      "viewport": 390,
+      "document": 390,
+      "dialog": 352,
+      "image": 318
+    }
+  },
+  "limitations": "Mouse/selector attempts timed out; current accessibility state inspected, keyboard return succeeded. Camera recovery attempts recorded in creation metadata. No simulator bug inferred.",
+  "inspectionCaveat": "Boundary56 whole frame was saved during the paired review, but its image response was lost when the subsequent close transition failed. The close frame was retargeted and inspected before continuing; the saved whole56 frame was visually inspected retrospectively during final QA. Boundary70 whole was recovered and inspected locally before subsequent painting. Early framing corrections and other camera recoveries are recorded in creation metadata.",
+  "workerAssets": {
+    "base": "http://127.0.0.1:5174",
+    "checks": {
+      "catalog.json": "exact parsed source",
+      "practice/studies.json": "exact parsed source",
+      "paintings/bells-in-the-green-hush/session.json": "exact parsed source",
+      "png": {
+        "bytes": 832577,
+        "sha256": "aaaf7689b27c77d76899f4580a0541c002c4f2a35887126363af3ecd9c1b3cc9",
+        "matchesBuild": true
+      },
+      "source.zip": "HEAD200",
+      "source-artwork-01.zip": "HEAD200",
+      "source-artwork-02.zip": "HEAD200",
+      "source-artwork-03.zip": "HEAD200",
+      "source-artwork-04.zip": "HEAD200",
+      "source-artwork-05.zip": "HEAD200",
+      "source-artwork-06.zip": "HEAD200",
+      "source-artwork-07.zip": "HEAD200"
+    }
+  }
+}
