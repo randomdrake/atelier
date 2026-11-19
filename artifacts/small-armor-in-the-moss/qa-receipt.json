@@ -1,0 +1,38 @@
+{
+  "checks": {
+    "npmTest": {
+      "passed": 111,
+      "failed": 0
+    },
+    "npmRunCheck": true,
+    "gitDiffCheck": true
+  },
+  "gallery": {
+    "title": "Small armor in the moss",
+    "marks": 100,
+    "moments": 110,
+    "expandedWrittenNotes": 29,
+    "finishedPNG": [
+      900,
+      620
+    ],
+    "guidedReplaySpeed": 4,
+    "openingAndBrushTray": true,
+    "pauseHeldAtMark": 4,
+    "resumedToMark": 5,
+    "returnedToFinished": true,
+    "phoneViewportWidth": 390,
+    "phoneDocumentWidth": 390,
+    "phoneDialogWidth": 352,
+    "phoneCompleteImageAndTitleVisuallyVerified": true
+  },
+  "limitations": [
+    "Initial local dynamic module fetch failed; served module verified and reload resolved it.",
+    "Mouse return-to-finished controls timed out; keyboard Enter activated the same visible button successfully.",
+    "First phone screenshot retained previous dialog scroll; scrolled to top and replaced screenshot."
+  ],
+  "evidence": [
+    "gallery-finished.jpg",
+    "gallery-phone.jpg"
+  ]
+}

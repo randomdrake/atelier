@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Small armor in the moss
+
+[![Imagined pangolin crossing a mossy branch](public-gallery/paintings/small-armor-in-the-moss/finished.png)](https://atelier.randomdrake.com/#painting/small-armor-in-the-moss)
+
+An original study in **100 animated marks**, with **28 review boundaries**, single eye/light/cover tests and deliberate refinement91–100. Broad overlapping scales preserve green leg and tail gaps; a compact brow light leads the head. Round crossings fill leaf interiors. Covers change color while retaining raised repairs; faceted back, patterned armor, bristles and angular sprigs remain. Inspired by the [Smithsonian pangolin account](https://www.nationalzoo.si.edu/news/smithsonian-scientists-aid-decoding-mammalian-mystery-genetics-pangolin). The ended broadcast exactly acknowledged100 marks and110 moments. Further tracing would chiefly thicken the armor and branch, so the count was not padded.
+
+[Watch the pangolin study unfold →](https://atelier.randomdrake.com/#painting/small-armor-in-the-moss)
+
 ### The hour rests in brass
 
 [![Imagined brass pocket sundial on blue cloth](public-gallery/paintings/the-hour-rests-in-brass/finished.png)](https://atelier.randomdrake.com/#painting/the-hour-rests-in-brass)

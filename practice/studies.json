@@ -22013,5 +22013,135 @@
     "source": "Agent observations from19 review boundaries, corrected32close, upper45/72, lower72 and actual exportedPNG. Final ended72mark61moment document exactly matches raw export; framing/control limitations in creation metadata.",
     "humanRating": null
   }
+},
+{
+  "id": "small-armor-in-the-moss",
+  "title": "Small armor in the moss",
+  "date": "2026-11-19",
+  "session": "examples/small-armor-in-the-moss.json",
+  "finishedImage": "examples/previews/small-armor-in-the-moss.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Keep green leg and tail gaps open while developing unequal overlapping scales, with one compact light leading the head.",
+  "inspiration": {
+    "title": "Smithsonian National Zoo \u2014 genetics of the pangolin",
+    "url": "https://www.nationalzoo.si.edu/news/smithsonian-scientists-aid-decoding-mammalian-mystery-genetics-pangolin",
+    "interpretation": "Original imagined pangolin crossing a mossy branch, with unequal armor plates, open tail loop and hanging sprigs. Full journal/catalogue checked: no pangolin study. Smithsonian account read for the scale-armored mammal spark; no finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Neighboring broad washes bridge pale seams but retain horizontal wash bands."
+    },
+    {
+      "afterStroke": 16,
+      "text": "Broad overlapping round passes fill the body rather than leaving a hollow outline."
+    },
+    {
+      "afterStroke": 24,
+      "text": "Long joined tail and head gestures and separated limbs reserve green leg spaces and an open tail loop."
+    },
+    {
+      "afterStroke": 36,
+      "text": "Wider loaded round chevrons read at whole view more clearly than the narrow flat bars29\u201332; parameters also changed, so this is not a controlled comparison."
+    },
+    {
+      "afterStroke": 50,
+      "text": "Unequal upper faces interrupt the back silhouette, while a scalloped ridge and regular pattern remain."
+    },
+    {
+      "afterStroke": 78,
+      "text": "Flat leaf gestures73/74 became rails; broad round75\u201378 crossings fill the leaf interiors."
+    },
+    {
+      "afterStroke": 91,
+      "text": "Single background cover reduces nose/moss contact color but leaves a pale raised nick."
+    },
+    {
+      "afterStroke": 95,
+      "text": "Warm limb covers93/94 reduce contrast but retain projecting scale relief; nose92 restores a compact dark tip."
+    },
+    {
+      "afterStroke": 96,
+      "text": "One short loaded brow light survives whole view and remains compact in right detail."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Deliberate refinement91\u2013100 grounds foot contacts and slightly softens neighboring shadow color. Open leg/tail gaps persist. Facets, bristles, raised repairs, patterned armor, angular sprigs and wash bands remain; stopped without padding because more tracing chiefly thickens."
+    }
+  ],
+  "evidence": [
+    "artifacts/small-armor-in-the-moss/004-close.jpg",
+    "artifacts/small-armor-in-the-moss/004-whole.jpg",
+    "artifacts/small-armor-in-the-moss/008-close.jpg",
+    "artifacts/small-armor-in-the-moss/008-whole.jpg",
+    "artifacts/small-armor-in-the-moss/012-close.jpg",
+    "artifacts/small-armor-in-the-moss/012-whole.jpg",
+    "artifacts/small-armor-in-the-moss/016-close.jpg",
+    "artifacts/small-armor-in-the-moss/016-whole.jpg",
+    "artifacts/small-armor-in-the-moss/020-close.jpg",
+    "artifacts/small-armor-in-the-moss/020-whole.jpg",
+    "artifacts/small-armor-in-the-moss/024-close.jpg",
+    "artifacts/small-armor-in-the-moss/024-whole.jpg",
+    "artifacts/small-armor-in-the-moss/028-close.jpg",
+    "artifacts/small-armor-in-the-moss/028-whole.jpg",
+    "artifacts/small-armor-in-the-moss/032-close.jpg",
+    "artifacts/small-armor-in-the-moss/032-whole.jpg",
+    "artifacts/small-armor-in-the-moss/036-close.jpg",
+    "artifacts/small-armor-in-the-moss/036-whole.jpg",
+    "artifacts/small-armor-in-the-moss/040-close.jpg",
+    "artifacts/small-armor-in-the-moss/040-whole.jpg",
+    "artifacts/small-armor-in-the-moss/044-close.jpg",
+    "artifacts/small-armor-in-the-moss/044-whole.jpg",
+    "artifacts/small-armor-in-the-moss/045-close.jpg",
+    "artifacts/small-armor-in-the-moss/045-whole.jpg",
+    "artifacts/small-armor-in-the-moss/046-close.jpg",
+    "artifacts/small-armor-in-the-moss/046-whole.jpg",
+    "artifacts/small-armor-in-the-moss/050-close.jpg",
+    "artifacts/small-armor-in-the-moss/050-whole.jpg",
+    "artifacts/small-armor-in-the-moss/054-close.jpg",
+    "artifacts/small-armor-in-the-moss/054-whole.jpg",
+    "artifacts/small-armor-in-the-moss/058-close.jpg",
+    "artifacts/small-armor-in-the-moss/058-whole.jpg",
+    "artifacts/small-armor-in-the-moss/062-close.jpg",
+    "artifacts/small-armor-in-the-moss/062-whole.jpg",
+    "artifacts/small-armor-in-the-moss/066-close.jpg",
+    "artifacts/small-armor-in-the-moss/066-whole.jpg",
+    "artifacts/small-armor-in-the-moss/070-close.jpg",
+    "artifacts/small-armor-in-the-moss/070-whole.jpg",
+    "artifacts/small-armor-in-the-moss/074-close.jpg",
+    "artifacts/small-armor-in-the-moss/074-whole.jpg",
+    "artifacts/small-armor-in-the-moss/078-close.jpg",
+    "artifacts/small-armor-in-the-moss/078-lower.jpg",
+    "artifacts/small-armor-in-the-moss/078-whole.jpg",
+    "artifacts/small-armor-in-the-moss/082-close.jpg",
+    "artifacts/small-armor-in-the-moss/082-whole.jpg",
+    "artifacts/small-armor-in-the-moss/086-close.jpg",
+    "artifacts/small-armor-in-the-moss/086-whole.jpg",
+    "artifacts/small-armor-in-the-moss/090-close.jpg",
+    "artifacts/small-armor-in-the-moss/090-whole.jpg",
+    "artifacts/small-armor-in-the-moss/091-close.jpg",
+    "artifacts/small-armor-in-the-moss/091-right.jpg",
+    "artifacts/small-armor-in-the-moss/091-whole.jpg",
+    "artifacts/small-armor-in-the-moss/095-close.jpg",
+    "artifacts/small-armor-in-the-moss/095-whole.jpg",
+    "artifacts/small-armor-in-the-moss/096-close.jpg",
+    "artifacts/small-armor-in-the-moss/096-whole.jpg",
+    "artifacts/small-armor-in-the-moss/100-close.jpg",
+    "artifacts/small-armor-in-the-moss/100-lower.jpg",
+    "artifacts/small-armor-in-the-moss/100-right.jpg",
+    "artifacts/small-armor-in-the-moss/100-whole.jpg",
+    "artifacts/small-armor-in-the-moss/live-receipt.json",
+    "examples/previews/small-armor-in-the-moss.png"
+  ],
+  "engineRevision": "e9f5f3f8f4aa2c3d7c4f749470bdb4b9bd08a0c4",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "At fixed palette, renderer and brush settings compare broad round filled armor chevrons with flat diagonal bars. Vary spacing before adding highlights. Test isolated background covers separately from a finished silhouette. Reserve leg gaps from the block-in; choose fresh subject/source.",
+  "assessment": {
+    "source": "Agent observations from28 review boundaries, corrected early framing, right91/100, lower78/100 and actual exported PNG. Final ended100-mark110-moment document exactly matches raw replay export; camera/control limitations recorded in creation metadata.",
+    "humanRating": null
+  }
 }
 ]
