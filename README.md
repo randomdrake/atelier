@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The quiet holds eight strings
+
+[![Imagined wooden mandolin and loose music page on blue cloth](public-gallery/paintings/the-quiet-holds-eight-strings/finished.png)](https://atelier.randomdrake.com/#painting/the-quiet-holds-eight-strings)
+
+An original study in **106 animated marks**, with **29 settled whole/close review boundaries**, single-mark tests and deliberate refinement93–106. Broad overlaps join the wooden bowl and paper; a compact shoulder light leads the dark sound hole and faint eight strings. Thin notation nearly disappears over raised paint; larger loaded oil remains visible, a confounded comparison. Dark shadow elbow, raised repairs, faceted headstock, regular bristles and wash bands remain. Inspired by [the Met mandolin record](https://www.metmuseum.org/art/collection/search/500863). The ended broadcast exactly acknowledged106 marks and91 moments. Further covers obscure fittings, so the count was not padded.
+
+[Watch the mandolin study unfold →](https://atelier.randomdrake.com/#painting/the-quiet-holds-eight-strings)
+
 ### The pod lends the dark its gold
 
 [![Cacao pod, opened half and three loose beans on blue cloth](public-gallery/paintings/the-pod-lends-the-dark-its-gold/finished.png)](https://atelier.randomdrake.com/#painting/the-pod-lends-the-dark-its-gold)

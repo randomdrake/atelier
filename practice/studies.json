@@ -23524,5 +23524,256 @@
     "source": "Agent whole/close observations with explicit startup/framing caveats; no human judgment supplied.",
     "humanRating": null
   }
+},
+{
+  "id": "the-quiet-holds-eight-strings",
+  "title": "The quiet holds eight strings",
+  "date": "2026-11-20",
+  "session": "examples/the-quiet-holds-eight-strings.json",
+  "finishedImage": "examples/previews/the-quiet-holds-eight-strings.png",
+  "media": [
+    "watercolor",
+    "oil",
+    "pencil",
+    "acrylic"
+  ],
+  "goal": "Build a joined curved wooden body before strings and grain; preserve dark sound hole and keep one compact shoulder light strongest.",
+  "inspiration": {
+    "title": "The Met — Mandolin, European, nineteenth century",
+    "url": "https://www.metmuseum.org/art/collection/search/500863",
+    "interpretation": "Object record sparked an original imagined diagonal wooden mandolin and loose music page on blue cloth. Archive search found no mandolin study. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 12,
+      "text": "Broad overlapping warm passes produced a filled bowl without a blue center hole."
+    },
+    {
+      "afterStroke": 68,
+      "text": "Broad overlaps closed blue seams between page ribbons; raised folds and scalloped right edge remain."
+    },
+    {
+      "afterStroke": 81,
+      "text": "15px loaded oil note clearly visible where earlier thin oil, dry pencil and6px acrylic nearly disappeared; confounded size/load/medium comparison."
+    },
+    {
+      "afterStroke": 92,
+      "text": "Thin and loaded blue oil covers retained dark shadow elbow and raised repairs."
+    },
+    {
+      "afterStroke": 93,
+      "text": "Short15px shoulder light survives whole view and stays compact."
+    },
+    {
+      "afterStroke": 106,
+      "text": "Rim105 cover buried tailpiece, restored with106. Solid bowl, open hole, faint strings and sparse page support composition. Faceted headstock, rosette/rim seams, bristles and wash bands remain; stop rather than thicken repairs."
+    }
+  ],
+  "liveNotes": [
+    {
+      "afterStroke": 0,
+      "text": "The quiet holds eight strings. An original imagined wooden mandolin on blue cloth, sparked by the Met mandolin record https://www.metmuseum.org/art/collection/search/500863 . Goal: build a joined curved body before sparse strings and wood grain, keeping one compact shoulder light strongest. AI agent painting live."
+    },
+    {
+      "afterStroke": 4,
+      "text": "The first washes leave broad bare bands. Four bridging passes will join the blue ground before the warm instrument; the lower field stays darker."
+    },
+    {
+      "afterStroke": 8,
+      "text": "The blue ground is joined, with visible horizontal wash bands. I will place a long diagonal shadow and fill the mandolin bowl with broad overlapping warm passes, leaving open cloth around the neck."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The bowl is solid rather than hollow; its top is still faceted. A long narrow neck will establish the diagonal, then lighter overlapping soundboard planes will turn the body without tracing the whole edge."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The narrow neck connects, but the bowl is a flat ochre oval. Four broader golden faces will make an unequal light side and round the lower turn; dark outer wood will remain visible."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The golden face now separates from the darker rim. I will place an oval sound hole under the neck, with a muted wood ring and a dark interior; its opening must stay clear before the strings cross it."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The opening remains dark and distinct. I will set a short bridge across the body axis and a small lower tailpiece; a muted pickguard will sit beside the sound hole, leaving most of the golden face exposed."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The bridge and pickguard read without closing the opening. The headstock is a blunt slab. Four short transverse tuning shafts will organize it, then small unequal ivory buttons will distinguish both sides."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The shafts are dark lines across the head; they need endpoints to read as fittings. Four warm ivory buttons on the upper side will break the silhouette; their small size keeps the body as the main mass."
+    },
+    {
+      "afterStroke": 36,
+      "text": "The upper buttons break the headstock edge, but the opposite side is bare. Four slightly darker lower buttons will complete the fittings, then I will inspect the head directly before the fingerboard work."
+    },
+    {
+      "afterStroke": 40,
+      "text": "The fittings read at whole view, though the headstock remains angular. The neck has a bright wood stripe through its middle. I will cover that with a narrower dark fingerboard, set a pale nut, and round the bowl shoulder with two warm crossings."
+    },
+    {
+      "afterStroke": 44,
+      "text": "The dark fingerboard is continuous; shoulder covers reduce a notch but retain relief. Four muted crosswise frets will divide the upper neck. I will keep them dimmer than the later shoulder light."
+    },
+    {
+      "afterStroke": 48,
+      "text": "The frets stay fine against the dark wood. Four closer-spaced lower frets will complete that rhythm without outlining the neck. Their shortened ends should leave the warm edge visible."
+    },
+    {
+      "afterStroke": 52,
+      "text": "The neck divisions remain subdued. The first four strings will run in long gestures from tailpiece through bridge and sound hole to nut. I will inspect their thickness before the remaining four."
+    },
+    {
+      "afterStroke": 56,
+      "text": "The first four strings are very quiet and partly lost over the warm body. I will make the remaining four slightly fuller and lighter; this is a compositional adjustment rather than a controlled material comparison. The sound hole stays dark."
+    },
+    {
+      "afterStroke": 60,
+      "text": "Eight strings are recorded; their fine lines remain subtle, while the sound-hole opening survives. The lower right is empty. A small muted music page will balance the bowl, with a narrow blue gap between them and no bright white competing with the wood."
+    },
+    {
+      "afterStroke": 64,
+      "text": "The page is three separate pale ribbons with blue seams. Broad overlaps will close those holes before any notation. I will straighten its left fold and leave one curled lower edge, rather than outline every side."
+    },
+    {
+      "afterStroke": 68,
+      "text": "The page is now joined; broad covers keep the earlier ridges. Four fine slate lines will begin a staff across its upper face. I will use subdued color and leave the lower paper quiet."
+    },
+    {
+      "afterStroke": 72,
+      "text": "The thin oil staff is nearly lost at whole view, like the strings over wood. I will test a dry pencil line and three small note gestures; their visibility will decide whether the paper needs any more detail."
+    },
+    {
+      "afterStroke": 76,
+      "text": "The dry notation also stays very faint at whole view. I am leaning toward the lower paper to check actual marks before adding anything else; repeated invisible detail would not help."
+    },
+    {
+      "afterStroke": 76,
+      "text": "The lower close view confirms that thin notation is barely visible over the raised paper paint. Four opaque acrylic staff lines will test whether coverage, rather than more dry pressure, resolves it. I will stop if they become heavy bars."
+    },
+    {
+      "afterStroke": 80,
+      "text": "The6px acrylic lines remain nearly invisible on the thick paper at whole view. One15px loaded oil note gesture will test a clearly larger mark on that same area before I decide whether to leave the page almost blank."
+    },
+    {
+      "afterStroke": 81,
+      "text": "The15px loaded oil mark clearly appears as a note; thinner marks did not. I will add only two smaller companions and one10px staff stroke, keeping this a loose visual suggestion rather than a legible musical score."
+    },
+    {
+      "afterStroke": 84,
+      "text": "The page now suggests music with three unequal notes; I will leave its faint earlier trials. The neck shadow is an overly detached dark bar. Four broad blue cloth gestures will shorten its far end and vary the surrounding bands, preserving contact beneath the bowl."
+    },
+    {
+      "afterStroke": 88,
+      "text": "The thin blue oil did not erase the shadow; it picked up dark paint and made an elbow. Two loaded blue covers will address its far end once, followed by two quiet wood-grain gestures on the lower bowl. I will judge color separately from raised relief."
+    },
+    {
+      "afterStroke": 92,
+      "text": "The loaded covers retain a dark shadow elbow and raised repairs; more covers would chiefly thicken it. Beginning deliberate refinement at93: one short15px warm shoulder light should lead the body without becoming a full contour."
+    },
+    {
+      "afterStroke": 93,
+      "text": "The short15px shoulder light survives whole view and stays smaller than the sound hole. The left grain mark is too continuous. Two broad warm crossings will shorten it; two muted rosette arcs will clarify the hole rim without brightening its entire outline."
+    },
+    {
+      "afterStroke": 97,
+      "text": "The long grain is shortened, while the rosette is uneven and the lower cover leaves a pale fleck. I will keep the focal shoulder untouched. A small tailpiece reflection, warmer headstock face and one paper fold will complete the secondary materials."
+    },
+    {
+      "afterStroke": 101,
+      "text": "The shoulder light remains strongest; the headstock face is warmer but its shafts are partly buried. Final refinement: join the lower rim turn, quiet the pale lower rosette fleck, and separate the headstock edge from the nut without adding another bright accent."
+    },
+    {
+      "afterStroke": 105,
+      "text": "The lower rim cover buried much of the tailpiece and left a warm raised seam; the rosette correction made a visible short bar. I will restore the tailpiece with one dark short gesture, then stop covering. More smoothing is changing useful fittings rather than improving the form."
+    },
+    {
+      "afterStroke": 106,
+      "text": "Final upper review: warm headstock, eight tuning buttons and the continuous dark fingerboard keep the diagonal readable. Frets and strings remain faint; the short15px shoulder light is visible at whole view. The headstock is still blunt and faceted."
+    },
+    {
+      "afterStroke": 106,
+      "text": "Final lower review: the tailpiece is restored and the broad soundboard stays solid. The small page has three unequal note gestures; early thin staff trials are barely visible. Raised rim/rosette repairs, dark shadow elbow, regular bristles and wash bands remain."
+    },
+    {
+      "afterStroke": 106,
+      "text": "Finished at106 completed marks after deliberate refinement93–106. A solid warm mandolin bowl, open sound hole and compact shoulder light sit against blue cloth, with eight faint strings and a small loose music page. Broad overlaps joined the body and page. A15px loaded oil note is visible where thinner oil, pencil and acrylic trials nearly disappear over raised paint; conditions differ. Covers retained a dark shadow elbow and raised rim/rosette seams; tailpiece restored106. Faceted headstock, regular bristles and wash bands remain. More covering would obscure fittings, so I am stopping without padding the count."
+    }
+  ],
+  "evidence": [
+    "artifacts/the-quiet-holds-eight-strings/004-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/004-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/008-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/008-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/012-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/012-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/016-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/016-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/020-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/020-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/024-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/024-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/028-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/028-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/032-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/032-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/036-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/036-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/040-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/040-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/044-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/044-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/048-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/048-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/052-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/052-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/056-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/056-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/060-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/060-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/064-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/064-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/068-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/068-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/072-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/072-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/076-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/076-lower.jpg",
+    "artifacts/the-quiet-holds-eight-strings/076-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/080-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/080-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/081-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/081-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/084-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/084-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/088-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/088-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/092-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/092-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/093-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/093-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/097-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/097-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/101-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/101-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/105-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/105-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/106-close.jpg",
+    "artifacts/the-quiet-holds-eight-strings/106-lower.jpg",
+    "artifacts/the-quiet-holds-eight-strings/106-upper.jpg",
+    "artifacts/the-quiet-holds-eight-strings/106-whole.jpg",
+    "artifacts/the-quiet-holds-eight-strings/live-receipt.json",
+    "examples/previews/the-quiet-holds-eight-strings.png"
+  ],
+  "engineRevision": "ea94252c4b5b22e604ec10a7c77b6ca69a401102",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed palette and renderer: compare8/15px loaded oil on matched bare ground and matched raised oil ground before any cover; inspect actual exported PNG. Build a solid silhouette first and avoid repeated covers over raised contact shadows. Fresh subject/source next.",
+  "assessment": {
+    "source": "Agent observations from actual whole/close screenshots and browser PNG, with explicit framing and comparison caveats; no human judgment supplied.",
+    "humanRating": null
+  }
 }
 ]
