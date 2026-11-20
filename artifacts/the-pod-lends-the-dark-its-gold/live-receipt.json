@@ -1,0 +1,12 @@
+{
+  "status": "ended",
+  "activity": "ended",
+  "sessionId": "e30d99b7-251f-41e6-837d-e8e052988ad3",
+  "sequence": 207,
+  "startedAt": 1795201245682,
+  "receivedAt": 1795202228191,
+  "completedStrokes": 88,
+  "moments": 87,
+  "documentMatchesRawExport": true,
+  "documentSha256": "8c089a6754bc1a7e3f7a60d92017397310195684ec39826862e0050b1053b6cd"
+}

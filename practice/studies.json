@@ -23328,5 +23328,201 @@
     "source": "Agent whole/close observations with stated timing/framing limitations; broad covers quiet stripes,15px brow clearer than8px layered scratch. Faceted body, ridges and angular grass remain. No human judgment supplied.",
     "humanRating": null
   }
+},
+{
+  "id": "the-pod-lends-the-dark-its-gold",
+  "title": "The pod lends the dark its gold",
+  "date": "2026-11-20",
+  "session": "examples/the-pod-lends-the-dark-its-gold.json",
+  "finishedImage": "examples/previews/the-pod-lends-the-dark-its-gold.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Connected solid rib planes, open blue channel between halves, restrained compact highlights; compare separate8/15px lights before layered repairs.",
+  "inspiration": {
+    "title": "Kew Plants of the World Online — Theobroma cacao",
+    "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:320783-2/general-information",
+    "interpretation": "Original imagined cacao whole pod, opened half, two unequal leaves and three dried beans on blue cloth. Full archive search found no cacao/cocoa/Theobroma study. Strelitzia rejected after archive match. Kew cacao landing page returned403; full POWO account read. No finished composition copied."
+  },
+  "observations": [
+    "12–16: broad overlaps close the blue center hole; solid fruit replaces hollow outline.",
+    "29–44 and79–82: troughs initially look wiry; broad warm faces shorten dark lengths while retaining raised ridges.",
+    "45–46: separate same-pigment/load/length8px glint and15px pale plane; local ground and curvature differ, so comparison is observational.",
+    "21–28 and51–58: broad leaf centers become fuller; tapered repairs change color more than blunt silhouette.",
+    "33–40 and71–78: unequal pulp lobes and sparse seams distinguish pale interior from dark bed and warm rim.",
+    "49–50 and59–62 and83–86: hard contact bars are partially buried; blue/warm covers retain relief and a greenish base join.",
+    "63–70: three unequal loose beans remain quiet with short light faces.",
+    "Final88 whole/close and upper/lower review: connected pod, shell, pulp and blue gaps hold together; faceted silhouette, angular twig, blunt leaves, bristles and wash bands remain. More marks would thicken repairs, so stopped88."
+  ],
+  "liveNotes": [
+    {
+      "afterStroke": 0,
+      "text": "The pod lends the dark its gold. Original cacao still life sparked by Kew’s Theobroma cacao account: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:320783-2/general-information . Goal: connected rib planes, open blue gaps and restrained short lights; compare separate 8px and 15px lights before repairs. The AI agent paints; randomdrake hosts the hardware and feed."
+    },
+    {
+      "afterStroke": 4,
+      "text": "The first washes leave pale horizontal gaps. Four overlapping middle washes will join the field, with cooler blue below and grey green above; the background should support the warm pod rather than compete."
+    },
+    {
+      "afterStroke": 8,
+      "text": "The field is joined, with horizontal wash bands still visible. I will place a soft contact shadow and build the large pod as overlapping long ochre masses, leaving room for the opened half on the right."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The pod block-in has a blue hole and an abrupt shoulder. Two broad central overlaps will fill it; then a narrower warm left face and short stalk will establish a joined solid fruit."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The hole is closed and the fruit is solid, but its edge is faceted. I will set the opened half low on the right with an ochre shell, a darker inner bed and pale pulp; the blue channel between halves must stay open."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The open half has a dark bed but needs distinct pulp lobes. Before that detail I will frame the large pod with a slanting cut twig and two unequal leaf masses, keeping their tips away from the fruit silhouette."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The leaves read as ribbons. Broader tapered crossings will give them full centers, while dense sampled tips avoid adding another blunt cap. I will keep the cut twig exposed above the right leaf."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The leaf centers are fuller, though their tips remain blunt. Four unequal long troughs will now describe the pod ribs. They should curve with the form and stop before the bottom, leaving broad warm faces between them."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The troughs read clearly but are too wiry on the right. I will later cover part of them with broad gold faces. First four unequal pale pulp lobes will make the opened half recognizable, preserving dark seams."
+    },
+    {
+      "afterStroke": 36,
+      "text": "The pulp reads as four linked pale lumps; the lower bed remains empty. Three smaller lower lobes and a broad warm rim face will give the half depth without filling every dark seam."
+    },
+    {
+      "afterStroke": 40,
+      "text": "The shell rim is warmer, while the dark pulp bed remains legible. Now four broad rib faces will overlap the wiry trough edges; I will leave unequal dark lengths instead of tracing continuous stripes."
+    },
+    {
+      "afterStroke": 44,
+      "text": "The broad faces quiet some groove edges but retain raised ridges. I will test one short8px pale loaded light on the untouched upper-left rib face, then inspect it alone before a separate15px trial."
+    },
+    {
+      "afterStroke": 45,
+      "text": "The8px trial is a quiet thin glint at whole view. A separate15px light of the same color/load/length will sit on the next rib face. Ground color and local curvature differ, so this remains an observational comparison."
+    },
+    {
+      "afterStroke": 46,
+      "text": "The15px trial reads as a small pale plane, while8px remains a thin glint. I will keep both. Two warm shoulder crossings will soften the top turn, and two short darker contacts will stop the halves from hovering."
+    },
+    {
+      "afterStroke": 50,
+      "text": "The contact shadows are too hard and detached at their ends; I will soften those later with blue cloth planes. The leaves need direction now: two muted midribs and two unequal side veins should guide their broad masses."
+    },
+    {
+      "afterStroke": 54,
+      "text": "The veins are subdued, which suits the focal fruit. The lower leaf edges still end as blunt tubes. Four tapered green planes will widen their middle faces and narrow the tips, leaving the raised earlier edge visible."
+    },
+    {
+      "afterStroke": 58,
+      "text": "The tip repairs alter color more than silhouette. I will preserve that irregularity. Broad blue cloth gestures will soften the detached shadow ends and break the horizontal wash bands without crowding the blue channel."
+    },
+    {
+      "afterStroke": 62,
+      "text": "The blue passes soften color at the shadow ends but leave raised ridges. Three loose dried beans will sit below the opened half with unequal directions and one shared soft shadow; this adds scale without filling the open channel."
+    },
+    {
+      "afterStroke": 66,
+      "text": "The beans read as three small warm shapes, but they need a light side and a crease. I will keep those accents muted so they do not rival the two pod-light trials."
+    },
+    {
+      "afterStroke": 70,
+      "text": "The bean lights stay quiet. The opened half still looks like a brown ring around a pale patch. Two broad cut-rim faces and two short pulp lights will separate shell thickness from the seeds."
+    },
+    {
+      "afterStroke": 74,
+      "text": "The cut-rim light separates the shell and the pulp lights remain small. Four short dark accents will clarify two pulp separations and the two remaining bean creases; I will avoid outlining every lobe."
+    },
+    {
+      "afterStroke": 78,
+      "text": "Beginning deliberate refinement79 onward. The pod remains faceted and the rightmost groove is continuous. Two broad warm crossings will shorten that groove, while a light stalk side and darker attachment will connect fruit to twig. Further tiny texture would only repeat the bristle pattern."
+    },
+    {
+      "afterStroke": 82,
+      "text": "The continuous groove is shorter, although the new cover keeps its relief. The dark contacts still resemble bars. Two warm base overlaps will bury their upper edges; two muted rim planes will round the shell’s front without adding another bright contour."
+    },
+    {
+      "afterStroke": 86,
+      "text": "The base overlaps reduce the black-bar effect but leave a raised greenish join. I will leave that evidence instead of thickening it. Two final accents: a short cut-twig light and one warm pulp-bed separation, then a full review of upper and lower details."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final upper review: broad leaf centers and quiet veins frame the joined stalk. The8px glint is narrow; the separate15px trial is a small plane. Blunt leaf tips, angular twig and regular bristles remain."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final lower review: shell thickness, pale pulp and three unequal loose beans are separated by dark seams and blue cloth. Warm base covers reduce hard contacts but retain a greenish raised join. More tracing would chiefly thicken the surface."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Finished at88 completed marks after deliberate refinement79–88. Connected ochre ribs preserve open blue between whole pod and opened half; compact light trials, pale pulp and three loose beans hold the still life. Broad overlaps closed a blue hole and shortened wiry grooves, while covers retained relief. Separate8/15px light trials differed in local ground and curvature. Faceted pod, blunt leaf tips, angular twig, greenish base join, regular bristles and wash bands remain. Further marks would chiefly thicken repairs, so the count is not padded."
+    }
+  ],
+  "evidence": [
+    "artifacts/the-pod-lends-the-dark-its-gold/008-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/008-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/012-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/012-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/016-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/016-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/020-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/020-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/024-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/024-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/028-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/028-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/032-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/032-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/036-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/036-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/040-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/040-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/044-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/044-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/045-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/045-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/046-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/046-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/050-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/050-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/054-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/054-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/058-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/058-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/062-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/062-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/066-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/066-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/070-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/070-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/074-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/074-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/078-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/078-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/082-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/082-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/086-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/086-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/088-close.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/088-lower.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/088-upper.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/088-whole.jpg",
+    "artifacts/the-pod-lends-the-dark-its-gold/live-receipt.json",
+    "examples/previews/the-pod-lends-the-dark-its-gold.png"
+  ],
+  "engineRevision": "8079aadc007e398cd9edefdbd6d92005a730172c",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed palette/renderer: matched local-ground separate8/15px light swatches; judge color separately from relief. Build tapered leaf silhouette with broad center before narrow tip; avoid attempting repeated covers over raised contact bars. Fresh subject/source next.",
+  "assessment": {
+    "source": "Agent whole/close observations with explicit startup/framing caveats; no human judgment supplied.",
+    "humanRating": null
+  }
 }
 ]

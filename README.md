@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The pod lends the dark its gold
+
+[![Cacao pod, opened half and three loose beans on blue cloth](public-gallery/paintings/the-pod-lends-the-dark-its-gold/finished.png)](https://atelier.randomdrake.com/#painting/the-pod-lends-the-dark-its-gold)
+
+An original cacao still life in **88 animated marks**, with **23 retained settled whole/close pairs**, upper/lower reviews and deliberate refinement79–88. Broad overlaps close a hollow pod and shorten wiry grooves; pale pulp, unequal leaves and three loose beans preserve blue gaps. Separate8/15px light trials differ in local ground and curvature. Faceted edges, blunt leaves, greenish raised contact, regular bristles and wash bands remain. Inspired by [Kew’s cacao account](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:320783-2/general-information). The ended broadcast exactly acknowledged88 marks and87 moments. More covers chiefly thicken repairs, so the count was not padded.
+
+[Watch the cacao still life unfold →](https://atelier.randomdrake.com/#painting/the-pod-lends-the-dark-its-gold)
+
 ### The grass keeps a tall silence
 
 [![Original kori bustard in dry grass](public-gallery/paintings/the-grass-keeps-a-tall-silence/finished.png)](https://atelier.randomdrake.com/#painting/the-grass-keeps-a-tall-silence)
