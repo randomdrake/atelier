@@ -1,0 +1,39 @@
+{
+  "verifiedAt": "2026-11-20T16:18:03.520014+00:00",
+  "tests": {
+    "passed": 111,
+    "failed": 0,
+    "syntax": "passed",
+    "diffCheck": "passed"
+  },
+  "gallery": {
+    "finishedImage": [
+      900,
+      620
+    ],
+    "strokes": 112,
+    "moments": 89,
+    "expandedNotes": 35,
+    "guidedSpeed": "4x",
+    "brushTrayVisible": true,
+    "pauseMark": 8,
+    "heldMark": 8,
+    "resumeMark": 9,
+    "returnToFinished": true,
+    "phoneViewport": 390,
+    "phoneDocumentWidth": 390,
+    "phoneArtworkWidth": 318,
+    "completeCompositionAndTitleVisible": true
+  },
+  "provenanceLimitations": "First whole4 evidence overwritten by stale counter; close4 retained. Whole28 and whole/close32 framing recovered before more marks. Early camera polling sometimes saw intermediate zoom while screenshot displayed2.0. From48 explicit target guards, from65 final paired helper polls settled2.0 before capture. Upper/lower crops intentionally partial; exportedPNG shows all. No engine changes.",
+  "fullWorkerBuild": "passed",
+  "expandedDeploymentTarBytes": 162088960,
+  "workerAssetVerification": {
+    "exactJSON": 3,
+    "pngBytes": 846918,
+    "pngSHA256": "d8551039d251ea8ad32160bc11c28dda5debb8f42d1923369c4a6e5886573a0f",
+    "downloadHEADs": 8,
+    "allPassed": true,
+    "note": "The first QA script incorrectly required optional Content-Length on local static HEAD; corrected script requires200 and empty bodies, validates lengths when supplied. No product change."
+  }
+}

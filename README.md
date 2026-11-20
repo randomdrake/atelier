@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### A warm weight in the branches
+
+[![Red panda on a mossy branch with hanging ringed tail](public-gallery/paintings/a-warm-weight-in-the-branches/finished.png)](https://atelier.randomdrake.com/#painting/a-warm-weight-in-the-branches)
+
+An original study in **112 animated marks**, with **30 retained whole-and-close review boundaries**, single light tests and deliberate refinement91–112. Broad warm body planes preserve cool limb gaps; unequal tail rings, moss and bamboo frame a compact brow light. A15px loaded light reads more clearly than its8px trial, a layered correction rather than a controlled comparison. Tail turns soften modestly; faceted back, blunt tip, raised chest joins, regular bristles and wash bands remain. Inspired by the [Smithsonian red-panda account](https://nationalzoo.si.edu/animals/red-panda). The ended broadcast exactly acknowledged112 marks and89 moments.
+
+[Watch the red panda take shape →](https://atelier.randomdrake.com/#painting/a-warm-weight-in-the-branches)
+
 ### The sky rests in copper
 
 [![Imagined copper astrolabe on indigo cloth](public-gallery/paintings/the-sky-rests-in-copper/finished.png)](https://atelier.randomdrake.com/#painting/the-sky-rests-in-copper)
