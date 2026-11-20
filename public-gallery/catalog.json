@@ -1,5 +1,24 @@
 [
   {
+    "id": "amber-borrows-the-blue",
+    "title": "Amber borrows the blue",
+    "description": "Amber sea nettle and muted distant companion drifting through blue water.",
+    "process": "88 animated watercolor, oil and acrylic marks in adaptive 1–4-stroke batches; 25 settled whole/close review pairs, upper/lower crops, 30 live easel notes and 76 moments. Deliberate refinement77–88; ended broadcast acknowledged all88 marks. Broad crossings fill accidental holes; compact loaded oil crown light survives whole view. Heavy opacity, angular joins, small loop windows and regular bristles remain. Count not padded.",
+    "media": [
+      "watercolor",
+      "oil",
+      "acrylic"
+    ],
+    "strokes": 88,
+    "moments": 76,
+    "engine": "a45819daf732a39d",
+    "session": "/paintings/amber-borrows-the-blue/session.json",
+    "image": "/paintings/amber-borrows-the-blue/finished.png",
+    "addedAt": "2026-11-20T17:18:54.818Z",
+    "addedAtSource": "gallery-export",
+    "publishedAt": "2026-11-20"
+  },
+  {
     "id": "a-warm-weight-in-the-branches",
     "title": "A warm weight in the branches",
     "description": "An imagined red panda on a mossy branch, its ringed tail hanging into cool forest air between unequal foliage gestures.",

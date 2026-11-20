@@ -10,6 +10,15 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### Amber borrows the blue
+
+[![Amber sea nettle and a muted distant companion in blue water](public-gallery/paintings/amber-borrows-the-blue/finished.png)](https://atelier.randomdrake.com/#painting/amber-borrows-the-blue)
+
+An original study in **88 animated marks**, with **25 whole-and-close review pairs**, single light and repair tests, and deliberate refinement 77–88. A joined amber bell, unequal frilled arms and fine curved threads preserve blue gaps; a quiet companion gives scale. Broad crossings close accidental holes. The loaded oil crest reads more clearly than the acrylic trial, a layered and confounded comparison. Heavy opacity, angular joins, loop windows, raised repairs and regular bristles remain. Inspired by the [Monterey Bay Aquarium sea-nettle account](https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-nettle). The ended broadcast acknowledged all 88 marks and 76 moments. Further tracing chiefly thickened repairs, so the count was not padded.
+
+[Watch the sea nettles take shape →](https://atelier.randomdrake.com/#painting/amber-borrows-the-blue)
+
+
 ### A warm weight in the branches
 
 [![Red panda on a mossy branch with hanging ringed tail](public-gallery/paintings/a-warm-weight-in-the-branches/finished.png)](https://atelier.randomdrake.com/#painting/a-warm-weight-in-the-branches)

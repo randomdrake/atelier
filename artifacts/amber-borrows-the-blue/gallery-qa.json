@@ -1,0 +1,31 @@
+{
+  "finishedImage": {
+    "naturalWidth": 900,
+    "naturalHeight": 620,
+    "complete": true
+  },
+  "title": "Amber borrows the blue",
+  "marks": 88,
+  "moments": 76,
+  "expandedNotes": 30,
+  "replay": {
+    "speed": 4,
+    "openingNote": true,
+    "brushTray": true,
+    "pauseHeldMark": 8,
+    "resumedToMark": 10,
+    "subsequentPlaybackObservedToMark": 23,
+    "returnedToFinished": true
+  },
+  "phone": {
+    "width": 390,
+    "documentScrollWidth": 390,
+    "dialogWidth": 352,
+    "imageWidth": 318,
+    "fullTitleAndCompositionVisible": true
+  },
+  "limitations": [
+    "Local source preview does not serve live feed; feed checked separately at custom domain.",
+    "Later mouse pause/finished controls timed out during busy replay. Fresh AX state then keyboard Return on View finished restored actual PNG. No source changes required."
+  ]
+}

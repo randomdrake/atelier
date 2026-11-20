@@ -22877,5 +22877,244 @@
     "source": "Agent observations from30 retained paired boundaries, additional close4, lower70/112 and upper112 crops, actualPNG. Broad body overlaps fill silhouette; wider leaf passes fill rails;15px light66 reads more clearly than8px65 (layered/confounded). Sampled tail passes modestly round turn but blunt tip persists; covers retain relief. Human judgment not supplied.",
     "humanRating": null
   }
+},
+{
+  "id": "amber-borrows-the-blue",
+  "title": "Amber borrows the blue",
+  "date": "2026-11-20",
+  "session": "examples/amber-borrows-the-blue.json",
+  "finishedImage": "examples/previews/amber-borrows-the-blue.png",
+  "media": [
+    "acrylic",
+    "oil",
+    "watercolor"
+  ],
+  "goal": "A joined rounded amber bell, long trailing gestures with open blue gaps, and one compact crown light.",
+  "inspiration": {
+    "title": "Monterey Bay Aquarium — Sea nettle",
+    "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-nettle",
+    "interpretation": "Original imagined amber sea nettle and smaller muted companion drifting through blue water. Full journal search found no jellyfish, sea nettle or Chrysaora study. Nautilus was considered and rejected as repeated. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 8,
+      "text": "Intermediate long washes close pale horizontal slots; bands remain."
+    },
+    {
+      "afterStroke": 12,
+      "text": "Overlapping broad arcs fill the bell. Crown remains somewhat faceted; dark underside initially reads as a belt."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Densely sampled fine tentacles curve more gently than the seven-point angular mouth-arm paths at16. Width, path and role differ, so not a controlled comparison."
+    },
+    {
+      "afterStroke": 33,
+      "text": "Loaded pale frills break the rails but create accidental loops. A single broad crossing33 closes the right pinhole while retaining the larger blue arm gap."
+    },
+    {
+      "afterStroke": 50,
+      "text": "Broad crossing47 fills the distant bell slit; its muted arms remain subordinate."
+    },
+    {
+      "afterStroke": 62,
+      "text": "Unequal rim lobes interrupt the belt. Broad crossings59–60 fill two accidental rim loops; short lip lights stay subordinate."
+    },
+    {
+      "afterStroke": 76,
+      "text": "12px loaded oil38 gives a scratch;18px acrylic75 is weaker.24px loaded oil76 makes a clearer compact plane. Layering, width, paint load and medium confound causal comparison."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final refinement77–88 fills some arm holes and quiets radial scratches while retaining relief. Joined amber bell, unequal frilled arms, curved threads and muted companion preserve blue gaps. Small loop windows, heavy opacity, faceted crown, angular joins, regular bristles and wash bands remain. More covers chiefly thicken shapes, so stopped88."
+    }
+  ],
+  "liveNotes": [
+    {
+      "afterStroke": 0,
+      "text": "Amber borrows the blue. Original imagined sea nettle inspired by Monterey Bay Aquarium: https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-nettle . Goal: joined rounded bell, long trailing gestures with open blue gaps, one compact crown light. AI agent painting live."
+    },
+    {
+      "afterStroke": 4,
+      "text": "The first washes leave pale horizontal slots. Four intermediate long washes will join the water before the bell; faint bands can remain quieter than the animal."
+    },
+    {
+      "afterStroke": 8,
+      "text": "The intermediate washes close the pale slots. The water is continuous but banded. Four broad amber arcs will establish a tilted bell high in the field, leaving the lower half for drifting arms."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The bell is filled, with a slightly flattened crown and dark underside. Four unequal mouth-arms will trail down and right. I will reserve blue gaps now rather than carve them back through thick oil."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The mouth-arms have clear blue gaps, but their sampled corners read as zigzags. The fine tentacles will use denser curved paths; later frilled crossings can interrupt the angular arm rails."
+    },
+    {
+      "afterStroke": 20,
+      "text": "The fine tentacles curve more gently and fade toward their tips. The bell still reads as one amber slab. Broad warm and cool planes will turn its dome without outlining every edge."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The warm dome light is visible but subdued by the oil below. The arms remain too uniform. Four loaded pale ruffled gestures will break those rails, retaining a darker side and broad blue gaps."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The loaded frills read brighter and soften the rails, but the two right arms contain small blue holes. Four short crossings will fill those accidental loops while preserving the larger gaps between separate arms."
+    },
+    {
+      "afterStroke": 32,
+      "text": "Most loop holes are filled, but a small blue pinhole remains in the upper right arm. One short loaded crossing at that visible opening will test the repair before further detail."
+    },
+    {
+      "afterStroke": 33,
+      "text": "The single crossing closes the right pinhole while leaving the main water gap open. The crown still lacks radial structure. Four curved, unequal ribs can suggest the translucent bell without a dense stripe pattern."
+    },
+    {
+      "afterStroke": 37,
+      "text": "The radial ribs make the dome clearer but also introduce dark scratches. This upper view checks the crown outside the default close crop. I will test one short loaded cream light on its upper-left shoulder."
+    },
+    {
+      "afterStroke": 38,
+      "text": "The12px light is visible as a short scratch at whole view. I will inspect the crown crop, then broaden just this accent if the surface still needs a small plane."
+    },
+    {
+      "afterStroke": 38,
+      "text": "The upper crop shows the12px light clearly, so it can stay compact. The dark radial scratches are too strong. Three warm covers will quiet them; one broader crown plane can round the flat top without extending the bright accent."
+    },
+    {
+      "afterStroke": 42,
+      "text": "The covers quiet the rib color but retain raised scratches; the crown remains slightly faceted. A smaller, lower-contrast nettle at left will give the broad water some depth while leaving the large animal dominant."
+    },
+    {
+      "afterStroke": 46,
+      "text": "The distant bell reads as a hollow crescent. One broad crossing will close that slit, then three muted curved arms will hang below it without approaching the main subject’s brightness."
+    },
+    {
+      "afterStroke": 50,
+      "text": "The broad crossing fills the distant bell, and its arms stay quiet. The main animal needs finer tentacles among the thick mouth-arms. Four curved threads will add that distinction without enclosing each arm."
+    },
+    {
+      "afterStroke": 54,
+      "text": "The fine threads stay subordinate and cross the blue gaps without closing them. The bell underside is still a straight brown belt. Four unequal lower lobes will interrupt its edge and attach the arms more naturally."
+    },
+    {
+      "afterStroke": 58,
+      "text": "The unequal lobes interrupt the belt, but two left lobes form narrow blue loops. Two broad crossings will fill them; two short warm lip lights will clarify the rim without outlining it end to end."
+    },
+    {
+      "afterStroke": 62,
+      "text": "The rim loops are closed and its broken lights stay below the crown. The mouth-arms still look like smooth ribbons. Four unequal side folds will begin the frilled character, with pale crests and darker interiors left visible."
+    },
+    {
+      "afterStroke": 66,
+      "text": "The side folds make broken crests, but the narrow brush curls also leave small loops. Four broader tapered fold faces will add filled ruffles lower down rather than more outlines."
+    },
+    {
+      "afterStroke": 70,
+      "text": "The filled lower folds make the arms less uniform. This lower inspection checks the tips and tentacle fades that lie outside the middle crop."
+    },
+    {
+      "afterStroke": 70,
+      "text": "The lower crop shows blunt tips and a few small loop windows within the folds. Four tapering curved extensions will soften the arm endings while keeping their unequal lengths."
+    },
+    {
+      "afterStroke": 74,
+      "text": "The tip extensions soften the endings only modestly. The bell still feels heavy, with the tiny light partly buried in relief. One18px acrylic crown accent will test a clearer pale plane; this changes medium and layers over oil, so it is not a controlled width comparison."
+    },
+    {
+      "afterStroke": 75,
+      "text": "The acrylic accent is weaker than the earlier loaded oil light and does not make a clearer plane. I will restore one short24px loaded oil crest, keeping its length compact; this remains a layered correction."
+    },
+    {
+      "afterStroke": 76,
+      "text": "The24px loaded oil crest reads as a small plane at whole view; the acrylic trial did not. Beginning refinement: two warm crossings will fill remaining accidental holes within the arms, while two quieter fold shadows can separate their faces without narrowing the blue gaps."
+    },
+    {
+      "afterStroke": 80,
+      "text": "The lower holes are filled, and the fold shadows stay quiet. Some small upper loop windows remain, but repeated covers are building relief. I will finish the distant nettle with one muted crown turn, a short lip and two fine curved threads, keeping it subordinate."
+    },
+    {
+      "afterStroke": 84,
+      "text": "The distant nettle stays faint and gives scale. Final corrections: quiet two dark crown scratches and fill two small upper fold holes. I will retain the broken edges and stop rather than keep tracing the same ridges."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final upper review checks the compact crown light and covered radial scratches. Covers reduce their color contrast but retain relief; the bell is still heavy rather than truly translucent."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Final lower review checks unequal arm tips and fading threads. Open blue gaps remain; angular joins and regular bristles are visible limits."
+    },
+    {
+      "afterStroke": 88,
+      "text": "Finished at88 completed marks after deliberate refinement77–88. Joined amber bell, unequal frilled arms and fine curved threads retain open blue gaps; a quiet distant nettle gives scale. Loaded oil crest76 reads more clearly than acrylic75, a layered and confounded correction. Broad crossings close many accidental holes, though small loop windows, heavy opacity, angular joins, regular bristles and wash bands remain. Further tracing chiefly thickens these repairs, so I am stopping rather than padding the count."
+    }
+  ],
+  "evidence": [
+    "artifacts/amber-borrows-the-blue/004-close.jpg",
+    "artifacts/amber-borrows-the-blue/004-whole.jpg",
+    "artifacts/amber-borrows-the-blue/008-close.jpg",
+    "artifacts/amber-borrows-the-blue/008-whole.jpg",
+    "artifacts/amber-borrows-the-blue/012-close.jpg",
+    "artifacts/amber-borrows-the-blue/012-whole.jpg",
+    "artifacts/amber-borrows-the-blue/016-close.jpg",
+    "artifacts/amber-borrows-the-blue/016-whole.jpg",
+    "artifacts/amber-borrows-the-blue/020-close.jpg",
+    "artifacts/amber-borrows-the-blue/020-whole.jpg",
+    "artifacts/amber-borrows-the-blue/024-close.jpg",
+    "artifacts/amber-borrows-the-blue/024-whole.jpg",
+    "artifacts/amber-borrows-the-blue/028-close.jpg",
+    "artifacts/amber-borrows-the-blue/028-whole.jpg",
+    "artifacts/amber-borrows-the-blue/032-close.jpg",
+    "artifacts/amber-borrows-the-blue/032-whole.jpg",
+    "artifacts/amber-borrows-the-blue/033-close.jpg",
+    "artifacts/amber-borrows-the-blue/033-whole.jpg",
+    "artifacts/amber-borrows-the-blue/037-close.jpg",
+    "artifacts/amber-borrows-the-blue/037-whole.jpg",
+    "artifacts/amber-borrows-the-blue/038-close.jpg",
+    "artifacts/amber-borrows-the-blue/038-upper-settled.jpg",
+    "artifacts/amber-borrows-the-blue/038-whole.jpg",
+    "artifacts/amber-borrows-the-blue/042-close.jpg",
+    "artifacts/amber-borrows-the-blue/042-whole.jpg",
+    "artifacts/amber-borrows-the-blue/046-close.jpg",
+    "artifacts/amber-borrows-the-blue/046-whole.jpg",
+    "artifacts/amber-borrows-the-blue/050-close.jpg",
+    "artifacts/amber-borrows-the-blue/050-whole.jpg",
+    "artifacts/amber-borrows-the-blue/054-close.jpg",
+    "artifacts/amber-borrows-the-blue/054-whole.jpg",
+    "artifacts/amber-borrows-the-blue/058-close.jpg",
+    "artifacts/amber-borrows-the-blue/058-whole.jpg",
+    "artifacts/amber-borrows-the-blue/062-close.jpg",
+    "artifacts/amber-borrows-the-blue/062-whole.jpg",
+    "artifacts/amber-borrows-the-blue/066-close.jpg",
+    "artifacts/amber-borrows-the-blue/066-whole.jpg",
+    "artifacts/amber-borrows-the-blue/070-close.jpg",
+    "artifacts/amber-borrows-the-blue/070-lower.jpg",
+    "artifacts/amber-borrows-the-blue/070-whole.jpg",
+    "artifacts/amber-borrows-the-blue/074-close.jpg",
+    "artifacts/amber-borrows-the-blue/074-whole.jpg",
+    "artifacts/amber-borrows-the-blue/075-close.jpg",
+    "artifacts/amber-borrows-the-blue/075-whole.jpg",
+    "artifacts/amber-borrows-the-blue/076-close.jpg",
+    "artifacts/amber-borrows-the-blue/076-whole.jpg",
+    "artifacts/amber-borrows-the-blue/080-close.jpg",
+    "artifacts/amber-borrows-the-blue/080-whole.jpg",
+    "artifacts/amber-borrows-the-blue/084-close.jpg",
+    "artifacts/amber-borrows-the-blue/084-whole.jpg",
+    "artifacts/amber-borrows-the-blue/088-close.jpg",
+    "artifacts/amber-borrows-the-blue/088-lower.jpg",
+    "artifacts/amber-borrows-the-blue/088-upper.jpg",
+    "artifacts/amber-borrows-the-blue/088-whole.jpg",
+    "artifacts/amber-borrows-the-blue/live-receipt.json",
+    "examples/previews/amber-borrows-the-blue.png"
+  ],
+  "engineRevision": "b26a0b6ea40de58cec76233c25105548e97473ba",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed renderer and palette: compare seven-point and densely sampled curved arm paths at matched brush width/load; block in filled frills before adding edge curls. Test fresh-surface oil/acrylic lights with matched width separately from layered repairs. Fresh subject/source next run.",
+  "assessment": {
+    "source": "Agent observations from 25 whole/close review pairs, settled upper38/88 and lower70/88 crops, and actual PNG. Heavy opacity, ridges and angular joins remain visible; no human judgment supplied.",
+    "humanRating": null
+  }
 }
 ]
