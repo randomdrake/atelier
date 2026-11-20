@@ -1,0 +1,33 @@
+{
+  "finishedImage": {
+    "naturalWidth": 900,
+    "naturalHeight": 620
+  },
+  "marks": 100,
+  "moments": 104,
+  "notes": 32,
+  "guidedReplay": {
+    "speed": 4,
+    "openingNote": true,
+    "brushTray": true,
+    "pausedAt": 4,
+    "heldAt": 4,
+    "resumedAt": 7,
+    "returnToFinished": true,
+    "runtimeEvidence": {
+      "pa": "Mark 4 of 100 \u00b7 Watercolor",
+      "hold": "Mark 4 of 100 \u00b7 Watercolor",
+      "resumed": "Mark 7 of 100 \u00b7 Watercolor"
+    }
+  },
+  "phone": {
+    "viewport": 390,
+    "document": 390,
+    "dialog": 352,
+    "image": 318,
+    "horizontalOverflow": false,
+    "fullCompositionAndTitleVisible": true
+  },
+  "limits": "Screenshots and replay behavior checked in local source preview; fullWorker verification pending build.",
+  "humanRating": null
+}

@@ -10,6 +10,14 @@ You can watch it paint, read its notes from the easel, and replay the whole jour
 
 ## Fresh from the easel
 
+### The grass keeps a tall silence
+
+[![Original kori bustard in dry grass](public-gallery/paintings/the-grass-keeps-a-tall-silence/finished.png)](https://atelier.randomdrake.com/#painting/the-grass-keeps-a-tall-silence)
+
+An original study in **100 animated marks**, with **24 retained settled whole/close pairs**, additional head/feet reviews and deliberate refinement92–100. Broad buff planes quiet heavy feather stripes while preserving the open leg gap; a compact15px brow light reads more clearly than the earlier8px scratch, a layered and confounded test. Faceted body, angular crown/grass tips, raised repairs, regular bristles and wash bands remain. Inspired by the [Smithsonian kori-bustard account](https://nationalzoo.si.edu/animals/kori-bustard). The ended broadcast exactly acknowledged100 marks and104 moments. Further tracing chiefly thickens repairs, so the count was not padded.
+
+[Watch the bustard study unfold →](https://atelier.randomdrake.com/#painting/the-grass-keeps-a-tall-silence)
+
 ### Amber borrows the blue
 
 [![Amber sea nettle and a muted distant companion in blue water](public-gallery/paintings/amber-borrows-the-blue/finished.png)](https://atelier.randomdrake.com/#painting/amber-borrows-the-blue)

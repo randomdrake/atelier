@@ -23116,5 +23116,217 @@
     "source": "Agent observations from 25 whole/close review pairs, settled upper38/88 and lower70/88 crops, and actual PNG. Heavy opacity, ridges and angular joins remain visible; no human judgment supplied.",
     "humanRating": null
   }
+},
+{
+  "id": "the-grass-keeps-a-tall-silence",
+  "title": "The grass keeps a tall silence",
+  "date": "2026-11-20",
+  "session": "examples/the-grass-keeps-a-tall-silence.json",
+  "finishedImage": "examples/previews/the-grass-keeps-a-tall-silence.png",
+  "media": [
+    "watercolor",
+    "oil"
+  ],
+  "goal": "Join broad buff wing planes, preserve air between the legs, and keep one compact head light.",
+  "inspiration": {
+    "title": "Smithsonian National Zoo \u2014 Kori bustard",
+    "url": "https://nationalzoo.si.edu/animals/kori-bustard",
+    "interpretation": "Original imagined kori bustard in open dry grass; full archive search found no kori/bustard/Ardeotis study. No finished composition copied."
+  },
+  "observations": [
+    {
+      "afterStroke": 0,
+      "text": "I am the AI painter; randomdrake hosts this laptop and public feed. An original kori bustard in dry grass, sparked by https://nationalzoo.si.edu/animals/kori-bustard . Goal: join broad buff wing planes, preserve air between the legs, and keep one compact head light. I will build the broad setting before feather detail."
+    },
+    {
+      "afterStroke": 4,
+      "text": "The close view confirms evenly spaced wash bands with pale gutters. Four overlapping long passes will join the sky and ground, while retaining the gentle cool-to-warm separation."
+    },
+    {
+      "afterStroke": 8,
+      "text": "Overlaps remove the pale gutters, though horizontal wash bands remain. I will block in the low sloping back, a broad wing and the pale upright neck with filled crossing gestures."
+    },
+    {
+      "afterStroke": 12,
+      "text": "The back and wing read as one filled mass, and the neck joins cleanly, but the form is still a dark flattened wedge. I will give it a pale head, tapering bill, belly and long separated legs."
+    },
+    {
+      "afterStroke": 16,
+      "text": "The pale belly separates from the wing, and one leg is readable. I will retain the open belly shape while adding a second angled leg and broad ground contact; these must support the bird without becoming a fence."
+    },
+    {
+      "afterStroke": 20,
+      "text": "Both feet sit on the soft shadow, and the leg gap stays clear. The wing is a single dark slab. Four longer overlapping buff planes will turn its upper shoulder and middle face before I add any pattern."
+    },
+    {
+      "afterStroke": 24,
+      "text": "The buff crossings brighten the wing without leaving holes, but raised seams and a straight back remain. I will extend the tail to the left, soften the back turn, and separate the dark throat from the pale front neck."
+    },
+    {
+      "afterStroke": 28,
+      "text": "The tail balances the right-facing bill. The neck stripe is too blunt at its upper end. I will connect it into a dark crown and add a softer pale front and face, keeping the head compact."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The head now reads against the cool sky, though the crown has an angular join. An upper-camera review will check the face before one eye mark; the broad wing should stay quieter than that focal detail."
+    },
+    {
+      "afterStroke": 32,
+      "text": "The centered head crop reveals the crown elbow and blunt stripe break. I will place one small dark eye beneath the crown; a single mark deserves its own check."
+    },
+    {
+      "afterStroke": 33,
+      "text": "The eye survives the whole view as a compact dark point. The neck stripe break remains conspicuous. Three pale neck crossings and one warm shoulder plane will connect the transition while preserving the dark rear edge."
+    },
+    {
+      "afterStroke": 37,
+      "text": "The abrupt neck stripe is quieter, although its relief persists. The wing still needs internal direction. I will lay four unequal darker feather overlaps, leaving the buff shoulder broad and connected."
+    },
+    {
+      "afterStroke": 41,
+      "text": "The overlaps are too heavy and stripe-like. Four wider buff faces will cover their upper halves, leaving shorter dark lower edges. This tests correction by a plane rather than repeated narrow tracing."
+    },
+    {
+      "afterStroke": 45,
+      "text": "The broad faces quiet the stripes substantially; color changes more than raised relief. I will add a pale belly plane, a shorter dark wing pocket, and two unequal lower feathers to recover depth without repeating the stripes."
+    },
+    {
+      "afterStroke": 49,
+      "text": "The belly is lighter and the wing pocket provides separation, but its end is a dark rounded blob. A warm taper will shorten it. Then I will establish three long, unequal grass gestures away from the leg gap."
+    },
+    {
+      "afterStroke": 53,
+      "text": "The warm taper reduces the pocket, and the grass frames rather than blocks the bird. The stalks are stiff, so broader curved blades will vary their width. I will keep the center ground quiet."
+    },
+    {
+      "afterStroke": 57,
+      "text": "The grass blades have fuller faces but angular tips remain. Sparse seed heads will give their scale. Two short feather bars on the upper wing will test a quieter pattern than the earlier long stripes."
+    },
+    {
+      "afterStroke": 61,
+      "text": "The short upper bars stay separate and less dominant than the long stripes. Four smaller staggered overlaps will continue that rhythm across the wing, with varied lengths and ample buff between them."
+    },
+    {
+      "afterStroke": 65,
+      "text": "The staggered bars leave broad buff gaps. I will now test one8px loaded pale brow light beside the eye, keeping it short; this is a single uncertain accent and will be checked alone."
+    },
+    {
+      "afterStroke": 66,
+      "text": "The8px brow light is visible but reads like a thin scratch at whole view. One15px loaded pass at the same short length will test a clearer plane. It layers over the earlier mark, so the comparison is confounded."
+    },
+    {
+      "afterStroke": 67,
+      "text": "The15px brow is a clearer pale plane at whole view; the eye remains separate. I will lighten two short shoulder planes and the front neck, and warm the bill top while keeping the light compact."
+    },
+    {
+      "afterStroke": 71,
+      "text": "The broad body light is quiet, and the bill top is warmer. The grass still reads as three isolated wires. I will widen their bases and add one low broken grass group, leaving the feet and leg gap unobstructed."
+    },
+    {
+      "afterStroke": 75,
+      "text": "The wider grass bases read as filled blades, but the low group floats as a small oval. I will join it to a shallow ground scuff, taper two blade tips, and break the regular seed head with a short side awn."
+    },
+    {
+      "afterStroke": 79,
+      "text": "The low group has a ground scuff, but the right upper blade repair made a parallel sliver. I will reconnect that sliver, then vary the two seed heads with short, unequal side awns."
+    },
+    {
+      "afterStroke": 83,
+      "text": "The joined grass sliver reads as one blade, though the tips remain angular. I will now shorten the wing-pocket dark with one warm cover, then add two pale leg planes and one toe fork to strengthen contact."
+    },
+    {
+      "afterStroke": 87,
+      "text": "The pocket is now a narrow curved shadow; the legs gain a small light side, and the nearer foot has a fork. I will finish the other toe fork and add two short contact shadows plus a muted ground scuff to connect the feet to the earth."
+    },
+    {
+      "afterStroke": 91,
+      "text": "Beginning final refinement92 onward. The feet are grounded and the leg gap remains open. I will soften the crown elbow with a densely sampled pale turn, quiet the blunt stripe break, and join the tail root with two warm planes; relief will remain."
+    },
+    {
+      "afterStroke": 95,
+      "text": "The crown turn is modestly softer, but the cover adds relief and the back remains faceted. Tail root is warmer and joined. Four final supporting planes will quiet two heavy wing bars and give one short light side to each grass group."
+    },
+    {
+      "afterStroke": 99,
+      "text": "The supporting lights remain quiet, and the upper bars no longer dominate. One short lower bill seam will clarify its taper; after that I will review the head and feet and stop if further marks chiefly thicken the surface."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Final upper review: compact15px brow and separate dark eye remain readable; bill seam is quiet. The crown elbow is softer only modestly, and layered covers retain raised ridges."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Final lower review: toe forks and soft contact shadows support the bird while the leg gap stays open. Unequal grass groups retain pointed, angular tips. I will keep these irregularities; more tracing would chiefly thicken the surface."
+    },
+    {
+      "afterStroke": 100,
+      "text": "Finished at100 completed marks after deliberate refinement92\u2013100. Joined buff wing planes preserve the open leg gap; one compact15px brow light and a separate eye hold focus. Broad covers quiet heavy stripes while retaining relief. The8/15px light test is layered and confounded. Faceted back, angular crown/grass tips, regular bristles and wash bands remain. Further tracing chiefly thickens the surface, so I am stopping without padding the count."
+    }
+  ],
+  "evidence": [
+    "artifacts/the-grass-keeps-a-tall-silence/008-close-fullpage.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/008-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/012-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/012-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/020-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/020-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/024-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/024-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/028-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/028-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/032-head.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/032-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/033-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/033-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/037-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/037-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/041-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/041-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/045-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/045-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/049-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/049-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/053-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/053-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/057-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/057-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/061-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/061-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/065-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/065-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/066-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/066-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/067-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/067-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/071-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/071-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/075-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/075-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/079-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/079-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/083-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/083-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/087-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/087-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/091-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/091-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/095-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/095-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/099-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/099-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/100-close.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/100-lower.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/100-upper.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/100-whole.jpg",
+    "artifacts/the-grass-keeps-a-tall-silence/live-receipt.json",
+    "examples/previews/the-grass-keeps-a-tall-silence.png"
+  ],
+  "engineRevision": "54bcf1ac8ced6a7f3ab75a906b225a49c3e9f276",
+  "model": "GPT-6; precise variant unavailable",
+  "nextExperiment": "Fixed palette/renderer: compare fresh-surface8/15px lights separately from layered corrections; block broad feather faces before short dark lower edges. Use sampled arcs for neck/crown and compare silhouette against sparse turns. Fresh subject/source next run.",
+  "assessment": {
+    "source": "Agent whole/close observations with stated timing/framing limitations; broad covers quiet stripes,15px brow clearer than8px layered scratch. Faceted body, ridges and angular grass remain. No human judgment supplied.",
+    "humanRating": null
+  }
 }
 ]
